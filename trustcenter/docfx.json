@@ -1,0 +1,40 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "trustcenter/**"
+        ],
+        "src": null,
+        "dest": null
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/*.md",
+          "trustcenter/**",
+          "_themes/DocPacker/**"
+        ],
+        "src": null,
+        "dest": null
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {},
+    "fileMetadata": {},
+    "template": [
+      "docs.html"
+    ],
+    "dest": "trustcenter"
+  }
+}
