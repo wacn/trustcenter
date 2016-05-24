@@ -52,7 +52,7 @@ layout: TrustCenterPage
          </div>
          <div id="" class="row-fluid grid-container mscom-grid-container subpageBody noBottomBorder" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
-               <p>由世纪互联运营的 Microsoft Azure和Office 365 服务是在中国大陆独立运营的公有云平台，由<span style="color:#1570a6">北京世纪互联宽带数据中心有限公司</span>的全资子公司上海蓝云网络科技有限公司（简称为“上海蓝云”）独立运营和销售。采用与微软服务于全球的 Azure 和Office 365技术，为客户提供全球一致的服务质量保障。
+               <p> 由世纪互联运营的 Microsoft Azure和Office 365 服务是在中国大陆独立运营的公有云平台，由<span style="color:#1570a6">北京世纪互联宽带数据中心有限公司</span>的全资子公司上海蓝云网络科技有限公司（简称为“上海蓝云”）独立运营和销售。采用与微软服务于全球的 Azure 和Office 365技术，为客户提供全球一致的服务质量保障。
                </p>
                <p>为帮助客户遵守国家、地区以及特定行业管理个人数据采集和使用的要求，世纪互联作为云服务提供商提供全面的的认证和证明。</p>
                <p>要实现全面的合规性，世纪互联采用了双管齐下的办法：</p>
