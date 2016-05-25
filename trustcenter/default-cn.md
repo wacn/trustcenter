@@ -135,7 +135,7 @@ layout: TrustCenterPage
                <p>由世纪互联运营的 Microsoft Azure 和Office 365服务是在中国大陆独立运营的公有云平台，由北京世纪互联宽带数据中心有限公司的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的Azure和Office 365技术，为客户提供全球一致的服务质量保障。</p>
                <br/>
                <p>作为由世纪互联运营的 Microsoft Azure 和 Office 365 的客户，可获得以下服务：</p>
-               <ul style="padding-lef:40px">
+               <ul style="padding-left:40px">
                     <li style="list-style-type:disc">在中国大陆数据中心托管且由世纪互联独立运营的云服务。世纪互联是中国领先的互联网数据中心提供商。</li>
                     <li style="list-style-type:disc">源于微软应用于全球企业客户数十年的丰富在线服务经验而开发的世界一流的Azure和Office 365技术，全面服务于中国的客户。</li>
                </ul>
