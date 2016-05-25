@@ -26,7 +26,7 @@ layout: TrustCenterPage
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
                                              合规
-                                             <p>[待翻译]The most comprehensive set of compliance certifications and attestations</p>
+                                             <p>提供最全面的的认证和证明</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -52,8 +52,8 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             [待翻译]Service Trust Portal
-                                             <p>[待翻译]Access independent audit reports of our cloud services and security best practices</p>
+                                             服务信任门户
+                                             <p>查阅有关我们云服务的独立审计报告和安全最佳实践</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -79,8 +79,8 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             [待翻译]Control over your data
-                                             <p>[待翻译]You know where your data is stored and how it is used</p>
+                                            控制您的数据
+                                             <p>您知道自己的数据存储在何处以及如何使用</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -107,7 +107,7 @@ layout: TrustCenterPage
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
                                              安全
-                                             <p>[待翻译]We help keep your customer data secure with state-of-the-art technology</p>
+                                             <p>我们通过顶尖技术确保您客户数据的安全</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
