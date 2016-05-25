@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPage
+layout: TrustCenterPageCN
 ---
 <div class="row-fluid">
    <div class="span">
