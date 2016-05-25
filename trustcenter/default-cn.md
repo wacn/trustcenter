@@ -214,7 +214,7 @@ layout: TrustCenterPage
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Security.png?version=fdb6c778-5a41-999a-97f8-6ee4f663846e" class="mscom-image" alt="Image of Padlock | Security" width="74" height="74" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Security.png" class="mscom-image" alt="Image of Padlock | Security" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>安全性</h3>
                         <p>我们保证您的客户数据的安全</p>
@@ -224,7 +224,7 @@ layout: TrustCenterPage
                </div>
                <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Privacy.png?version=911bcee3-a444-4ceb-39c3-0b44cf1c4643" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>隐私保护</h3>
                         <p>您拥有并控制自己的客户数据</p>
@@ -234,7 +234,7 @@ layout: TrustCenterPage
                </div>
                <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Compliance.png?version=d7c519fd-1b17-9778-7cf7-356f26edf7e5" class="mscom-image" alt="Image of Checklist | Compliance" width="74" height="74" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Compliance.png" class="mscom-image" alt="Image of Checklist | Compliance" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>合规性</h3>
                         <p>我们的服务符合国际/国内标准</p>
@@ -244,7 +244,7 @@ layout: TrustCenterPage
                </div>
                <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Transparency.png?version=3614f4fd-d3a6-b2a9-a2a8-3af9fdb45bb2" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Transparency.png" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>透明度</h3>
                         <p>您知道如何存储和访问您的客户数据，并知道我们如何保护客户数据</p>
