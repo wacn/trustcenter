@@ -255,7 +255,7 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div class="row-fluid whatsNew wider" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="https://c.s-microsoft.com/en-us/CMSImages/group-people.jpg?version=4e0749fd-a9c9-2546-0da3-09ea49878089" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
+            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img style="margin: 13px;" src="https://c.s-microsoft.com/en-us/CMSImages/group-people.jpg?version=4e0749fd-a9c9-2546-0da3-09ea49878089" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear right" style="margin-bottom: 3%;">
                <h1>最新消息</h1>
                <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="https://blogs.microsoft.com/eupolicy/2016/04/11/microsofts-commitments-including-dpa-cooperation-under-the-eu-u-s-privacy-shield/">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a>
@@ -273,7 +273,7 @@ layout: TrustCenterPageCN
                <h2>了解更多</h2>
                <span class="withTail"><a target="_blank" class="mscom-link" href="http://download.microsoft.com/download/D/5/E/D5E0E59E-B8BC-4D08-B222-8BE36B233508/Securing_Microsoft_Cloud_Strategy_Brief_.pdf">Securing the Microsoft Cloud</a><span class="tail"> (2.9 MB, PDF)</span></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://download.microsoft.com/download/2/0/A/20A1529E-65CB-4266-8651-1B57B0E42DAA/Protecting-Data-and-Privacy-in-the-Cloud.pdf">Protecting Data and Privacy in the Cloud</a><span class="tail"> (364 KB, PDF)</span></span><br /><a target="_blank" class="mscom-link" href="https://www.microsoft.com/en-us/server-cloud/trusted-cloud.aspx">Microsoft Trusted Cloud</a><br />
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear" style="margin-bottom: 4%;margin-bottom: 2%;">
                <h2>更多资源</h2>
                <a target="_blank" class="mscom-link" href="http://go.microsoft.com/fwlink/p/?linkid=131004&amp;clcid=0x409">Microsoft Online Services Privacy Statement</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://download.microsoft.com/download/1/6/0/160216AA-8445-480B-B60F-5C8EC8067FCA/WindowsAzure-SecurityPrivacyCompliance.pdf">The Trusted Cloud: Microsoft Azure Security, Privacy, and Compliance</a><span class="tail"> (1.7 MB, PDF)</span></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://download.microsoft.com/download/C/A/B/CAB1F9BF-1C3F-41DB-8994-5B0EA35DD846/Intune_Privacy_and_Data_Protection_Overview.pdf">Microsoft Intune Privacy and Data Protection Overview</a><span class="tail"> (736 KB, PDF)</span></span><br /><a target="_blank" class="mscom-link" href="https://blogs.office.com/2015/09/15/announcing-the-office-365-service-trust-portal/">Office 365 Service Trust Portal</a><br />
             </div>
