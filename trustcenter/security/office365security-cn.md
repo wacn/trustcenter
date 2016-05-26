@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPage
+layout: TrustCenterPageCN
 ---
 <style  type="text/css">
 .subpageBody>div:first-of-type label{ font-size:24px; line-height:2em;}
