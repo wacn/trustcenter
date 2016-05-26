@@ -209,6 +209,7 @@ layout: TrustCenterPageCN
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure Dynamics Office AR" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="SLA" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image Azure CN" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
                   <div class="row-fluid certImageGray" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
@@ -216,6 +217,7 @@ layout: TrustCenterPageCN
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure CN" alt="China TRUCS" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
                   <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -241,33 +243,56 @@ layout: TrustCenterPageCN
                   <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="ComplianceContent">
                      <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
-                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="cdsa">
+                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="ISO27001">
                               <img src="../Images/ISO27001.png" class="mscom-image" alt="ISO27001" width="24" height="24" />
-                              <h1>ISO27001</h1>
-                              <p>更新中…… </p>
-                              <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
+                              <h1>ISO/IEC 27001</h1>
+                               <p>
+                              <span class="seperate">ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和Office 365已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。</span>
+                              <span class="withTail">
+                              <a target="_blank" class="mscom-link" href="#" style="display: block;">了解更多</a>
+                              <span class="tail"> (Chinese)</span>
+                              </span>
+                              </p>
                            </div>
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
-                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="chinagb">
-                              <img src="../Images/SLA.png" class="mscom-image" alt="SLA" width="24" height="24" />
-                              <h1>SLA</h1>
-                              <p>更新中……</p>
-                              <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
+                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="SLA">
+                              <img src="../Images/SLA.png" class="mscom-image" alt="SLA" width="24" height="24"/>
+                              <h1>信息系统安全等级保护定级</h1>
+                              <p>
+                              <span class="seperate">公安部授权的测评机构对由世纪互联运营的 Microsoft Azure和Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。</span>
+                              <span class="withTail">
+                              <a target="_blank" class="mscom-link" href="#" style="display: block;">了解更多</a>
+                              <span class="tail"> (Chinese)</span>
+                              </span>
+                              </p>
                            </div>
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
-                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="chniamlps">
+                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="TrustCloudAuth">
                               <img src="../Images/TrustCloudAuth.png" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
-                              <h1>TrustCloudAuth</h1>
-                              <p>更新中……</p>
-                              <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
+                              <h1>可信云服务认证</h1>
+                               <p>
+                              <span class="seperate">世纪互联采用 Azure 和Office 365领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</span>
+                              <span class="withTail">
+                              <a target="_blank" class="mscom-link" href="http://www.windowsazure.cn/support/trust-center/compliance" style="display: block;">了解更多</a>
+                              <span class="tail"> (Chinese)</span>
+                              </span>
+                              </p>
                            </div>
-                            <!--       <span class="seperate">Microsoft Azure operated by 21Vianet adheres to Multi-Level Protection Scheme, a Chinese state cloud security standard issued by the Ministry of Public Security.</span>
-                              <span class="withTail"><a target="_blank" class="mscom-link" href="http://www.windowsazure.cn/support/trust-center/compliance" style="display: block;">Learn more</a><span class="tail"> (Chinese)</span>
-                              </span> -->
-                            <!--      <span class="seperate">Microsoft Azure is certified by the China Electronics Standardization Institute as compliant with GB 18030, the encoding standard mandated by the Chinese government for the Chinese ideographic character set. </span><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.windowsazure.cn/support/trust-center/compliance" style="display: block;">Learn more</a><span class="tail"> (Chinese)</span></span>
-                             --> 
+                        </div>
+                        <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="GB-18030">
+                              <img src="../Images/GB-18030.png" class="mscom-image" alt="GB-18030" width="24" height="24" />
+                              <h1>GB 18030</h1>
+                               <p>
+                              <span class="seperate">GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的Microsoft Azure 和Office 365经中国电子技术标准化研究所认证符合该标准的强制性部分。</span>
+                              <span class="withTail">
+                              <a target="_blank" class="mscom-link" href="#" style="display: block;">了解更多</a>
+                              <span class="tail"> (Chinese)</span>
+                              </span>
+                              </p>
+                           </div>
                         </div>
                      </div>
                   </div>
