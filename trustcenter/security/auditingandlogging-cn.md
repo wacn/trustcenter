@@ -7,6 +7,7 @@ layout: TrustCenterPageCN
 .CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
 .a.withArrow{ font-size:12px;}
 .a.withArrow img{vertical-align:bottom;}
+a.withArrow img{vertical-align:bottom;}
 </style>
 <div class="row-fluid">
    <div class="span">
@@ -84,7 +85,6 @@ layout: TrustCenterPageCN
                         <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                      </p>
                  </div>
-               
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">

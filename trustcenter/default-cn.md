@@ -155,7 +155,7 @@ layout: TrustCenterPageCN
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
-               <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS-Azure-Title.jpg?version=9ab94844-46b5-5f16-3d32-594cf9d6431b" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
+               <div class="image-wrapper"><img src="Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
                <p>Azure为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
@@ -168,7 +168,7 @@ layout: TrustCenterPageCN
                </p>
             </div>
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
-                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Ofc365_rgb_Orng166.png?version=8cb78da7-1559-29e2-f7cc-b4dd79f440b3" class="mscom-image title1Adjustment" alt="Office 365 Title" width="126" height="28" /></div>
+                <div class="image-wrapper"><img src="Images/Office365_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Office 365 Title" width="126" height="28" /></div>
                 <p>
                     Office 365结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供安全的基于云的生产力体验。
                     <a target="_self" class="mscom-link withArrow" href="/en-us/TrustCenter/CloudServices/Office-365"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
@@ -258,9 +258,9 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="https://c.s-microsoft.com/en-us/CMSImages/group-people.jpg?version=4e0749fd-a9c9-2546-0da3-09ea49878089" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear right">
                <h1>最新消息</h1>
-               <p><a target="_blank" class="mscom-link" href="https://blogs.microsoft.com/eupolicy/2016/04/11/microsofts-commitments-including-dpa-cooperation-under-the-eu-u-s-privacy-shield/">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a> 4月28-30日，在中共中央网络安全和信息化领导小组办公室、公安部、工业和信息化部、国家保密局、国家密码管理局等上级单位指导下，由北京市公安局主办的第三届“4.29首都网络安全日”暨网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际公有云服务，微软与世纪互联受邀并积极参与此次活动，也验证了监管部门和业界对双方创新合作模式的认可与肯定。
+               <p style="font-size: 14px;"><a target="_blank" class="mscom-link" href="https://blogs.microsoft.com/eupolicy/2016/04/11/microsofts-commitments-including-dpa-cooperation-under-the-eu-u-s-privacy-shield/">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a> 4月28-30日，在中共中央网络安全和信息化领导小组办公室、公安部、工业和信息化部、国家保密局、国家密码管理局等上级单位指导下，由北京市公安局主办的第三届“4.29首都网络安全日”暨网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际公有云服务，微软与世纪互联受邀并积极参与此次活动，也验证了监管部门和业界对双方创新合作模式的认可与肯定。
                </p>
-               <p><a target="_blank" class="mscom-link" href="https://azure.microsoft.com/en-us/blog/microsoft-first-global-csp-to-receive-the-cloud-security-mark-gold-accreditation/">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> 在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
+               <p style="font-size: 14px;"><a target="_blank" class="mscom-link" href="https://azure.microsoft.com/en-us/blog/microsoft-first-global-csp-to-receive-the-cloud-security-mark-gold-accreditation/">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> 在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
                </p>
                <a target="_self" class="mscom-link withArrowRight" href="https://www.microsoft.com/en-us/TrustCenter/Whats-New/default.aspx">更多
                <img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To What's New' " width="21" height="19" /></a>

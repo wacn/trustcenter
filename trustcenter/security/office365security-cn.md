@@ -7,6 +7,7 @@ layout: TrustCenterPageCN
 .CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
 .a.withArrow{ font-size:12px;}
 .a.withArrow img{vertical-align:bottom;}
+a.withArrow img{vertical-align:bottom;}
 </style>
 <div class="row-fluid">
    <div class="span">
@@ -101,7 +102,6 @@ layout: TrustCenterPageCN
                <p><a target="_self" class="mscom-link withArrow" href="http://www.21vbluecloud.com/office365/trustcenter/onlineservices.html">Office 365 信任中心所支持的服务</a></p>
                <p><a target="_self" class="mscom-link withArrow" href="http://www.21vbluecloud.com/smarket/download.html?type=4&tag=5">《由世纪互联运营的Windows Azure 和 Office 365 云服务运营模式》</a></p>
               </div> 
-              
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">

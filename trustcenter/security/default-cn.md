@@ -7,6 +7,7 @@ layout: TrustCenterPageCN
 .CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
 .a.withArrow{ font-size:12px;}
 .a.withArrow img{vertical-align:bottom;}
+a.withArrow img{vertical-align:bottom;}
 </style>
 <div class="row-fluid">
    <div class="span">
