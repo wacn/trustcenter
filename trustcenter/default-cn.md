@@ -157,7 +157,7 @@ layout: TrustCenterPageCN
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                <div class="image-wrapper"><img src="Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="28" /></div>
                <p>Azure为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
-                  <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
+                  <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
             <!--隐藏-->
@@ -171,7 +171,7 @@ layout: TrustCenterPageCN
                 <div class="image-wrapper"><img src="Images/Office365_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Office 365 Title" width="300" height="28" /></div>
                 <p>
                     Office 365结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供安全的基于云的生产力体验。
-                    <a target="_self" class="mscom-link withArrow" href="/en-us/TrustCenter/CloudServices/Office-365"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
+                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
                 </p>
             </div>
             <!--隐藏-->
@@ -218,7 +218,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>安全性</h3>
                         <p>我们保证您的客户数据的安全</p>
-                        <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Security/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../security/default-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -228,7 +228,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>隐私保护</h3>
                         <p>您拥有并控制自己的客户数据</p>
-                        <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../privacy/default-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -238,7 +238,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>合规性</h3>
                         <p>我们的服务符合国际/国内标准</p>
-                        <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../compliance/default-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -248,7 +248,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>透明度</h3>
                         <p>您知道如何存储和访问您的客户数据，并知道我们如何保护客户数据</p>
-                        <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Transparency/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../transparency/default-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>

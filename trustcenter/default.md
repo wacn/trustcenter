@@ -162,7 +162,7 @@ layout: TrustCenterPage
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                <div class="image-wrapper"><img src="../Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
                <p>Azure safeguards customer and enterprise data in the cloud with the security, privacy, control, compliance, and transparency they require.
-                  <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
+                  <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden;">
@@ -174,7 +174,7 @@ layout: TrustCenterPage
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
                <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a secure cloud-based productivity experience. 
-                  <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics-AX"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
+                  <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="visibility: hidden;">
@@ -219,7 +219,7 @@ layout: TrustCenterPage
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Secure</h3>
                         <p>We keep your Customer Data safe</p>
-                        <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Security/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../security/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -229,7 +229,7 @@ layout: TrustCenterPage
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Private</h3>
                         <p>You own and control your Customer Data</p>
-                        <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../privacy/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -239,7 +239,7 @@ layout: TrustCenterPage
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Compliant</h3>
                         <p>Our services are in line with global /domestic standards</p>
-                        <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../compliance/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -249,7 +249,7 @@ layout: TrustCenterPage
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Transparent</h3>
                         <p>You know how your Customer Data is stored and accessed, and how we help secure it</p>
-                        <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Transparency/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../transparency/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
