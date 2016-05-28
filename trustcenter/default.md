@@ -9,34 +9,7 @@ layout: TrustCenterPage
                <br />
                <div bi:type="slideshow" class="slideshow slideshow-hero hero" xmlns:bi="urn:schemas-microsoft-com:mscom:bi">
                   <ul bi:type="list" class="slides">
-                     <li id="slide-1" bi:index="0" selectBi="">
-                        <div class="heroitem light-foreground" bi:type="heroitem">
-                           <div class="media" bi:parenttitle="t1">
-                              <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
-                                 <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Compliance.jpg"></div>
-                                    <noscript></noscript>
-                                 </div>
-                              </a>
-                           </div>
-                           <div class="text" bi:type="cta">
-                              <div class="text-container">
-                                 <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
-                                    <ul bi:type="list" class="headerCaption">
-                                       <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             Compliance
-                                             <p>The most comprehensive set of compliance certifications and attestations</p>
-                                          </h3>
-                                       </li>
-                                       <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
-                                    </ul>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li id="slide-2" bi:index="1" selectBi="" style="display:none;">
+                     <li id="slide-1" bi:index="0" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
                               <a href="https://www.microsoft.com/en-us/TrustCenter/STP/default.aspx" bi:track="False" bi:titleflag="t1" bi:index="1">
@@ -54,6 +27,33 @@ layout: TrustCenterPage
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
                                              Service Trust Portal
                                              <p>Access independent audit reports of our cloud services and security best practices</p>
+                                          </h3>
+                                       </li>
+                                       <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li id="slide-2" bi:index="1" selectBi="">
+                        <div class="heroitem light-foreground" bi:type="heroitem">
+                           <div class="media" bi:parenttitle="t1">
+                              <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
+                                 <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
+                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Compliance.jpg"></div>
+                                    <noscript></noscript>
+                                 </div>
+                              </a>
+                           </div>
+                           <div class="text" bi:type="cta">
+                              <div class="text-container">
+                                 <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
+                                    <ul bi:type="list" class="headerCaption">
+                                       <li class="box-title">
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
+                                             Compliance
+                                             <p>The most comprehensive set of compliance certifications and attestations</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -184,7 +184,7 @@ layout: TrustCenterPage
                </p>
             </div>
          </div>
-         <div class="row-fluid grid-container mscom-grid-container" id="Services2" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4" style="visibility: hidden;">
+         <div class="row-fluid grid-container mscom-grid-container" id="Services2" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4" style="display: none;">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS-Intune-Title.jpg?version=4d332418-1c8e-e22a-a85a-988668fb5ff2" class="mscom-image title3Adjustment" alt="Microsoft Intune Title" width="150" height="23" /></div>
                <p>Manage Windows, Android, iOS, and OS X devices more securely

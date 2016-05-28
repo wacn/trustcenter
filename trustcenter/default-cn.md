@@ -9,34 +9,7 @@ layout: TrustCenterPageCN
                <br />
                <div bi:type="slideshow" class="slideshow slideshow-hero hero" xmlns:bi="urn:schemas-microsoft-com:mscom:bi">
                   <ul bi:type="list" class="slides">
-                     <li id="slide-1" bi:index="0" selectBi="">
-                        <div class="heroitem light-foreground" bi:type="heroitem">
-                           <div class="media" bi:parenttitle="t1">
-                              <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
-                                 <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Compliance.jpg"></div>
-                                    <noscript></noscript>
-                                 </div>
-                              </a>
-                           </div>
-                           <div class="text" bi:type="cta">
-                              <div class="text-container">
-                                 <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
-                                    <ul bi:type="list" class="headerCaption">
-                                       <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             合规
-                                             <p>提供最全面的的认证和证明</p>
-                                          </h3>
-                                       </li>
-                                       <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
-                                    </ul>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </li>
-                     <li id="slide-2" bi:index="1" selectBi="" style="display:none;">
+                  <li id="slide-1" bi:index="0" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
                               <a href="https://www.microsoft.com/en-us/TrustCenter/STP/default.aspx" bi:track="False" bi:titleflag="t1" bi:index="1">
@@ -54,6 +27,33 @@ layout: TrustCenterPageCN
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
                                              服务信任门户
                                              <p>查阅有关我们云服务的独立审计报告和安全最佳实践</p>
+                                          </h3>
+                                       </li>
+                                       <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
+                                    </ul>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li id="slide-2" bi:index="1" selectBi="">
+                        <div class="heroitem light-foreground" bi:type="heroitem">
+                           <div class="media" bi:parenttitle="t1">
+                              <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
+                                 <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
+                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Compliance.jpg"></div>
+                                    <noscript></noscript>
+                                 </div>
+                              </a>
+                           </div>
+                           <div class="text" bi:type="cta">
+                              <div class="text-container">
+                                 <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
+                                    <ul bi:type="list" class="headerCaption">
+                                       <li class="box-title">
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
+                                             合规
+                                             <p>提供最全面的的认证和证明</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
