@@ -132,43 +132,59 @@ layout: TrustCenterPage
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <br />
-               <p>When you entrust your data to the Microsoft Cloud, you will have questions. Where is it? Who can access it? What is Microsoft
-                  doing to protect it? How can you verify that Microsoft is doing what it says?
+               <p>Microsoft Azure and Office 365 operated by 21Vianet are separate instances of cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure and Office 365 technology that powers Microsoft's global cloud service with comparable service levels to customers. 
                </p>
-               <p>And we have answers. Because it’s your data, you decide who has access, and you work with us to decide where it is located.
-                  To safeguard your data, we use state-of-the art security technology and world-class cryptography. Our compliance is independently
-                  audited, and we’re transparent on many levels—from how we handle legal demands for your customer data to the security
-                  of our code. 
+               <br/>
+               <p>As a customer of Microsoft Azure and Office 365 operated by 21Vianet, you get:</p>
+               <ul style="padding-left:40px">
+                    <li style="list-style-type:disc">A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.</li>
+                    <li style="list-style-type:disc">Powered by world-class Azure and Office 365 technology built on Microsoft's extensive experience with online services and used by enterprise customers around the world. </li>
+               </ul>
+               <br/>
+               <p>When you entrust your Customer Data to Microsoft Azure and Office 365 operated by 21Vianet, you will have questions. Who can access it? Where is it? What is 21Vianet doing to protect it? How can you verify that 21Vianet is doing what it says?
                </p>
+               <p>And 21Vianet have answers. Because it’s your Customer Data, you decide who has access, and you work with us to decide where it is located. To safeguard your Customer Data, 21Vianet uses Microsoft’s state-of-the art security technology and implements world-class cryptography. Our compliance is independently audited, and we’re transparent on many levels—from where your own Customer Data is stored to how it is used.</p>
+               <p>21Vianet recognizes that as an Azure and Office 365 customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security,  privacy and control, compliance and transparency.</p>
+               <br/>
+               <p><h2 style="color:rgb(0,115,198)">Trusted Cloud Services</h2></p>
+               <p>Microsoft Azure and Office 365 operated by 21Vianet provide enterprises with an open platform that provide the flexibility and security they need to develop innovative solutions and achieve real-time data insights, empower workforce productivity and mobility, and deliver a personalized customer experience. </p>
+               <br />
+               <p><h2 style="color:rgb(0,115,198)">Shared Responsibility</h2></p>
+               <p>
+                  In China, customers who use cloud services are subject to many different laws and regulations that may vary from location to location and industry to industry. To help our customers comply with their own requirements, we operate our services with common privacy and security requirements in mind. However, it is ultimately up to our customers to evaluate our offerings against their own requirements, so they can determine if the services we operate satisfy their regulatory needs. We are committed to providing our customers with detailed information about Azure and Office 365 services to help them make their own regulatory assessments. 
+                </p>
+                <p>
+                A trusted cloud platform like Azure and Azure and Office 365 requires shared responsibility between the customer and the service provider. 21Vianet is responsible for the platform and services based on technology licensed to 21Vianet by Microsoft and seeks to provide a cloud service that can meet the security, privacy, compliance and transparency needs of our customers. Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.
+                </p>
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
-               <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS-Azure-Title.jpg?version=9ab94844-46b5-5f16-3d32-594cf9d6431b" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
-               <p>Safeguards customer and enterprise data in the cloud
+               <div class="image-wrapper"><img src="../Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
+               <p>Azure safeguards customer and enterprise data in the cloud with the security, privacy, control, compliance, and transparency they require.
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden;">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Microsoft-Commercial-Support.png?version=c6b174ce-21e8-6a22-da22-b5b5dd523d39" class="mscom-image title3Adjustment adjusted" alt="Microsoft Commercial Support Title" width="199" height="45" /></div>
                <p>Tech expertise, accelerated support, and strategic advice
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
-               <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
-               <p><strong>Dynamics AX</strong> accelerates business with trusted cloud ERP services
+               <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
+               <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a secure cloud-based productivity experience. 
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics-AX"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="visibility: hidden;">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
                <p><strong>Dynamics CRM Online</strong> enables more secure customer engagement
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
                </p>
             </div>
          </div>
-         <div class="row-fluid grid-container mscom-grid-container" id="Services2" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
+         <div class="row-fluid grid-container mscom-grid-container" id="Services2" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4" style="visibility: hidden;">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS-Intune-Title.jpg?version=4d332418-1c8e-e22a-a85a-988668fb5ff2" class="mscom-image title3Adjustment" alt="Microsoft Intune Title" width="150" height="23" /></div>
                <p>Manage Windows, Android, iOS, and OS X devices more securely
@@ -199,40 +215,40 @@ layout: TrustCenterPage
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Security.png?version=fdb6c778-5a41-999a-97f8-6ee4f663846e" class="mscom-image" alt="Image of Padlock | Security" width="74" height="74" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Security.png" class="mscom-image" alt="Image of Padlock | Security" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Secure</h3>
-                        <p>Features to help keep your data safe</p>
+                        <p>We keep your Customer Data safe</p>
                         <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Security/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
                <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Privacy.png?version=911bcee3-a444-4ceb-39c3-0b44cf1c4643" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Private</h3>
-                        <p>You own and control your data</p>
+                        <p>You own and control your Customer Data</p>
                         <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
                <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Compliance.png?version=d7c519fd-1b17-9778-7cf7-356f26edf7e5" class="mscom-image" alt="Image of Checklist | Compliance" width="74" height="74" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Compliance.png" class="mscom-image" alt="Image of Checklist | Compliance" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Compliant</h3>
-                        <p>We conform to global standards</p>
+                        <p>Our services are in line with global /domestic standards</p>
                         <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
                <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Transparency.png?version=3614f4fd-d3a6-b2a9-a2a8-3af9fdb45bb2" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
+                     <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Transparency.png" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Transparent</h3>
-                        <p>You have visibility into our practices</p>
+                        <p>You know how your Customer Data is stored and accessed, and how we help secure it</p>
                         <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Transparency/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
                      </div>
                   </div>
@@ -256,11 +272,11 @@ layout: TrustCenterPage
          <div class="row-fluid grid-container mscom-grid-container" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                <h2>Learn more</h2>
-               <span class="withTail"><a target="_blank" class="mscom-link" href="http://download.microsoft.com/download/D/5/E/D5E0E59E-B8BC-4D08-B222-8BE36B233508/Securing_Microsoft_Cloud_Strategy_Brief_.pdf">Securing the Microsoft Cloud</a><span class="tail"> (2.9 MB, PDF)</span></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://download.microsoft.com/download/2/0/A/20A1529E-65CB-4266-8651-1B57B0E42DAA/Protecting-Data-and-Privacy-in-the-Cloud.pdf">Protecting Data and Privacy in the Cloud</a><span class="tail"> (364 KB, PDF)</span></span><br /><a target="_blank" class="mscom-link" href="https://www.microsoft.com/en-us/server-cloud/trusted-cloud.aspx">Microsoft Trusted Cloud</a><br />
+               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">How 21Vianet Operates Microsoft Azure and Office 365 in China </a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Learn how to Protect Data and Privacy in the Cloud</a>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear">
                <h2>Resources</h2>
-               <a target="_blank" class="mscom-link" href="http://go.microsoft.com/fwlink/p/?linkid=131004&amp;clcid=0x409">Microsoft Online Services Privacy Statement</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://download.microsoft.com/download/1/6/0/160216AA-8445-480B-B60F-5C8EC8067FCA/WindowsAzure-SecurityPrivacyCompliance.pdf">The Trusted Cloud: Microsoft Azure Security, Privacy, and Compliance</a><span class="tail"> (1.7 MB, PDF)</span></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://download.microsoft.com/download/C/A/B/CAB1F9BF-1C3F-41DB-8994-5B0EA35DD846/Intune_Privacy_and_Data_Protection_Overview.pdf">Microsoft Intune Privacy and Data Protection Overview</a><span class="tail"> (736 KB, PDF)</span></span><br /><a target="_blank" class="mscom-link" href="https://blogs.office.com/2015/09/15/announcing-the-office-365-service-trust-portal/">Office 365 Service Trust Portal</a><br />
+               <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Privacy Statement for Microsoft Azure Operated by 21Vianet</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></span><br />
             </div>
          </div>
       </div>
