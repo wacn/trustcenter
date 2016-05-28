@@ -160,7 +160,7 @@ layout: TrustCenterPage
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
-               <div class="image-wrapper"><img src="../Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
+               <div class="image-wrapper"><img src="../Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
                <p>Azure safeguards customer and enterprise data in the cloud with the security, privacy, control, compliance, and transparency they require.
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
@@ -172,7 +172,7 @@ layout: TrustCenterPage
                </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
-               <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
+               <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a secure cloud-based productivity experience. 
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics-AX"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                </p>
