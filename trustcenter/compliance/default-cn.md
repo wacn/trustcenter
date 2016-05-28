@@ -246,7 +246,7 @@ layout: TrustCenterPageCN
                               <span class="seperate">ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和Office 365已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#" style="display: block;">了解更多</a>
-                              <span class="tail"> (Chinese)</span>
+                              <!--<span class="tail"> (Chinese)</span>-->
                               </span>
                               </p>
                            </div>
@@ -259,7 +259,6 @@ layout: TrustCenterPageCN
                               <span class="seperate">公安部授权的测评机构对由世纪互联运营的 Microsoft Azure和Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#" style="display: block;">了解更多</a>
-                              <span class="tail"> (Chinese)</span>
                               </span>
                               </p>
                            </div>
@@ -272,7 +271,6 @@ layout: TrustCenterPageCN
                               <span class="seperate">世纪互联采用 Azure 和Office 365领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="http://www.windowsazure.cn/support/trust-center/compliance" style="display: block;">了解更多</a>
-                              <span class="tail"> (Chinese)</span>
                               </span>
                               </p>
                            </div>
@@ -285,7 +283,6 @@ layout: TrustCenterPageCN
                               <span class="seperate">GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的Microsoft Azure 和Office 365经中国电子技术标准化研究所认证符合该标准的强制性部分。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#" style="display: block;">了解更多</a>
-                              <span class="tail"> (Chinese)</span>
                               </span>
                               </p>
                            </div>
