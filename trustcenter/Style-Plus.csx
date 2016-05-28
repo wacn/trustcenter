@@ -7,4 +7,4 @@ a.withArrow img{vertical-align:bottom;}
 .subpageBody>div:nth-of-type(2) a.withArrow img{vertical-align: bottom;}
 div.whatsNewBody>div>div.row-fluid>div>div.row-fluid label.date{ font-size:14px}
 div.whatsNewBody>div>div.row-fluid>div>div.row-fluid label a{font-size:24px; line-height:2em; }
-i{font-style:normal;color: red; }
+i .color_red{font-style:normal;color: red; }

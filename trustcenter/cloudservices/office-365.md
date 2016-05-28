@@ -124,7 +124,7 @@ layout: TrustCenterPageCN
                     <p>Moving to a cloud service shouldn’t mean losing knowledge of what’s going on. With Office 365, it doesn’t. We aim to be transparent in our operations so you can monitor the state of your service, track issues, and have historical view of availability.</p>
                     <p>The high availability of the services comes from years of experience in running online services. Based on Microsoft licensed technologies, the services combine robust recovery-oriented design by Microsoft, continuous learning, and consistent communication to deliver high quality and a great customer experience.</p>
                     <label class="subhead">Data location and access</label>
-                    <p><i>We maintain multiple copies of your Customer Data, across the Office 365 operated by 21Vianet datacenters, for redundancy and will share with you where your Customer Data is located. </i> We tell you who has access to your Customer Data and under what circumstances.</p>
+                    <p><i class="color_red">We maintain multiple copies of your Customer Data, across the Office 365 operated by 21Vianet datacenters, for redundancy and will share with you where your Customer Data is located. </i> We tell you who has access to your Customer Data and under what circumstances.</p>
                     <label class="subhead">Support with a human face</label>
                     <ul>
                         <li>You have phone support for critical issues 24 hours a day, 365 days a year.</li>

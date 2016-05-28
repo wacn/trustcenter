@@ -161,7 +161,7 @@ layout: TrustCenterPageCN
                </p>
             </div>
             <!--隐藏-->
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear"  style="display: none !important">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear"  style="visibility: hidden;">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Microsoft-Commercial-Support.png?version=c6b174ce-21e8-6a22-da22-b5b5dd523d39" class="mscom-image title3Adjustment adjusted" alt="Microsoft Commercial Support Title" width="199" height="45" /></div>
                <p>Tech expertise, accelerated support, and strategic advice
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
@@ -175,7 +175,7 @@ layout: TrustCenterPageCN
                 </p>
             </div>
             <!--隐藏-->
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear"  style="display: none !important">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear"  style="visibility: hidden;">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
                <p><strong>Dynamics CRM Online</strong> enables more secure customer engagement
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
@@ -261,8 +261,8 @@ layout: TrustCenterPageCN
                <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="https://blogs.microsoft.com/eupolicy/2016/04/11/microsofts-commitments-including-dpa-cooperation-under-the-eu-u-s-privacy-shield/">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a>
                </p>
                <p style="font-size: 14px;"> 4月28-30日，在中共中央网络安全和信息化领导小组办公室、公安部、工业和信息化部、国家保密局、国家密码管理局等上级单位指导下，由北京市公安局主办的第三届“4.29首都网络安全日”暨网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际公有云服务，微软与世纪互联受邀并积极参与此次活动，也验证了监管部门和业界对双方创新合作模式的认可与肯定。</p>
-               <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="https://azure.microsoft.com/en-us/blog/microsoft-first-global-csp-to-receive-the-cloud-security-mark-gold-accreditation/">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> </p>
-               <p style="font-size: 14px;">在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
+               <p style="font-size: 16px;display:none"><a target="_blank" class="mscom-link" href="https://azure.microsoft.com/en-us/blog/microsoft-first-global-csp-to-receive-the-cloud-security-mark-gold-accreditation/">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> </p>
+               <p style="font-size: 14px;display:none">在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
                </p>
                <a target="_self" class="mscom-link withArrowRight" href="https://www.microsoft.com/en-us/TrustCenter/Whats-New/default.aspx">更多
                <img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To What's New' " width="21" height="19" /></a>

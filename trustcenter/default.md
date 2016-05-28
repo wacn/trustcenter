@@ -262,7 +262,7 @@ layout: TrustCenterPage
                <p><a target="_blank" class="mscom-link" href="https://blogs.microsoft.com/eupolicy/2016/04/11/microsofts-commitments-including-dpa-cooperation-under-the-eu-u-s-privacy-shield/">Microsoft pledges to sign up for the EU-U.S. Privacy Shield.</a> John Frank, Microsoft VP EU Government Affairs, explains the company’s pledge to sign up and make new commitments
                   to advance privacy.
                </p>
-               <p><a target="_blank" class="mscom-link" href="https://azure.microsoft.com/en-us/blog/microsoft-first-global-csp-to-receive-the-cloud-security-mark-gold-accreditation/">Microsoft is the first global CSP to receive the CS Mark (Gold) accreditation.</a> In Japan, the Cloud Service Mark is the first security standard for CSPs, and is based on ISO/IEC 27017,
+               <p style="display:none"><a target="_blank" class="mscom-link" href="https://azure.microsoft.com/en-us/blog/microsoft-first-global-csp-to-receive-the-cloud-security-mark-gold-accreditation/">Microsoft is the first global CSP to receive the CS Mark (Gold) accreditation.</a> In Japan, the Cloud Service Mark is the first security standard for CSPs, and is based on ISO/IEC 27017,
                   the international code of practice for information security controls.
                </p>
                <a target="_self" class="mscom-link withArrowRight" href="https://www.microsoft.com/en-us/TrustCenter/Whats-New/default.aspx">More
