@@ -12,9 +12,9 @@ layout: TrustCenterPage
                      <li id="slide-1" bi:index="0" selectBi="">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx" bi:track="False" bi:titleflag="t1" bi:index="0">
+                              <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Homepage_Header_Compliance.jpg?version=89273cdd-d8b4-83b7-6499-592ec6e9aafc"></div>
+                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Compliance.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -41,7 +41,7 @@ layout: TrustCenterPage
                            <div class="media" bi:parenttitle="t1">
                               <a href="https://www.microsoft.com/en-us/TrustCenter/STP/default.aspx" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Homepage_Header_STP_2.jpg?version=748c0130-9976-48be-3a47-8400e976118a"></div>
+                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_STP_2.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -66,9 +66,9 @@ layout: TrustCenterPage
                      <li id="slide-3" bi:index="2" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-are-in-control-of-your-data" bi:track="False" bi:titleflag="t1" bi:index="2">
+                              <a href="../privacy/you-are-in-control-of-your-data-cn.html" bi:track="False" bi:titleflag="t1" bi:index="2">
                                  <div data-picture="" data-alt="Control over your data" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Homepage_Header_Control.jpg?version=c1064174-39f1-2e30-c254-ac4331f3bd91"></div>
+                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Control.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -93,9 +93,9 @@ layout: TrustCenterPage
                      <li id="slide-4" bi:index="3" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="https://www.microsoft.com/en-us/TrustCenter/Security/default.aspx" bi:track="False" bi:titleflag="t1" bi:index="3">
+                              <a href="../security/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="3">
                                  <div data-picture="" data-alt="Security" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Homepage_Header_Security.jpg?version=d72c05e4-bae3-beea-23bd-fb6d8f038640"></div>
+                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Security.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
