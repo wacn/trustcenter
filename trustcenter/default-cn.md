@@ -258,7 +258,7 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="https://c.s-microsoft.com/en-us/CMSImages/group-people.jpg?version=4e0749fd-a9c9-2546-0da3-09ea49878089" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear right" style="margin-bottom: 3%;">
                <h1>最新消息</h1>
-               <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="../what-is-new/new1-cn.html">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a>
+               <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="../what-is-new/new2-cn.html">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a>
                </p>
                <p style="font-size: 14px;"> 4月28-30日，在中共中央网络安全和信息化领导小组办公室、公安部、工业和信息化部、国家保密局、国家密码管理局等上级单位指导下，由北京市公安局主办的第三届“4.29首都网络安全日”暨网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际公有云服务，微软与世纪互联受邀并积极参与此次活动，也验证了监管部门和业界对双方创新合作模式的认可与肯定。</p>
                <p style="font-size: 16px;display:none"><a target="_blank" class="mscom-link" href="../what-is-new/new2-cn.html">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> </p>
