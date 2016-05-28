@@ -1,14 +1,6 @@
 ---
 layout: TrustCenterPageCN
 ---
-<style  type="text/css">
-.subpageBody>div:first-of-type label{ font-size:24px; line-height:2em;}
-.subpageBody>div:nth-of-type(2) h1{ font-size:24px;} 
-.CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
-.a.withArrow{ font-size:12px;}
-.a.withArrow img{vertical-align:bottom;}
-a.withArrow img{vertical-align:bottom;}
-</style>
 <div class="row-fluid">
    <div class="span">
       <div>
@@ -53,8 +45,8 @@ a.withArrow img{vertical-align:bottom;}
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="/trustcenter/default-cn.html">首页</a> // 
-               <a target="_self" class="mscom-link" href="/trustcenter-security-default-cn">安全性</a> // Office 365 安全性
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
+               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // Office 365 安全性
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -105,8 +97,8 @@ a.withArrow img{vertical-align:bottom;}
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>有用的信息</h1>
-                     <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
+                     <h1>更多信息</h1>
+                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/TrustCenter/">Office 365信任中心</a></label><br/>
                   </div>
                </div>
             </div>

@@ -1,14 +1,6 @@
 ---
 layout: TrustCenterPageCN
 ---
-<style  type="text/css">
-.subpageBody>div:first-of-type label{ font-size:24px; line-height:2em;}
-.subpageBody>div:nth-of-type(2) h1{ font-size:24px;} 
-.CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
-.a.withArrow{ font-size:12px;}
-.a.withArrow img{vertical-align:bottom;}
-a.withArrow img{vertical-align:bottom;}
-</style>
 <div class="row-fluid">
    <div class="span">
       <div>
@@ -53,8 +45,8 @@ a.withArrow img{vertical-align:bottom;}
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="/trustcenter/default-cn.html">首页</a> // 
-               <a target="_self" class="mscom-link" href="/trustcenter-security-default-cn">安全性</a> // 设计和安全运营
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
+               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // 设计和安全运营
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -64,15 +56,15 @@ a.withArrow img{vertical-align:bottom;}
                <p><strong>安全开发生命周期 (SDL) </strong>是必须遵循的软件开发流程，旨在降低Azure 和 Office 365 中漏洞的数量和严重性。自 2004 年起，SDL 就将对安全的需求嵌入整个软件开发生命周期中。随着技术逐步发展，犯罪手段越来越复杂，SDL流程 也日趋完善。过去十多年来，Azure 和 Office 365 的安全性有了大幅提升，部分程度上这也要归功于对安全开发生命周期的重视。<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
                 <p><strong>安全管理流程 </strong>通过降低预防、检测、响应实际存在的和潜在的互联网安全威胁所需的时间，来增强由世纪互联运营的 Microsoft Azure 和 Office 365 服务防范攻击的能力。这一流程确保了所有运营活动遵循严格的安全指南，同时这些指南也能得到验证。在发现问题后，可以通过反馈环路确保未来修订后的安全管理流程能够对类似的问题加以缓解。<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
                 <p><strong>假定违反策略 </strong>进一步加固了 Azure 和 Office 365 服务，使其技术领先于不断出现的威胁。这种方法通过假设攻击者已经成功利用漏洞或获得了特权访问，来改变设计、开发和运营的基本前提。由安全专家组成的专属“红色小组”会在网络、平台，以及应用程序层面模拟现实世界的攻击，借此对 Azure 检测和防范安全入侵，以及从入侵中恢复的能力提出挑战。<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
-                <p><strong>现场事件响应。 </strong>世纪互联配备了全天候事件响应团队，帮助消除攻击和恶意活动的威胁。我们的事件响应团队时刻保持警惕，以识别、调查、解决自身软件的安全事件和安全漏洞。检测安全事件会调动技术团队和沟通团队，技术团队和沟通团队在此过程中通力协作，由技术团队对问题展开详细调查并制定解决方案，由沟通团队为客户制定指南。<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
-                <p><strong>反数字化犯罪小组 </strong>汇集了专注于打击网络犯罪活动（例如通过僵尸网络发起的互联网攻击）的专家。<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
-                <p><strong>世纪互联安全响应团队 </strong>由有经验的安全专家领导，负责提供安全响应，与安全社区展开协作，提高客户的安全性，推进安全领域的技术创新，提供权威的安全指导。<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
+                <p><strong>现场事件响应。 </strong>世纪互联配备了全天候事件响应团队，帮助消除攻击和恶意活动的威胁。我们的事件响应团队时刻保持警惕，以识别、调查、解决自身软件的安全事件和安全漏洞。检测安全事件会调动技术团队和沟通团队，技术团队和沟通团队在此过程中通力协作，由技术团队对问题展开详细调查并制定解决方案，由沟通团队为客户制定指南。</p>
+                <p><strong>反数字化犯罪小组 </strong>汇集了专注于打击网络犯罪活动（例如通过僵尸网络发起的互联网攻击）的专家。</p>
+                <p><strong>世纪互联安全响应团队 </strong>由有经验的安全专家领导，负责提供安全响应，与安全社区展开协作，提高客户的安全性，推进安全领域的技术创新，提供权威的安全指导。</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>有用的信息</h1>
-                     <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
+                     <h1>更多信息</h1>
+                     <label><a target="_self" class="mscom-link" href="../security/designopsecurity-cn">操作安全性在线服务概述</a></label><br/>
                   </div>
                </div>
             </div>

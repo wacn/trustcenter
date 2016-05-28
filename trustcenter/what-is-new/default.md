@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPageCN
+layout: TrustCenterPage
 ---
 <div class="row-fluid">
    <div class="span">
@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">最新新闻</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">What's news</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -45,7 +45,7 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/default.aspx">首页</a> // 最新新闻</div>
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> //  What's news</div>
          </div>
          <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container whatsNewBody wider">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
@@ -53,8 +53,8 @@ layout: TrustCenterPageCN
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                           <label class="date">2016年5月26日</label><br /><label><a target="_blank" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/Shared Documents/2_Presss Release/新闻稿%EF%BC%9A世纪互联运营的Microsoft Azure和Office 365亮相4 29首都网络安全日.pdf">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a></label>
-                           <p>4月28-30日，在中共中央网络安全和信息化领导小组办公室、公安部、工业和信息化部、国家保密局、国家密码管理局等上级单位指导下，由北京市公安局主办的第三届“4.29首都网络安全日”暨网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际公有云服务，微软与世纪互联受邀并积极参与此次活动，也验证了监管部门和业界对双方创新合作模式的认可与肯定。</p>
+                           <label class="date">May 25, 2016</label><br /><label><a target="_blank" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/Shared Documents/2_Presss Release/新闻稿%EF%BC%9A世纪互联运营的Microsoft Azure和Office 365亮相4 29首都网络安全日.pdf">Microsoft Azure and Office 365 operated by 21Vianet successfully participated in the third expo of “4.29 Beijing Cyber Security Day”</a></label>
+                           <p>From April 28, 2016 to April 30, 2016, guided by Office of the Central Leading Group for Cyberspace Affairs, Ministry of Public Security, Ministry of Industry and Information Technology, National Secrecy Administration Bureau and State Cryptography Administration, the third “4.29 Beijing Cyber Security Day” and the Network and Information Security Expo, sponsored by Beijing Municipal Public Security Bureau, were held in Beijing Exhibition Center. As the first commercial international public cloud service landed in China, Microsoft and 21Vianet were invited to participate in the activity, which demonstrated the supervision department and the industry’s acceptance and recognition to the innovative business model by the two companies.</p>
                         </div>
                      </div>
                   </div>
@@ -63,8 +63,8 @@ layout: TrustCenterPageCN
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                            <label class="date">2016年5月26日</label><br /><label><a target="_blank" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fteams%2FTrusted_Cloud_China%2FShared%2520Documents%2F4_Newsletters%2FTrusted%2520Cloud%2520China%2520Newsletter%2520Edition%252013_CN.jpg">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a></label>
-                           <p>在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
+                            <label class="date">May 25, 2016</label><br /><label><a target="_blank" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fteams%2FTrusted_Cloud_China%2FShared%2520Documents%2F4_Newsletters%2FTrusted%2520Cloud%2520China%2520Newsletter%2520Edition%252013_CN.jpg">Microsoft Azure and Office 365 operated by 21Vianet ware awarded Trusted Cloud Service Certification again </a></label>
+                           <p>In the 5th Trusted Cloud Service Certification Conference, Microsoft Azure operated by 21Vianet was awarded Trusted Cloud Service Certification for Azure Backup service. Meanwhile, for Office 365 operated by 21Vianet, the online services of Exchange Online (enterprise email service), SharePoint Online (file sharing service), Shared Calendar and Video Teleconference Service( Skype for Business) were also awarded with the certification of “Security” and “User Experience”
                            </p>
                         </div>
                      </div>

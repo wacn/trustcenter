@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPageCN
+layout: TrustCenterPage
 ---
 <div class="row-fluid">
    <div class="span">
@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">渗透测试</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Where your Customer Data is stored</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -45,21 +45,47 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // 渗透测试
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // 
+               <a target="_self" class="mscom-link" href="../transparency/default.html">Transparency </a> // Where your Customer Data is stored
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>我们通过执行常规渗透测试来改进 Azure 和Office 365的安全控制措施和过程。我们深知，安全评估也是客户应用程序开发和部署的重要组成部分。因此，我们确立了一项策略，即让客户对托管在 Azure 和Office 365中的应用程序执行授权渗透测试。因为此类测试可能无法与真实攻击进行区分，因此客户请务必在预先获得客户支持批准后才执行渗透测试。必须根据我们的条款和条件执行渗透测试。应至少提前 7 天提交渗透测试请求。
-               </p>
-               <p>要了解更多信息或启动渗透测试，请下载<a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Penetration_Test_Questionnaire.docx">渗透测试批准表</a>，然后联系<a target="_blank" class="mscom-link" href="https://www.azure.cn/support/contact/">客户支持</a></p>
+              <label>Location of Customer Data</label>
+              <p>Microsoft Azure and Office 365 Operated by 21Vianet are built on the premise that for you to control your Customer Data in the cloud, you require visibility into that data. You must also know, through clearly stated and readily available policies and procedures, how we help secure your Customer Data, who can access it and under what circumstances. And you can review the third-party audits and certifications.
+              </p>
+              <p>21Vianet operates Azure and Office 365 services in data centers located exclusively in mainland China.</p>
+              <p>Customers may specify the region(s) of the datacenters in which Customer Data will be stored. Available regions are shown below.</p>
+              <p style="font-size:12px">REGION</p>
+              <p>
+              <table border="0" cellspacing="0" cellpadding="0" class="table">
+                <tbody>
+                  <tr>
+                    <td style="">China (East) (located in Shanghai)</td>
+                  </tr>
+                  <tr>
+                    <td style="background:#f1f1f1">China (North) (located in Beijing )</td>
+                  </tr>
+                </tbody>
+              </table>
+              </p>
+              <ul>
+                 <li>21Vianet may transfer Customer Data between regions for data redundancy or other purposes. For example, Azure and Office 365 replicates Blob and Table data between two regions within China for enhanced data durability in case of a major data center disaster.</li>
+                 <li>Our suppliers (including Microsoft, which provides the Azure and Office 365 technology on which our services run) do not have logical or physical access to Customer Data. In limited circumstances, we may authorize a supplier to access systems containing Customer Data when necessary to help troubleshoot a customer support incident or address technical issues. We will grant such access only for the duration necessary to resolve the issue. We carefully monitor the access given and terminate the access when the issue is resolved.</li>
+                 <li>We do not control or limit the regions from which customers or their end users may access Customer Data.</li>
+              </ul>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+               <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <h1>Key privacy information</h1>
+                     <label><a target="_self" class="mscom-link" href="#">。。。</a></label><br/>
+                  </div>
+               </div>
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
+                     <h1>Helpful information</h1>
+                     <label><a target="_self" class="mscom-link" href="#">。。。</a></label><br/>
                   </div>
                </div>
             </div>

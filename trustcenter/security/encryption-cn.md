@@ -1,14 +1,6 @@
 ---
 layout: TrustCenterPageCN
 ---
-<style  type="text/css">
-.subpageBody>div:first-of-type label{ font-size:24px; line-height:2em;}
-.subpageBody>div:nth-of-type(2) h1{ font-size:24px;} 
-.CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
-.a.withArrow{ font-size:12px;}
-.a.withArrow img{vertical-align:bottom;}
-a.withArrow img{vertical-align:bottom;}
-</style>
 <div class="row-fluid">
    <div class="span">
       <div>
@@ -53,15 +45,14 @@ a.withArrow img{vertical-align:bottom;}
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="/trustcenter/default-cn.html">首页</a> // 
-               <a target="_self" class="mscom-link" href="/trustcenter-security-default-cn">安全性</a> // 加密
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
+               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // 加密
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                <p>由世纪互联运营的 Microsoft Azure 和 Office 365 使用加密技术保护客户数据，帮助客户维持对数据的控制权。当客户通过网络传输数据时—无论在用户设备与 Azure 和 Office 365 数据中心之间，或在数据中心之间— Azure 和 Office 365 会使用行业标准的安全传输协议。对于存储后的客户数据，Azure 和 Office 365 提供了一系列加密能力，用户可以灵活选择最能满足自己需求的解决方案。
                </p>
-               <br/>
                <label>由世纪互联运营的 Microsoft Azure</label>
                <p>加密的通讯以及运营流程等技术保护措施，有助于确保您数据的安全。您可以灵活地实施额外的加密机制，并自行管理您的密钥。</p>
                <ul>
@@ -70,7 +61,6 @@ a.withArrow img{vertical-align:bottom;}
                   <li><span><strong>Azure 密钥保管库</strong> 可以帮您轻松地以低成本的方式简化密钥管理，并对云应用和服务加密数据所用的密钥加以控制。<br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/services/key-vault/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a></span></li>
                   <li><span><strong>加密的通讯。</strong>内建的 SSL 和 TLS 加密技术使得客户能够对同一部署内部，不同部署之间，从 Azure 到内部部署数据中心，以及从 Azure 到管理员和用户的通讯进行加密。</span></li>
                </ul>
-               <br/>
                <label>由世纪互联运营的 Office 365</label>
                <p>Office 365 服务使用了诸如 SSL/TLS 和 AES 等行业加密标准保护客户数据的机密性和完整性。</p>
                <ul>
@@ -85,8 +75,9 @@ a.withArrow img{vertical-align:bottom;}
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>有用的信息</h1>
-                     <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
+                     <h1>更多信息</h1>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/key-vault/">Azure秘钥保管库文档</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/solutions/storsimple/">Azure StorSimple：加密混合云存储</a></label><br/>
                   </div>
                </div>
             </div>

@@ -1,14 +1,6 @@
 ---
 layout: TrustCenterPageCN
 ---
-<style  type="text/css">
-.subpageBody>div:first-of-type label{ font-size:24px; line-height:2em;}
-.subpageBody>div:nth-of-type(2) h1{ font-size:24px;} 
-.CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
-.a.withArrow{ font-size:12px;}
-.a.withArrow img{vertical-align:bottom;}
-.table{ border-top:3px solid #000000; display: inline-block;width:auto; font-size:13px;}
-</style>
 <div class="row-fluid">
    <div class="span">
       <div>
@@ -31,7 +23,7 @@ layout: TrustCenterPageCN
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">透明度</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">客户数据存储位置</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -53,7 +45,7 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="/trustcenter/default-cn.html">首页</a> // 透明度
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 客户数据存储位置
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -91,7 +83,7 @@ layout: TrustCenterPageCN
                </div>
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>有用的信息</h1>
+                     <h1>更多信息</h1>
                      <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
                   </div>
                </div>

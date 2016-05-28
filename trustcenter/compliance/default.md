@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPageCN
+layout: TrustCenterPage
 ---
 <div class="row-fluid">
    <div class="span">
@@ -24,7 +24,7 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             合规性
+                                             Compliance
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -47,35 +47,35 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container breadcrumbs" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 合规性 </div>
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // Compliance </div>
          </div>
          <div id="" class="row-fluid grid-container mscom-grid-container subpageBody noBottomBorder" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
-               <p>由世纪互联运营的 Microsoft Azure和Office 365 服务是在中国大陆独立运营的公有云平台，由<a target="_blank" class="mscom-link" href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a>的全资子公司上海蓝云网络科技有限公司（简称为“上海蓝云”）独立运营和销售。采用与微软服务于全球的 Azure 和Office 365技术，为客户提供全球一致的服务质量保障。
+               <p>Microsoft Azure and Office 365 operated by 21Vianet are public cloud services independently operated in mainland China—run and sold by Shanghai Blue Cloud Technology (hereinafter refer to as “Blue Cloud”), a wholly-owned subsidiary of<a target="_blank" class="mscom-link" href="http://www.ch.21vianet.com/"> 21Vianet. </a>The Azure and Office 365 technologies that Microsoft uses to serve other parts of the world have been licensed to 21Vianet, so Azure and Office 365 operated by 21Vianet provide globally consistent service quality for customers.
                </p>
-               <p>为帮助客户遵守国家、地区以及特定行业管理个人数据采集和使用的要求，世纪互联作为云服务提供商提供全面的的认证和证明。</p>
-               <p>要实现全面的合规性，世纪互联采用了双管齐下的办法：</p>
+               <p>To help organizations comply with national, regional, and industry-specific requirements governing the collection and use of individuals’ data, 21Vianet offers the most comprehensive set of certifications and attestations of any cloud service provider. </p>
+               <p>21Vianet accomplishes this breadth of compliance offerings with a two-pronged approach:</p>
                <ul>
-                  <li>首先，世纪互联的专家团队与工程和运营团队以及外部的监管机构合作，跟踪现有标准和规章，为产品团队开发出几百个控件，构建到我们的云服务中。</li>
-                  <li>其次，由于规章和标准的不断发展变化，我们的合规专家也关注和预期即将到来的变化以确保持续的合规性—研究法规草案，评估潜在的新要求，和开发相应的控件。</li>
+                  <li>First, a team of 21Vianet experts works with our engineering and operations teams, as well as external regulatory bodies, to track existing standards and regulations, developing hundreds of controls for the product teams to build into our cloud services.</li>
+                  <li>Second, because regulations and standards are always evolving, our compliance experts also anticipate upcoming changes to help ensure continuous compliance—researching draft regulations, assessing potential new requirements, and developing corresponding controls.  </li>
                </ul>
-               <p>由世纪互联运营的Microsoft Azure 和Office 365满足国际和行业特定合规性标准 ISO/IEC 27001，同时也符合国内信息系统安全等级保护定级，GB 18030以及可信云服务认证（TCS）标准。最终，由您自己来决定我们的服务是否符合您的业务所使用的具体法律法规。为方便您做出评估，世纪互联提供了针对安全和合规项目的详细信息，包括审核报告和合规程序包。作为我们对透明度的承诺，您可以通过向进行认证的第三方索要审核结果，并验证我们多重安全控制的实现情况。</p>
-              <label id="ISO/IEC_27001">ISO/IEC 27001:2005 审核和认证</label>
-              <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和Office 365已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。世纪互联承诺每年基于 ISO/IEC 27001:2005（这是一种适用范围广泛的国际信息安全标准）进行认证。ISO/IEC 27001:2005 证书确认世纪互联已实施此标准中定义的国际上认可的信息安全控制措施，包括有关启动、实施、维护和改进组织中的信息安全管理的指南和一般原则。</p>
-              <p>ISO 范围: 信息安全管理系统（ISMS） ，其中包含了操作、安全和对商务流程管理。</p>
-              <p>该证书由北京赛西认证有限责任公司（CESI）颁发，可公开查询。</p>
-              <label id="TCS">可信云服务认证</label>
-              <p>世纪互联采用 Azure 和Office 365领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</p>
-              <p>可信云服务认证是在工业和信息化部的指导下，由数据中心联盟“可信云服务工作组”组织开展的云服务质量评估体系。该认证旨在培育国内公有云服务市场，增强用户对云服务的信心，保护正规云服务商，促进市场良性发展。</p>
-              <p>由世纪互联运营的 Microsoft Azure 通过审核获得云备份可信云服务认证，此项服务接受了 SLA 服务协议框架内，包括数据管理、业务质量及权益保障三大类共 16 项指标的测评，此服务拥有 99.9% 的服务可用性，通过两个数据中心提供 6 份数据备份，为用户提供了可靠、安全、灵活、高效、稳定的云备份服务。</p>
-              <p>测试结果发布于<a target="_blank" class="mscom-link" href="http://www.dca.org.cn/">数据中心联盟</a>网站。</p>
-              <p>在由数据中心联盟发起的第四批可信云服务认证评选中，世纪互联运营的 Office 365 在线应用服务荣获了企业级电子邮件 (Exchange Online)、文件共享 (SharePoint Online)、共享日历与视频电话会议 (Skype for Business) 3 项可信云服务认证。在第五批可信云服务认证评选中，世纪互联运营的 Office 365 在线应用服务荣获了企业级电子邮件 (Exchange Online)、文件共享 (SharePoint Online)、共享日历与视频电话会议 (Skype for Business) 新增的“安全性、用户体验性能” 2 项指标的认证。</p>
-              <p>可信云服务认证是在工业和信息化部的指导下由数据中心联盟“可信云服务工作组”组织开展的云服务质量评估体系。该认证旨在培育国内公共云服务市场，增强用户对云服务的信心，保护正规云服务商，促进市场良性发展。</p>
-              <p>在2015可信云服务大会上，由世纪互联运营的 Office 365 云服务还荣获了“可信云2014-2015年度行业云服务奖”的办公应用奖，进一步印证了 Office 365 拥有业内一流可靠的技术、安全稳定的运维以及完善规范的服务体系。</p>
-              <label id="DJCP">信息系统安全等级保护定级</label>
-              <p>根据《GB/T 22240-2008信息安全技术 信息系统安全等级保护定级指南》，公安部授权的测评机构依据《GB/T 22239-2008 信息安全技术 信息系统安全等级保护基本要求》对由世纪互联运营的 Microsoft Azure和Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。</p>
-              <label id="GB18030">国家标准 GB 18030信息技术中文编码字符集</label>
-              <p>GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的Microsoft Azure 和Office 365经中国电子技术标准化研究所认证符合该标准的强制性部分。</p>
+               <p>Microsoft Azure and Office 365 operated by 21Vianet comply with the international and industry-specific compliance standard ISO/IEC 27001, as well as the Information System Classified Security Protection standard that is managed by Ministry of Public Security of People’s Republic of China, GB 18030 Information Technology — Chinese Coded Character Set and Trusted Cloud Service (TCS) certifications. Ultimately, it is up to you to determine whether our services comply with the specific laws and regulations applicable to your business. To help you make these assessments, 21Vianet supplies the specifics about its security and compliance programs, including audit reports and compliance packages. In view of our promise on transparency, you can ask a third party that performs certification for the audit result and verify the implementation of multiple security control.</p>
+              <label>ISO/IEC 27001:2005 Audit and Certification</label>
+              <p>ISO/IEC 27001 is one of world-leading security standards. Microsoft Azure and Office 365 operated by 21Vianet has implemented strict physical, logical, procedure and management control defined by ISO/IEC 27001. 21Vianet promises to carry out certification based on ISO/IEC 27001:2005 (a widely applicable international information security standard) every year. The ISO/IEC 27001:2005 certificate confirms that 21Vianet has implemented internationally recognized information security control measures defined in this standard, including information security management guidelines and general principles for activation, implementation, maintenance and improvement. </p>
+              <p>ISO scope: Information security management system (ISMS), including management on operations, security and business procedure.</p>
+              <p>This certificate is issued by CESI for your query openly.</p>
+              <label>Trusted cloud service certification</label>
+              <p>21Vianet adopts cutting-edge Azure and Office 365 technologies and has successfully obtained Trusted Cloud Service certification with powerful localized operation capabilities, open platform, high-quality SLA, powerful data recovery capability and best customer returns.</p>
+              <p>Trusted Cloud Service certification is a cloud service quality evaluation system organized by the Trusted Cloud Service working group of DCA under the guide of MIIT. This certification aims to cultivate the Chinese public cloud service market, enhance users’ confidence on cloud services, protect certified cloud service providers and promote sound development of the market. </p>
+              <p>Microsoft Azure operated by 21Vianet has passed audits and obtained Cloud Backup Trusted Cloud Service certification. This service accepts the evaluation of total 16 indexes in three classifications—data management, service quality and rights protection, in the SLA framework. With service availability up to 99.9%, the service provides 6 data backups on two data centers, making reliable, secure, flexible, efficient, and stable cloud backup service for users.</p>
+              <p>The test result is published on the website of<a target="_blank" class="mscom-link" href="http://www.dca.org.cn/"> Data Center Alliance.</a></p>
+              <p>Office 365 operated by 21Vianet is among the fourth batch of China’s cloud service providers to certify business-class email (Exchange Online), File Sharing (SharePoint Online), Shared Calendar and Video Teleconference Service (Skype for Business Online) by Trusted Cloud Services Certification developed by Data Center Alliance (DCA), and also which is among the fifth batch of China’s cloud service providers to certify business-class email (Exchange Online), File Sharing (SharePoint Online) , Shared Calendar and Video Teleconference Service (Skype for Business Online) by the Certification of “Security “and “User Experience” developed by Data Center Alliance (DCA).</p>
+              <p>The Trusted Cloud Service Certification is designed to grow public cloud service market in China, increase customer confidence in public cloud services, protect trusted cloud service providers and promote market development.</p>
+              <p>Office 365 operated by 21Vianet achieved "Trusted Cloud 2014-2015 annual industry award for office applications, which verified Office 365 has the first-class and reliable technology, the safe and stable operations and perfect the service system of norms</p>
+              <label>Information System Classified Security Protection</label>
+              <p>According to GBT 22240-2008 Information Security Technology—Classification Guide for Classified Protection of Information System Security, the evaluation organization authorized by the Ministry of Public Security evaluates Microsoft Azure and Office 365 operated by 21Vianet based on GB/T 22239-2008 Information Security Technology—Basic Requirements for Classified Protection of Information System Security, and rates both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365 by MPS.</p>
+              <label>GB 18030 Information Technology — Chinese Coded Character Set</label>
+              <p>GB 18030 is the Chinese ideographic character set and encoding standard mandated by the Chinese government. Microsoft Azure and Office 365 operated by 21Vianet are certified as compliant with the mandatory part of this standard by the China Electronics Standardization Institute (CESI).</p>
                <div id="019f6674-6634-4c91-8107-45fb2ab4895e" class="CMSvNextComp mscom-accordion" role="tablist" bi:type="accordion" xmlns:bi="urn:schemas-microsoft-com:mscom:bi" style="display: none">
                   <ul bi:type="list" class="nonFAQ" id="019f6674-6634-4c91-8107-45fb2ab4895e">
                      <li class=" mscom-accordion-item" id="1fe026c5-6d22-48ab-a268-e7ee53ae9767">
@@ -146,11 +146,11 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="/file/AzureNetworkSecurity_v3_Feb2015 - CN_20150906">Azure 网络安全</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">保护云中数据和隐私(864 KB, PDF)</a></label><br/>
+                     <h1>Helpful information</h1>
+                     <label><a target="_self" class="mscom-link" href="../security/default.html">Security</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="/file/AzureNetworkSecurity_v3_Feb2015 - CN_20150906">Azure Network Security</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../privacy/default.html">Privacy</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Potecting Data and Privacy in the Cloud(864 KB, PDF)</a></label><br/>
                   </div>
                </div>
             </div>

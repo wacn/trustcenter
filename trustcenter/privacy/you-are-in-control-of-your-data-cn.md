@@ -1,14 +1,6 @@
 ---
 layout: TrustCenterPageCN
 ---
-<style  type="text/css">
-.subpageBody>div:first-of-type label{ font-size:24px; line-height:2em;}
-.subpageBody>div:nth-of-type(2) h1{ font-size:24px;} 
-.CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
-.a.withArrow{ font-size:12px;}
-.a.withArrow img{vertical-align:bottom;}
-a.withArrow img{vertical-align:bottom;}
-</style>
 <div class="row-fluid">
    <div class="span">
       <div>
@@ -53,8 +45,8 @@ a.withArrow img{vertical-align:bottom;}
             </div>
         </div>         
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="/trustcenter/default.html">首页</a> // 
-                <a target="_self" class="mscom-link" href="/trustcenter/Privacy/default.html">隐私保护</a> // 您控制自己的客户数据
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
+                <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您控制自己的客户数据
             </div>
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -75,7 +67,7 @@ a.withArrow img{vertical-align:bottom;}
                 <p><strong>分包商的访问。</strong>Azure 和 Office 365 使用分包商履行各类支持服务。世纪互联的分包商仅在需要提供或维护服务时才会访问您的数据。分包商被严格禁止将您的数据用于任何其他用途，同时他们必须保护您信息的机密性。</p>
                 <p><strong>有限访问。</strong>Azure和Office 365 中客户数据的访问和使用所适用的运行流程和控制措施将由可信任的审计公司严格维护并定期验证。这些公司与世纪互联会定期进行抽样审核来证明客户数据的访问仅用于合法的商业目的。强大的身份验证功能（包括多重身份验证的使用）仅允许被授权人员访问客户数据。样本审计由世纪互联和第三方执行，以证明访问仅出于适当的业务目的。在授予访问权限后，世纪互联将谨慎控制并记录，并在不再需要时及时撤回该等权限。</p>
                 <p><strong>执法机关或第三方要求。</strong>世纪互联认为，客户应控制自己存储在本地或云服务中的信息。因此，我们对于执法机关或第三方索要客户数据的需求有严格的规定。我们不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。如果某一第三方联系我们就您对服务的使用进行投诉（例如，指控您或您的最终用户存在侵权行为），我们会让第三方直接联系您，并且我们可能会将您的基本联系信息提供给第三方。</p>
-                <label>离开服务时，您可以控制自己的客户数据</label>
+                <label id="leave_service" name="leave_service">离开服务时，您可以控制自己的客户数据</label>
                 <p>如果您希望删除数据或不再使用世纪互联的服务，世纪互联将按照严格的标准，将删除所有系统中您存储的客户数据，对于退役的硬件，则会进行物理销毁。</p>
                 <p>作为承诺的一部分，对于 Azure 存储、Azure 虚拟机，以及 Azure Active Directory 等云服务，当客户提出要求或不再使用服务时，对于数据的删除，以及客户所用存储设备的销毁等方面，我们会按照合同承诺遵循相应的流程进行。</p>
                 <label class="subhead">数据迁移</label>
@@ -113,14 +105,23 @@ a.withArrow img{vertical-align:bottom;}
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>重要隐私信息</h1>
-                        <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where-cn.html">数据中心位置</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data-cn.html#leave_service">数据保留策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data-cn.html#shiji_contract">分包商策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">微软如何定义数据</a></label><br/> 
+                    </div>
                     </div>
                 </div>
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <h1>有用的信息</h1>
-                        <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
+                        <h1>更多信息</h1>
+                        <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/security/encryption.html">微软云加密</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私(864 KB, PDF)</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../compliance/default-cn#ISO/IEC_27001">ISO / IEC 27001简介</a></label><br/>
                     </div>
                 </div>
             </div>

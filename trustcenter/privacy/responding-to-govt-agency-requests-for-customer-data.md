@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPageCN
+layout: TrustCenterPage
 ---
 <div class="row-fluid">
    <div class="span">
@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">您控制自己的客户数据</h3>
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">You control  your Customer Data</h3>
                                                 </li>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                             </ul>
@@ -45,40 +45,40 @@ layout: TrustCenterPageCN
             </div>
         </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-                <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您控制自己的客户数据
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // 
+                <a target="_self" class="mscom-link" href="../privacy/default.html">Privacy</a> // You control  your Customer Data
             </div>
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                <p>当执法部门或第三方通过合法请求向世纪互联索要
-                    <a target="_self" class="mscom-link" href="#">客户数据</a>时，我们会遵守有关透明度的承诺，并严格限制我们所披露的数据。世纪互联认为，客户应当控制自己的数据，因此我们不会将托管在由世纪互联运营的 Microsoft Azure 和Office 365 的数据中心内所存储的客户数据披露给执法部门或第三方，除非您指示我们这样做，或适用法律和法规要求我们这样做。
+                <p>When law enforcement or third party make a lawful request for 
+                    <a target="_self" class="mscom-link" href="#">Customer Data</a> from 21Vianet, we are committed to transparency and limit what we disclose. Because 21Vianet believes that customers should control their own data, we will not disclose data hosted in Microsoft Azure and Office 365 Operated by 21Vianet to law enforcement or third party except as you direct or where required by law.
                 </p>
-                    <p><strong>我们不允许直接访问客户数据。</strong>世纪互联认为，您的数据应当由您自己控制。世纪互联绝不会为任何第三方（包括执法部门）提供直接或不受限制访问客户数据的途径，除非您指示我们这样做。</p>
-                    <p><strong>我们会让提出客户数据索要请求的执法部门和其他第三方直接与客户联系。</strong>当我们接到来自政府或执法部门的客户数据索要请求后：</p>
+                    <p><strong>We do not offer direct access to Customer Data. </strong> We believe that you should control your own data. 21Vianet does not give any third party (including law enforcement) direct or unfettered access to Customer Data except as you direct.</p>
+                    <p><strong>We redirect law enforcement and other third-party requests to the customer.</strong> When we receive a government or law enforcement request for Customer Data:：</p>
                     <ul>
-                        <li>我们始终会尝试让第三方与您联系，以取得所需要的客户数据。对于任何第三方请求，我们将采用商业上合理的努力立即通知您，并提供相应要求的副本，除非法律禁止我们这样做。</li>
-                        <li>对于有效的请求，如果我们无法让其直接联系客户，我们将只在法律强制要求时披露信息，并且始终会确保仅提供法令中明确指定的数据。</li>
+                        <li>We always attempt to redirect the third party to obtain the requested data from our customer. We will use commercially reasonable efforts to promptly notify you of any third-party request, and give you a copy unless we are legally prohibited from doing so.</li>
+                        <li>For valid requests that we are not able to redirect to the customer, we disclose information only when we are legally compelled to do so, and we always make sure that we provide only the data specified in the legal order.</li>
                     </ul>
-                    <p>上述任何一种情况下，第三方可能会要求提供您的基本联系信息。</p>
-                    <p><strong>我们不会授予平台加密密钥访问权。</strong>我们不会向任何第三方提供我们的加密密钥，或能够破坏我们加密机制的能力。</p>
+                    <p>In either case, requests may require the release of the customer’s basic contact information.</p>
+                    <p><strong>We do not give access to platform encryption keys.</strong> We do not provide any third party with our encryption keys or the ability to break our encryption.</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <h1>重要隐私信息</h1>
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where-cn.html">数据中心位置</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data-cn.html#leave_service">数据保留策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data-cn.html#shiji_contract">分包商策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">微软如何定义数据</a></label><br/> 
+                        <h1>Key privacy information</h1>
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where.html">Datacenter locations</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">Data access policies</a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data.html#leave_service">Data retention policies</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data.html#shiji_contract">Subcontractor policies</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default.html#data_other">How Microsoft defines data</a></label><br/> 
                     </div>
                 </div>
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <h1>更多信息</h1>
-                        <p>常见问题（FAQ）</p></br>
-                        <p>资源-常见问题</p>
+                        <h1>Helpful information</h1>
+                        <label><a target="_self" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Potecting Data and Privacy in the Cloud(864 KB, PDF)</a></label><br/> 
+                        <label><a target="_self" class="mscom-link" href="aaaa">ISO/IEC 27001 backgrounder</a></label><br/> 
                     </div>
                 </div>
             </div>

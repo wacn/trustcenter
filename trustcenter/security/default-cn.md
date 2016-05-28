@@ -1,14 +1,6 @@
 ---
 layout: TrustCenterPageCN
 ---
-<style  type="text/css">
-.subpageBody>div:first-of-type label{ font-size:24px; line-height:2em;}
-.subpageBody>div:nth-of-type(2) h1{ font-size:24px;} 
-.CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ font-size:13px; }
-.a.withArrow{ font-size:12px;}
-.a.withArrow img{vertical-align:bottom;}
-a.withArrow img{vertical-align:bottom;}
-</style>
 <div class="row-fluid">
    <div class="span">
       <div>
@@ -53,7 +45,7 @@ a.withArrow img{vertical-align:bottom;}
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="/trustcenter/default-cn.html">首页</a> // 安全性
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 安全性
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -85,7 +77,7 @@ a.withArrow img{vertical-align:bottom;}
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>•	网络安全</strong><br/>由世纪互联运营的 Microsoft Azure 和Office 365 网络提供一个基础架构，用于服务和客户之间的安全连接，以及现场数据中心与服务之间的安全连接。Azure和Office 365网络基础架构使用多种技术阻止发送到世纪互联数据中心的以及数据中心内部的未经授权通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离.</span>
+                        <li><span><strong>网络安全</strong><br/>由世纪互联运营的 Microsoft Azure 和Office 365 网络提供一个基础架构，用于服务和客户之间的安全连接，以及现场数据中心与服务之间的安全连接。Azure和Office 365网络基础架构使用多种技术阻止发送到世纪互联数据中心的以及数据中心内部的未经授权通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离.</span>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
@@ -103,8 +95,8 @@ a.withArrow img{vertical-align:bottom;}
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>有用的信息</h1>
-                     <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
+                     <h1>更多信息</h1>
+                     <label><a target="_self" class="mscom-link" href="../security/default-cn.html">Microsoft Azure的身份和访问管理</a></label><br/>
                   </div>
                </div>
             </div>

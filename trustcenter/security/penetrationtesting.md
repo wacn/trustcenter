@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPageCN
+layout: TrustCenterPage
 ---
 <div class="row-fluid">
    <div class="span">
@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">身份和访问管理</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Penetration testing </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -45,37 +45,21 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // 身份和访问管理
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // 
+               <a target="_self" class="mscom-link" href="../security/default.html">Security </a> // Penetration testing 
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>Azure Active Directory 是一个综合性的，身份和访问管理的云解决方案，提供一系列的强大功能用于用户和组的管理。Azure Active Directory 帮助实现对包括 Azure、Office 365 等在线服务的本地和云应用的安全访问。
+               <p>We conduct regular penetration testing to improve Azure and Office 365 security controls and processes. We understand that security assessment is also an important part of our customers' application development and deployment. Therefore, we have established a policy for customers to carry out authorized penetration testing on their applications hosted in Azure and Office 365. Because such testing can be indistinguishable from a real attack, it is critical that customers conduct penetration testing only after obtaining approval in advance from Azure Customer Support. Penetration testing must be conducted in accordance with our terms and conditions. Requests for penetration testing should be submitted with a minimum of 7-day advanced notice.
                </p>
-               <label>由世纪互联运营的Microsoft Azure </label>
-               <p><strong>Azure Active Directory</strong> 可帮助实现对本地和云应用程序中数据的安全访问，并简化对用户和组的管理。它将核心目录服务、高级身份监管、安全防护和应用程序访问管理相结合。 Azure Active Directory 还可方便开发人员将基于策略的身份管理构建到其应用程序中。 
-                <br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
-               </p>
-               <p><strong>Azure多重身份验证</strong>要求使用多种验证方法对用户进行身份验证。Azure 凭借针对本地和云应用程序的额外一层身份验证，帮助保护用户对数据和应用程序的访问。它通过丰富的简单验证选项提供强大的身份验证，同时满足用户对简单登录过程的需求。
-                <br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
-               </p>
-               <label>由世纪互联运营的Office 365</label>
-               <p>Office 365 使用 Azure Active Directory 作为身份验证平台，这为您的租户提供强大的身份验证选项，以及 IT 专业人员和用户如何访问和使用服务的精确控制。Office 365 也允许与内部部署的 Active Directory 或其他目录和身份识别系统的集成，如 Active Directory Federation Services (ADFS)或第三方安全令牌系统 (STSs) ，以启用安全、 基于令牌的身份验证服务。</p>
-               <p>通过 Azure Active Directory，可以将内部部署中的 Active Directory 和其他目录存储区联合在一起。这使得身份验证基于联合域的所有 Office 365 用户可以使用他们现有的企业登陆方式实现Office 365服务验证。 
-                <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
-               </p>
-               <p>多重身份验证加强了多设备与云应用环境的安全防御。Azure Active Directory 可提供电话、文字简讯、应用程序通知推送在内的多重身份验证，它同时支持第三方多重身份验证的解决方案.</p>
-               <p>当客户用多重身份验证登录，后台可创建一个或多个程序密码来保护客户终端安全应用。
-                <br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
-               </p>
-              </div> 
+               <p>To learn more or to initiate penetration testing, please download the <a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Penetration_Test_Questionnaire.docx">Penetration Testing Approval Form,</a>， and then contact <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/contact/">Customer Support.</a></p>
+                 </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Azure身份验证</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Azure身份验证文档</a></label><br/>
+                     <h1>Helpful information</h1>
+                     <label><a target="_self" class="mscom-link" href="#">。。。</a></label><br/>
                   </div>
                </div>
             </div>
