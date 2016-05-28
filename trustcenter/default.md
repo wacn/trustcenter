@@ -265,7 +265,7 @@ layout: TrustCenterPage
                <p style="display:none"><a target="_blank" class="mscom-link" href="https://azure.microsoft.com/en-us/blog/microsoft-first-global-csp-to-receive-the-cloud-security-mark-gold-accreditation/">Microsoft is the first global CSP to receive the CS Mark (Gold) accreditation.</a> In Japan, the Cloud Service Mark is the first security standard for CSPs, and is based on ISO/IEC 27017,
                   the international code of practice for information security controls.
                </p>
-               <a target="_self" class="mscom-link withArrowRight" href="https://www.microsoft.com/en-us/TrustCenter/Whats-New/default.aspx">More
+               <a target="_self" class="mscom-link withArrowRight" href="../what-is-new/default.html">More
                <img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To What's New' " width="21" height="19" /></a>
             </div>
          </div>

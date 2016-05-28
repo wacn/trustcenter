@@ -53,7 +53,7 @@ layout: TrustCenterPageCN
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                           <label class="date">2016年5月26日</label><br /><label><a target="_blank" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/Shared Documents/2_Presss Release/新闻稿%EF%BC%9A世纪互联运营的Microsoft Azure和Office 365亮相4 29首都网络安全日.pdf">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a></label>
+                           <label class="date">2016年5月26日</label><br /><label><a target="_blank" class="mscom-link" href="new1-cn.html">世纪互联运营的Microsoft Azure和Office 365 成功参加第三届“4.29首都网络安全日”</a></label>
                            <p>4月28-30日，在中共中央网络安全和信息化领导小组办公室、公安部、工业和信息化部、国家保密局、国家密码管理局等上级单位指导下，由北京市公安局主办的第三届“4.29首都网络安全日”暨网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际公有云服务，微软与世纪互联受邀并积极参与此次活动，也验证了监管部门和业界对双方创新合作模式的认可与肯定。</p>
                         </div>
                      </div>
@@ -63,7 +63,7 @@ layout: TrustCenterPageCN
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                            <label class="date">2016年5月26日</label><br /><label><a target="_blank" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/Lightbox.aspx?url=https%3A%2F%2Fmicrosoft.sharepoint.com%2Fteams%2FTrusted_Cloud_China%2FShared%2520Documents%2F4_Newsletters%2FTrusted%2520Cloud%2520China%2520Newsletter%2520Edition%252013_CN.jpg">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a></label>
+                            <label class="date">2016年5月26日</label><br /><label><a target="_blank" class="mscom-link" href="new2-cn.html">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a></label>
                            <p>在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
                            </p>
                         </div>

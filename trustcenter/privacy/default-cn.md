@@ -107,7 +107,7 @@ layout: TrustCenterPageCN
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私(864 KB, PDF)</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="aaa">ISO / IEC 27001简介</a></label><br/>        
+                        <label><a target="_self" class="mscom-link" href="../compliance/default-cn#ISO/IEC_27001">ISO / IEC 27001简介</a></label><br/>        
                     </div>
                 </div>
             </div>

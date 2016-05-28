@@ -77,8 +77,7 @@ layout: TrustCenterPageCN
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
-                        <p>常见问题（FAQ）</p></br>
-                        <p>资源-常见问题</p>
+                        <label><a target="_self" class="mscom-link" href="#">常见问题（FAQ）</a></label><br/> 
                     </div>
                 </div>
             </div>

@@ -109,7 +109,7 @@ layout: TrustCenterPage
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Helpful information</h1>
                         <label><a target="_self" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Potecting Data and Privacy in the Cloud(864 KB, PDF)</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="#ccc">ISO/IEC 27001 backgrounder</a></label><br/>           
+                        <label><a target="_self" class="mscom-link" href="../compliance/default-cn#ISO/IEC_27001">ISO/IEC 27001 backgrounder</a></label><br/>           
                     </div>
                 </div>
             </div>

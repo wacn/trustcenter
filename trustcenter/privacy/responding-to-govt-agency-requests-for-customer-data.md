@@ -77,8 +77,7 @@ layout: TrustCenterPage
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Helpful information</h1>
-                        <label><a target="_self" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Potecting Data and Privacy in the Cloud(864 KB, PDF)</a></label><br/> 
-                        <label><a target="_self" class="mscom-link" href="aaaa">ISO/IEC 27001 backgrounder</a></label><br/> 
+                        <label><a target="_self" class="mscom-link" href="#">Frequently Asked Questions (FAQ)</a></label><br/> 
                     </div>
                 </div>
             </div>
