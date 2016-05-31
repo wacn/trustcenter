@@ -254,7 +254,7 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div class="row-fluid whatsNew wider" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="https://c.s-microsoft.com/en-us/CMSImages/group-people.jpg?version=4e0749fd-a9c9-2546-0da3-09ea49878089" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
+            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="../Images/group-people.png" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear right" style="margin-bottom: 3%;">
                <h1>最新消息</h1>
                <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="../what-is-new/new2-cn.html">世纪互联运营的 Microsoft Azure 和 Office 365 亮相“4.29首都网络安全日</a>

@@ -29,3 +29,13 @@ div.whatsNewBody>div>div.row-fluid>div>div.row-fluid label a{
 i .color_red{
     font-style:normal;color: red;
  }
+ #HeroWrapper{
+     padding-bottom: 30px;
+ }
+ #BreadcrumbWrapper{
+     padding-bottom: 25px;
+ }
+ div#BreadcrumbWrapper a {
+    color: rgb(21, 112, 166);
+    font-weight: bold;
+}
