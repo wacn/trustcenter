@@ -85,15 +85,15 @@ layout: TrustCenterPageCN
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>安全事件和滥用报告</strong><br/>若要报告 Azure 和 Office 365 的可疑安全问题或滥用情况，请联系<a target="_self" class="mscom-link withArrow" href="../security/networksecurity-cn.html">客户支持。</a></span>
+                        <li><span><strong>安全事件和滥用报告</strong><br/>若要报告 Azure 和 Office 365 的可疑安全问题或滥用情况，请联系客户支持。</span>
                         <br/>
                         <!--<a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>-->
                         </li>
                     </ul>
                      <p>可点击下方了解更多 Azure 和 Office 365 详细信息</p>
                      <ul>
-                        <li><a target="_blank" class="mscom-link" href="../cloudservices/azure-cn.html">Azure</a></li>
-                        <li><a target="_blank" class="mscom-link" href="../cloudservices/office-365-cn.html">Office 365</a></li>
+                        <li><a target="_blank" class="mscom-link" href="../security/azuresecurity-cn.html">Azure</a></li>
+                        <li><a target="_blank" class="mscom-link" href="../security/office365security-cn.html">Office 365</a></li>
                      </ul>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
@@ -102,9 +102,9 @@ layout: TrustCenterPageCN
                      <h1>更多信息</h1>
                      <!--<label><a target="_self" class="mscom-link" href="../security/default-cn.html">Active Directory</a></label><br/>-->
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">虚拟网络</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/networking/">HDInsight</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/hdinsight/">Microsoft Azure 的身份和访问管理</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/networking/">虚拟网络</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/hdinsight/">HDInsight</a></label><br/>
                   </div>
                </div>
             </div>

@@ -91,15 +91,18 @@ layout: TrustCenterPage
                     </ul>
                      <p>Get the specifics about the robust security at the core of Azure and Office 365 services. </p>
                      <ul>
-                        <li><a target="_blank" class="mscom-link" href="../cloudservices/azure.html">Azure</a></li>
-                        <li><a target="_blank" class="mscom-link" href="../cloudservices/office-365.html">Office 365</a></li>
+                        <li><a target="_blank" class="mscom-link" href="../security/azuresecurity-cn.html">Azure</a></li>
+                        <li><a target="_blank" class="mscom-link" href="../security/office365security-cn.html">Office 365</a></li>
                      </ul>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link" href="../security/default.html">Identity and access management in the Microsoft cloud</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/networking/">Networking</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/hdinsight/">HDInsight</a></label><br/>
                   </div>
                </div>
             </div>
