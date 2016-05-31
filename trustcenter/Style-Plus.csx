@@ -36,7 +36,7 @@ i .color_red{
      padding-bottom: 25px;
  }
  div#BreadcrumbWrapper a ,div#ContentWrapper1 a{
-    color: rgb(21, 112, 166);
+    color: #0081c6;
     font-weight: bold;
 }
  div#BreadcrumbWrapper ,div#ContentWrapper1{
