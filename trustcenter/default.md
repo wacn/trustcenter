@@ -256,18 +256,7 @@ layout: TrustCenterPage
             </div>
          </div>
          <div class="row-fluid whatsNew wider" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="https://c.s-microsoft.com/en-us/CMSImages/group-people.jpg?version=4e0749fd-a9c9-2546-0da3-09ea49878089" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear right">
-               <h1>What’s new</h1>
-               <p><a target="_blank" class="mscom-link" href="https://blogs.microsoft.com/eupolicy/2016/04/11/microsofts-commitments-including-dpa-cooperation-under-the-eu-u-s-privacy-shield/">Microsoft pledges to sign up for the EU-U.S. Privacy Shield.</a> John Frank, Microsoft VP EU Government Affairs, explains the company’s pledge to sign up and make new commitments
-                  to advance privacy.
-               </p>
-               <p style="display:none"><a target="_blank" class="mscom-link" href="https://azure.microsoft.com/en-us/blog/microsoft-first-global-csp-to-receive-the-cloud-security-mark-gold-accreditation/">Microsoft is the first global CSP to receive the CS Mark (Gold) accreditation.</a> In Japan, the Cloud Service Mark is the first security standard for CSPs, and is based on ISO/IEC 27017,
-                  the international code of practice for information security controls.
-               </p>
-               <a target="_self" class="mscom-link withArrowRight" href="../what-is-new/default.html">More
-               <img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To What's New' " width="21" height="19" /></a>
-            </div>
+            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left" style="width:99%"><img src="../Images/group-people-big.jpg" class="mscom-image" alt="Image of a group of people"/></div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">

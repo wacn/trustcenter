@@ -58,7 +58,7 @@ layout: TrustCenterPageCN
                </p>
                <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute</a></strong> 可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
                </p>
-               <p><strong><a target="_self" class="mscom-link withArrow" href="#">网络安全组</a>/strong> 可用于对 Azure 虚拟网络中一个或多个虚拟机 ( VM ) 的通讯进行控制。网络安全组 ( NSG ) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
+               <p><strong><a target="_self" class="mscom-link withArrow" href="#">网络安全组</a></strong> 可用于对 Azure 虚拟网络中一个或多个虚拟机 ( VM ) 的通讯进行控制。网络安全组 ( NSG ) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
                </p>
                <p><strong>强制信道</strong> 可供您重定向，或“强制”让所有发往互联网的流量通过站点到站点 VPN 信道重新回到您的内部部署位置，以进行检查或审计。在不使用强制信道的情况下，您的 Azure 虚拟机发往互联网的流量会通过 Azure 网络基础结构直接发送至互联网，您将无法对这样的流量进行检查或审计。
                 <br/><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/traffic-manager/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
