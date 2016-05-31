@@ -39,3 +39,7 @@ i .color_red{
     color: rgb(21, 112, 166);
     font-weight: bold;
 }
+ div#BreadcrumbWrapper ,div#ContentWrapper1{
+    color: rgb(21, 112, 166);
+    font-weight: bold;
+}
