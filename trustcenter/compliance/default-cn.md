@@ -4,7 +4,7 @@ layout: TrustCenterPageCN
 <div class="row-fluid">
    <div class="span">
       <div>
-         <div class="row-fluid wider hero grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
+         <div class="row-fluid wider hero grid-container" style="padding-bottom: 30px;" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <div bi:type="slideshow" class="slideshow slideshow-hero hero" xmlns:bi="urn:schemas-microsoft-com:mscom:bi">
                   <ul bi:type="list" class="slides">
@@ -46,8 +46,8 @@ layout: TrustCenterPageCN
                </div>
             </div>
          </div>
-         <div class="row-fluid grid-container mscom-grid-container breadcrumbs" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 合规性 </div>
+         <div class="row-fluid grid-container mscom-grid-container breadcrumbs" style="padding-bottom: 25px;color:rgb(21, 112, 166);font-weight: bold;" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html" style="color:rgb(21, 112, 166)">信任中心</a> // 合规性 </div>
          </div>
          <div id="" class="row-fluid grid-container mscom-grid-container subpageBody noBottomBorder" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
