@@ -6,7 +6,6 @@ layout: TrustCenterPage
       <div>
          <div class="row-fluid wider hero grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-               <br />
                <div bi:type="slideshow" class="slideshow slideshow-hero hero" xmlns:bi="urn:schemas-microsoft-com:mscom:bi">
                   <ul bi:type="list" class="slides">
                      <li id="slide-1" bi:index="0" selectBi="" style="display:none;">
