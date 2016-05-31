@@ -196,7 +196,7 @@ layout: TrustCenterPageCN
                </div>
             </div>
          </div>
-         <div class="row-fluid grid-container mscom-grid-container certImageTable wider" id="Icons" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
+         <div class="row-fluid grid-container mscom-grid-container certImageTable wider" style="width: 65%;padding-top: 38px;" id="Icons" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <div class="certImageContainer">
                   <div class="row-fluid certImageColor" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
