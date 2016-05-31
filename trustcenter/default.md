@@ -255,8 +255,8 @@ layout: TrustCenterPage
                </div>
             </div>
          </div>
-         <div class="row-fluid whatsNew wider" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left" style="width:99%"><img src="../Images/group-people-big.jpg" class="mscom-image" alt="Image of a group of people"/></div>
+         <div class="row-fluid whatsNew wider" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2" style="background-color: white;">
+            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left" style="width:100%"><img src="../Images/group-people-big.jpg" class="mscom-image" alt="Image of a group of people"/></div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
