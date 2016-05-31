@@ -51,54 +51,52 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>人员和数据是您最重要的资产，因此，在您考虑选择 Office 365 满足生产力需求时，世纪互联希望尽一切所能预先为您排疑解惑。 
+               <p>人员和客户数据是您最重要的资产，因此，在您考虑选择 Office 365 满足生产力需求时，世纪互联希望尽一切所能预先为您排疑解惑。 世纪互联信任中心是分享我们的承诺和信任相关的信息的地方。
                </p>
-               <p>通过多年领先的技术实践和提供在线服务的经验积累，由世纪互联运营的Office 365采用的安全技术健全强大，令您安全无忧。作为Office 365的客户，您将享受到多项微软授权世纪互联使用的技术。这些技术凝聚了微软在线服务数据安全领域十多年来的投资成果及丰富经验。</p>
-               <p>世纪互联在安全方面的实践具有扩展性，并结合了为各地区各行业提供服务的实践。内置安全功能保证了数据自开始存放到到达用户设备时的安全。</p>
-               <p>在服务层面上，世纪互联运营的 Office 365 采用深度防御方法，提供物理、逻辑和数据安全层功能和操作的最佳实践。 此外，Office 365 还为您提供了企业级用户和管理员控制，帮助您进一步保护运营环境。</p>
+               <p>通过多年领先的技术实践和提供在线服务的经验积累，由世纪互联运营的 Office 365 采用的安全技术健全强大，令您安全无忧。作为 Office 365 的客户，您将享受到多项微软授权世纪互联使用的技术。这些技术凝聚了微软在线服务数据安全领域十多年来的投资成果及丰富经验。</p>
+               <p>世纪互联在安全方面的实践具有扩展性，并结合了为各地区各行业提供服务的实践。内置安全功能保证了客户数据自开始存放到到达用户设备时的安全。</p>
+               <p>在服务层面上，世纪互联运营的 Office 365 采用深度防御方法，提供物理、逻辑和数据安全层面的安全功能，并使用运营最佳实践提供服务。 此外，Office 365 还为您提供了企业级用户和管理员控制，帮助您进一步保护运营环境。</p>
                <label>物理安全性</label>
                <ul>
-                  <li>24小时监控的物理数据中心</li> 
-                  <li>多重身份验证，包括访问数据中心时的生物识别扫描。</li> 
-                  <li>内部数据中心网络与外部网络分离，网络间传输数据加密</li> 
-                  <li>角色分离可保证具备物理访问权限的人员无法了解具体客户数据的位置。</li> 
-                  <li>发生故障的驱动器和硬件将在消磁后销毁。</li> 
+                  <li>24 小时监控的物理数据中心</li> 
+                  <li>多重身份验证，包括访问数据中心时的生物识别扫描</li> 
+                  <li>内部数据中心网络与外部网络分离，网络间传输客户数据加密</li> 
+                  <li>角色分离可保证具备物理访问权限的人员无法了解具体客户客户数据的位置</li> 
+                  <li>发生故障的驱动器和硬件将在消磁后销毁</li> 
                </ul>
                <label>逻辑安全性</label>
                <ul>
-                  <li>锁箱流程确保严格受监督的升级流程，极大地限制他人对您数据的访问。</li>
-                  <li>服务器仅运行已认证的进程，将恶意代码风险控制在最低限度。</li>
-                  <li>专业威胁管理团队主动预测、防御和减少恶意访问。</li>
-                  <li>反恶意软件及垃圾邮件控制技术先进，而且系统管理员能够简单的使用并定制。</li>
-                  <li>应用开发遵循安全开发生命周期（Security Development Lifecycle），保证设计满足安全及隐私的要求。</li>
-                  <li>基于微软技术的安全控制能提供多种选择配置，可根据您的特定需要，量身定制。</li>
+                  <li>锁箱流程确保严格受监督的升级流程，极大地限制他人对您客户数据的访问</li>
+                  <li>服务器仅运行已认证的进程，将恶意代码风险控制在最低限度</li>
+                  <li>专业威胁管理团队主动预测、防御和减少恶意访问</li>
+                  <li>反恶意软件及垃圾邮件控制技术先进，而且系统管理员能够简单的使用并定制</li>
+                  <li>应用开发遵循安全开发生命周期（ Security Development Lifecycle ），保证设计满足安全及隐私的要求</li>
+                  <li>基于微软技术的安全控制能提供多种选择配置，可根据您的特定需要，量身定制</li>
                </ul>
                <label>数据安全性</label>
                <ul>
-                  <li>租户数据逻辑分隔。</li>
-                  <li>威胁管理、安全监控和文件/数据完整性可防止或检测任何数据篡改。</li>
+                  <li>租户客户数据逻辑分隔</li>
+                  <li>威胁管理、安全监控和文件/数据完整性可防止或检测任何客户数据篡改</li>
                </ul>
                <label>管理员和用户控制</label>
                <ul>
-                  <li>多重身份验证可通过电话等第二因素保护服务访问。</li>
-                  <li>S/MIME 提供基于证书的安全电子邮件访问。</li>
-                  <li>Office 365 消息加密允许您发送加密电子邮件。</li>
-                  <li>数据防丢失可与权限管理和 Office 365 消息加密结合使用，赋予管理员更大的控制权，使之可以应用恰当的策略保护敏感数据。</li>
-                  <li>Office 365系统管理访问受控于基于角色的访问控制流程(RBAC)   </li>
-                  <li>可通过包括Windows Active Directory， Azure Active Directory，Active Directory Federation Services的身份认证系统及服务来安全访问Office 365</li>
-                  <li>依法保留、治理及归档功能，使得系统管理员能够为法律及归档目的控制敏感数据。</li>
+                  <li>多重身份验证可通过电话等第二因素保护服务访问</li>
+                  <li>S/MIME 提供基于证书的安全电子邮件访问</li>
+                  <li>Office 365 消息加密允许您发送加密电子邮件</li>
+                  <li>数据防丢失功能防止敏感数据向组织内部和外部泄露</li>
+                  <li>Office 365 系统管理访问受控于基于角色的访问控制流程( RBAC )   </li>
+                  <li>Windows Active Directory， Azure Active Directory，Active Directory Federation Services 的身份认证系统及服务可以被开启以实现对 Office 365 的高级别安全访问</li>
+                  <li>依法保留、治理及归档功能，使得系统管理员能够为法律及归档目的控制敏感数据</li>
                </ul>
-               <label>更多资源：</label>
-               <p><a target="_self" class="mscom-link withArrow" href="http://www.21vbluecloud.com/office365/trustcenter/faq.html">由世纪互联运营的 Office 365 的十大常见问题</a></p>
-               <p><a target="_self" class="mscom-link withArrow" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 安全与隐私功能陈述</a></p>
-               <p><a target="_self" class="mscom-link withArrow" href="http://www.21vbluecloud.com/office365/trustcenter/onlineservices.html">Office 365 信任中心所支持的服务</a></p>
-               <p><a target="_self" class="mscom-link withArrow" href="http://www.21vbluecloud.com/smarket/download.html?type=4&tag=5">《由世纪互联运营的Windows Azure 和 Office 365 云服务运营模式》</a></p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/TrustCenter/">Office 365信任中心</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="#">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/trustcenter/onlineservices.html">Office 365 信任中心所支持的服务</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 安全与隐私功能陈述</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="#">由世纪互联运营的Microsoft Azure和Office 365云服务运营模式</a></label><br/>
                   </div>
                </div>
             </div>

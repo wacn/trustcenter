@@ -23,7 +23,7 @@ layout: TrustCenterPage
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Office 365 安全性</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Office 365</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -68,15 +68,14 @@ layout: TrustCenterPage
                         <li>Security processes that monitor, anticipate, and mitigate threats to protect your Customer Data.</li>
                     </ul>
                     <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />Learn more</a></p>
-                    <label>Privacy</label>
+                    <label>Privacy</label></br>
                     <label class="subhead">Data ownership and what it means</label>
                     <ul>
                         <li>You are the owner of your Customer Data; 21Vianet is the processor of your Customer Data. </li>
                         <li>It’s your Customer Data, so if you ever choose to leave the service, you can take your Customer Data with you. 
-                            <ul type="circle">
+                            <ul style="type:circle">
                                 <li>You own your Customer Data and retain the rights, title, and interest in the Customer Data you store in Office 365 operated by 21Vianet. </li>
-                                <li>You can take your data with you. You can download a copy of all of your data at any time and for any reason, without any assistance from 21Vianet.</li>
-                                <li>
+                                <li>You can take your data with you. You can download a copy of all of your data at any time and for any reason, without any assistance from 21Vianet.
                                     <ul>
                                         <li>Exchange Online data, including emails, calendar appointments, contacts, and tasks, can be downloaded to a local computer by any end user at any time via the Import and Export wizards.</li>
                                         <li>SharePoint Online documents can be downloaded at any time from the workspace into your local computer.</li>
@@ -124,7 +123,10 @@ layout: TrustCenterPage
                     <p>Moving to a cloud service shouldn’t mean losing knowledge of what’s going on. With Office 365, it doesn’t. We aim to be transparent in our operations so you can monitor the state of your service, track issues, and have historical view of availability.</p>
                     <p>The high availability of the services comes from years of experience in running online services. Based on Microsoft licensed technologies, the services combine robust recovery-oriented design by Microsoft, continuous learning, and consistent communication to deliver high quality and a great customer experience.</p>
                     <label class="subhead">Data location and access</label>
-                    <p><i class="color_red">We maintain multiple copies of your Customer Data, across the Office 365 operated by 21Vianet datacenters, for redundancy and will share with you where your Customer Data is located. </i> We tell you who has access to your Customer Data and under what circumstances.</p>
+                    <ul>
+                        <li><i class="color_red">We maintain multiple copies of your Customer Data, across the Office 365 operated by 21Vianet datacenters, for redundancy and will share with you where your Customer Data is located. </i></li>
+                        <li>We tell you who has access to your Customer Data and under what circumstances.</li>
+                    </ul>
                     <label class="subhead">Support with a human face</label>
                     <ul>
                         <li>You have phone support for critical issues 24 hours a day, 365 days a year.</li>

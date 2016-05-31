@@ -52,11 +52,11 @@ layout: TrustCenterPage
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
               <label>Location of Customer Data</label>
-              <p>Microsoft Azure and Office 365 Operated by 21Vianet are built on the premise that for you to control your Customer Data in the cloud, you require visibility into that data. You must also know, through clearly stated and readily available policies and procedures, how we help secure your Customer Data, who can access it and under what circumstances. And you can review the third-party audits and certifications.
+              <p>Microsoft Azure and Office 365 operated by 21Vianet are built on the premise that for you to control your Customer Data in the cloud, you require visibility into that data. You must also know, through clearly stated and readily available policies and procedures, how we help secure your Customer Data, who can access it and under what circumstances. And you can review the third-party audits and certifications.
               </p>
-              <p>21Vianet operates Azure and Office 365 services in data centers located exclusively in mainland China.</p>
-              <p>Customers may specify the region(s) of the datacenters in which Customer Data will be stored. Available regions are shown below.</p>
-              <p style="font-size:12px">REGION</p>
+              <p>21Vianet operates Azure and Office 365 services in datacenters located exclusively in mainland China.</p>
+              <p>Azure customers may specify the region(s) of the datacenters in which Customer Data will be stored. Available regions for Azure are shown below.</p>
+              <p style="font-size:12px">AZURE REGIONS</p>
               <p>
               <table border="0" cellspacing="0" cellpadding="0" class="table">
                 <tbody>
@@ -69,10 +69,12 @@ layout: TrustCenterPage
                 </tbody>
               </table>
               </p>
+              <p>Office 365 customers have their Customer Data stored and replicated in datacenters located in mainland China.</p>
               <ul>
-                 <li>21Vianet may transfer Customer Data between regions for data redundancy or other purposes. For example, Azure and Office 365 replicates Blob and Table data between two regions within China for enhanced data durability in case of a major data center disaster.</li>
+                 <li>For Azure, 21Vianet may transfer Customer Data between regions for data redundancy or other purposes. For example, Azure replicates Storage content between two regions within China for enhanced data durability in case of a major datacenter disaster.</li>
+                 <li>For Office 365, 21Vianet will store Customer Data, such as Exchange Online mailbox content, in both datacenters in case of a major datacenter incident.</li>
                  <li>Our suppliers (including Microsoft, which provides the Azure and Office 365 technology on which our services run) do not have logical or physical access to Customer Data. In limited circumstances, we may authorize a supplier to access systems containing Customer Data when necessary to help troubleshoot a customer support incident or address technical issues. We will grant such access only for the duration necessary to resolve the issue. We carefully monitor the access given and terminate the access when the issue is resolved.</li>
-                 <li>We do not control or limit the regions from which customers or their end users may access Customer Data.</li>
+                 <li>We do not control or limit the geographic locations from which customers or their end users may access Customer Data.</li>
               </ul>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

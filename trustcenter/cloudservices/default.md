@@ -69,7 +69,7 @@ layout: TrustCenterPage
                 <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
-                <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a secure cloud-based productivity experience.
+                <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a highly secure cloud-based productivity experience.
                     <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
@@ -87,14 +87,14 @@ layout: TrustCenterPage
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <label style="line-height:2em">21Vianet is committed to securing and protecting your data</label>
-                        <p>As cloud services gain maturity and traction in the marketplace, securing and protecting data becomes increasingly important. For the Azure and Office 365 services 21Vianet stands behind four key commitments regarding 
-                        <a target="_self" class="mscom-link" href="#">customer data</a>.
+                        <p>As cloud services gain maturity and traction in the marketplace, securing and protecting Customer Data becomes increasingly important. For the Azure and Office 365 services 21Vianet stands behind four key commitments regarding 
+                        <a target="_self" class="mscom-link" href="#">Customer Data</a>.
                         </p>
                         <ul>
-                            <li><a target="_self" class="mscom-link" href="#">We work to secure your data.</a></li>
-                            <li><a target="_self" class="mscom-link" href="#">We work to keep your data private and under your control.</a></li>
+                            <li><a target="_self" class="mscom-link" href="#">We work to secure your Customer Data.</a></li>
+                            <li><a target="_self" class="mscom-link" href="#">We work to keep your Customer Data private and let Customer Data under your control.</a></li>
                             <li><a target="_self" class="mscom-link" href="#">We help you meet key compliance requirements.</a></li>
-                            <li><a target="_self" class="mscom-link" href="#">We are transparent about where your data is stored and how it is handled.</a></li>
+                            <li><a target="_self" class="mscom-link" href="#">We are transparent about where your Customer Data is stored and how it is handle</a></li>
                         </ul>
                     </div>
                 </div>

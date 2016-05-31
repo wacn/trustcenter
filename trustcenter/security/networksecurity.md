@@ -53,7 +53,7 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                <p>Microsoft Azure and Office 365 operated by 21Vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Azure and Office 365 services. The Azure and Office 365 network infrastructure blocks undesirable traffic to and within datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces. 
                </p>
-               <label>Microsoft Azure Operated by 21Vianet</label>
+               <label>Microsoft Azure operated by 21Vianet</label>
                <p><strong>Virtual Network</strong> extends your on-premises network to the cloud through site-to-site VPN. You control the network topology and manage it just like your on-site infrastructure. Each virtual network is isolated from other virtual networks. 
                 <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/services/virtual-network/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>

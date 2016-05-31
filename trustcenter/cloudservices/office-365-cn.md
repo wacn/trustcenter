@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
                 <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                    <p>由世纪互联运营的 Office 365 是在中国大陆独立运营的公有云服务，由<a target="_self" class="mscom-link" href="#">北京世纪互联宽带数据中心有限公司</a>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。它采用与微软服务于全球的Office 365云服务一致的技术，为客户提供与全球一致的服务质量保障。</p>
+                    <p>由世纪互联运营的 Office 365 是在中国大陆独立运营的公有云服务，由<a target="_self" class="mscom-link" href="#">北京世纪互联宽带数据中心有限公司</a>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。它采用与微软服务于全球的 Office 365 云服务一致的技术，为客户提供与全球一致的服务质量保障。</p>
                     <p>世纪互联运营的 Office 365 提供的在线生产力和协作解决方案世纪互联提供的可信赖的 Office 365 服务可以帮助企业拓展业务，符合不同行业的合规要求。</p>
                     <p>作为由世纪互联运营的 Office 365 的客户，您可享受到：</p>
                     <ul>
@@ -59,7 +59,7 @@ layout: TrustCenterPageCN
                         <li>源于微软数十年来服务全球客户的丰富在线服务经验而开发的 Office 365 技术。</li>
                     </ul>
                     <p>我们深知，作为 Office 365 的客户，您充分信任我们会保护您的客户数据。我们珍视您的信任，您的数据隐私和安全也是我们最关心的问题之一。我们努力在安全、隐私保护、合规实践和透明度方面保持业界领先地位。</p>
-                    <p>我们作为云服务领导者，致力维护客户对Office 365 的信任。我们在信任领域的承诺可通过信任中心的四大原则进行阐述。</p>
+                    <p>我们作为云服务领导者，致力维护客户对 Office 365 的信任。我们在信任领域的承诺可通过信任中心的四大原则进行阐述。</p>
                     <label>安全性：我们的综合方法</label>
                     <p>保护您的客户数据的安全是我们的首要目标。Office 365 采用深度防御的方法提供了业界领先的物理、逻辑，和数据中心以及客户数据的安全。为了进一步保护您的 IT 环境，我们还为您提供了企业级的用户和管理控制。</p>
                     <ul>
@@ -67,16 +67,15 @@ layout: TrustCenterPageCN
                         <li>我们提供灵活的安全设置，使您有效控制自己的客户数据。</li>
                         <li>我们的安全流程能够监控、预测和减少威胁，从而保护您的客户数据。</li>
                     </ul>
-                    <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />Learn more</a></p>
-                    <label>隐私保护</label>
+                    <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />了解更多</a></p>
+                    <label>隐私保护</label></br>
                     <label class="subhead">数据所有权及其含义</label>
                     <ul>
                         <li>您是客户数据的所有者，世纪互联只是您的客户数据的保管者或处理者。</li>
                         <li>您的客户数据始终归您所有，因此如果您选择不再使用这些服务，您可以带走这些客户数据。
                             <ul type="circle">
                                 <li>您对自身客户数据拥有所有权，对于您在世纪互联运营的 Office 365 中存储的所有客户数据，您拥有保留权利、所有权及权益。</li>
-                                <li>您可以带走自己的数据。您无需世纪互联帮助，可以随时出于任何原因下载自己所有数据的副本。</li>
-                                <li>
+                                <li>您可以带走自己的数据。您无需世纪互联帮助，可以随时出于任何原因下载自己所有数据的副本。
                                     <ul>
                                         <li>通过导入和导出向导，任何最终用户都可随时将 Exchange Online 数据（包括电子邮件、日历约会、联系人、任务)下载到本地计算机。</li>
                                         <li>可随时将 SharePoint 联机文档从工作空间下载到本地计算机中。</li>
@@ -93,14 +92,14 @@ layout: TrustCenterPageCN
                     <ul>
                        <li>我们使用您客户数据的唯一目的就是向您提供服务。世纪互联对任何服务操作都没有常设访问权。</li>
                        <li>我们不会向第三方（我们的供应商和分包商除外）披露客户数据，除非经您指示或根据适用法律法规的要求。</li>
-                       <li>如果我们必须向某一第三方披露客户数据，除非法律禁止，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，。如果某一第三方联系我们就您对服务的使用进行投诉（例如，指控您或您的最终用户存在侵权行为），我们会让第三方直接联系您，并且我们可能会将您的基本联系信息提供给第三方。</li>
+                       <li>如果我们必须向某一第三方披露客户数据，除非法律禁止，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，。如果某一第三方联系我们就您对服务的使用进行投诉（例如，指控您或您的最终用户存在侵权行为），我们会让第三方直接联系您，并且我们可能会将您的基本联系信息提供给第三</li>
                     </ul>
                     <label class="subhead">隐私控制</label>
                     <ul>
                         <li>隐私控制允许您配置组织中的哪些人拥有访问权限以及他们有权访问的内容。</li>
                         <li>防止其他使用 Office 365 的用户与您的客户数据相混杂的设计元素。</li>
                         <li>广泛的审核和监督防止管理员未经授权访问您的客户数据。</li>
-                        <li>我们将帮助您展开协作，同时赋予您控制信息共享的能力。</li>
+                        <li>我们将帮助您展开协作，同时赋予您控制信息共享的能</li>
                     </ul>
                     <label>合规性</label>
                     <p>由世纪互联运营的 Office 365 与客户合作以帮助其满足法规要求。我们为客户提供了有关我们的安全性和合规性计划的信息，旨在帮助客户针对其自己的法律和法规要求评估我们的服务。</p>
@@ -108,16 +107,16 @@ layout: TrustCenterPageCN
                     <p>Office 365 还提供了管理员和用户控制，包括电子数据展示、法定保留和数据丢失防护，帮助您满足内部合规性要求。 这些措施都不需要使用额外的内部基础结构。</p>
                     <label class="subhead">独立验证</label>
                     <ul>
-                        <li>经认证，由世纪互联运营的 Office 365 服务满足 ISO/IEC 27001、公安部信息系统安全等级保护(DJCP)三级、可信云服务认证中指定的要求。</li>
+                        <li>经认证，由世纪互联运营的 Office 365 服务满足 ISO/IEC 27001、公安部信息系统安全等级保护 (DJCP) 三级、可信云服务认证中指定的要求。</li>
                     </ul>
                     <label class="subhead">主动法规合规性方法</label>
                     <ul>
                         <li>世纪互联在 Office 365 合规框架中构建了多种控制措施，这使世纪互联能够与不断发展的行业标准保持同步。</li>
-                        <li>一支专业合规性团队持续跟踪标准和法规，开发通用控制集以便产品团队将其构建到服务中。</li>
+                        <li>一支专业合规性团队持续跟踪标准和法规，开发通用控制集以便产品团队将其构建到服务</li>
                     </ul>
                     <label class="subhead">通过客户控制确保组织合规性</label>
                     <ul>
-                        <li>服务中内建的合法保留和电子数据展示功能可以帮您出于法律请求或调查的目的查找、保留、分析，以及打包电子化内容（通常可称之为电子化存储的信息或 ESI）。隐私控制允许您配置组织中的什么人可以访问，以及可以访问哪些信息。  </li>
+                        <li>服务中内建的合法保留和电子数据展示功能可以帮您出于法律请求或调查的目的查找、保留、分析，以及打包电子化内容（通常可称之为电子化存储的信息或 ESI）。隐私控制允许您配置组织中的什么人可以访问，以及可以访问哪些信息。 </li>
                         <li>Office 365 中的数据防丢失帮助您通过深度内容分析识别、监控和保护组织中的敏感信息。</li>
                     </ul>
                     <label>透明度</label>
@@ -127,7 +126,7 @@ layout: TrustCenterPageCN
                     <p><i class="color_red">为保证数据冗余，我们会在由世纪互联运营的Office 365的各个数据中心保存您的客户数据的多个副本，并将告知您客户数据存储的位置。</i>世纪互联帮助您了解在何种情形下谁可以访问您的客户数据。</p>
                     <label class="subhead">人工支持</label>
                     <ul>
-                        <li>您可获得关键问题的7*24*365电话支持。</li>
+                        <li>您可获得关键问题的 7*24*365 电话支持。</li>
                         <li>对于无法由运营人员独自解决的问题，世纪互联会通过现有的流程实时反馈给产品开发团队。</li>
                     </ul>
                     <label class="subhead">世纪互联会为您尽职尽责</label>
@@ -165,13 +164,13 @@ layout: TrustCenterPageCN
                         <li>监视
                             <ul type="circle">
                                 <li>内部监控驱动自动恢复机制。</li>
-                                <li>由外向内的监测对事故发出警告。。</li>
+                                <li>由外向内的监测对事故发出警告。</li>
                                 <li>广泛的诊断机制提供日志、审计与细致的追踪数据。</li>
                             </ul>
                         </li>
                         <li>分布式服务
                             <ul type="circle">
-                                <li>分布式设计的服务，如Exchange Online, SharePoint Online和Skype for Business，限制组件中任何故障的范围并降低其影响。</li>
+                                <li>分布式设计的服务，如 Exchange Online, SharePoint Online 和 Skype for Business，限制组件中任何故障的范围并降低其影响。</li>
                                 <li>在组件服务中复制的目录数据，在任何故障中将失效的服务进行隔离。</li>
                                 <li>简化的操作与部署</li>
                             </ul>
@@ -179,7 +178,7 @@ layout: TrustCenterPageCN
                     </ul>
                     <label class="subhead">Office 365 服务健康仪表盘</label>
                     <img src="" alt=""> <!-- 等待图片链接 -->
-                    <p>Office 365 服务健康仪表盘是为您的组织提供服务健康情况的窗口。作为一个Office 365用户，您可以在仪表盘中得到与您组织相关的服务可用性的详细视图。我们的服务仪表盘能够向您全面展示您所用服务的当前状态甚至告知您何时需要更新许可证。</p>
+                    <p>Office 365 服务健康仪表盘是为您的组织提供服务健康情况的窗口。作为一个 Office 365 用户，您可以在仪表盘中得到与您组织相关的服务可用性的详细视图。我们的服务仪表盘能够向您全面展示您所用服务的当前状态甚至告知您何时需要更新许可证。</p>
                 </div>
                 <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                     <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">

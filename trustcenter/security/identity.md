@@ -53,21 +53,22 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                <p>Azure Active Directory is a comprehensive identity and access management cloud solution that provides a robust set of capabilities to manage users and groups. It helps secure access to on-premises and cloud applications, including Azure and Office 365 services. 
                </p>
-               <label>Microsoft Azure Operated by 21Vianet </label>
-               <p><strong>Azure Active Directory </strong>helps secure access to your data in on-premises and cloud applications, and simplifies the management of users and groups. It combines core directory services, advanced identity governance, security, and application access management. Azure Active Directory also makes it easy for developers to build policy-based identity management into their applications. 
-                <br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
+               <label>Microsoft Azure operated by 21Vianet </label>
+               <p><strong>Azure Active Directory </strong>helps secure access to Customer Data in on-premises and cloud applications, and simplifies the management of users and groups. It combines core directory services, advanced identity governance, security, and application access management. Azure Active Directory also makes it easy for developers to build policy-based identity management into their applications. 
+                <br/><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/identity/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
-               <p><strong>Azure Multi-Factor Authentication </strong>equires the use of more than one verification method to authenticate a user. With this extra layer of authentication for both on-premises and cloud applications, Azure helps safeguard user access to data and applications. It delivers strong authentication with a range of easy verification options while meeting user demand for a simple sign-in process. 
-                <br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
+               <p><strong>Azure Multi-Factor Authentication </strong>requires the use of more than one verification method to authenticate a user. With this extra layer of authentication for both on-premises and cloud applications, Azure helps safeguard user access to Customer Data and applications. It delivers strong authentication with a range of easy verification options while meeting user demand for a simple sign-in process. 
+                <br/><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/multi-factor-authentication/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
-               <label>Office 365 Operated by 21Vianet </label>
+               <label>Office 365 operated by 21Vianet </label>
                <p>Office 365 uses Azure Active Directory as its identity platform. This provides your tenant with strong authentication options and granular control over how IT professionals and users can access and use the service. Office 365 also allows integration with an on-premises Active Directory or other directory stores and identity systems, such as Active Directory Federation Services (ADFS) or third-party secure token systems (STSs), to enable secure, token-based authentication to services. </p>
                <p>With Azure Active Directory you can federate an on-premises Active Directory or other directory stores. This enables all Office 365 users whose identities are based on the federated domain to use their existing corporate logons to authenticate to Office 365. 
                 <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
-               <p>Multi-factor authentication enhances security in a multi-device and cloud-centric world. Azure Active Directory provides an in-house solution for multi-factor authentication with a phone call, text message, or notification on a dedicated app. It also supports third-party multi-factor authentication solutions. </p>
+               <p>Multi-factor authentication enhances security in a multi-device and cloud-centric world. Azure Active Directory provides an in-house solution for multi-factor authentication with a phone call, text message, or notification on a dedicated app. It also supports third-party multi-factor authentication solutions. 
+               </p>
                <p>Once your users have logged in with multi-factor authentication, they will be able to create one or more app passwords for use in Office client applications. 
-                <br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
+                <br/><a target="_self" class="mscom-link withArrow" href="https://support.office.com/en-US/article/Set-up-multi-factor-authentication-for-Office-365-8f0454b2-f51a-4d9c-bcde-2c48e41621c6"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

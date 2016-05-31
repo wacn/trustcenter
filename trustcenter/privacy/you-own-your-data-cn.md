@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">您拥有自己的客户数据</h3>
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">您拥有自己的数据</h3>
                                                 </li>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                             </ul>
@@ -46,66 +46,66 @@ layout: TrustCenterPageCN
         </div>          
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-                <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您拥有自己的客户数据
+                <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您拥有自己的数据
             </div>
         </div>   
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                <p>在由世纪互联运营的 Microsoft Azure 和Office 365服务中，您是客户数据的拥有者。</p>
-                <p>客户数据是由您或其他人代表您在使用服务时提供给Azure 和 Office 365 的所有数据，包括所有文本、声音、软件或图像文件。</p>
+                <p>在由世纪互联运营的 Microsoft Azure 和 Office 365 服务中，您是客户数据的拥有者。</p>
+                <p>客户数据是由您或其他人代表您在使用服务时提供给 Azure 和 Office 365 的所有数据，包括所有文本、声音、软件或图像文件。</p>
                 <p>您的客户数据仅用于向您提供您同意的服务，包括与提供这些服务兼容的目的。您的客户数据不会被用于广告宣传或从中获取信息。</p>
-                <p>无需世纪互联的协助，作为客户数据的拥有者，您可出于任何目的随时访问自己的客户数据。世纪互联为您提供经身份验证和登录的访问权限，便于您访问您的客户数据，并限制世纪互联人员和分包商对您客户数据的访问。世纪互联采取有效措施来防止对您的客户数据不当使用或丢失，并在共享硬件上将您的客户数据与其他客户的数据隔离开来。</p>
+                <p>无需世纪互联的协助，作为客户数据的拥有者，您可出于任何目的随时访问自己的客户数据。世纪互联为您提供经身份验证和登录的访问权限，便于您访问自己的客户数据，并限制世纪互联人员和分包商对您客户数据的访问。世纪互联采取有效措施来防止对您的客户数据不当使用或丢失，并在共享硬件上将您的客户数据与其他客户的数据隔离开来。</p>
                 <ul>
-                    <li><a target="_self" class="mscom-link" href="#">您的客户数据不会被用于广告目的</a></li>
-                    <li><a target="_self" class="mscom-link" href="#">您可以控制何人可访问您的客户数据</a></li>
-                    <li><a target="_self" class="mscom-link" href="#">世纪互联使用逻辑隔离将每个客户的数据互相分隔开来</a></li>
-                    <li><a target="_self" class="mscom-link" href="#">世纪互联提供简单透明的数据使用政策，并获取独立审计</a></li>
-                    <li><a target="_self" class="mscom-link" href="#">世纪互联的分包商有满足我们隐私要求的合同义务</a></li>
+                    <li><a target="_self" class="mscom-link" href="#data_for_advertising">您的客户数据不会被用于广告目的</a></li>
+                    <li><a target="_self" class="mscom-link" href="#your_customer_data">您可以控制何人可访问您的客户数据</a></li>
+                    <li><a target="_self" class="mscom-link" href="#that_of_others">世纪互联使用逻辑隔离将每个客户的数据互相分隔开来</a></li>
+                    <li><a target="_self" class="mscom-link" href="#independent_audits">世纪互联提供简单透明的数据使用政策，并获取独立审计</a></li>
+                    <li><a target="_self" class="mscom-link" href="#shiji_contract">世纪互联的分包商有满足我们隐私要求的合同义务</a></li>
                 </ul>
-                <label>您的客户数据不会被用于广告目的</label>
-                <p>如果没有您的同意，我们不会出于任何广告或其他商业目的使用客户数据或从中获取信息。</p>
-                <p>我们使用客户数据的唯一目的是为您提供服务。除了提供服务和日常的操作，还包括以下内容：</p>
+                <label id="data_for_advertising">您的客户数据不会被用于广告目的</label>
+                <p>如果没有您的同意，我们不会出于任何广告或其他商业目的使用您的客户数据或从中获取信息。</p>
+                <p>我们使用您的客户数据的唯一目的是为您提供服务。除了提供服务和日常的操作，还包括以下内容：</p>
                 <ul>
                     <li>通过故障排除来预防、查找和修复服务运营方面的问题</li>
                     <li>改进用于查找和防御用户所面临威胁的功能</li>
-                    <li>提供个性化的客户体验</li>
+                    <li>提供个性化的客户</li>
                 </ul>
-                <label>您可以控制何人可访问您的客户数据</label>
-                <p>强大的身份验证功能（包括多重身份验证的使用）仅允许被授权人员访问客户数据。样本审计由世纪互联和第三方执行，以证明访问仅出于适当的业务目的。在授予访问权限后，世纪互联将谨慎控制并记录，并在不再需要时及时撤回该等权限。</p>
-                <p>Azure 中客户数据的访问和使用所适用的运行流程和控制措施将由可信任的审计公司严格维护并定期验证。</p>
-                <label>世纪互联使用逻辑隔离将每个客户的数据互相分隔开来</label>
-                <p>Azure和Office 365 是一项多租户服务，这意味着多个客户的部署和虚拟机存储在同一物理硬件上。当来自多个客户的数据存储在共享的物理位置时，Azure 将客户数据分隔开来，使其免于不当使用或丢失，并同时严格防止客户取得其他客户数据的访问权限。其他安全措施包括适当的管理访问控制。</p>
+                <label id="your_customer_data">您可以控制何人可访问您的客户数据</label>
+                <p>强大的身份验证功能（包括多重身份验证的使用）仅允许被授权人员访问您的客户数据。样本审计由世纪互联和第三方执行，以证明访问仅出于适当的业务目的。在授予访问权限后，世纪互联将谨慎控制并记录，并在不再需要时及时撤回该等权限。</p>
+                <p>Azure 和 Office 365 中客户数据的访问和使用所适用的运行流程和控制措施将由可信任的审计公司严格维护并定期验证。</p>
+                <label id="that_of_others">世纪互联使用逻辑隔离将每个客户的数据互相分隔开来</label>
+                <p>Azure 和 Office 365 是一项多租户服务，这意味着多个客户的部署和虚拟机存储在同一物理硬件上。当来自多个客户的数据存储在共享的物理位置时，Azure 和 Office 365 将客户数据分隔开来，使其免于不当使用或丢失，并同时严格防止客户取得其他客户数据的访问权限。其他安全措施包括适当的管理访问控制。</p>
                 <p>世纪互联同时严格防止客户取得其他客户数据的访问权限。其他安全措施包括适当的管理访问控制。</p>
-                <label>世纪互联提供简单透明的数据使用政策，并获取独立审计。</label>
-                <p>世纪互联在线服务隐私声明中清楚直接地为您提供有关我们的数据保护政策和实践的详细信息。</p>
-                <p>世纪互联定期接受审计机构执行的第三方审计，以独立验证我们是否符合我们设定的隐私政策和程序。这些机构记录我们如何满足安全性和合规性目标，我们与您分享这些信息，作为实际机制来验证我们的承诺。<br/><a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Security/Encryption"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a> </p>
+                <label id="independent_audits">世纪互联提供简单透明的数据使用政策，并获取独立审计。</label>
+                <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">世纪互联运营的 Microsoft Azure 的隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a>中清楚直接地为您提供有关我们的数据保护政策和实践的详细信息。</p>
+                <p>世纪互联定期接受审计机构执行的第三方审计，以独立验证我们是否符合我们设定的隐私政策和程序。这些机构记录我们如何满足安全性和合规性目标，我们与您分享这些信息，作为实际机制来验证我们的承诺。<br/><a target="_self" class="mscom-link withArrow" href=""><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a> </p>
                 <label id="shiji_contract">世纪互联的分包商有满足我们隐私要求的合同义务</label>
-                <p>Azure 和Office 365使用分包商履行各类支持服务。世纪互联的分包商仅在需要提供或维护服务时才会访问您的数据。分包商被严格禁止将您的数据用于任何其他用途，同时他们必须保护您信息的机密性。</p>
-                <p>世纪互联要求分包商遵循与世纪互联相同的安全和隐私标准。这一举措意在强化对客户个人信息的处理并实现标准化，确保供应商的业务流程和系统能够满足 世纪互联的合规要求。</p>
+                <p>Azure 和 Office 365 使用分包商履行各类支持服务。世纪互联的分包商仅在需要提供或维护服务时才会访问您的客户数据。分包商被严格禁止将您的客户数据用于任何其他用途，同时他们必须保护您信息的机密性。</p>
+                <p>世纪互联要求分包商遵循与世纪互联相同的安全和隐私标准。这一举措意在强化对客户个人信息的处理并实现标准化，确保供应商的业务流程和系统能够满足世纪互联的合规要求。</p>
                 <ul>
                     <li>对于工作地点或工作所用设备由世纪互联控制的分包商，必须遵守世纪互联的隐私标准。</li>
                     <li>所有其他分包商也必须遵循与世纪互联相同的隐私标准。</li>
                 </ul>
+                <label id="privacy_requirements">微软对您的客户数据的访问</label>
+                <P>微软无权访问客户数据，除非在极少数情况下,世纪互联需要微软的技术协助来对客户支持事件进行故障排除或解决技术问题。世纪互联仅在解决问题所需的时间期限内授予此类访问权限。世纪互联会密切监控此类授权访问，并在问题解决后终止访问权限。</P>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">微软如何定义数据</a></label>
+                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">微软对您的客户数据的访问</label>
                         <p><strong>客户数据</strong>是由您或其他人代表您在使用服务时提供给世纪互联的所有数据，包括所有文本、声音、软件或图像文件。例如，客户数据包括您上载以在服务中存储或处理的数据，以及您或您的最终用户上载以在服务中托管的应用程序。它不包括配置、技术设置或服务记录信息。</p>
                         <p><strong>管理员数据</strong>是在注册、购买或管理服务时提供的有关管理员（包括帐户联系人和订阅管理员）的信息，包括姓名、地址、电话号码和电子邮件地址。</p>
                         <p><strong>元数据</strong>包括配置、技术设置和信息。例如，它包括 Azure 虚拟机的磁盘配置设置和 Azure SQL Database 的数据库设计。</p>
-                        <p><strong>访问控制数据</strong>用于管理对 Azure 或Office 365内其他类型的数据或功能的访问。它包括密码、安全证书和其他与身份验证有关的数据。</p>
-                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where-cn.html">数据中心位置</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data-cn.html#leave_service">数据保留策略</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data-cn.html#shiji_contract">分包商策略</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">微软如何定义数据</a></label><br/>
+                        <p><strong>访问控制数据</strong>用于管理对 Azure 或 Office 365 内其他类型的数据或功能的访问。它包括密码、安全证书和其他与身份验证有关的数据。</p>
+                        <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">客户数据的位置</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">客户数据的访问权限</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#data_retention">客户数据的保留</a></label><br/> 
                     </div>
                 </div>
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
-                        <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私(864 KB, PDF)</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br/>
                     </div>
                 </div>
             </div>

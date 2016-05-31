@@ -131,7 +131,7 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <br />
-               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)">北京世纪互联宽带数据中心有限公司</font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 和 Office 365 技术，为客户提供全球一致的服务质量保障。</p>
+               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)"><a href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a></font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 和 Office 365 技术，为客户提供全球一致的服务质量保障。</p>
                <br/>
                <p>作为由世纪互联运营的 Microsoft Azure 和 Office 365 的客户，可获得以下服务：</p>
                <ul style="padding-left:40px">

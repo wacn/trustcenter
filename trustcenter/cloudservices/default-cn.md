@@ -53,7 +53,7 @@ layout: TrustCenterPageCN
                 <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS-Azure-Title.jpg?version=9ab94844-46b5-5f16-3d32-594cf9d6431b" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
                 <!--<mscom:link instancename="more azure" md:payloadguid="42dea437-6cfb-44a6-afaa-6a7901426bac" classoverride="moreLink withArrow"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
-                <p>Azure为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、合规性及透明性要求。从代码开发到事件响应的每个步骤，安全性和隐私都被优先考虑。
+                <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、合规性及透明性要求。  
                     <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                 </p>
             </div>
@@ -65,11 +65,11 @@ layout: TrustCenterPageCN
                     <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                 </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="padding: 10px 0px;">
                 <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
-                <p>Office 365结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供安全的基于云的生产
+                <p>Office 365 结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供高度安全的基于云的生产
                     <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
@@ -86,15 +86,15 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <label style="line-height:2em">世纪互联承诺保障和保护您数据的安全</label>
-                        <p>随着云服务技术的日趋成熟和市场份额的不断上升，保障和保护数据的安全变得越来越重要。世纪互联对Azure和Office 365服务中的客户数据安全保障基于以下四个基本承诺。
+                        <label style="line-height:2em">世纪互联承诺保障和保护您客户数据的安全</label>
+                        <p>随着云服务技术的日趋成熟和市场份额的不断上升，保障和保护数据的安全变得越来越重要。世纪互联对 Azure 和 Office 365 服务中的客户数据安全保障基于以下四个基本承诺。
                      <!--       <a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#How-MS-Defines">customer data</a>.-->
                         </p>
                         <ul>
-                            <li><a target="_self" class="mscom-link" href="#">我们致力于保护您的数据安全</a></li>
-                            <li><a target="_self" class="mscom-link" href="#">我们致力于保护您数据的隐私性且在您的控制下。</a></li>
+                            <li><a target="_self" class="mscom-link" href="#">我们致力于保护您的客户数据安全</a></li>
+                            <li><a target="_self" class="mscom-link" href="#">我们致力于保护您客户数据的隐私性，使得数据在您的控制之下。</a></li>
                             <li><a target="_self" class="mscom-link" href="#">我们帮助您满足合规要求。</a></li>
-                            <li><a target="_self" class="mscom-link" href="#">我们的透明性在于您知道您的数据存储在何处以及如何处</a></li>
+                            <li><a target="_self" class="mscom-link" href="#">我们的透明性在于您知道您的客户数据存储在何处以及如何处</a></li>
                         </ul>
                     </div>
                 </div>
@@ -106,7 +106,7 @@ layout: TrustCenterPageCN
                         <p>安全性</p></br>
                         <label><a target="_blank" class="mscom-link" href="/file/AzureNetworkSecurity_v3_Feb2015 - CN_20150906">Azure 网络安全</a></label><br />
                         <p>隐私保护</p></br>
-                        <label><a target="_blank" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">保护云中数据和隐私(864 KB, PDF)</a></label><br />
+                        <label><a target="_blank" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">保护云中数据和隐私 (864 KB, PDF)</a></label><br />
                     </div>
                 </div>
             </div>

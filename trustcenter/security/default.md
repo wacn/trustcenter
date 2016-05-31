@@ -59,37 +59,40 @@ layout: TrustCenterPage
                     <ul>
                         <li><span><strong>Design and operational security</strong><br/>Microsoft Azure and office 365 operated by 21Vianet begin with a trustworthy technology foundation. Applications licensed by Microsoft to 21Vianet are built using Microsoft’s Security Development Lifecycle, which ensures that security and privacy are incorporated by design. “Assume breach” stance is used as a security strategy. The 21Vianet incident-response team works around the clock to mitigate the effects of any attacks against Azure and Office 365services. As an Azure and Office 365 customer, you benefit from the Microsoft technologies that we have licensed to deliver the Services. These technologies represent over a decade of investments and deep experience in providing security for online services. </span>
                         <br/>
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
+                        <a target="_self" class="mscom-link withArrow" href="../security/designopsecurity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Encryption</strong><br/>Technological safeguards, such as encrypted communications and operational processes, enhance the security of our customers’ data. For data in transit, Azure and Office 365 use industry-standard transport protocols between user devices and the datacenters, and within datacenters themselves. Azure and Office 365 offer a wide range of encryption capabilities, giving you the flexibility to choose the solution that best meets your needs.</span>
                         <br/>
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
+                        <a target="_self" class="mscom-link withArrow" href="../security/encryption.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Identity and access management</strong><br/>Azure Active Directory enables customers to manage access to Azure and Office 365 and a world of other cloud apps. Azure Active Directory is a comprehensive identity and access management cloud solution that helps secure access to your Customer Data and on-premises and cloud applications, and helps simplify the management of users and groups. It combines core directory services, advanced identity governance, security and application access management.  Azure Active Directory also makes it easy for developers to build policy-based identity management into their applications.</span>
                         <br/>
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
+                        <a target="_self" class="mscom-link withArrow" href="../security/identity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Threat Management</strong><br/>Microsoft Azure and Office 365 operated by 21Vanet help protect against malware threats in multiple ways. Microsoft Antimalware technology licensed to 21Vianet is built for the cloud, and additional antimalware protections are provided for specific services, including Azure and Office 365.</span>
                         <br/>
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
+                        <a target="_self" class="mscom-link withArrow" href="../security/threatmanagement.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Auditing and Logging</strong><br/>To help you manage the large amount of information generated by devices and services running in Microsoft Azure and Office 365 operated by 21Vianet, centralized monitoring, logging, and analysis systems are available that provide continuous visibility, timely alerts, and reports.  </span>
                         <br/>
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
+                        <a target="_self" class="mscom-link withArrow" href="../security/auditingandlogging.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Network Security</strong><br/>Microsoft Azure and Office 365 operated by 21vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Azure and Office 365 services. The services’ network infrastructure blocks undesirable traffic to and within the datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces.</span>
                         <br/>
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
+                        <a target="_self" class="mscom-link withArrow" href="../security/networksecurity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Security Development Lifecycle</strong><br/>Focusing on security as a core component in the software development process can reduce the risk of costly issues, improve the security and privacy of infrastructure and applications, and protect data in Azure and Office 365. The Security Development Lifecycle, which is part of the development process for the technology licensed to 21Vianet, is composed of proven security practices that consist of multiple phases in which core software assurance activities are defined.</span>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
+                        <li><span><strong>Security Incident and Abuse Reporting</strong>To report suspected security issues or abuse of Azure and Office 365, please contact Customer Support.
+                        <!--<a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>-->
+                        </li>
                     </ul>
                      <p>Get the specifics about the robust security at the core of Azure and Office 365 services. </p>
                      <ul>
-                        <li><a target="_blank" class="mscom-link" href="http://o365datacentermap.azurewebsites.net/">Azure</a></li>
-                        <li><a target="_blank" class="mscom-link" href="http://o365datacentermap.azurewebsites.net/">Office 365</a></li>
+                        <li><a target="_blank" class="mscom-link" href="../cloudservices/azure.html">Azure</a></li>
+                        <li><a target="_blank" class="mscom-link" href="../cloudservices/office-365.html">Office 365</a></li>
                      </ul>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

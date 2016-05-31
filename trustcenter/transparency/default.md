@@ -55,7 +55,6 @@ layout: TrustCenterPage
                    <ul>
                       <li><a target="_blank" class="mscom-link" href="#">You know what we do to help secure your Customer Data</a></li>
                       <li><a target="_blank" class="mscom-link" href="#">You know where and how your Customer Data is stored and used</a></li>
-                      <li><a target="_blank" class="mscom-link" href="#">Remote access to Customer Data</a></li>
                       <li><a target="_blank" class="mscom-link" href="#">You know who can access your Customer Data and under what conditions</a></li>
                       <li><a target="_blank" class="mscom-link" href="#">How we respond when law enforcement or a third party asks 21Vianet for Customer Data</a></li>
                       <li><a target="_blank" class="mscom-link" href="#">You can review Microsoft Azure and Office 365 Operated by 21Vianet standards certifications</a></li>
@@ -70,14 +69,13 @@ layout: TrustCenterPage
                       <li>21Vianet will use Customer Data only to provide you the Services. This use may include troubleshooting to prevent, find and fix problems with the operation of the Services. It may also include improving features for finding and protecting against threats to users. </li>
                       <li>If you end your subscription to a service (other than free trials), you can take your Customer Data with you, and 21Vianet follows stringent standards in removing your Customer Data from all systems under its control.</li>
                    </ul>
-                   <label>Remote access to Customer Data</label>
-                   <p>21Vianet ensures that appropriate personnel are available 24 hours a day, 365 days a year. Such personnel may access Customer Data to provide customer support, troubleshoot the service, or comply with legal requirements.</p>
+                   <label id="Who-can-access-Customer-Data">You know who can access your data and under what conditions</label>
+                   <p><strong>Remote access to Customer Data</strong> -- 21Vianet ensures that appropriate personnel are available 24 hours a day, 365 days a year. Such personnel may access Customer Data to provide customer support, troubleshoot the service, or comply with legal requirements.</p>
                    <ul>
                       <li>21Vianet personnel adhere to stringent privacy practices to safeguard Customer Data. </li>
                       <li>21Vianet imposes strict requirements around legal demands for Customer Data. </li>
                       <li>21Vianet does not control or limit the locations in mainland China from which customers or their end users may access Customer Data. </li>
                    </ul>
-                   <label id="Who-can-access-Customer-Data">You know who can access your data and under what conditions</label>
                    <p>21Vianet offers clear policies and guidelines that cover who can access your Azure and Office 365 Customer Data and when. The operational processes and controls that govern access to Customer Data in Azure and Office 365 are rigorously maintained and regularly verified by accredited audit firms.</p>
                    <ul>
                       <li>21Vianet engineers do not have default access to your Customer Data. Instead, they are granted access only when providing services under management oversight. That access is carefully controlled and logged, and revoked as soon as it is no longer needed. 21Vianet and third parties perform sample audits to attest that access is only for legitimate business purposes.</li>
@@ -90,7 +88,7 @@ layout: TrustCenterPage
                       <li>21Vianet believes that its customers should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations.</li>
                       <li>If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited. </li>
                    </ul>
-                   <label id="You-can-review-certifications">the demand, unless legally prohibited</label>
+                   <label id="You-can-review-certifications">You can review Microsoft Azure and Office 365 Operated by 21Vianet standards certifications</label>
                    <p>Microsoft Azure and Office 365 operated by 21Vianet partner with customers to help them address regulatory requirements. By providing customers with compliant, independently verified cloud services, we make it easier for customers to achieve compliance for the infrastructure and applications they run in Microsoft Azure and Office 365 operated by 21Vianet. We provide customers with information about our security and compliance programs, to help customers assess our services against their own legal and regulatory requirements.</p>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

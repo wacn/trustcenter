@@ -23,7 +23,7 @@ layout: TrustCenterPage
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">You own your Customer Data</h3>
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">You own your own data</h3>
                                                 </li>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                             </ul>
@@ -46,21 +46,21 @@ layout: TrustCenterPage
         </div>          
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // 
-                <a target="_self" class="mscom-link" href="../privacy/default.html">Privacy</a> // You own your Customer Data
+                <a target="_self" class="mscom-link" href="../privacy/default.html">Privacy</a> // You own your own data
             </div>
         </div>   
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                <p>With Microsoft Azure and Office 365 Operated by 21Vianet, you are the owner of your Customer Data.</p>
+                <p>With Microsoft Azure and Office 365 operated by 21Vianet, you are the owner of your Customer Data.</p>
                 <p>We define Customer Data as all data, including text, sound, video, or image files and software, that you provide to Azure and Office 365, or is provided on your behalf, through use of the enterprise online services that make up Azure and Office 365.</p>
-                <p>21Vianet will use your Customer Data only to provide the services we have agreed upon, and for purposes that are compatible with providing those services. We do not share your data with our advertiser-supported services, nor do we mine it for marketing or advertising.</p>
-                <p>You can access your Customer Data at any time and for any reason without assistance from 21Vianet. We restrict access to it by 21Vianet personnel and subcontractors. We provide simple, transparent data-use policies and get independent audits. On shared hardware, we also segregate your data from that of other customers.</p>
+                <p>21Vianet will use your Customer Data only to provide the services we have agreed upon, and for purposes that are compatible with providing those services. We do not share your Customer Data with our advertiser-supported services, nor do we mine it for marketing or advertising.</p>
+                <p>You can access your Customer Data at any time and for any reason without assistance from 21Vianet. We restrict access to it by 21Vianet personnel and subcontractors. We provide simple, transparent data-use policies and get independent audits. On shared hardware, we also segregate your Customer Data from that of other customers.</p>
                 <ul>
                     <li><a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#data">21Vianet does not use Customer Data for advertising</a></li>
                     <li><a target="_self" class="mscom-link" href="#">You control who has access to your Customer Data</a></li>
                     <li><a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#isolation">We use logical isolation to segregate each customer’s data from that of others</a></li>
                     <li><a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#policies">We provide simple, transparent data-use policies and get independent audits</a></li>
-                    <li><a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors">Our subcontractors are under contract to meet our privacy requirements</a></li>
+                    <li><a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors">Our subcontractors are under contract to meet our privacy requiremen</a></li>
                 </ul>
                 <label>We do not use Customer Data for advertising</label>
                 <p>21Vianet does not share enterprise Customer Data with our advertiser-supported services, nor do we mine it for marketing or advertising. This policy is backed by our enterprise cloud service agreements.</p>
@@ -68,24 +68,26 @@ layout: TrustCenterPage
                 <ul>
                     <li>Troubleshooting aimed at preventing, detecting, and repairing problems affecting the operation of services.</li>
                     <li>Ongoing improvement of features, such as those that improve the reliability of our services, or involve the detection of, and protection against, threats to the services or Customer Data (such as malware or spam).</li>
-                    <li>Providing personalized customer experiences.</li>
+                    <li>Providing personalized customer experience</li>
                 </ul>
-                <label>You control who has access to your Customer Data. </label>
+                <label>You control who has access to your Customer Data  </label>
                 <p>Strong authentication, including the use of multi-factor authentication, helps limit access to Customer Data to authorized personnel only. Sample audits are performed by both 21Vianet and third parties to attest that access is only for appropriate business purposes. When access is granted, it is carefully controlled and logged, and revoked as soon as it is no longer needed.</p>
-                <p>The operational processes and controls that govern access and use of Customer Data in Azure are rigorously maintained and regularly verified by accredited audit firms.</p>
+                <p>The operational processes and controls that govern access and use of Customer Data in Azure and Office 365 are rigorously maintained and regularly verified by accredited audit firms.</p>
                 <label>We use logical isolation to segregate each customer’s data from that of others</label>
-                <p>Microsoft Azure and Office 365 Operated by 21Vianet are multi-tenant services, meaning that your data, deployments, and virtual machines may be stored on the same physical hardware as that of other customers. When data from many customers is stored at a shared physical location, Azure and Office 365 logically segregate storage and processing for different customers through specialized technology engineered specifically for the purpose.</p>
+                <p>Microsoft Azure and Office 365 operated by 21Vianet are multi-tenant services, meaning that your Customer Data, deployments, and virtual machines may be stored on the same physical hardware as that of other customers. When data from many customers is stored at a shared physical location, Azure and Office 365 logically segregate storage and processing for different customers through specialized technology engineered specifically for the purpose.</p>
                 <p>We also take strong measures to protect Customer Data from inappropriate use or loss and to prevent customers from gaining access to one another’s data. Additional safeguards include proper controls for administrative access. </p>
                 <label>We provide simple, transparent data-use policies and get independent audits</label>
-                <p>21Vianet provides you with details of our data protection policies and practices in clear, straightforward language in the 21Vianet Online Privacy Statement. And every year we undergo third-party audits by internationally recognized auditors for an independent validation of our policies and procedures around protecting Customer Data, which in turn validate our promises to you.</p>
-                <p><a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a> </p>
+                <p>21Vianet provides you with details of our data protection policies and practices in clear, straightforward language in the <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement"> Privacy Statement for Microsoft Azure Operated by 21Vianet </a> and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> Privacy Statement for Office 365 Operated by 21Vianet</a>. And every year we undergo third-party audits by internationally recognized auditors for an independent validation of our policies and procedures around protecting Customer Data, which in turn validate our promises to you.</p>
+                <p><a target="_self" class="mscom-link withArrow" href="../compliance/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a> </p>
                 <label id="shiji_contract">Our subcontractors are contractually obligated to meet our privacy requirements</label>
-                <p>21Vianet may use subcontractors to provide limited services, such as customer support, on its behalf. We disclose only Customer Data that subcontractors require to deliver the services we have retained them to provide. Subcontractors are prohibited from using Customer Data for any other purpose, and they are required to maintain the confidentiality of our customers’ information.</p>
+                <p>21Vianet may use subcontractors to provide limited services, such as customer support, on its behalf. We disclose only Customer Data that  subcontractors require to deliver the services we have retained them to provide. Subcontractors are prohibited from using Customer Data for any other purpose, and they are required to maintain the confidentiality of our customers’ information.</p>
                 <p>21Vianet holds our subcontractors to security and privacy standards equivalent to our own. This initiative is designed to standardize and strengthen the handling of customer personal information and to bring vendor business processes and systems into compliance with those of 21Vianet.</p>
                 <ul>
                     <li>Subcontractors who work in facilities or on equipment controlled by 21Vianet are contractually obligated to follow our privacy standards and to undergo regular privacy training.</li>
                     <li>Subcontractors who handle Azure and Office 365 Customer Data in their own facilities are required to set up and follow privacy standards equivalent to our ow</li>
                 </ul>
+                <label>Microsoft access to Customer Data</label>
+                <P>Microsoft does not have access to Customer Data except in limited circumstances where 21Vianet requires technical assistance from Microsoft to troubleshoot a customer support incident or address a technical issue. 21Vianet will grant such access only for the duration necessary to resolve the issue. 21Vianet carefully monitors the access given and terminates the access when the issue is resolved.</P>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
