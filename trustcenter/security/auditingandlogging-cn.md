@@ -59,11 +59,11 @@ layout: TrustCenterPageCN
                         <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                      </p>
                      <p><strong>对大型数据集进行集中分析。</strong>通过在Azure基础架构即服务（IaaS）和平台即服务（IaaS）中收集安全事件，对大型数据集合进行集中化分析。您还可以使用HDInsight 聚合并分析这些事件，并将其导出至内部部署的安全信息和事件管理系统，从而实现持续性监控。
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
+                        <a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/hdinsight/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                      </p>
                      <p><strong>监视访问和使用情况报告。</strong>充分利用Azure管理操作日志（如系统访问）以创建审计记录，以免进行未授权或意外的更改。您可以获取Azure Active Directory租户的审计日志，并查看访问和使用情况报告。该功能可以帮助您在部署完整性和安全方面获得更好的可见性，同时更好的了解潜在风险。借助于集中化的监控、关联和分析系统，安全性得到监控，这些系统还可以对环境中各类设备产生的大量数据进行管理，并提供及时警报。此外，不同级别的监控、日志和报表也为客户提供了可见性。在Azure Management Portal中，您可以浏览使用情况和资产报告，例如异常登录事件报告、特定用户报告及活动日志等。</p>
                      <p><strong>导出安全警报至内部部署的SIEM系统。</strong>通过使用并配置Windows Azure Diagnostics（WAD），可以收集各类Windows安全事件和其他特定安全日志。您还可以将这些信息导出至第三方内部部署的安全信息和事件管理（SIEM）系统进行进一步分析或设置警报。
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
+                        <a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/zh-cn/documentation/articles/cloud-services-dotnet-diagnostics/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                      </p>
                      <label>由世纪互联运营的Office 365</label>
                      <p>Office 365审计策略使您能够使用日志记录事件，包括浏览、编辑或删除内容，这些内容包含电子邮件信息、文档、任务列表、问题列表、讨论组和日历等。只要在信息管理策略中启用了审计功能，您就可以浏览审计数据和概览当前使用情况。您还可以使用这些报表来确定如何在企业中使用这些信息，管理合规性，以及调查所关注的领域。</p>
@@ -75,7 +75,9 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="/file/AzureNetworkSecurity_v3_Feb2015 - CN_20150906">Azure 网络安全</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="#">由世纪互联运营的Microsoft Azure和Office 365常见问题</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 安全与隐私功能陈述</a></label><br/>
                   </div>
                </div>
             </div>

@@ -54,17 +54,17 @@ layout: TrustCenterPageCN
                <p>由世纪互联运营的 Microsoft Azure 和 Office 365 网络为服务和客户端相互之间，以及客户现场数据中心与 Azure 和 Office 365 服务之间安全的连接提供了必要的基础结构。Azure 和 Office 365 使用多种技术阻止发往数据中心以及数据中心内部的不良通信，例如防火墙、分区局域网(LAN)以及后端服务器与公共接口的物理分离。
                </p>
                <label>由世纪互联运营的 Microsoft Azure</label>
-               <p><strong>虚拟网络</strong> 可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
-                <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/services/virtual-network/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
+               <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/networking/">虚拟网络</a></strong> 可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
+                <br/>
                </p>
-               <p><strong>Azure ExpressRoute</strong> 可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN直接连接，相比互联网连接更可靠，更快速，更安全。
-                <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/services/expressroute/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
+               <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute</a></strong> 可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN直接连接，相比互联网连接更可靠，更快速，更安全。
+                <br/>
                </p>
                <p><strong>网络安全组</strong> 可用于对 Azure 虚拟网络中一个或多个虚拟机 (VM) 的通讯进行控制。网络安全组 (NSG) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
                 <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/documentation/articles/virtual-networks-nsg/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
                </p>
                <p><strong>强制信道</strong> 可供您重定向，或“强制”让所有发往互联网的流量通过站点到站点 VPN 信道重新回到您的内部部署位置，以进行检查或审计。在不使用强制信道的情况下，您的 Azure 虚拟机发往互联网的流量会通过 Azure 网络基础结构直接发送至互联网，您将无法对这样的流量进行检查或审计。
-                <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/documentation/articles/vpn-gateway-about-forced-tunneling/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
+                <br/><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/traffic-manager"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
                </p>
                <p><strong>隔离 Azure</strong> 使用网络隔离防止不同部署之间产生不必要的通讯，通过访问控制阻止未经授权用户的访问。虚拟机不接收来自互联网的传入流量，除非客户配置它们接受。
                 <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/marketplace/virtual-machines/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
