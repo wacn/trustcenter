@@ -8,6 +8,6 @@ a.withArrow img{vertical-align:bottom;}
 div.whatsNewBody>div>div.row-fluid>div>div.row-fluid label.date{ font-size:18px}
 div.whatsNewBody>div>div.row-fluid>div>div.row-fluid label a{font-size:24px; line-height:2em; }
 i .color_red{font-style:normal;color: red; }
-.cspvnext .row-fluid > .span:first-child, p, .subpagebody > div:nth-of-type(2) label a, .subpagebody > div:first-of-type ul li, .subpagemain > div:first-of-type ul li {
+.cspvnext .row-fluid > .span{
     padding:10px 0;
 }
