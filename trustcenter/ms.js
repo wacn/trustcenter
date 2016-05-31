@@ -318,7 +318,7 @@ function MscomIsCurrentLocation() {
         }
     });
 
-    $('li.mscom-navitem[data-token="Home"]').each(function(){
+    $('li.mscom-navitem[data-token="home"]').each(function(){
         $(this).addClass('currentLocation');
     });
 }
