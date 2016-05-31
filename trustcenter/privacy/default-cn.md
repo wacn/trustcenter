@@ -74,7 +74,7 @@ layout: TrustCenterPageCN
                 <label id="you_own_your">您拥有自己的客户数据</label>
                 <p>借助由世纪互联运营的 Microsoft Azure 和 Office 365，您将成为客户数据的所有者。无需世纪互联的协助，即可出于任何目的随时访问自己的客户数据。您的客户数据仅用于向您提供您同意的服务，包括与提供这些服务兼容的目的。您的客户数据不会被用于广告宣传或从中获取信息。</p>
                 <p>世纪互联为您提供经身份验证和登录的访问权限，便于您访问您的客户数据，并限制世纪互联人员和分包商对您客户数据的访问。世纪互联采取有效措施来防止对您的客户数据不当使用或丢失，并在共享硬件上将您的客户数据与其他客户的数据隔离开来。</p>
-                <p><a target="_self" class="mscom-link" href="../privacy/you-own-your-data-cn.html>了解更多有关数据所有权的信息</a></p>
+                <p><a target="_self" class="mscom-link" href="../privacy/you-own-your-data-cn.html">了解更多有关数据所有权的信息</a></p>
                 <label id="you_are_in">您可完全控制自己的客户数据</label>
                 <p>在由世纪互联运营的 Microsoft Azure 和 Office 365 中，您可以了解您的客户数据所存储的位置，在什么情况下可以由谁访问，以及是如何被有效保护、修改和删除的。 </p>
                 <p><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html">了解更多有关如何在 Azure 和 Office 365 服务中管理您客户数据的信息</a></p>

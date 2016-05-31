@@ -50,7 +50,7 @@ layout: TrustCenterPage
         </div>        
         <div class="row-fluid grid-container mscom-grid-container" id="Services" data-cols="4" data-view1="1" data-view2="2" data-view3="4" data-view4="4">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
-                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS-Azure-Title.jpg?version=9ab94844-46b5-5f16-3d32-594cf9d6431b" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
+                <div class="image-wrapper"><img src="../Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
                 <!--<mscom:link instancename="more azure" md:payloadguid="42dea437-6cfb-44a6-afaa-6a7901426bac" classoverride="moreLink withArrow"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
                 <p>Azure safeguards customer and enterprise data in the cloud with the security, privacy, control, compliance, and transparency they require.
@@ -66,7 +66,7 @@ layout: TrustCenterPage
                 </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
-                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
+                <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
                 <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a highly secure cloud-based productivity experience.
@@ -86,15 +86,15 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <label style="line-height:2em">21Vianet is committed to securing and protecting your data</label>
-                        <p>As cloud services gain maturity and traction in the marketplace, securing and protecting Customer Data becomes increasingly important. For the Azure and Office 365 services 21Vianet stands behind four key commitments regarding 
-                        <a target="_self" class="mscom-link" href="#">Customer Data</a>.
+                        <label style="line-height:2em">21Vianet is committed to securing and protecting your Customer Data</label>
+                        <p>As cloud services gain maturity and traction in the marketplace, securing and protecting Customer Data becomes increasingly important. For the Azure and Office 365 services 21Vianet stands behind four key commitments regarding Customer Data. 
+                        <!--<a target="_self" class="mscom-link" href="#">Customer Data</a>.-->
                         </p>
                         <ul>
-                            <li><a target="_self" class="mscom-link" href="#">We work to secure your Customer Data.</a></li>
-                            <li><a target="_self" class="mscom-link" href="#">We work to keep your Customer Data private and let Customer Data under your control.</a></li>
-                            <li><a target="_self" class="mscom-link" href="#">We help you meet key compliance requirements.</a></li>
-                            <li><a target="_self" class="mscom-link" href="#">We are transparent about where your Customer Data is stored and how it is handle</a></li>
+                            <li><a target="_self" class="mscom-link" href="../security/default.html">We work to secure your Customer Data.</a></li>
+                            <li><a target="_self" class="mscom-link" href="../privacy/default.html">We work to keep your Customer Data private and under your control.</a></li>
+                            <li><a target="_self" class="mscom-link" href="../compliance/default.html">We help you meet key compliance requirements.</a></li>
+                            <li><a target="_self" class="mscom-link" href="../transparency/default.html">We are transparent about where your Customer Data is stored and how it is handled.</a></li>
                         </ul>
                     </div>
                 </div>
@@ -105,8 +105,8 @@ layout: TrustCenterPage
                         <h1>Helpful information</h1>
                         <p>Security</p></br>
                         <label><a target="_blank" class="mscom-link" href="/file/AzureNetworkSecurity_v3_Feb2015 - CN_20150906">Azure Network Security</a></label><br />
-                        <p>Privacy</p></br>
-                        <label><a target="_blank" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Potecting Data and Privacy in the Cloud(864 KB, PDF)</a></label><br />
+                        <label><a target="_blank" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Potecting Data and Privacy in the Cloud</a></label><br />
+                        <label><a target="_blank" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Security In Office 365 Whitepaper</a></label><br />
                     </div>
                 </div>
             </div>
