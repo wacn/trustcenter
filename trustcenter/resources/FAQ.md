@@ -13,7 +13,7 @@ layout: TrustCenterPage
                                 <div class="media" bi:parenttitle="t1">
                                     <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                         <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                            <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                            <div data-src="../Images/MS-TrustCenter-Resources-Header.jpg"></div>
                                             <noscript></noscript>
                                         </div>
                                     </a>
@@ -43,7 +43,7 @@ layout: TrustCenterPage
                     </div>
                 </div>
             </div>
-        </div>         
+        </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // Frequently Asked Questions
               <!--  <a target="_self" class="mscom-link" href="../privacy/default-cn.html">资源</a> -->
@@ -64,11 +64,12 @@ layout: TrustCenterPage
                 <p>It is ultimately your obligation to comply with your regulatory requirements. We provide you with information to help you do so. We commit to compliance with data protection and privacy laws generally applicable to IT service providers. If you are subject to industry or jurisdictional requirements, you will need to make your own assessment of your ability to comply. Customers in many industries have found they can use Azure and Office 365 in a manner that complies with applicable regulations, provided they utilize the services in a manner appropriate to their particular circumstances.</p>
                 <label>3．	How will 21Vianet use the information I store in Azure and Office 365?</label><br>
                 <p>21Vianet will use the Customer Data you store in Azure and Office 365 only to provide you with the services you have subscribed for. 21Vianet does not mine Customer Data for advertising or share Customer Data with advertiser-supported services. We do not scan your emails or documents in Office 365 services for advertising purposes.</p>
-                <p>It's your Customer Data, and you retain the rights to it. 21Vianet will not use Customer Data or derive information from it for any advertising or similar commercial purposes. 21Vianet will only use Customer Data for purposes compatible with providing the services, such purposes can includes using Customer Data for the following:<p>
+                <p>It's your Customer Data, and you retain the rights to it. 21Vianet will not use Customer Data or derive information from it for any advertising or similar commercial purposes. <p>
+                <p>21Vianet will only use Customer Data for purposes compatible with providing the services, such purposes can includes using Customer Data for the following:</p>
                 <ul>
-                    <li>Troubleshooting aimed at preventing, detecting and repairing problems affecting the operation of services.</li>
-                    <li>Ongoing improvement of features such as those that involve the detection of, and protection against, emerging and evolving threats to the services or Customer Data (such as malware or spam).</li>
-                    <li>Providing personalized or inference-based service features.</li>
+                    <li>	Troubleshooting aimed at preventing, detecting and repairing problems affecting the operation of services.</li>
+                    <li>	Ongoing improvement of features such as those that involve the detection of, and protection against, emerging and evolving threats to the services or Customer Data (such as malware or spam).</li>
+                    <li>	Providing personalized or inference-based service features.</li>
                 </ul>
                 <label>4．	Where is my Customer Data stored? Will 21Vianet share it with other companies?</label><br>
                 <p>Customer Data will be stored only in data centers located in mainland China. In limited circumstances, 21Vianet may authorize one of its affiliates, suppliers or subcontractors located outside China to access Customer Data when necessary to troubleshoot a customer support incident or address a technical issue. We carefully monitor such access and terminate the access when the issue is resolved.<p>
@@ -92,7 +93,6 @@ layout: TrustCenterPage
                 <ul>
                     <li>The services give you access to your Customer Data.</li>
                     <li>Access to Customer Data is strictly controlled and logged, and sample audits are performed by us to attest that access is only for appropriate business purposes.</li>
-                    <li>The services recognize the extra importance of your Customer Data. If someone such as 21Vianet personnel, partners, or your own administrators access your content on the services, we can provide you with a report on that access upon request.</li>
                 </ul>
                 <label>13．	What are 21Vianet’s commitments regarding keeping my services up?</label><br>
                 <p>We offer at least 99.9% uptime via a financially backed service level agreement. If a customer experiences monthly uptime that is less than 99.9%, we will compensate that customer through service credits. For more information about how Azure and Office 365 provide guarantee for customers about the above questions, you can visit <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">Service Level Agreement for Microsoft Azure operated by 21Vianet</a> page, and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-SLA/">Service Level Agreement for Office 365 operated by 21Vianet</a> page to get more details and evidence.<p>

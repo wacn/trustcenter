@@ -50,7 +50,7 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
                 <a target="_self" class="mscom-link" href="../cloudservices/default-cn.html">云服务</a> // Azure
             </div>
-        </div>        
+        </div>
         <div id="ContentWrapper2" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <p>由世纪互联运营的 Microsoft Azure 服务是在中国大陆独立运营的公有云平台，由北京世纪互联宽带数据中心有限公司的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 技术，为客户提供全球一致的服务质量保障。由世纪互联运营的 Microsoft Azure 服务是在中国大陆独立运营的公有云平台，由北京世纪互联宽带数据中心有限公司的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 技术，为客户提供全球一致的服务质量保障。</p>
@@ -94,7 +94,10 @@ layout: TrustCenterPageCN
                             <li><strong>充分利用可扩展的合规性框架。</strong>Azure 提供了一系列合规性认证，以帮您符合特定的要求。Azure 满足国际和行业特定合规性标准，如 ISO/IEC 27001，同时也符合国内标准，如公安部信息系统安全等级保护定级标准( DJCP )。
                             </li>
                         </ul>
-                        <label style="line-height: 2em;" style="color:rgb(0,115,198)">透明度：您知道您的客户数据是如何被存储和访问的，并知道我们如何保护它们的</label>
+                        <p>
+                            了解更多有关<a target="_self" class="mscom-link" href="../compliance/default-cn.html">合规性</a>的信息
+                        </p>
+                        <label style="line-height: 2em; color:rgb(0,115,198)" >透明度：您知道您的客户数据是如何被存储和访问的，并知道我们如何保护它们的</label>
                         <p>Azure 构建的前提是：您可以完全控制自己在云中的客户数据，并要求对客户数据的可见性。您清楚知悉存储客户数据的位置。此外还可通过我们清晰的阐述和完备的策略以及流程明确了解我们如何帮助保护您的客户数据安全，以及何人在何种情况下可以访问您的客户数据。您不止得到我们的承诺，也可以通过查阅第三方的审计和认证来确认我们符合我们所承诺的标准。</p>
                         <ul>
                             <li><strong>始终保持清晰持续的可见性。</strong>您知道自己的客户数据存储在何处，谁可以在什么情况下访问您的客户数据。我们服务运营策略如有变化您将获得通知。
@@ -102,7 +105,10 @@ layout: TrustCenterPageCN
                             <li><strong>依据严格的访问流程。</strong>世纪互联只允许世纪互联的工程师在执行一些关键任务，例如维护和升级，以及分包商在执行有限的服务时访问客户数据。我们会对客户数据的访问施加严格的控制，只为访问者提供完成关键任务所必需的最小特权，当不再需要访问时，访问权会被立刻撤销。
                             </li>
                         </ul>
-                        <label style="line-height: 2em;" style="color:rgb(0,115,198)">共担责任</label>
+                        <p>
+                            了解更多有关<a target="_self" class="mscom-link" href="../transparency/default-cn.html">透明度</a>的信息
+                        </p>
+                        <label style="line-height: 2em; color:rgb(0,115,198)">共担责任</label>
                         <p>在中国，使用云服务的客户受到许多适用于不同地域和不同行业的各种法律和法规约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关世纪互联运营的 Microsoft Azure 云服务的详细信息，以帮助他们进行自我监管评估。  </p>
                         <p>作为可信赖的云服务，Azure 服务需要客户与服务提供商共担责任。世纪互联负责提供基于微软技术的云服务，并努力满足客户对安全性、隐私保护和合规性的需求。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。  </p>
             </div>

@@ -62,22 +62,21 @@ layout: TrustCenterPageCN
                </p>
                <label>由世纪互联运营的 Office 365</label>
                <p>Office 365 使用 Azure Active Directory 作为身份验证平台，这为您的租户提供强大的身份验证选项，以及 IT 专业人员和用户如何访问和使用服务的精确控制。Office 365 也允许与内部部署的 Active Directory 或其他目录和身份识别系统的集成，如 Active Directory Federation Services ( ADFS )或第三方安全令牌系统 ( STSs ) ，以启用安全、 基于令牌的身份验证服务。</p>
-               <p>通过 Azure Active Directory，可以将内部部署中的 Active Directory 和其他目录存储区联合在一起。这使得身份验证基于联合域的所有 Office 365 用户可以使用他们现有的企业登陆方式实现 Office 365 服务验证。  
-                <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
+               <p>通过 Azure Active Directory，可以将内部部署中的 Active Directory 和其他目录存储区联合在一起。这使得身份验证基于联合域的所有 Office 365 用户可以使用他们现有的企业登陆方式实现 Office 365 服务验证。
                </p>
                <p>多重身份验证加强了多设备与云应用环境的安全防御。Azure Active Directory 可提供电话、文字简讯、应用程序通知推送在内的多重身份验证，它同时支持第三方多重身份验证的解决方案.</p>
                <p>当客户用多重身份验证登录，后台可创建一个或多个程序密码来保护客户终端安全应用。
-                <br/><a target="_self" class="mscom-link withArrow" href="https://support.office.com/en-US/article/Set-up-multi-factor-authentication-for-Office-365-8f0454b2-f51a-4d9c-bcde-2c48e41621c6"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
+                <br/><a target="_self" class="mscom-link withArrow" href="../security/office365security-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
                </p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory（</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Active Directory文档</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Active Directory 文档</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Office 365安全与合规白皮书</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
                   </div>
                </div>
             </div>

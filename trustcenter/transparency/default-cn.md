@@ -13,7 +13,7 @@ layout: TrustCenterPageCN
                            <div class="media" bi:parenttitle="t1">
                               <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                    <div data-src="../Images/MS-TrustCenter-Transparency-Header.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -53,17 +53,17 @@ layout: TrustCenterPageCN
                <p>由世纪互联运营的 Microsoft Azure 和Office 365 构建的前提是：您可以完全控制自己在云中的客户数据，并要求对数据的可见性。您清楚知悉存储客户数据的位置。此外还明确了解我们如何帮助保护您的客户数据安全，以及何人在何种情况下可以访问。同时也可以查看第三方审计和合规认证。
                </p>
                    <ul>
-                      <li><a target="_blank" class="mscom-link" href="#">您知道我们如何保护您的客户数据</a></li>
-                      <li><a target="_blank" class="mscom-link" href="#">您知道自己的客户数据存储在何处以及如何使用</a></li>
-                      <li><a target="_blank" class="mscom-link" href="#">您知道何人在何种情况下可访问您的客户数据</a></li>
-                      <li><a target="_blank" class="mscom-link" href="#">面对执法机关或其他第三方向世纪互联索要客户数据的要求</a></li>
-                      <li><a target="_blank" class="mscom-link" href="#">您可以查看由世纪互联运营的 Microsoft Azure 和 Office 365 的合规认证</a></li>
+                      <li><a target="_self" class="mscom-link" href="#How-we-help-secure-your-Customer-Data">您知道我们如何保护您的客户数据</a></li>
+                      <li><a target="_self" class="mscom-link" href="#You_know_where">您知道自己的客户数据存储在何处以及如何使用</a></li>
+                      <li><a target="_self" class="mscom-link" href="#Who-can-access-Customer-Data">您知道何人在何种情况下可访问您的客户数据</a></li>
+                      <li><a target="_self" class="mscom-link" href="#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">面对执法机关或其他第三方向世纪互联索要客户数据的要求</a></li>
+                      <li><a target="_self" class="mscom-link" href="#You-can-review-certifications">您可以查看由世纪互联运营的 Microsoft Azure 和 Office 365 的合规认证</a></li>
                    </ul>
                    <label id="How-we-help-secure-your-Customer-Data">您知道我们如何保护您的客户数据</label>
                    <p>许可给世纪互联，作为由世纪互联运营的 Microsoft Azure 和 Office 365 基础的微软云技术使用安全开发生命周期的方法将安全要求融入软件代码编写工作的整个过程中，这个方法是微软从 2004 年开始使用并公开推广的。这种开发过程可以将安全要求嵌入从规划到部署的整个软件生命周期内。
                    </p>
-                   <label>您知道自己的客户数据存储在何处以及如何使用</label>
-                   <p><a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a>和<a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a>，详细陈述了决定 Azure 和 Office 365 中客户数据位置和使用方法的数据保护策略和实践。<a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明</a>更是用清晰、简单易懂的语言对这两个协议进行了补充和完善。</p>
+                   <label id="You_know_where">您知道自己的客户数据存储在何处以及如何使用</label>
+                   <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a>，详细陈述了决定 Azure 和 Office 365 中客户数据位置和使用方法的数据保护策略和实践。<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明</a>更是用清晰、简单易懂的语言对这两个协议进行了补充和完善。</p>
                    <ul>
                       <li>如果没有客户的同意，世纪互联不会出于任何广告或其他商业目的使用客户数据或从其中获取信息。</li>
                       <li>世纪互联使用客户数据的唯一目的是为客户提供服务。此种用途可能包括通过故障排除来预防、查找和修复服务运营方面的问题。它还包括改进用于查找和防御用户所面临威胁的功能。</li>
@@ -95,17 +95,16 @@ layout: TrustCenterPageCN
                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>重要隐私信息</h1>
-                     <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">数据中心位置</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">数据中心位置</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#leave_service">数据保留策略</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="../privacy/you-own-your-data-cn.html#shiji_contract">分包商策略</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="../privacy/default-cn.html#data_other">微软如何定义数据</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">客户数据的位置</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#you_control_your_data">客户数据的访问权限</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#data_retention">客户数据的保留</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../privacy/default-cn.html#data_other">客户数据与其他数据类型</a></label><br/>
                   </div>
                </div>
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">保护云中数据和隐私(864 KB, PDF)</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br/>
                   </div>
                </div>
             </div>

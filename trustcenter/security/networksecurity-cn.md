@@ -54,17 +54,16 @@ layout: TrustCenterPageCN
                <p>由世纪互联运营的 Microsoft Azure 和 Office 365 网络为服务和客户端相互之间，以及客户现场数据中心与 Azure 和 Office 365 服务之间安全的连接提供了必要的基础结构。Azure 和 Office 365 使用多种技术阻止发往数据中心以及数据中心内部的不良通信，例如防火墙、分区局域网( LAN )以及后端服务器与公共接口的物理分离。
                </p>
                <label>由世纪互联运营的 Microsoft Azure</label>
-               <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/networking/">虚拟网络</a></strong> 可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
+               <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/networking/" style="display: inline;">虚拟网络</a></strong> 可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
                </p>
-               <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute</a></strong> 可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
+               <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/expressroute/" style="display: inline;">Azure ExpressRoute</a></strong> 可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
                </p>
-               <p><strong><a target="_self" class="mscom-link withArrow" href="#">网络安全组</a></strong> 可用于对 Azure 虚拟网络中一个或多个虚拟机 ( VM ) 的通讯进行控制。网络安全组 ( NSG ) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
+               <p><strong>网络安全组</strong> 可用于对 Azure 虚拟网络中一个或多个虚拟机 ( VM ) 的通讯进行控制。网络安全组 ( NSG ) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
                </p>
                <p><strong>强制信道</strong> 可供您重定向，或“强制”让所有发往互联网的流量通过站点到站点 VPN 信道重新回到您的内部部署位置，以进行检查或审计。在不使用强制信道的情况下，您的 Azure 虚拟机发往互联网的流量会通过 Azure 网络基础结构直接发送至互联网，您将无法对这样的流量进行检查或审计。
                 <br/><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/traffic-manager/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
                </p>
                <p><strong>隔离</strong> Azure 使用网络隔离防止不同部署之间产生不必要的通讯，通过访问控制阻止未经授权用户的访问。虚拟机不接收来自互联网的传入流量，除非客户配置它们接受。
-                <br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
                </p>
                <label>由世纪互联运营的 Office 365</label>
                <p>Office 365通过在网络边缘和节点上使用受控设备，为 Office 365 实施周边防护。只有系统运营所必需的连接和通讯是被允许的。此外还在路由器上实施了访问控制列表 ( ACL )，在主机上实施了 IPsec 策略，并在网络中实施了防火墙规则和基于主机的防火墙规则。边缘路由器提供了在网络层检测入侵和漏洞特征的安全措施。Office 365 数据中心内部的网络通过划分，可在后端服务器和存储设备，以及对外接口之间实现物理隔离。
@@ -77,9 +76,9 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="/file/AzureNetworkSecurity_v3_Feb2015 - CN_20150906">Azure 网络安全</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">保护云中的数据的隐私</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></label><br/>
                   </div>
                </div>
             </div>

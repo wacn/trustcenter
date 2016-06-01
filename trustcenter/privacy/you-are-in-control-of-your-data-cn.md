@@ -13,7 +13,7 @@ layout: TrustCenterPageCN
                                 <div class="media" bi:parenttitle="t1">
                                     <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                         <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                            <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                            <div data-src="../Images/MS-TrustCenter-Privacy-Header.jpg"></div>
                                             <noscript></noscript>
                                         </div>
                                     </a>
@@ -43,7 +43,7 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
             </div>
-        </div>         
+        </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
                 <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您控制自己的客户数据
@@ -107,9 +107,10 @@ layout: TrustCenterPageCN
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>重要隐私信息</h1>
-                       <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">客户数据的位置</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">客户数据的访问权限</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#data_retention">客户数据的保留</a></label><br/> 
+                        <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">客户数据的位置</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#you_control_your_data">客户数据的访问权限</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#data_retention">客户数据的保留</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/default-cn.html#data_other">客户数据与其他数据类型</a></label><br/> 
                     </div>
                     </div>
                 </div>
@@ -117,12 +118,12 @@ layout: TrustCenterPageCN
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a></label><br/>  
+                        <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a></label><br/>
                     </div>
                 </div>
             </div>
-        </div>        
+        </div>
      </div>
    </div>
 </div>

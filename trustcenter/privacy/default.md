@@ -13,7 +13,7 @@ layout: TrustCenterPage
                                 <div class="media" bi:parenttitle="t1">
                                     <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                         <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                            <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                            <div data-src="../Images/MS-TrustCenter-Privacy-Header.jpg"></div>
                                             <noscript></noscript>
                                         </div>
                                     </a>
@@ -43,7 +43,7 @@ layout: TrustCenterPage
                     </div>
                 </div>
             </div>
-        </div>      
+        </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // Privacy 
             </div>
@@ -58,11 +58,11 @@ layout: TrustCenterPage
                 </p>
                 <p>In the following pages, we describe the specific policies, operational practices, and technologies that help ensure the privacy of your Customer Data in Microsoft Azure and Office 365 operated by 21Vianet.</p>
                 <ul>
-                    <li><a target="_self" class="mscom-link" href="#">Customer Data and Other Data Types</a></li>
-                    <li><a target="_self" class="mscom-link" href="#">You own your own Customer Data</a></li>
-                    <li><a target="_self" class="mscom-link" href="#">You are in control of your Customer Data</a></li>
-                    <li><a target="_self" class="mscom-link" href="#">How we respond to law enforcement or third party asks to 21Vianet for Customer Data</a></li>
-                    <li><a target="_self" class="mscom-link" href="#">We set and adhere to stringent privacy standards</a></li>
+                    <li><a target="_self" class="mscom-link" href="#data_other">Customer Data and Other Data Types</a></li>
+                    <li><a target="_self" class="mscom-link" href="#you_own_your">You own your own Customer Data</a></li>
+                    <li><a target="_self" class="mscom-link" href="#you_are_in">You are in control of your Customer Data</a></li>
+                    <li><a target="_self" class="mscom-link" href="#how_21vianet_responds">How we respond to law enforcement or third party asks to 21Vianet for Customer Data</a></li>
+                    <li><a target="_self" class="mscom-link" href="#we_set_and">We set and adhere to stringent privacy standards</a></li>
                 </ul>
                 <label id="data_other">Customer Data and Other Data Types</label>
                 <p><strong>Customer Data </strong>is all the data, including all text, sound, software or image files that you provide, or are provided on your behalf, to us through your use of the services. For example, Customer Data includes data that you upload for storage or processing in the services and applications that you or your end users upload for hosting in the services. It does not include configuration, technical settings, or support ticket information.
@@ -71,17 +71,16 @@ layout: TrustCenterPage
                 </p>
                 <p><strong>Metadata </strong>includes configuration and technical settings and information. For example, it includes the disk configuration settings for an Azure Virtual Machine or database design for an Azure SQL Database.</p>
                 <p><strong>Access Control Data </strong> is used to manage access to other types of data or functions within Azure and Office 365. It includes passwords, security certificates, and other authentication-related data.</p>
-                <label>You own your own Customer Data</label>
+                <labe id="you_own_your"l>You own your own Customer Data</label>
                 <p>With Microsoft Azure and Office 365 operated by 21Vianet, you are the owner of your Customer Data. You can access your Customer Data at any time and for any reason without assistance from 21Vianet. 21Vianet will use your Customer Data only to provide the services agreed upon, including purposes that are compatible with providing those services. We will not use Customer Data or derive information from it for advertising.</p>
                 <p>We give you authenticated and logged access to your Customer Data, and restrict access to it by 21Vianet personnel and subcontractors. We also take strong steps to protect your Customer Data from inappropriate use or loss, and to segregate your Customer Data on shared hardware from that of other customers.</p>
-                <p><a target="_self" class="mscom-link" href="../transparency/default.html#You_know_where">Learn more about data ownership in Microsoft Azure and Office 365 Operated by 21Vianet </a></p>
-                <label>You are in control of your Customer Data</label>
+                <p><a target="_self" class="mscom-link" href="../privacy/you-own-your-data.html">Learn more about data ownership in Microsoft Azure and Office 365 Operated by 21Vianet </a></p>
+                <label id="you_are_in">You are in control of your Customer Data</label>
                 <p>In Microsoft Azure and Office 365 operated by 21Vianet, you know where your Customer Data is located, who can access it and under what circumstances, and how it is responsibly protected, transferred, and deleted. </p>
-                <p><a target="_self" class="mscom-link" href="#">Learn more about controlling your Customer Data in Azure and Office 365 </a></p>
-                <label>How 21Vianet responds to law enforcement or third party asks for Customer Data.</label>
+                <p><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html">Learn more about controlling your Customer Data in Azure and Office 365 </a></p>
+                <label id="how_21vianet_responds">How 21Vianet responds to law enforcement or third party asks for Customer Data.</label>
                 <p>21Vianet believes that its customers who should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited. </p>
-                <p><a target="_self" class="mscom-link" href="#">Learn more about how we respond to lawful requests for access to Customer Data</a></p>
-                <label>We set and adhere to stringent privacy standards</label>
+                <label id="we_set_and">We set and adhere to stringent privacy standards</label>
                 <p>Privacy protections in Azure and Office 365 are grounded in
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement </a>and 
                     <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 Operated by 21Vianet Privacy Statement, </a> and the underlying technology that is licensed to 21Vianet is developed using the Security Development Lifecycle (which includes addressing privacy requirements in the process of developing software).
@@ -91,25 +90,25 @@ layout: TrustCenterPage
                     <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet Online Services Standard Agreement for Office 365.</a>
                 </p>
                 <p>
-                    <a target="_self" class="mscom-link" href="#">Learn more about privacy standards in Azure and Office 365</a>
+                    <a target="_self" class="mscom-link" href="../privacy/we-set-and-adhere-to-stringent-standards.html">Learn more about privacy standards in Azure and Office 365</a>
                 </p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Key privacy information</h1>
-                       <label><a target="_self" class="mscom-link" href="../transparency/you_know_where.html">Datacenter locations</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">Data access policies</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#leave_service">Data retention policies</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../privacy/you-own-your-data.html#shiji_contract">Subcontractor policies</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../privacy/default.html#data_other">How Microsoft defines data</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="../transparency/you_know_where.html">Customer Data locations</a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#you_control_your_data">Customer Data access policies</a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#data_retention">Customer Data retention </a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="../privacy/default.html#data_other">Customer Data and Other Data Types</a></label><br/>
                     </div>
                 </div>
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Helpful information</h1>
-                        <label><a target="_self" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Potecting Data and Privacy in the Cloud(864 KB, PDF)</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../compliance/default-cn#ISO/IEC_27001">ISO/IEC 27001 backgrounder</a></label><br/>           
+                        <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Potecting Data and Privacy in the Cloud</a></label><br/> 
+                        <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">21Vianet Online Services Standard Agreement for Microsoft Azure</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet Online Services Standard Agreement for Office 365 </a></label><br/>     
                     </div>
                 </div>
             </div>

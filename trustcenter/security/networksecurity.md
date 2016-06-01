@@ -54,10 +54,9 @@ layout: TrustCenterPage
                <p>Microsoft Azure and Office 365 operated by 21Vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Azure and Office 365 services. The Azure and Office 365 network infrastructure blocks undesirable traffic to and within datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces. 
                </p>
                <label>Microsoft Azure operated by 21Vianet</label>
-               <p><strong>Virtual Network</strong> extends your on-premises network to the cloud through site-to-site VPN. You control the network topology and manage it just like your on-site infrastructure. Each virtual network is isolated from other virtual networks. 
-                <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/services/virtual-network/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
+               <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/networking/" style="display: inline;">Virtual Network</a></strong> extends your on-premises network to the cloud through site-to-site VPN. You control the network topology and manage it just like your on-site infrastructure. Each virtual network is isolated from other virtual networks. 
                </p>
-               <p><strong>Azure ExpressRoute</strong> lets you create private connections between Azure datacenters and your premises or in a colocation center. ExpressRoute connections are dedicated WAN links and are more reliable, faster, and more secure than Internet connections. 
+               <p><strong><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/expressroute/" style="display: inline;">Azure ExpressRoute</a></strong> lets you create private connections between Azure datacenters and your premises or in a colocation center. ExpressRoute connections are dedicated WAN links and are more reliable, faster, and more secure than Internet connections. 
                 <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/services/expressroute/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
                <p><strong>Network security groups</strong> can be used to control traffic to one or more virtual machine (VM) instances in an Azure Virtual Network. A network security group (NSG) contains access control rules that allow or deny traffic based on traffic direction, protocol, source address and port, and destination address and port. The rules of an NSG can be changed at any time, and changes are applied to all associated instances. 
@@ -67,11 +66,9 @@ layout: TrustCenterPage
                 <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/documentation/articles/vpn-gateway-about-forced-tunneling/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
                <p><strong>Isolation. </strong>Azure uses network isolation to prevent unwanted communications between deployments, and access controls block unauthorized users. Virtual Machines do not receive inbound traffic from the Internet unless customers configure them to do so.
-                <br/><a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/en-us/marketplace/virtual-machines/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
                <label>Office 365 Operated by 21Vianet </label>
                <p>Office 365 perimeter protection is implemented through the use of controlled devices at the network edge and on points throughout the network. Only connections and communications that are necessary to allow systems to operate are allowed. Access control lists (ACLs) on routers, IPsec policies on hosts, firewall rules, and host-based firewall rules are implemented in the network. Edge router security provides the ability to detect intrusions and signs of vulnerability at the network layer. Networks within the Office 365 data centers are segmented to provide physical separation of back-end servers and storage devices from the public-facing interfaces. 
-                <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
                <p>Office 365 services follow industry cryptographic standards such as SSL/TLS and AES to protect the confidentiality and integrity of data. All customer-facing servers negotiate a secure session using SSL/TLS with client machines. The use of TLS/SSL establishes a highly secure client-to-server connection to help provide data confidentiality and integrity between the desktop and the datacenter. 
                 <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
@@ -81,7 +78,9 @@ layout: TrustCenterPage
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link" href="/file/AzureNetworkSecurity_v3_Feb2015 - CN_20150906">Azure Network Security</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/>
                   </div>
                </div>
             </div>

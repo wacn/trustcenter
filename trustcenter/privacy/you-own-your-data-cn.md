@@ -13,7 +13,7 @@ layout: TrustCenterPageCN
                                 <div class="media" bi:parenttitle="t1">
                                     <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                         <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                            <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                            <div data-src="../Images/MS-TrustCenter-Privacy-Header.jpg"></div>
                                             <noscript></noscript>
                                         </div>
                                     </a>
@@ -43,12 +43,12 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
             </div>
-        </div>          
+        </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
                 <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您拥有自己的数据
             </div>
-        </div>   
+        </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <p>在由世纪互联运营的 Microsoft Azure 和 Office 365 服务中，您是客户数据的拥有者。</p>
@@ -78,7 +78,7 @@ layout: TrustCenterPageCN
                 <p>世纪互联同时严格防止客户取得其他客户数据的访问权限。其他安全措施包括适当的管理访问控制。</p>
                 <label id="independent_audits">世纪互联提供简单透明的数据使用政策，并获取独立审计。</label>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">世纪互联运营的 Microsoft Azure 的隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a>中清楚直接地为您提供有关我们的数据保护政策和实践的详细信息。</p>
-                <p>世纪互联定期接受审计机构执行的第三方审计，以独立验证我们是否符合我们设定的隐私政策和程序。这些机构记录我们如何满足安全性和合规性目标，我们与您分享这些信息，作为实际机制来验证我们的承诺。<br/><a target="_self" class="mscom-link withArrow" href=""><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a> </p>
+                <p>世纪互联定期接受审计机构执行的第三方审计，以独立验证我们是否符合我们设定的隐私政策和程序。这些机构记录我们如何满足安全性和合规性目标，我们与您分享这些信息，作为实际机制来验证我们的承诺。</p>
                 <label id="shiji_contract">世纪互联的分包商有满足我们隐私要求的合同义务</label>
                 <p>Azure 和 Office 365 使用分包商履行各类支持服务。世纪互联的分包商仅在需要提供或维护服务时才会访问您的客户数据。分包商被严格禁止将您的客户数据用于任何其他用途，同时他们必须保护您信息的机密性。</p>
                 <p>世纪互联要求分包商遵循与世纪互联相同的安全和隐私标准。这一举措意在强化对客户个人信息的处理并实现标准化，确保供应商的业务流程和系统能够满足世纪互联的合规要求。</p>
@@ -92,14 +92,20 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">微软对您的客户数据的访问</label>
+                        <h1 id="customer_data_and_other_data_types ">客户数据与其他数据类型</h1>
                         <p><strong>客户数据</strong>是由您或其他人代表您在使用服务时提供给世纪互联的所有数据，包括所有文本、声音、软件或图像文件。例如，客户数据包括您上载以在服务中存储或处理的数据，以及您或您的最终用户上载以在服务中托管的应用程序。它不包括配置、技术设置或服务记录信息。</p>
                         <p><strong>管理员数据</strong>是在注册、购买或管理服务时提供的有关管理员（包括帐户联系人和订阅管理员）的信息，包括姓名、地址、电话号码和电子邮件地址。</p>
                         <p><strong>元数据</strong>包括配置、技术设置和信息。例如，它包括 Azure 虚拟机的磁盘配置设置和 Azure SQL Database 的数据库设计。</p>
                         <p><strong>访问控制数据</strong>用于管理对 Azure 或 Office 365 内其他类型的数据或功能的访问。它包括密码、安全证书和其他与身份验证有关的数据。</p>
-                        <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">客户数据的位置</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">客户数据的访问权限</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#data_retention">客户数据的保留</a></label><br/> 
+                    </div>
+                </div>
+                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
+                    <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                        <h1>重要隐私信息</h1>
+                        <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">客户数据的位置</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#you_control_your_data">客户数据的访问权限</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#data_retention">客户数据的保留</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="#customer_data_and_other_data_types">客户数据与其他数据类型</a></label><br/>
                     </div>
                 </div>
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -109,7 +115,7 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
             </div>
-        </div>                           
+        </div>
      </div>
    </div>
 </div>

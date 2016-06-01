@@ -13,7 +13,7 @@ layout: TrustCenterPageCN
                                 <div class="media" bi:parenttitle="t1">
                                     <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                         <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                            <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                            <div data-src="../Images/MS-TrustCenter-Resources-Header.jpg"></div>
                                             <noscript></noscript>
                                         </div>
                                     </a>
@@ -43,7 +43,7 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
             </div>
-        </div>         
+        </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 常见问题（FAQ）
               <!--  <a target="_self" class="mscom-link" href="../privacy/default-cn.html">资源</a> -->
@@ -52,7 +52,7 @@ layout: TrustCenterPageCN
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody" style="width:100%!important;">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <p>客户需要高度安全可靠的云解决方案，以下热点问题将帮助您在选择云服务商时做出明智的决策。</p>
-                <label>1、微软在世纪互联运营的 Microsoft Azure和Office 365 服务中扮演何种角色？</label><br>
+                <label>1、微软在世纪互联运营的 Microsoft Azure 和 Office 365 服务中扮演何种角色？</label><br>
                 <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云服务，由北京世纪互联宽带数据中心有限公司的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球云服务的 Azure 和 Office 365 技术，为客户提供全球一致的服务质量保障。</p>
                 <p>作为由世纪互联运营的 Microsoft Azure 和 Office 365 客户，可获得以下服务：</p>
                 <ul>
@@ -68,7 +68,7 @@ layout: TrustCenterPageCN
                 <ul>
                     <li>进行故障排除，以预防、检测和修复影响服务运行的问题。</li>
                     <li>持续改进有关检测和抵御服务或客户数据受到的新生且不断演变的威胁（如恶意软件或垃圾邮件）的功能。</li>
-                    <li>提供个性化的或基于推理的服务功</li>
+                    <li>提供个性化的或基于推理的服务功能。</li>
                 </ul>
                 <label>4、我的客户数据存储在何处？世纪互联是否会将其与其他公司共享？</label><br>
                 <p>客户数据将仅存储在位于中国大陆的数据中心。在极少数情况下，仅当必须对客户支持事件进行故障排除或解决技术问题时，世纪互联才可能会向中国大陆以外地区的某一关联公司、供应商或分包商授予访问客户数据的权限。我们会密切监控此类访问，并在问题解决后终止访问权限。<p>
@@ -77,7 +77,7 @@ layout: TrustCenterPageCN
                 <label>6、微软能否访问我的客户数据？</label><br>
                 <p>否。微软无权访问客户数据，除非世纪互联需要微软的技术协助来对客户支持事件进行故障排除或解决技术问题，但仅限极少数情况下。世纪互联仅在解决问题所需的时间期限内授予此类访问权限。世纪互联会密切监控此类授权访问，并在问题解决后终止访问权限。<p>
                 <label>7、什么是 Office 365 中的“使用数据”? 世纪互联是如何利用“使用数据”的？</label><br>
-                <p>答：Office 365 中的使用数据用来提供服务。使用数据可以指与 Office 365 相关的任意数量的数据点。“使用数据”可以指最终用户每一天接收到的电子邮件的平均数量，客户订阅的软件许可证数量，或世纪互联需要使 Office 365 工作的用电量。<p>
+                <p>Office 365 中的使用数据用来提供服务。使用数据可以指与 Office 365 相关的任意数量的数据点。"使用数据"可以指最终用户每一天接收到的电子邮件的平均数量，客户订阅的软件许可证数量，或世纪互联需要使 Office 365 工作的用电量。<p>
                 <p>我们充分理解我们的客户最关心的是我们如何处理最终用户与我们所提供服务之间进行交互时所涉及的个人身份信息。这些数据可用于我们所提供服务的日常操作和维护（如上所述），并用于与管理员进行服务沟通，其中包括有关最终用户使用或访问该服务的电子邮件。例如，管理员可能收到来自世纪互联的通知告知最终用户已接近使用或存储上限。<p>
                 <label>8、世纪互联是否可以访问微软在中国以外的地区运营的 Azure 和 Office 365 服务？</label><br>
                 <p>否。在中国大陆由世纪互联运营的 Microsoft Azure 和 Office 365 与全球其他地区由微软运营的服务在物理上和逻辑上都是独立的。正如微软无权访问世纪互联服务中的客户数据一样（除了上文详述的为协助世纪互联的情况外），世纪互联也无权访问中国大陆以外地区的微软服务中的客户数据。为明确起见，香港的数据中心属于由微软运营的全球服务，不属于在中国大陆运营的世纪互联服务。<p>
@@ -92,11 +92,10 @@ layout: TrustCenterPageCN
                 <ul>
                     <li>我们始终授予您访问您的客户数据的权限。</li>
                     <li>我们严格控制及记录对客户数据的访问，并执行抽样审核，以证实访问是出于合理的业务目的而进行的。</li>
-                    <li>我们承认，您的客户数据非常重要。如果世纪互联人员、合作伙伴或您的管理员等人员访问服务中您的客户数据，我们可应您的要求向您提供关于该访问的报告。</li>
                 </ul>
                 <label>13、世纪互联对确保高品质服务有何承诺？</label><br>
-                <p>我们提供至少 99.9% 的服务级别（SLA）并通过财务支撑的服务级别协议保证。如果客户的月度正常运行时间低于 99.9%，我们以提供服务信用额度的方式补偿客户。有关 Azure 和 Office 365 如何就以上问题为客户提供保障，请访问由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">世纪互联运营的 Microsoft Azure 在线服务的服务级别协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">由世纪互联运营的 Office 365 服务级别协议</a>获取更多信息和证据。<p>
-                <label>14、我可以在哪里进一步了解适用于由世纪互联运营的 Microsoft Azure 和 Office 365 的隐私惯例？</label><br>
+                <p>我们提供至少 99.9% 的服务级别( SLA )并通过财务支撑的服务级别协议保证。如果客户的月度正常运行时间低于 99.9%，我们以提供服务信用额度的方式补偿客户。有关 Azure 和 Office 365 如何就以上问题为客户提供保障，请访问由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">世纪互联运营的 Microsoft Azure 在线服务的服务级别协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">由世纪互联运营的 Office 365 服务级别协议</a>获取更多信息和证据。<p>
+                <label>14、我可以在哪里进一步了解适用于由世纪互联运营的 Microsoft Azure和Office 365 的隐私惯例？</label><br>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>介绍了管理客户对由世纪互联运营的 Microsoft Azure 的使用情况的特定隐私政策和惯例。<p>
                 <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a>介绍了管理客户对由世纪互联运营的 Office 365 的使用情况的特定隐私政策和惯例。<p>
             </div>

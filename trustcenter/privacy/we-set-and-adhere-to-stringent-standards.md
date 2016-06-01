@@ -13,7 +13,7 @@ layout: TrustCenterPage
                                 <div class="media" bi:parenttitle="t1">
                                     <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                         <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                            <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                            <div data-src="../Images/MS-TrustCenter-Privacy-Header.jpg"></div>
                                             <noscript></noscript>
                                         </div>
                                     </a>
@@ -47,7 +47,6 @@ layout: TrustCenterPage
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">Trust Center</a> // 
                 <a target="_self" class="mscom-link" href="../privacy/default-cn.html">Privacy</a> // Our privacy Standards
-
             </div>
         </div>  
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -56,14 +55,14 @@ layout: TrustCenterPage
                 <p>That is why we run Microsoft Azure and Office 365 operated by 21Vianet with privacy protections as its foundation. These protections are grounded in the <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">Privacy Statement for Microsoft Azure Operated by 21Vianet </a> and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet </a>(which detail 21Vianet’s core privacy requirements and practices), and the Security Development Lifecycle (which includes addressing privacy requirements in the process of developing software) that applies to the development of the technology that is licensed to 21Vianet. </p>
                 <p>We then back those protections with strong contractual commitments to safeguard Customer Data in the <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement"> 21Vianet Online Services Standard Agreement for Microsoft Azure </a> and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet Online Services Standard Agreement for Office 365.</a></p>
                 <ul>
-                    <li><a target="_self" class="mscom-link" href="../privacy/we-set-and-adhere-to-stringent-standards.html">We build privacy into Azure and Office 365 features and services</a></li>
-                    <li><a target="_self" class="mscom-link" href="../privacy/we-set-and-adhere-to-stringent-standards.html">21Vianet contractual commitments back our privacy best practices</a></li>
+                    <li><a target="_self" class="mscom-link" href="#We_build_privacy">We build privacy into Azure and Office 365 features and services</a></li>
+                    <li><a target="_self" class="mscom-link" href="#21Vianet_contractual">21Vianet contractual commitments back our privacy best practices</a></li>
                 </ul>
-                <label>We build privacy into how we operate Azure and Office 365</label>
+                <label id="#We_build_privacy">We build privacy into how we operate Azure and Office 365</label>
                 <p>Governed by 21Vianet privacy policies and the <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">Privacy Statement for Microsoft Azure Operated by 21Vianet </a>and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet</a>, privacy is built into the way we run Azure and Office 365 services.</p>
                 <p>The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">Privacy Statement for Microsoft Azure Operated by 21Vianet </a> and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet</a> are cornerstones of the privacy program at 21Vianet. These authoritative documents describe the 21Vianet privacy programs, including the business processes we follow to achieve privacy compliance. They also delineate the general privacy rules and requirements for developing and deploying Azure and Office 365 services. They set rules to help us keep your Customer Data secure, and handle and store the Customer Data you entrust to us in a way that helps protect its privacy. </p>
                 <p><a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/sdl/default.aspx">Security Development Lifecycle (SDL).</a> Privacy requirements are defined and integrated early in the SDL. SDL is a software development process used by developers who build the Azure and Office 365 technology that is licensed to 21Vianet. By using the SDL, these developers are able to  build services and features that are more secure, which helps to address data protection and privacy requirements. As part of this process, the SDL is designed to support effective privacy reviews of each release of a Azure and Office 365 services.</p>
-                <label>21Vianet contractual commitments back our privacy best practices</label>
+                <label id="#21Vianet_contractual">21Vianet contractual commitments back our privacy best practices</label>
                 <p>
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">21Vianet Online Services Standard Agreement for Microsoft Azure </a>and 
                     <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-SLA/">21Vianet Online Services Standard Agreement for Office 365 a</a> are the contractual commitments we make to our enterprise cloud customers to secure and protect both the use and the disclosure of Customer Data. 21Vianet will use Customer Data only to provide the services agreed upon, and for purposes (such as troubleshooting and protection against malware) compatible with providing those services. We do not use Customer Data or derive information from it for advertising. 
@@ -74,22 +73,20 @@ layout: TrustCenterPage
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Key privacy information</h1>
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where-cn.html">Datacenter locations</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">Data access policies</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data-cn.html#leave_service">Data retention policies</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data-cn.html#shiji_contract">Subcontractor policies</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">How Microsoft defines data</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="../transparency/you_know_where.html">Customer Data locations</a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#you_control_your_data">Customer Data access policies</a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#data_retention">Customer Data retention </a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="../privacy/default.html#data_other">Customer Data and Other Data Types</a></label><br/>
                     </div>
                 </div>
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Helpful information</h1>
-                        <label><a target="_self" class="mscom-link" href="/file/Protecting-Data-and-Privacy-in-the-Cloud_CN_final4.6">Potecting Data and Privacy in the Cloud(864 KB, PDF)</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Privacy Statement</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Potecting Data and Privacy in the Cloud</a></label><br/> 
                     </div>
                 </div>
             </div>
-        </div>               
+        </div>
      </div>
    </div>
 </div>

@@ -57,7 +57,7 @@ layout: TrustCenterPage
                <p>As an Office 365 customer, you benefit from the Microsoft technologies that we have licensed to deliver the Services.  These technologies represent over a decade of investments and deep experience in providing security for online data.</p>
                <p>The Services include security features that are scalable and combine 21Vianet’s learnings in different geographies and industry verticals.  The built-in security features safeguard Customer Data from the time it is stored to the time it reaches user devices.</p>
                <p>At the service level, Office 365 uses the defense-in-depth approach to provide physical, logical, and data layers of security features, and 21Vianet uses operational best practices to provide the service. In addition, Office 365 gives you enterprise-grade, user and admin controls to further secure your environment.</p>
-               <label>Physical security</label>
+               <label style="color:rgb(0,115,198)">Physical security</label>
                <ul>
                   <li>24-hour monitored physical datacenters.</li> 
                   <li>Multi-factor authentication, including biometric scanning for datacenter access.</li> 
@@ -65,7 +65,7 @@ layout: TrustCenterPage
                   <li>Role separation renders location of specific Customer Data unintelligible to the personnel that have physical access.</li> 
                   <li>Faulty drives and hardware are demagnetized and destroyed.</li> 
                </ul>
-               <label>Logical security</label>
+               <label style="color:rgb(0,115,198)">Logical security</label>
                <ul>
                   <li>Lockbox processes for strictly supervised escalation process greatly limits human access to your Customer Data. </li>
                   <li>Servers run only processes of authentication, minimizing risk from malicious code.</li>
@@ -74,12 +74,12 @@ layout: TrustCenterPage
                   <li>Applications built using Microsoft’s Security Development Lifecycle, which ensures that security and privacy are incorporated by design.   </li>
                   <li>The security controls based on Microsoft technologies give you options to customize your security features depending on your specific needs.</li>
                </ul>
-               <label>Data security</label>
+               <label style="color:rgb(0,115,198)">Data security</label>
                <ul>
                   <li>Logical isolation of Customer Data between tenants.</li>
                   <li>Threat management, security monitoring, and file/data integrity prevents or detects any tampering of Customer Data.</li>
                </ul>
-               <label>Admin and user controls</label>
+               <label style="color:rgb(0,115,198)">Admin and user controls</label>
                <ul>
                   <li>Multi-factor authentication protects access to the service with a second factor such as phone.</li>
                   <li>S/MIME provides secure certificate-based email access.</li>
@@ -89,15 +89,14 @@ layout: TrustCenterPage
                   <li>Identity systems and services such as Windows Active Directory, Azure Active Directory, and Active Directory Federation Services can be enabled for highly secure access to Office 365.</li>
                   <li>Features like legal hold, governance, and archiving allow administrators to place a hold on sensitive data for legal and archiving purposes.</li>
                </ul>
-               <label>More information:</label>
-               <p><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/support/trust-center/faq">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet </a></p>
-               <p><a target="_self" class="mscom-link withArrow" href="http://www.21vbluecloud.com/smarket/download.html?type=4&tag=5">Cloud services business model of Microsoft Azure and Office 365 operated by 21Vianet</a></p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/TrustCenter/">Office 365 Trust Center</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet </a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">How 21Vianet Operates Microsoft Azure and Office 365 in China </a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet</a></label><br/>
                   </div>
                </div>
             </div>

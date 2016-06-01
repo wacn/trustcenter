@@ -50,7 +50,7 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // 
                 <a target="_self" class="mscom-link" href="../cloudservices/default.html">Cloud Services</a> // Azure
             </div>
-        </div>        
+        </div>
         <div id="ContentWrapper2" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
             <p>Microsoft Azure operated by 21Vianet is a separate instance of Microsoft's Azure cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. It is based on the same Azure technology that powers Microsoft's global cloud services with comparable service levels to customers.</p>
@@ -93,7 +93,10 @@ layout: TrustCenterPage
                     <li><strong>Take advantage of a broad compliance framework. </strong> Azure offers a set of compliance certifications to help you conform to your specific requirements. Azure complies with international and industry-specific compliance standards, such as ISO/IEC 27001, as well as country-specific standards such as Information System Classified Security Protection (DJCP) managed by MPS.
                     </li>
                 </ul>
-                <label style="line-height: 2em;" style="color:rgb(0,115,198)">Transparency: You know how your Customer Data is stored and accessed, and how we help secure it</label>
+                <p>
+                   Learn more about <a target="_self" class="mscom-link" href="../compliance/default.html">Transparency</a>
+                </p>
+                <label style="line-height: 2em; color:rgb(0,115,198)">Transparency: You know how your Customer Data is stored and accessed, and how we help secure it</label>
                 <p>Azure is built on the premise that for you to control your own Customer Data in the cloud, you require visibility into that Customer Data. You must know where it is stored. You must also know, through clearly stated and readily available policies and procedures, how we help secure your Customer Data, who can access it, and under what circumstances. You can review third-party audits and certifications that confirm how we meet the standards we set.</p>
                 <ul>
                     <li><strong>Maintain clear, constant visibility. </strong>You know where your Customer Data is stored, who can access it, and under which conditions your Customer Data is accessed. You receive updates to any changes in our service operations policies. 
@@ -101,7 +104,10 @@ layout: TrustCenterPage
                     <li><strong>Rely on strict access procedures.</strong> 21Vianet only grants access to Customer Data to 21Vianet engineers, to perform key tasks such as maintenance and upgrades, and subcontractors, to perform limited services. We use strict controls to govern access to Customer Data, assign the lowest level of privilege required to complete key tasks, and revoke access when it is no longer needed.
                     </li>
                 </ul>
-                <label style="line-height: 2em;" style="color:rgb(0,115,198)">Shared Responsibility</label>
+                <p>
+                   Learn more about <a target="_self" class="mscom-link" href="../transparency/default.html">Transparency</a>
+                </p>
+                <label style="line-height: 2em; color:rgb(0,115,198" >Shared Responsibility</label>
                 <p>In China, customers who use cloud services are subject to many different laws and regulations that may vary from location to location and industry to industry. To help our customers comply with their own requirements, we build our services with common privacy and security requirements in mind. However, it is ultimately up to our customers to evaluate our offerings against their own requirements, so they can determine if our services satisfy their regulatory needs. We are committed to providing our customers with detailed information about Microsoft Azure operated by 21Vianet to help them make their own regulatory assessments. </p>
                 <p>Trusted cloud services like Azure require shared responsibility between the customer and the service provider. 21Vianet is responsible for the services based on technology provided by Microsoft and seeks to provide cloud services that can meet the security, privacy, and compliance needs of our customers. Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.</p>        
             </div>

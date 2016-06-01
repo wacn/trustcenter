@@ -63,12 +63,11 @@ layout: TrustCenterPage
                <label>Office 365 operated by 21Vianet </label>
                <p>Office 365 uses Azure Active Directory as its identity platform. This provides your tenant with strong authentication options and granular control over how IT professionals and users can access and use the service. Office 365 also allows integration with an on-premises Active Directory or other directory stores and identity systems, such as Active Directory Federation Services (ADFS) or third-party secure token systems (STSs), to enable secure, token-based authentication to services. </p>
                <p>With Azure Active Directory you can federate an on-premises Active Directory or other directory stores. This enables all Office 365 users whose identities are based on the federated domain to use their existing corporate logons to authenticate to Office 365. 
-                <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
                <p>Multi-factor authentication enhances security in a multi-device and cloud-centric world. Azure Active Directory provides an in-house solution for multi-factor authentication with a phone call, text message, or notification on a dedicated app. It also supports third-party multi-factor authentication solutions. 
                </p>
                <p>Once your users have logged in with multi-factor authentication, they will be able to create one or more app passwords for use in Office client applications. 
-                <br/><a target="_self" class="mscom-link withArrow" href="https://support.office.com/en-US/article/Set-up-multi-factor-authentication-for-Office-365-8f0454b2-f51a-4d9c-bcde-2c48e41621c6"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
+                <br/><a target="_self" class="mscom-link withArrow" href="../security/office365security.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
@@ -77,6 +76,8 @@ layout: TrustCenterPage
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Azure Active Directory documentation</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/multi-factor-authentication/">Multi-Factor Authentication</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
                   </div>
                </div>
             </div>

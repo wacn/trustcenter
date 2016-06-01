@@ -13,7 +13,7 @@ layout: TrustCenterPage
                                 <div class="media" bi:parenttitle="t1">
                                     <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                         <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                            <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                            <div data-src="../Images/MS-TrustCenter-Resources-Header.jpg"></div>
                                             <noscript></noscript>
                                         </div>
                                     </a>
@@ -43,7 +43,7 @@ layout: TrustCenterPage
                     </div>
                 </div>
             </div>
-        </div>         
+        </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">Trust Center</a> // Resources
                <!-- <a target="_self" class="mscom-link" href="#">Resources</a> -->
@@ -53,15 +53,18 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <label>Whitepaper</label><br>
                 <p>Looking for more in-depth content? Security, privacy, and compliance experts of Azure and Office 365 regularly publish white papers for offering more detailed analysis and discussion of Microsoft Azure and Office 365 operated by 21Vianet. Below you will find the latest papers on general cloud topics, as well as product-specific content on Azure and Office 365.</p>
+                 <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">How 21Vianet Operates Microsoft Azure and Office 365 in China </a></p>
+                <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud </a></p>
+                <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></p>
                 <label>Video</label><br>
                 <p>This collection of short videos provides overviews of security, privacy, compliance and transparency topics on Microsoft Azure and Office 365 operated by 21Vianet.</p>
+                <p><a target="_self" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/start.aspx#/Shared%20Documents/1_Bill%20of%20Materials/Video/">Trusted Cloud</a></p>
                 <label>Case Study</label><br>
                 <p>Our rich collection of case studies includes many customer stories that describe how organizations addressed specific security, privacy, compliance and transparency issues for Microsoft Azure and Office 365 operated by 21Vianet.</p>
                 <label>FAQ</label><br>
-                <p><a target="_blank" class="mscom-link" href="https://www.azure.cn/support/trust-center/faq">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet</a>will address your concerns around security, privacy, compliance and transparency topics on Azure and Office 365.</p>
+                <p><a target="_blank" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet</a>will address your concerns around security, privacy, compliance and transparency topics on Azure and Office 365.</p>
             </div>
-  <!--
-                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
+                 <!--<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>重要隐私信息</h1>

@@ -13,7 +13,7 @@ layout: TrustCenterPageCN
                            <div class="media" bi:parenttitle="t1">
                               <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Privacy_Header.jpg?version=dc9c5b9b-c334-7922-892a-15c2cd65053d"></div>
+                                    <div data-src="../Images/MS-TrustCenter-Transparency-Header.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">客户数据存储位置</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">客户数据的位置</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -76,7 +76,7 @@ layout: TrustCenterPageCN
                  <li>世纪互联不会控制或限制客户或其最终用户访问客户数据的地理位置。</li>
               </ul>
                  </div>
-            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+            <!--<div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>重要隐私信息</h1>
@@ -89,7 +89,7 @@ layout: TrustCenterPageCN
                      <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
                   </div>
                </div>
-            </div>
+            </div>-->
          </div>
       </div>
    </div>

@@ -56,7 +56,7 @@ layout: TrustCenterPageCN
                <p>通过多年领先的技术实践和提供在线服务的经验积累，由世纪互联运营的 Office 365 采用的安全技术健全强大，令您安全无忧。作为 Office 365 的客户，您将享受到多项微软授权世纪互联使用的技术。这些技术凝聚了微软在线服务数据安全领域十多年来的投资成果及丰富经验。</p>
                <p>世纪互联在安全方面的实践具有扩展性，并结合了为各地区各行业提供服务的实践。内置安全功能保证了客户数据自开始存放到到达用户设备时的安全。</p>
                <p>在服务层面上，世纪互联运营的 Office 365 采用深度防御方法，提供物理、逻辑和数据安全层面的安全功能，并使用运营最佳实践提供服务。 此外，Office 365 还为您提供了企业级用户和管理员控制，帮助您进一步保护运营环境。</p>
-               <label>物理安全性</label>
+               <label style="color:rgb(0,115,198)">物理安全性</label>
                <ul>
                   <li>24 小时监控的物理数据中心</li> 
                   <li>多重身份验证，包括访问数据中心时的生物识别扫描</li> 
@@ -64,7 +64,7 @@ layout: TrustCenterPageCN
                   <li>角色分离可保证具备物理访问权限的人员无法了解具体客户客户数据的位置</li> 
                   <li>发生故障的驱动器和硬件将在消磁后销毁</li> 
                </ul>
-               <label>逻辑安全性</label>
+               <label style="color:rgb(0,115,198)">逻辑安全性</label>
                <ul>
                   <li>锁箱流程确保严格受监督的升级流程，极大地限制他人对您客户数据的访问</li>
                   <li>服务器仅运行已认证的进程，将恶意代码风险控制在最低限度</li>
@@ -73,12 +73,12 @@ layout: TrustCenterPageCN
                   <li>应用开发遵循安全开发生命周期（ Security Development Lifecycle ），保证设计满足安全及隐私的要求</li>
                   <li>基于微软技术的安全控制能提供多种选择配置，可根据您的特定需要，量身定制</li>
                </ul>
-               <label>数据安全性</label>
+               <label style="color:rgb(0,115,198)">数据安全性</label>
                <ul>
                   <li>租户客户数据逻辑分隔</li>
                   <li>威胁管理、安全监控和文件/数据完整性可防止或检测任何客户数据篡改</li>
                </ul>
-               <label>管理员和用户控制</label>
+               <label style="color:rgb(0,115,198)">管理员和用户控制</label>
                <ul>
                   <li>多重身份验证可通过电话等第二因素保护服务访问</li>
                   <li>S/MIME 提供基于证书的安全电子邮件访问</li>
@@ -93,10 +93,9 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="#">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/trustcenter/onlineservices.html">Office 365 信任中心所支持的服务</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 安全与隐私功能陈述</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">由世纪互联运营的Microsoft Azure和Office 365云服务运营模式</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">由世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明</a></label><br/>
                   </div>
                </div>
             </div>
