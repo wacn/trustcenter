@@ -43,11 +43,11 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
             </div>
-        </div>      
+        </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 隐私保护
             </div>
-        </div>  
+        </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <p>世纪互联了解，作为我们的用户，您在使用我们运营的云服务时，托付给我们的是您最具价值的资产——您的客户数据。您信任我们充分保护您的隐私，并符合您预期的使用目的。</p>
