@@ -68,7 +68,7 @@ layout: TrustCenterPage
                 <li><strong>Defend against threats. </strong> Azure offers Microsoft Antimalware for Azure Cloud Services and Virtual Machines to help you protect against online threats. Azure also employs intrusion detection, distributed denial-of-service (DDoS) attack prevention, regular penetration testing, and data analytics and machine learning tools to help mitigate threats to the Azure platform.</li>
             </ul>
                 <p>
-                    Learn more about<a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">about Azure Network Security</a>
+                    Learn more about<a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf"> Azure Network Security</a>
                 </p>
                 <label style="color:rgb(0,115,198)">Privacy and Control: You own and control your Customer Data</label>
                 <p>21Vianet is an industry leader in protecting customer privacy. Our approach to privacy and data protection is grounded in our commitment to organizations’ ownership of and control over the collection, use, and distribution of their Customer Data. We strive to be transparent in our privacy practices, offer you meaningful privacy choices, and responsibly manage the Customer Data we store and process. One measure of our commitment to data privacy is our adoption of the international and domestic standards of ISO 27001 and Information System Classified Security Protection (DJCP) with classification as Level 3.</p>
@@ -94,7 +94,7 @@ layout: TrustCenterPage
                     </li>
                 </ul>
                 <p>
-                   Learn more about <a target="_self" class="mscom-link" href="../compliance/default.html">Transparency</a>
+                   Learn more about <a target="_self" class="mscom-link" href="../compliance/default.html">Compliance</a>
                 </p>
                 <label style="line-height: 2em; color:rgb(0,115,198)">Transparency: You know how your Customer Data is stored and accessed, and how we help secure it</label>
                 <p>Azure is built on the premise that for you to control your own Customer Data in the cloud, you require visibility into that Customer Data. You must know where it is stored. You must also know, through clearly stated and readily available policies and procedures, how we help secure your Customer Data, who can access it, and under what circumstances. You can review third-party audits and certifications that confirm how we meet the standards we set.</p>

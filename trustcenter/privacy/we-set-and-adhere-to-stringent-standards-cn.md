@@ -58,11 +58,11 @@ layout: TrustCenterPageCN
                     <li><a target="_self" class="mscom-link" href="#We_build_privacy">我们已将隐私保护融入 Azure 和 Office 365 的功能和服务中</a></li>
                     <li><a target="_self" class="mscom-link" href="#21Vianet_contractual">世纪互联通过合同承诺为隐私保护最佳实践提供支持</a></li>
                 </ul>
-                <label id="#We_build_privacy">我们将隐私保护融入到 Azure 和 Office 365 的运营中 </label>
+                <label id="We_build_privacy">我们将隐私保护融入到 Azure 和 Office 365 的运营中 </label>
                 <p>在世纪互联隐私策略以及<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">世纪互联运营的 Microsoft Azure 的隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a>的支配下，隐私已构建于 Azure 和 Office 365 服务的模式中。</p>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">世纪互联运营的 Microsoft Azure 的隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a>是世纪互联隐私项目的基石。这些权威文档描述了世纪互联的隐私项目，包括我们为了实现隐私合规性所遵守的业务流程。文档还描述了开发和部署 Azure 和 Office 365 服务过程中所沿用的通用隐私规则和要求。文档所设立的规则帮助我们确保您的客户数据安全，让我们用能够保护隐私的方式处理并存储您托付给我们的客户数据。</p>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">安全开发生命周期（SDL）</a>。隐私方面的考虑也已融入到安全开发生命周期（SDL）内。SDL 是一种软件开发流程，开发人员使用这种流程构建已经被授权给世纪互联使用的 Azure 和 Office 365 技术。通过使用     SDL，开发者可以构建更安全的软件服务和功能实现，同时满足有关数据保护与隐私的需求。作为流程设计的一部分，SDL 在确保在个版本的 Azure 和 Office 365 发布时有效的隐私审查。</p>
-                <label id="#21Vianet_contractual">世纪互联合同承诺为我们的隐私最佳实践提供支持</label>
+                <label id="21Vianet_contractual">世纪互联合同承诺为我们的隐私最佳实践提供支持</label>
                 <p>
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联有关 Microsoft Azure 的在线服务标准协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-SLA/">世纪互联有关 Office 365 在线服务的在线服务标准协议</a>是我们对使用企业级云服务的客户数据的安全使用和披露保护所做出的合同承诺。世纪互联只会将客户数据用于提供客户允许的服务及用途（例如排错和保护防范恶意软件），以及相配套的依存服务。我们不会将客户数据和获得的信息用于广告用途。 
                 </p>

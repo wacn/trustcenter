@@ -92,7 +92,7 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <h1 id="customer_data_and_other_data_types ">客户数据与其他数据类型</h1>
+                        <h1 id="customer_data_and_other_data_types">客户数据与其他数据类型</h1>
                         <p><strong>客户数据</strong>是由您或其他人代表您在使用服务时提供给世纪互联的所有数据，包括所有文本、声音、软件或图像文件。例如，客户数据包括您上载以在服务中存储或处理的数据，以及您或您的最终用户上载以在服务中托管的应用程序。它不包括配置、技术设置或服务记录信息。</p>
                         <p><strong>管理员数据</strong>是在注册、购买或管理服务时提供的有关管理员（包括帐户联系人和订阅管理员）的信息，包括姓名、地址、电话号码和电子邮件地址。</p>
                         <p><strong>元数据</strong>包括配置、技术设置和信息。例如，它包括 Azure 虚拟机的磁盘配置设置和 Azure SQL Database 的数据库设计。</p>

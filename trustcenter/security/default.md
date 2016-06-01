@@ -23,7 +23,9 @@ layout: TrustCenterPage
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;"> Security</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Security
+                                          <p>We help keep your customer data secure with state-of-the-art technology</p>
+                                          </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -82,8 +84,6 @@ layout: TrustCenterPage
                         <a target="_self" class="mscom-link withArrow" href="../security/networksecurity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Security Development Lifecycle</strong><br/>Focusing on security as a core component in the software development process can reduce the risk of costly issues, improve the security and privacy of infrastructure and applications, and protect data in Azure and Office 365. The Security Development Lifecycle, which is part of the development process for the technology licensed to 21Vianet, is composed of proven security practices that consist of multiple phases in which core software assurance activities are defined.</span>
-                        <br/>
-                        <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Security Incident and Abuse Reporting</strong>To report suspected security issues or abuse of Azure and Office 365, please contact Customer Support.
                         <!--<a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>-->
@@ -91,8 +91,8 @@ layout: TrustCenterPage
                     </ul>
                      <p>Get the specifics about the robust security at the core of Azure and Office 365 services. </p>
                      <ul>
-                        <li><a target="_blank" class="mscom-link" href="../security/azuresecurity-cn.html">Azure</a></li>
-                        <li><a target="_blank" class="mscom-link" href="../security/office365security-cn.html">Office 365</a></li>
+                        <li><a target="_blank" class="mscom-link" href="../security/azuresecurity.html">Azure</a></li>
+                        <li><a target="_blank" class="mscom-link" href="../security/office365security.html">Office 365</a></li>
                      </ul>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

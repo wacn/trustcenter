@@ -73,8 +73,8 @@ layout: TrustCenterPage
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently Asked Questions on Microsoft Azure and Office 365 operated by 21Vainet</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure operated by 21Vianet</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Privacy Statement for Microsoft Azure Operated by 21Vianet</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 operated by 21Vianet</a></label><br/>
                   </div>
                </div>

@@ -75,7 +75,7 @@ layout: TrustCenterPageCN
                      <h1>更多信息</h1>
                      <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 安全与隐私功能陈述</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营 Office 365 隐私声明 </a></label><br/>
                   </div>
                </div>
             </div>
