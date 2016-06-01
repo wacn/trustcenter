@@ -1,4 +1,4 @@
 [submodule "themes for trust center"]
 	path = _themes
-	url = https://github.com/kimizhu/templates.docs.msft
+	url = https://github.com/wacn/trustcenter.template
 	branch = stage
