@@ -105,7 +105,7 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             安全性
+                                             安全性 
                                              <p>我们通过顶尖技术确保您客户数据的安全</p>
                                           </h3>
                                        </li>
