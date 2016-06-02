@@ -2885,7 +2885,7 @@ a.mscom-account-viewonelink {
     text-decoration: none;
     padding: 0 .93em;
     color: #1a1a1a;
-    font-size: 1.5em;
+    font-size: 2em;
     white-space: nowrap
 }
 .mscom-nav .mscom-nav-item-link:hover {
