@@ -2885,7 +2885,7 @@ a.mscom-account-viewonelink {
     text-decoration: none;
     padding: 0 .93em;
     color: #1a1a1a;
-    font-size: 2em;
+    font-size: 1em;
     white-space: nowrap
 }
 .mscom-nav .mscom-nav-item-link:hover {
@@ -5829,7 +5829,7 @@ ul.first-after-subhead {
     color: #f00
 }
 ul#trusted-cloud-nav li a {
-    font-size: .9em;
+    font-size: 1.5em;
     padding: 0 10px
 }
 ul#trusted-cloud-nav>li.currentLocation a {
