@@ -70,7 +70,7 @@ layout: TrustCenterPageCN
                   <li>服务器仅运行已认证的进程，将恶意代码风险控制在最低限度</li>
                   <li>专业威胁管理团队主动预测、防御和减少恶意访问</li>
                   <li>反恶意软件及垃圾邮件控制技术先进，而且系统管理员能够简单的使用并定制</li>
-                  <li>应用开发遵循安全开发生命周期（ Security Development Lifecycle ），保证设计满足安全及隐私的要求</li>
+                  <li>应用开发遵循安全开发生命周期（Security Development Lifecycle），保证设计满足安全及隐私的要求</li>
                   <li>基于微软技术的安全控制能提供多种选择配置，可根据您的特定需要，量身定制</li>
                </ul>
                <label style="color:rgb(0,115,198)">数据安全性</label>
@@ -84,7 +84,7 @@ layout: TrustCenterPageCN
                   <li>S/MIME 提供基于证书的安全电子邮件访问</li>
                   <li>Office 365 消息加密允许您发送加密电子邮件</li>
                   <li>数据防丢失功能防止敏感数据向组织内部和外部泄露</li>
-                  <li>Office 365 系统管理访问受控于基于角色的访问控制流程( RBAC )   </li>
+                  <li>Office 365 系统管理访问受控于基于角色的访问控制流程(RBAC)   </li>
                   <li>Windows Active Directory， Azure Active Directory，Active Directory Federation Services 的身份认证系统及服务可以被开启以实现对 Office 365 的高级别安全访问</li>
                   <li>依法保留、治理及归档功能，使得系统管理员能够为法律及归档目的控制敏感数据</li>
                </ul>
@@ -93,9 +93,7 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">由世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
                   </div>
                </div>
             </div>

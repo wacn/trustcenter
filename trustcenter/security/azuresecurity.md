@@ -55,35 +55,28 @@ layout: TrustCenterPage
                </p>
                <p>Microsoft Azure operated by 21Vianet provides businesses with the data security and privacy, control, and transparency they require. Security and privacy are embedded in the Azure platform, using the Security Development Lifecycle (SDL), from initial planning through solution launch, as well as the upgrades we continue to make. Security Management Process provides security guidelines for our operational processes, and <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a>governs how we build and operate the services.  </p>
                <p>Azure uses multiple safeguards to protect customer and enterprise data. These security practices and technologies include: </p>
-               <ul>
-                  <li><span><strong>Identity and access management </strong>  – Azure Active Directory helps ensure that only authorized users can access your environments, data, and applications, and provides multi-factor authentication for highly secure sign-in.</span></li>
-                  <li><span><strong>Encryption</strong> – Azure uses industry-standard protocols to encrypt Customer Data as it travels between devices and Azure datacenters, and crosses between datacenters.</span></li>
-                  <li><span><strong>Secure networks </strong>  – Azure infrastructure relies on security practices and technologies to connect virtual machines to each other and to on-premises datacenters, while blocking unauthorized traffic. Azure Virtual Networks extend your on-premises network to the cloud via a site-to-site virtual private network (VPN). You can also use <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute</a> to create a cross-premises connection when needing a private network connection. </span></li>
-                  <li><span><strong>Threat management</strong> – Microsoft Antimalware protects Azure services and virtual machines. 21Vianet also uses intrusion detection, denial-of-service (DDoS) attack prevention, penetration testing, data analytics, and machine learning to constantly strengthen its defense and reduce risks. </span></li>
-                  <li><span><strong>Security Controls and Capabilities </strong> - Azure delivers a trusted foundation on which customers can design, build and manage their own secure cloud applications and infrastructure.</span>
+                  <p><span><strong>Identity and access management </strong>  – Azure Active Directory helps ensure that only authorized users can access your environments, data, and applications, and provides multi-factor authentication for highly secure sign-in.</span></p>
+                  <p><span><strong>Encryption</strong> – Azure uses industry-standard protocols to encrypt Customer Data as it travels between devices and Azure datacenters, and crosses between datacenters.</span></p>
+                  <p><span><strong>Secure networks </strong>  – Azure infrastructure relies on security practices and technologies to connect virtual machines to each other and to on-premises datacenters, while blocking unauthorized traffic. Azure Virtual Networks extend your on-premises network to the cloud via a site-to-site virtual private network (VPN). You can also use <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute</a> to create a cross-premises connection when needing a private network connection. </span></p>
+                  <p><span><strong>Threat management</strong> – Microsoft Antimalware protects Azure services and virtual machines. 21Vianet also uses intrusion detection, denial-of-service (DDoS) attack prevention, penetration testing, data analytics, and machine learning to constantly strengthen its defense and reduce risks. </span></p>
+                  <p><span><strong>Security Controls and Capabilities </strong> - Azure delivers a trusted foundation on which customers can design, build and manage their own secure cloud applications and infrastructure.</span>
                       <ul>
-                          <li><span><strong>Patching.s</strong>  Integrated deployment systems manage the distribution and installation of security patches. Customers can apply similar patch management processes for Virtual Machines deployed in Azure.</span></li>
+                          <li><span><strong>Patching</strong>  Integrated deployment systems manage the distribution and installation of security patches. Customers can apply similar patch management processes for Virtual Machines deployed in Azure.</span></li>
                           <li><span><strong>Zero standing privileges. </strong> Access to Customer Data by our operations and support personnel is denied by default. When granted, access is carefully managed and logged. Datacenter access to the systems that store Customer Data is strictly controlled via lock box processes.</span></li>
                       </ul>
-                  </li>
-                  <li><span><strong>Compliance</strong>   – We comply with both international and industry-specific compliance standards and participate in rigorous third-party audits, which verify our security controls.</span></li>
-                  <li><span><strong>Security Incident and Abuse Reporting</strong> – To report suspected security issues or abuse of Azure, please contact Azure Customer Support.</span></li>
-                  <li><span><strong>Penetration testing</strong><br/>
-                     <ul>
-                          <li><span>We conduct regular penetration testing to improve Azure security controls and processes. We understand that security assessment is also an important part of our customers' application development and deployment. Therefore, we have established a policy for customers to carry out authorized penetration testing on their applications hosted in Azure. Because such testing can be indistinguishable from a real attack, it is critical that customers conduct penetration testing only after obtaining approval in advance from Azure Customer Support. Penetration testing must be conducted in accordance with our terms and conditions. Requests for penetration testing should be submitted with a minimum of 7-day advanced notice.</span></li>
-                          <li><span>To learn more or to initiate penetration testing, please download the <a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Penetration_Test_Questionnaire.docx">Penetration Testing Approval Form</a>, and then contact Azure Customer Support.</span></li>
-                      </ul>
-                </span></li>
-               </ul>
-               <p>Customers maintain full ownership and control over their own Customer Data. We are a leader in providing transparency about our privacy practices—one reason that Microsoft Azure operated by 21Vianet has implemented the rigorous set of physical, logical, process and management controls.</p>
+                  </p>
+                  <p><span><strong>Compliance</strong> – We comply with both international and industry-specific compliance standards and participate in rigorous third-party audits, which verify our security controls.</span></p>
+                  <p><span><strong>Security Incident and Abuse Reporting</strong> – To report suspected security issues or abuse of Azure, please contact Azure Customer Support.</span></p>
+                  <p><span><strong>Penetration testing</strong> – We conduct regular penetration testing to improve Azure security controls and processes.
+                </span></p>
+               <p style="margin-top:20px">Customers maintain full ownership and control over their own Customer Data. We are a leader in providing transparency about our privacy practices—one reason that Microsoft Azure operated by 21Vianet has implemented the rigorous set of physical, logical, process and management controls.</p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Learn how to Protect Data and Privacy in the Cloud</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet </a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/>
                   </div>
                </div>
             </div>

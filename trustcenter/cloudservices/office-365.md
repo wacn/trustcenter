@@ -51,7 +51,7 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
                 <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                    <p>Office 365 operated by 21Vianet is a separate instance of Microsoft’s Office 365 cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. (“21Vianet”), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. It is based on the same Office 365 technology that powers Microsoft’s global Office 365 services with comparable service levels to customers.</p>
+                    <p>Office 365 operated by 21Vianet is a separate instance of Microsoft’s Office 365 cloud services located in mainland China and independently operated and sold by <a target="_self" class="mscom-link" href="http://www.ch.21vianet.com/">Shanghai Blue Cloud Technology Co., Ltd. (“21Vianet”)</a>, a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. It is based on the same Office 365 technology that powers Microsoft’s global Office 365 services with comparable service levels to customers.</p>
                     <p>Office 365 operated by 21Vianet provides online productivity and collaboration solutions. 21Vianet offers trusted Office 365 services that helps enterprises expand their businesses and maintain compliance with industry requirements.</p>
                     <p>As a customer of Office 365 operated by 21Vianet, you get </p>
                     <ul>
@@ -67,7 +67,7 @@ layout: TrustCenterPage
                         <li>Flexible security settings that enable you to have control over your information.</li>
                         <li>Security processes that monitor, anticipate, and mitigate threats to protect your Customer Data.</li>
                     </ul>
-                    <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />Learn more</a></p>
+                    <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />Learn more</a></p>
                     <label style="color:rgb(0,115,198)">Privacy</label></br>
                     <label class="subhead">Data ownership and what it means</label>
                     <ul>
@@ -187,7 +187,7 @@ layout: TrustCenterPage
                     <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                         <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                             <h1>Helpful information</h1>
-                            <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
+                            <label><a target="_self" class="mscom-link" href="#">Office 365 Security and Compliance</a></label><br/>
                         </div>
                     </div>
                 </div>

@@ -105,7 +105,7 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             安全性
+                                             安全性 
                                              <p>我们通过顶尖技术确保您客户数据的安全</p>
                                           </h3>
                                        </li>
@@ -131,7 +131,7 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <br />
-               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)"><a href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a></font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 和 Office 365 技术，为客户提供全球一致的服务质量保障。</p>
+               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)"><a href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a></font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用微软服务于全球的 Azure 和 Office 365 技术，为客户提供全球一致的服务质量保障。</p>
                <br/>
                <p>作为由世纪互联运营的 Microsoft Azure 和 Office 365 的客户，可获得以下服务：</p>
                <ul style="padding-left:40px">
@@ -149,7 +149,7 @@ layout: TrustCenterPageCN
                <p><h2 style="color:rgb(0,115,198)">共担责任</h2></p>
                <p>
                   在中国，使用云服务的客户受到许多适用于不同地域和行业的各种法律和法规的约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关 Azure 和 Office 365 云服务的详细信息， 以帮助他们进行自我监管评估。
-                   Azure 和 Office 365 云服务要求客户与服务提供商共担责任。世纪互联负责维护基于微软可信云技术的平台，并努力提供可满足客户的安全性、隐私保护、合规性和透明度需求的云服务。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
+                   Azure 和 Office 365 云服务要求客户与服务提供商共担责任。世纪互联负责维护基于微软可信云技术的平台，并努力提供可满足客户的安全性、隐私保护、合规性和透明度需求的云服务。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p><br/>
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
@@ -209,7 +209,7 @@ layout: TrustCenterPageCN
                </p>
             </div>
          </div>
-         <div class="grayback">
+         <div class="grayback" style="margin-top:15px">
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
@@ -270,11 +270,11 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                <h2>了解更多</h2>
-               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">了解由世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">了解如何保护云中的数据和隐私</a></span><br />
+               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></span><br />
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear" style="margin-bottom: 4%;margin-bottom: 2%;">
                <h2>更多资源</h2>
-               <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的Office 365 隐私声明</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></span><br />
+               <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的Office 365 隐私声明</a></span><br /><a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a></span><br />
             </div>
          </div>
       </div>

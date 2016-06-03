@@ -70,6 +70,7 @@ layout: TrustCenterPage
                 <p>
                     Learn more about<a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf"> Azure Network Security</a>
                 </p>
+                <p>Learn more about <a target="_self" class="mscom-link" href="../security/azuresecurity.html">Azure Security</a></p>
                 <label style="color:rgb(0,115,198)">Privacy and Control: You own and control your Customer Data</label>
                 <p>21Vianet is an industry leader in protecting customer privacy. Our approach to privacy and data protection is grounded in our commitment to organizations’ ownership of and control over the collection, use, and distribution of their Customer Data. We strive to be transparent in our privacy practices, offer you meaningful privacy choices, and responsibly manage the Customer Data we store and process. One measure of our commitment to data privacy is our adoption of the international and domestic standards of ISO 27001 and Information System Classified Security Protection (DJCP) with classification as Level 3.</p>
                 <ul>
@@ -77,11 +78,11 @@ layout: TrustCenterPage
                     </li>
                     <li><strong>You control your Customer Data. </strong> Because the Customer Data you host on Azure belongs to you, you have control over where it is stored and how it is accessed.
                     </li>
-                    <li><strong>When law enforcement or third party request access to your data </strong>they must follow applicable legal processes. 21Vianet believes that customers should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose your Customer Data, 21Vianet will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless we are legally prohibited from doing so. 
+                    <li><strong>When law enforcement or third party request access to your data. </strong>they must follow applicable legal processes. 21Vianet believes that customers should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose your Customer Data, 21Vianet will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless we are legally prohibited from doing so. 
                     </li>
                 </ul>
                 <p>
-                    <a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Learn how to Protecting Data and Privacy in the Cloud</a>.
+                    Learn how to <a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a>.
                 </p>
                 <label style="color:rgb(0,115,198)">Compliance: We conform to global and domestic standards</label>
                 <ul>
@@ -114,23 +115,17 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <!--<label>Customer Stories</label><div class="videoWrapper"><iframe src="https://www.youtube.com/embed/ZNgvZE0MLeo" frameboreder="0" allowfullscreen="true"></iframe></div><div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid borderBottom"><div id="" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><h1>Helpful information</h1><label>Audit cycle and effective dates</label><p>Microsoft continually assesses the EU standards, and updates its services as needed.</p><label><mscom:link disablebitracking="false" target="_self" instancename="EU Standards Organization" text="EU Standards Organization" href="//eur-lex.europa.eu"></mscom:link></label><label><mscom:link disablebitracking="false" target="_self" instancename="EU Model Clauses" text="EU Model Clauses" href="//aka.ms/eu-model_clauses"></mscom:link></label><label><mscom:link disablebitracking="false" target="_self" instancename="EU Data Protection Directive" text="EU Data Protection Directive" href="//ec.europa.eu/justice/data-protection"></mscom:link></label><label><mscom:link disablebitracking="false" target="_self" instancename="Attestation document" text="Attestation document" href="//aka.ms/eu-attestation"></mscom:link></label><label><mscom:link disablebitracking="false" target="_self" instancename="Online Services Terms" text="Online Services Terms" href="//aka.ms/eu-onlineservices"></mscom:link></label><label><mscom:link disablebitracking="false" target="_self" instancename="Azure forums" text="Azure forums" href="//azure.microsoft.com/support/forums"></mscom:link></label><label><mscom:link disablebitracking="false" target="_self" instancename="Contact us" text="Contact us" href="//azure.micrsoft.com/support/options"></mscom:link></label></div></div>-->
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
-                    <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <a target="_blank" class="mscom-link withArrow" href="../security/azuresecurity.html">
-                            <img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure Platform security and compliance (video)" width="21" height="19" />
-                             Azure security
-                        </a>
-                    </div>
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <h1>认证</h1>
+                        <h1>Compliance  Certification</h1>
                         <div class="certImageContainer">
                             <div id="ColorImageWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid certImageColor">
-                                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1"><img id="HIPAA" src="https://c.s-microsoft.com/en-us/CMSImages/HIPAA.png?version=86686902-58f6-f9a4-a1e3-3c83b0579657" class="mscom-image certImage" alt="HIPAA" title="HIPAA" width="153" height="145" /><img id="FDA" src="https://c.s-microsoft.com/en-us/CMSImages/FDA.png?version=7f91428e-f421-f208-96bc-b2216727b67d" class="mscom-image certImage" alt="FDA" title="FDA" width="153" height="145" /></div>
-                                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear"><img id="CDSA" src="https://c.s-microsoft.com/en-us/CMSImages/CDSA.png?version=964a57da-b5ff-e359-4b27-749118a88d5c" class="mscom-image certImage" alt="CDSA" title="CDSA" width="153" height="145" /><img id="FedRAMP" src="https://c.s-microsoft.com/en-us/CMSImages/FedRAMP.png?version=696d22d5-5874-e992-4f2f-b6a4a0978502" class="mscom-image certImage" alt="FedRAMP" title="FedRAMP" width="153" height="145" /></div>
+                                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1"><img id="HIPAA" src="../Images/ISO27001.png" class="mscom-image certImage" alt="HIPAA" title="HIPAA" width="153" height="145" /><img id="FDA" src="../Images/TrustCloudAuth.png" class="mscom-image certImage" alt="FDA" title="FDA" width="153" height="145" /></div>
+                                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear"><img id="CDSA" src="../Images/SLA.png" class="mscom-image certImage" alt="CDSA" title="CDSA" width="153" height="145" /><img id="FedRAMP" src="../Images/GB-18030.png" class="mscom-image certImage" alt="FedRAMP" title="FedRAMP" width="153" height="145" /></div>
                             </div>
                             <div id="GrayImageWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid certImageGray">
-                                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1"><img id="HIPAA" src="https://c.s-microsoft.com/en-us/CMSImages/HIPAA_Gray.png?version=dad3e3e6-966c-039f-1fc6-41d340600189" class="mscom-image certImage" alt="HIPAA" title="HIPAA" width="153" height="145" /><img id="FDA" src="https://c.s-microsoft.com/en-us/CMSImages/FDA_Gray.png?version=7583d6c2-f2d3-8eec-a7b5-53039a954637" class="mscom-image certImage" alt="FDA" title="FDA" width="153" height="145" /></div>
-                                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear"><img id="CDSA" src="https://c.s-microsoft.com/en-us/CMSImages/CDSA_Gray.png?version=0a07c5e7-83a5-5fc9-d34d-358bf741838e" class="mscom-image certImage" alt="CDSA" title="CDSA" width="153" height="145" /><img id="FedRAMP" src="https://c.s-microsoft.com/en-us/CMSImages/FedRAMP_Gray.png?version=555b5f5c-5153-a519-e5b1-79607e89b2d8" class="mscom-image certImage" alt="FedRAMP" title="FedRAMP" width="153" height="145" /></div>
+                               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1"><img id="HIPAA" src="../Images/ISO27001.png" class="mscom-image certImage" alt="HIPAA" title="HIPAA" width="153" height="145" /><img id="FDA" src="../Images/TrustCloudAuth.png" class="mscom-image certImage" alt="FDA" title="FDA" width="153" height="145" /></div>
+                                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear"><img id="CDSA" src="../Images/SLA.png" class="mscom-image certImage" alt="CDSA" title="CDSA" width="153" height="145" /><img id="FedRAMP" src="../Images/GB-18030.png" class="mscom-image certImage" alt="FedRAMP" title="FedRAMP" width="153" height="145" /></div>
                             </div>
                             <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                 <div id="CertInfoWrapper" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1 certPopup certDescription" style="display:none;">
@@ -140,11 +135,11 @@ layout: TrustCenterPage
                                     <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />Learn more</a>
                                 </div>
                             </div>
-                            <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                            <!--<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                 <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link withArrowRight certSeeMore" href="/en-us/TrustCenter/Compliance?service=Azure#Icons">See All
                                     <img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow.png?version=713ee3de-e9a1-a089-10be-e5023c9dfa6c" class="mscom-image" alt="Arrow | Navigate To Compliance" width="21" height="19" /></a>
                                 </div>
-                            </div>
+                            </div>-->
                             <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                 <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                                     <div class="CSPvNext">
@@ -153,11 +148,10 @@ layout: TrustCenterPage
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="cdsa">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
-                                                        <h1>CDSA</h1>
-                                                        <p>Microsoft Azure has passed the audit for the Content Delivery and Security Association Content Protection and Security
-                                                            standard for compliance with antipiracy procedures governing digital media.
+                                                        <h1>DJCP</h1>
+                                                        <p>the evaluation organization authorized by the Ministry of Public Security evaluates Microsoft Azure and Office 365 operated by 21Vianet, and rates both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365 by MPS.
                                                         </p>
-                                                        <a target="_self" class="mscom-link withArrow" href="/en-us/TrustCenter/Compliance/CDSA"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
+                                                        <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#DJCP">Learn more</a>
                                                     </div>
                                                 </div>
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -228,21 +222,19 @@ layout: TrustCenterPage
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="fda">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
-                                                        <h1>FDA 21 CFR Part 11</h1>
-                                                        <p>Microsoft Azure complies with the US Food and Drug Administration Code of Federal Regulations Title 21 Part 11, which
-                                                            details security requirements for the electronic records of companies that sell food and drugs in the US.
+                                                        <h1>TRUCS</h1>
+                                                        <p>21Vianet adopts cutting-edge Azure and Office 365 technologies and has successfully obtained Trusted Cloud Service certification with powerful localized operation capabilities, open platform, high-quality SLA, powerful data recovery capability and best customer returns.
                                                         </p>
-                                                        <a target="_self" class="mscom-link withArrow" href="/en-us/TrustCenter/Compliance/FDA"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
+                                                        <a target="_self" class="mscom-link withArrow" href="/compliance/default.html#TCS">Learn more</a>
                                                     </div>
                                                 </div>
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="fedramp">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
-                                                        <h1>FedRAMP</h1>
-                                                        <p>Azure, Azure Government, Dynamics CRM Online Government, and Office 365 Government have a Provisional Authority to Operate
-                                                            for the Federal Risk and Authorization Management Program, mandatory for cloud services used by federal agencies.
+                                                        <h1>GB 18030</h1>
+                                                        <p>GB 18030 is the Chinese ideographic character set and encoding standard mandated by the Chinese government. Microsoft Azure and Office 365 operated by 21Vianet are certified as compliant with the mandatory part of this standard by the China Electronics Standardization Institute (CESI).
                                                         </p>
-                                                        <a target="_self" class="mscom-link withArrow" href="/en-us/TrustCenter/Compliance/FedRAMP"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
+                                                        <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#GB18030">Learn more</a>
                                                     </div>
                                                 </div>
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -288,11 +280,10 @@ layout: TrustCenterPage
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="hipaa">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
-                                                        <h1>HIPAA / HITECH</h1>
-                                                        <p>Microsoft enterprise cloud services offer customers a Health Insurance Portability and Accountability Act Business Associate
-                                                            Agreement that stipulates adherence to HIPAA, which regulates patient Protected Health Information in the US.
+                                                        <h1>ISO/IEC 27001</h1>
+                                                        <p>ISO/IEC 27001 is one of world-leading security standards. Microsoft Azure and Office 365 operated by 21Vianet has implemented strict physical, logical, procedure and management control defined by ISO/IEC 27001.
                                                         </p>
-                                                        <a target="_self" class="mscom-link withArrow" href="/en-us/TrustCenter/Compliance/HIPAA"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
+                                                        <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#ISO/IEC_27001">Learn more</a>
                                                     </div>
                                                 </div>
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">

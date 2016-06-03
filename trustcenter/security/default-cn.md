@@ -56,10 +56,10 @@ layout: TrustCenterPageCN
                </p>
                <p>世纪互联在数据中心运营方面拥有多年的经验。由世纪互联运营的 Microsoft Azure 和 Office 365 仅在位于中国大陆的数据中心运行。它们由世纪互联运营人员进行管理和监控，这些人员拥有提供全天候安全联机服务的多年丰富经验。
                </p>
-               <p>从安全开发生命周期（将安全要求导入开发流程每个阶段的强制性开发流程）开始，安全性已完全融入许可给世纪互联的 Azure 和 Office 365 技术。由世纪互联运营的 Microsoft Azure 和 Office 365 确保在线服务的物理、 网络、 主机、 应用程序和数据层的安全性，使服务具有抵御攻击的能力。持续的主动监视、 渗透测试，和严格的安全准则和操作流程的实施进一步增强了整个云平台的检测和保护水平。世纪互联通过强制要求运营活动遵循安全管理流程中规定的各种安全指南，帮助其确保 Azure 和Office 365基础结构能够防御相关攻击。
+               <p>从安全开发生命周期（将安全要求导入开发流程每个阶段的强制性开发流程）开始，安全性已完全融入许可给世纪互联的 Azure 和 Office 365 技术。由世纪互联运营的 Microsoft Azure 和 Office 365 确保在线服务的物理、 网络、 主机、 应用程序和数据层的安全性，使服务具有抵御攻击的能力。持续的主动监视、 渗透测试，和严格的安全准则和操作流程的实施进一步增强了整个云平台的检测和保护水平。世纪互联通过强制要求运营活动遵循安全管理流程中规定的各种安全指南，帮助其确保 Azure 和 Office 365 基础结构能够防御相关攻击。
                </p>
                     <ul>
-                        <li><span><strong>设计和运营安全</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 基于微软可信云技术，微软许可给世纪互联的应用遵循安全开发生命周期（ Security Development Lifecycle ）进行开发，保证设计满足安全及隐私的要求。以“假定违反”作为安全策略，世纪互联的事件响应团队提供 7x24x365 的服务以缓解任何攻击对 Azure 和 Office 365 云服务造成的影响。作为 Azure 和 Office 365 的客户，您将享受到多项微软授权世纪互联使用的技术，这些技术凝聚了微软在线服务数据安全领域十多年来的投资成果及丰富经验。</span>
+                        <li><span><strong>设计和运营安全</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 基于微软可信云技术，微软许可给世纪互联的应用遵循安全开发生命周期（Security Development Lifecycle）进行开发，保证设计满足安全及隐私的要求。以“假定违反”作为安全策略，世纪互联的事件响应团队提供 7x24x365 的服务以缓解任何攻击对 Azure 和 Office 365 云服务造成的影响。作为 Azure 和 Office 365 的客户，您将享受到多项微软授权世纪互联使用的技术，这些技术凝聚了微软在线服务数据安全领域十多年来的投资成果及丰富经验。</span>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/designopsecurity-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
@@ -75,22 +75,22 @@ layout: TrustCenterPageCN
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/threatmanagement-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>监视和日志记录</strong><br/>为了帮助您管理由设备和服务生成的大量信息，由世纪互联运营的 Microsoft Azure和 Office 365 提供了集中式监视、记录和分析系统,为客户提供持续可见性、及时报警和报告。</span>
+                        <li><span><strong>监视和日志记录</strong><br/>为了帮助您管理由设备和服务生成的大量信息，由世纪互联运营的 Microsoft Azure 和 Office 365 提供了集中式监视、记录和分析系统,为客户提供持续可见性、及时报警和报告。</span>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/auditingandlogging-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>网络安全</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 网络提供一个基础架构，用于服务和客户之间的安全连接，以及现场数据中心与服务之间的安全连接。Azure 和 Office 365 网络基础架构使用多种技术阻止发送到世纪互联数据中心的以及数据中心内部的未经授权通信，例如防火墙、分区局域网（ LANs ）以及后端服务器与公共接口的物理分离.</span>
+                        <li><span><strong>网络安全</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 网络提供一个基础架构，用于服务和客户之间的安全连接，以及现场数据中心与服务之间的安全连接。Azure 和 Office 365 网络基础架构使用多种技术阻止发送到世纪互联数据中心的以及数据中心内部的未经授权通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离.</span>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/networksecurity-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>安全开发生命周期（ SDL ）</strong><br/>在软件开发过程中将安全做为核心部件可帮助 Azure 和 Office 365 降低成本，保护数据，以及改善基础架构和应用的隐私和安全防护。SDL（ Security Development Lifecycle ）作为许可给世纪互联的技术开发流程的一部分，是一种经过验证的安全实践，核心的软件开发保障行为在不同的阶段被定义</span>
+                        <li><span><strong>安全开发生命周期（SDL）</strong><br/>在软件开发过程中将安全做为核心部件可帮助 Azure 和 Office 365 降低成本，保护数据，以及改善基础架构和应用的隐私和安全防护。SDL（Security Development Lifecycle）作为许可给世纪互联的技术开发流程的一部分，是一种经过验证的安全实践，核心的软件开发保障行为在不同的阶段被定义</span>
                         </li>
-                        <li><span><strong>安全事件和滥用报告</strong><br/>若要报告 Azure 和 Office 365 的可疑安全问题或滥用情况，请联系客户支持。</span>
+                        <li><span><strong>安全事件和滥用报告</strong><br/>若要报告 Azure 和 Office 365 的可疑安全问题或滥用情况，请联系<a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/support/contact/">客户支持</a>。</span>
                         <br/>
                         <!--<a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>-->
                         </li>
                     </ul>
-                     <p>可点击下方了解更多 Azure 和 Office 365 详细信息</p>
+                     <p style="margin-top:20px">可点击下方了解更多 Azure 和 Office 365 详细信息</p>
                      <ul>
                         <li><a target="_blank" class="mscom-link" href="../security/azuresecurity-cn.html">Azure</a></li>
                         <li><a target="_blank" class="mscom-link" href="../security/office365security-cn.html">Office 365</a></li>
@@ -101,10 +101,12 @@ layout: TrustCenterPageCN
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
                      <!--<label><a target="_self" class="mscom-link" href="../security/default-cn.html">Active Directory</a></label><br/>-->
+                     <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/networking/">虚拟网络</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/hdinsight/">HDInsight</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
                   </div>
                </div>
             </div>

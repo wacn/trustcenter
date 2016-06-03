@@ -47,7 +47,7 @@ layout: TrustCenterPageCN
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 隐私保护
             </div>
-        </div>  
+        </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <p>世纪互联了解，作为我们的用户，您在使用我们运营的云服务时，托付给我们的是您最具价值的资产——您的客户数据。您信任我们充分保护您的隐私，并符合您预期的使用目的。</p>
@@ -56,14 +56,13 @@ layout: TrustCenterPageCN
                 <p>
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 的隐私声明</a>介绍了对客户使用 Azure 及 office 365 服务适用的隐私政策和惯例。
                 </p>
-                <p>在下面的页面中，我们会详细介绍由世纪互联运营的 Microsoft Azure 和 Office 365 数据隐私保护的相关政策、运营和技术实践。</p>
-                <ul>
+                <!--<ul>
                     <li><a target="_self" class="mscom-link" href="#data_other">客户数据与其他数据类型</a></li>
                     <li><a target="_self" class="mscom-link" href="#you_own_your">您拥有自己的客户数据</a></li>
                     <li><a target="_self" class="mscom-link" href="#you_are_in">您可完全控制自己的客户数据</a></li>
                     <li><a target="_self" class="mscom-link" href="#how_21vianet_responds">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求</a></li>
                     <li><a target="_self" class="mscom-link" href="#we_set_and">我们设置并坚持严格的隐私标准</a></li>
-                </ul>
+                </ul>-->
                 <label id="data_other">客户数据与其他数据类型</label>
                 <p><strong>客户数据</strong>是由您或其他人代表您在使用服务时提供给世纪互联的所有数据，包括所有文本、声音、软件或图像文件。例如，客户数据包括您上载以在服务中存储或处理的数据，以及您或您的最终用户上载以在服务中托管的应用程序。它不包括配置、技术设置或服务记录信息。
                 </p>
@@ -74,10 +73,10 @@ layout: TrustCenterPageCN
                 <label id="you_own_your">您拥有自己的客户数据</label>
                 <p>借助由世纪互联运营的 Microsoft Azure 和 Office 365，您将成为客户数据的所有者。无需世纪互联的协助，即可出于任何目的随时访问自己的客户数据。您的客户数据仅用于向您提供您同意的服务，包括与提供这些服务兼容的目的。您的客户数据不会被用于广告宣传或从中获取信息。</p>
                 <p>世纪互联为您提供经身份验证和登录的访问权限，便于您访问您的客户数据，并限制世纪互联人员和分包商对您客户数据的访问。世纪互联采取有效措施来防止对您的客户数据不当使用或丢失，并在共享硬件上将您的客户数据与其他客户的数据隔离开来。</p>
-                <p><a target="_self" class="mscom-link" href="../privacy/you-own-your-data-cn.html">了解更多有关数据所有权的信息</a></p>
+                <p><a target="_self" class="mscom-link withArrow" href="../privacy/you-own-your-data-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
                 <label id="you_are_in">您可完全控制自己的客户数据</label>
                 <p>在由世纪互联运营的 Microsoft Azure 和 Office 365 中，您可以了解您的客户数据所存储的位置，在什么情况下可以由谁访问，以及是如何被有效保护、修改和删除的。 </p>
-                <p><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html">了解更多有关如何在 Azure 和 Office 365 服务中管理您客户数据的信息</a></p>
+                <p><a target="_self" class="mscom-link  withArrow" href="../privacy/you-are-in-control-of-your-data-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
                 <label id="how_21vianet_responds">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </label>
                 <p>世纪互联认为客户应控制自己存储在本地或云服务中的信息。相应地，我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。</p>
                 <label id="we_set_and">我们设置并坚持严格的隐私标准</label>
@@ -87,7 +86,7 @@ layout: TrustCenterPageCN
                 <p>我们还将这些保护措施与<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联有关 Microsoft Azure 在线服务标准协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a>中完善的客户数据保护合同承诺相结合。
                 </p>
                 <p>
-                    <a target="_self" class="mscom-link" href="../privacy/we-set-and-adhere-to-stringent-standards-cn.html">了解更多有关隐私标准的信息</a>
+                    <a target="_self" class="mscom-link withArrow" href="../privacy/we-set-and-adhere-to-stringent-standards-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                 </p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
@@ -103,9 +102,13 @@ layout: TrustCenterPageCN
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
+                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
                     </div>
                 </div>
             </div>

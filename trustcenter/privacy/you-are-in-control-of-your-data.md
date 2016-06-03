@@ -61,7 +61,9 @@ layout: TrustCenterPage
                 </ul>
                 <label id="customer_data_is_located">You know where your Customer Data is located</label>
                 <p>Knowing the location of their Customer Data is important for customers operating in regulated industries with data protection regulations. </p>
-                <p>To that end, 21Vianet operates Azure and Office 365 in datacenters located exclusively in mainland China. As an Azure and Office 365 customer, you will know the location where your Customer Data is stored.  </p>
+                <p>To that end, 21Vianet operates Azure and Office 365 in datacenters located exclusively in mainland China. As an Azure and Office 365 customer, you will know the location where your Customer Data is stored. 
+                <br/><a target="_self" class="mscom-link withArrow" href="../transparency/you_know_where.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
+                </p>
                 <label id="you_control_your_data" name="you_control_your_data">You control access to your Customer Data</label>
                 <p><strong>Access by 21Vianet personnel. </strong> 21Vianet operations and customer support teams ensure that appropriate personnel are available 24 hours a day, 365 days a year. 21Vianet engineers do not have default access to your Customer Data. Instead, they are granted access only when necessary under management oversight. 21Vianet personnel will use Customer Data only for purposes compatible with providing you the services, which can include customer support and troubleshooting the service.</p>
                 <p><strong>Access by subcontractors. </strong>21Vianet may use subcontractors to provide limited services, such as customer support, on its behalf. We disclose only Customer Data that subcontractors require to deliver the services we have retained them to provide. Subcontractors are prohibited from using Customer Data for any other purpose, and are required to maintain the confidentiality of our customers' information.</p>
@@ -71,9 +73,9 @@ layout: TrustCenterPage
                 <label id="leave_service" name="leave_service">You control your Customer Data if you leave the service</label>
                 <p>If you ever choose to delete Customer Data or leave the service, 21Vianet follows strict standards and specific processes for removing Customer Data from all systems under our control, overwriting storage resources before reuse, and purging or destroying decommissioned hardware.</p>
                 <p>As part of our agreements for cloud services such as Azure Storage, Azure VMs, and Azure Active Directory, we contractually commit to specific processes for the deletion of Customer Data and the destruction of storage hardware when a customer requests it or leaves the service.</p>
-                <label class="subhead">Customer Data portability</label>
+                <p>Customer Data portability</p>
                 <p>You can retrieve a copy of all your Customer Data at any time and for any reason without any assistance or notification required from 21Vianet.</p>
-                <label class="subhead">Customer Data deletion </label>
+                <p>Customer Data deletion </p>
                 <p>You may extract and/or delete Customer Data at any time. In the Azure and Office 365 services, data deletion techniques vary depending on the type of data being destroyed—whether subscriptions, storage, virtual machines, or databases.</p>
                 <ul>
                     <li>In Azure Storage, all disk writes are sequential. Deleted data remains on disk until the sequential writes reach the end of the disk and the system has to start writing over deleted data. This applies to virtual machines as well, although the virtualization mechanism is designed to ensure that those spots on the disk cannot be read by another customer until data is written again, thus avoiding the threat of data leakage. 
@@ -81,14 +83,14 @@ layout: TrustCenterPage
                     <li>The Azure SQL database implementation is designed to help protect user data from leakage by disallowing all access to the underlying storage except through the SQL database application programming interface (API), which allows a user to read, write, and delete data, but does not support the reading of data not written by the user.
                     </li>
                 </ul>
-                <label class="subhead" id="data_retention">Customer Data retention</label>
+                <p id="data_retention">Customer Data retention</p>
                 <p>In our <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement"> 21Vianet Online Services Standard Agreement for Mircosoft Azure </a> and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/"> 21Vianet Online Services Standard Agreement for Office 365</a> 21Vianet contractually commits to specific processes when a customer leaves the service or the subscription expires. This includes deleting Customer Data from all systems under our control.</p>
                 <ul>
                     <li>If you, the customer, terminate your subscription or it expires (except for free trials), 21Vianet will store your Customer Data in a limited-function account for 90 days (the retention period) to give you time to export your Customer Data or renew your subscription, except for Limited Offerings, where we may delete Customer Data immediately without any retention period. During this period, 21Vianet provides multiple notices, so you will be amply forewarned of the upcoming deletion of your Customer Data.</li>
                     <li>After this 90-day retention period, 21Vianet will disable the account and delete all Customer Data, including any cached or backup copies. You agree that we have no additional obligation to continue to hold, export or return Customer Data and that we have no liability whatsoever for deletion of Customer Data pursuant to these terms.</li>
                 </ul>
                 <p>In the multitenant environments of Azure and Office 365 enterprise cloud services, we take careful measures to logically separate Customer Data to help prevent one customer’s data from leaking into the data of another customer, as well as to help block any customer from accessing another customer's deleted data.</p>
-                <label class="subhead">Destruction of physical storage devices</label>
+                <p>Destruction of physical storage devices</p>
                 <ul>
                     <li>When a disk drive used for storage suffers a hardware failure, it is securely erased or destroyed before 21Vianet returns it to the manufacturer for replacement or repair. All of the data on the drive is completely overwritten to ensure that the data cannot be recovered by any means. </li>
                     <li>When such devices are decommissioned, they are purged or destroyed based on standard procedure.</li>

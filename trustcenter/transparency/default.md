@@ -70,7 +70,7 @@ layout: TrustCenterPage
                       <li>If you end your subscription to a service (other than free trials), you can take your Customer Data with you, and 21Vianet follows stringent standards in removing your Customer Data from all systems under its control.</li>
                    </ul>
                    <label id="Who-can-access-Customer-Data">You know who can access your data and under what conditions</label>
-                   <p><strong>Remote access to Customer Data</strong> -- 21Vianet ensures that appropriate personnel are available 24 hours a day, 365 days a year. Such personnel may access Customer Data to provide customer support, troubleshoot the service, or comply with legal requirements.</p>
+                   <p><strong>Remote access to Customer Data</strong> - 21Vianet ensures that appropriate personnel are available 24 hours a day, 365 days a year. Such personnel may access Customer Data to provide customer support, troubleshoot the service, or comply with legal requirements.</p>
                    <ul>
                       <li>21Vianet personnel adhere to stringent privacy practices to safeguard Customer Data. </li>
                       <li>21Vianet imposes strict requirements around legal demands for Customer Data. </li>
@@ -104,7 +104,9 @@ layout: TrustCenterPage
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
+                     <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">21Vianet Operates Microsoft Azure and Office 365 in China </a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Potecting Data and Privacy in the Cloud</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet </a></label><br/>
                   </div>
                </div>
             </div>

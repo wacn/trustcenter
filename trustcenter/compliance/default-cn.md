@@ -63,16 +63,16 @@ layout: TrustCenterPageCN
               <label style="color:rgb(0,115,198)" id="ISO/IEC_27001">ISO/IEC 27001 审核和认证</label>
               <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。世纪互联承诺每年基于 ISO/IEC 27001（这是一种适用范围广泛的国际信息安全标准）进行认证。ISO/IEC 27001 证书确认世纪互联已实施此标准中定义的国际上认可的信息安全控制措施，包括有关启动、实施、维护和改进组织中的信息安全管理的指南和一般原则。</p>
               <p>ISO 范围: 信息安全管理系统（ISMS），其中包含了操作、安全和对商务流程管理。</p>
-              <p>该证书由北京赛西认证有限责任公司（CESI）颁发，可公开查询。</p>
+              <p>该证书由<a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">北京赛西认证有限责任公司</a>（CESI）颁发，可公开查询。</p>
               <label style="color:rgb(0,115,198)" id="DJCP">信息系统安全等级保护定级 (DJCP)</label>
-              <p>根据《GB/T 22240-2008 信息安全技术 信息系统安全等级保护定级指南》，公安部授权的测评机构依据《GB/T 22239-2008 信息安全技术 信息系统安全等级保护基本要求》对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。</p>
+              <p>根据《GB/T 22240-2008 信息安全技术 信息系统安全等级保护定级指南》，公安部授权的测评机构依据《GB/T 22239-2008 信息安全技术 信息系统安全等级保护基本要求》对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级。</p>
               <label style="color:rgb(0,115,198)" id="TCS">可信云服务认证</label>
               <p>世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</p>
               <p>可信云服务认证是在工业和信息化部的指导下，由数据中心联盟“可信云服务工作组”组织开展的云服务质量评估体系。该认证旨在培育国内公有云服务市场，增强用户对云服务的信心，保护正规云服务商，促进市场良性发展。</p>
               <p>由世纪互联运营的 Microsoft Azure 通过审核获得云备份可信云服务认证，此项服务接受了 SLA 服务协议框架内，包括数据管理、业务质量及权益保障三大类共 16 项指标的测评，此服务拥有 99.9% 的服务可用性，通过两个数据中心提供 6 份数据备份，为用户提供了可靠、安全、灵活、高效、稳定的云备份服务。</p>
               <p>在由数据中心联盟发起的第四批可信云服务认证评选中，世纪互联运营的 Office 365 在线应用服务获得企业级电子邮件 (Exchange Online)、文件共享 (SharePoint Online)、共享日历与视频电话会议 (Skype for Business) 3 项可信云服务认证。在第五批可信云服务认证评选中，世纪互联运营的 Office 365 在线应用服务获得企业级电子邮件 (Exchange Online)、文件共享 (SharePoint Online)、共享日历与视频电话会议 (Skype for Business) 新增的“安全性、用户体验性能” 2 项指标的认证。</p>
               <p>在 2015 可信云服务大会上，由世纪互联运营的 Office 365 云服务还获得了“可信云 2014-2015 年度行业云服务奖”的办公应用奖，进一步印证了 Office 365 拥有业内一流可靠的技术、安全稳定的运维以及完善规范的服务体系。</p>
-              <p>测试结果发布于<a target="_blank" class="mscom-link" href="http://www.dca.org.cn/">数据中心联盟</a>网站。</p>
+              <p>测试结果发布于<a target="_blank" class="mscom-link" href="http://www.kexinyun.org/">可信云服务认证</a>网站。</p>
               <label style="color:rgb(0,115,198)" id="GB18030">国家标准 GB 18030 信息技术中文编码字符集</label>
               <p>GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的 Microsoft Azure 和 Office 365 经中国电子技术标准化研究所认证符合该标准的强制性部分。</p>
                <div id="019f6674-6634-4c91-8107-45fb2ab4895e" class="CMSvNextComp mscom-accordion" role="tablist" bi:type="accordion" xmlns:bi="urn:schemas-microsoft-com:mscom:bi" style="display: none">
@@ -146,9 +146,11 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="../Trusted_Cloud-cn.pdf">可信赖的云服务</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
                   </div>
                </div>
             </div>
@@ -241,7 +243,7 @@ layout: TrustCenterPageCN
                               <img src="../Images/ISO27001.png" class="mscom-image" alt="ISO27001" width="24" height="24" />
                               <h1>ISO/IEC 27001</h1>
                                <p>
-                              <span class="seperate">ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和Office 365已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。</span>
+                              <span class="seperate">ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#ISO/IEC_27001" style="display: block;">了解更多</a>
                               <!--<span class="tail"> (Chinese)</span>-->
@@ -254,7 +256,7 @@ layout: TrustCenterPageCN
                               <img src="../Images/SLA.png" class="mscom-image" alt="SLA" width="24" height="24"/>
                               <h1>信息系统安全等级保护定级</h1>
                               <p>
-                              <span class="seperate">公安部授权的测评机构对由世纪互联运营的 Microsoft Azure和Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。</span>
+                              <span class="seperate">公安部授权的测评机构对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#DJCP" style="display: block;">了解更多</a>
                               </span>
@@ -266,7 +268,7 @@ layout: TrustCenterPageCN
                               <img src="../Images/TrustCloudAuth.png" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
                               <h1>可信云服务认证</h1>
                                <p>
-                              <span class="seperate">世纪互联采用 Azure 和Office 365领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</span>
+                              <span class="seperate">世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#TCS" style="display: block;">了解更多</a>
                               </span>
@@ -278,7 +280,7 @@ layout: TrustCenterPageCN
                               <img src="../Images/GB-18030.png" class="mscom-image" alt="GB-18030" width="24" height="24" />
                               <h1>GB 18030</h1>
                                <p>
-                              <span class="seperate">GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的Microsoft Azure 和Office 365经中国电子技术标准化研究所认证符合该标准的强制性部分。</span>
+                              <span class="seperate">GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的 Microsoft Azure 和 Office 365 经中国电子技术标准化研究所认证符合该标准的强制性部分。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#GB18030" style="display: block;">了解更多</a>
                               </span>

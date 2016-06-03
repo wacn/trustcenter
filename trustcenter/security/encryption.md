@@ -77,7 +77,6 @@ layout: TrustCenterPage
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/key-vault/">Azure Key Vault</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/key-vault/">Azure Key Vault documentation</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/solutions/storsimple/">Azure StorSimple: encrypted hybrid cloud storage</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
                   </div>
                </div>

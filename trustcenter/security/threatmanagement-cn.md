@@ -51,16 +51,14 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>由世纪互联运营的 Microsoft Azure 和Office 365能帮助阻止多种形式的恶意软件的攻击。Microsoft Antimalware 基于云服务构建，Azure 和 Office 365 服务还提供其他形式的反恶意软件防范和保护。
+               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 能帮助阻止多种形式的恶意软件的攻击。Microsoft Antimalware 基于云服务构建，Azure 和 Office 365 服务还提供其他形式的反恶意软件防范和保护。
                </p>
                <label style="color:rgb(0,115,198)">由世纪互联运营的 Microsoft Azure</label>
                <p>为防止在线威胁，Azure 为云服务和虚拟机提供反恶意软件，并使用入侵检测和缓解技术防御 DDoS 攻击。</p>
-               <p><strong>带有实时保护和修补功能的 Azure 反恶意软件技术 </strong></p>
-               <p>反恶意软件技术为云服务和虚拟机提供的实时保护功能有助于发现并移除病毒、间谍软件，以及其他恶意软件。当恶意软件试图将自己安装到 Azure 系统，或在 Azure 系统中运行时，该产品提供了可配置的警报信息。检测到恶意软件后，反恶意软件技术会自动删除或隔离恶意文件，清理恶意注册表项。 
-               </p>
+               <p><strong>用于 Azure 云服务和虚拟机的 Microsoft Antimalware </strong> - Microsoft Antimalware 提供的实时保护功能有助于发现并移除病毒、间谍软件，以及其他恶意软件。当恶意软件试图将自己安装到 Azure 系统，或在 Azure 系统中运行时，该产品提供了可配置的警报信息。检测到恶意软件后，反恶意软件技术会自动删除或隔离恶意文件，清理恶意注册表项。 </p>
                <p><strong>入侵检测和分布式拒绝服务DDoS </strong>入侵检测和防护系统、拒绝服务攻击防护、定期渗透测试和取证工具帮助识别 Azure 内部和外部的潜在威胁并加以预防。</p>
                <ul>
-                  <li><strong>DDoS 防御</strong>由世纪互联提供的分布式拒绝服务( DDoS ) 是 Azure 通过持续监控和定期渗透测试，改善 Azure 控制机制和流程工作的一部分。Azure 的 DDoS 防御系统在设计上不仅可以抵挡外部攻击，而且可以抵挡来自内部其他 Azure 租户的攻击。Azure 使用了标准的入侵检测和缓解技术，例如 SYN cookie、速率限制，以及连接限制等保护防范此类攻击。</li>
+                  <li><strong>DDoS 防御</strong> - 由世纪互联提供的分布式拒绝服务(DDoS) 是 Azure 通过持续监控和定期渗透测试，改善 Azure 控制机制和流程工作的一部分。Azure 的 DDoS 防御系统在设计上不仅可以抵挡外部攻击，而且可以抵挡来自内部其他 Azure 租户的攻击。Azure 使用了标准的入侵检测和缓解技术，例如 SYN cookie、速率限制，以及连接限制等保护防范此类攻击。</li>
                </ul>
                <label style="color:rgb(0,115,198)">由世纪互联运营的 Office 365 </label>
                <p>Office 365 为客户提供反恶意软件/反垃圾邮件配置选项，使用多引擎反恶意软件扫描来保护传入、传出和内部信息免受通过电子邮件传输的恶意软件的侵袭。企业系统管理员可在 Office 365 管理中心管理反恶意软件/反垃圾邮件的控制点。个人用户可在Outlook或网页版 Outlook 的收件箱中管理安全的或者被阻止的发件人。

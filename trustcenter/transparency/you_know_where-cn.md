@@ -45,7 +45,7 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 客户数据存储位置
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 客户数据的位置
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -53,11 +53,12 @@ layout: TrustCenterPageCN
               <label>客户数据的位置</label>
               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 构建的前提是：您可以完全控制自己在云中的客户数据，并要求对数据的可见性。您还可以了解到，我们是如何通过明确陈述和随时可用的政策和流程帮助保护您的客户数据安全，以及何人在何种情况下可以访问。您可以查阅第三方审计和认证。
               </p>
-              <p>世纪互联仅在位于中国大陆的数据中心运营 Azure 和 Office 365 服务.</p>
-              <p>Azure 客户可以指定存储客户数据的数据中心所在的地理区域。可用区域如下所示。</p>
+              <p style="color: rgb(0,115,198);">世纪互联仅在位于中国大陆的数据中心运营 Azure 和 Office 365 服务。
+              </p>
+              <p>Azure 客户可以指定存储客户数据的数据中心所在的地理区域。</p>
               <p style="font-size:12px">区域</p>
               <p>
-              <table border="0" cellspacing="0" cellpadding="0" class="table">
+              <table border="0" cellspacing="0" cellpadding="0" class="table" style=" width:auto">
                 <tbody>
                   <tr>
                     <td style="">中国东部（位于上海）</td>
@@ -69,12 +70,10 @@ layout: TrustCenterPageCN
               </table>
               </p>
               <p>Office 365 客户可以将他们的客户数据存储和复制在在位于中国大陆的数据中心。</p>
-              <ul>
-                 <li>对于 Azure 服务，世纪互联可能会出于数据冗余考虑或其他目的而在这些区域之间传输客户数据。例如，在发生重大数据中心事故的情况下，Azure 将在中国的两个区域之间复制存储数据以增强数据的持续性。</li>
-                 <li>对于 Office 365 服务，世纪互联将客户数据，例如 Exchange Online 邮箱数据，同时存储在两个数据中心，以应对重大的数据中心事件。</li>
-                 <li>世纪互联的供应商（包括提供 Azure 和 Office 365 技术以使服务得以运行的微软）并不具有客户数据的逻辑或物理访问权限。在极少数情况下，仅当必须对客户支持事件进行故障排除或解决技术问题时，才会授予供应商对包含客户数据的系统的访问权限。并且仅在解决问题所需的时间期限内授予此类访问权限。在此过程中此类授权访问会被密切监控，并在问题解决后终止访问权限。</li>
-                 <li>世纪互联不会控制或限制客户或其最终用户访问客户数据的地理位置。</li>
-              </ul>
+                 <p>对于 Azure 服务，世纪互联可能会出于数据冗余考虑或其他目的而在这些区域之间传输客户数据。例如，在发生重大数据中心事故的情况下，Azure 将在中国的两个区域之间复制存储数据以增强数据的持续性。</p>
+                 <p>对于 Office 365 服务，世纪互联将客户数据，例如 Exchange Online 邮箱数据，同时存储在两个数据中心，以应对重大的数据中心事件。</p>
+                 <p>世纪互联的供应商（包括提供 Azure 和 Office 365 技术以使服务得以运行的微软）并不具有客户数据的逻辑或物理访问权限。在极少数情况下，仅当必须对客户支持事件进行故障排除或解决技术问题时，才会授予供应商对包含客户数据的系统的访问权限。并且仅在解决问题所需的时间期限内授予此类访问权限。在此过程中此类授权访问会被密切监控，并在问题解决后终止访问权限。</p>
+                 <p>世纪互联不会控制或限制客户或其最终用户访问客户数据的地理位置。</p>
                  </div>
             <!--<div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">

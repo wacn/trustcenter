@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
                 <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                    <p>由世纪互联运营的 Office 365 是在中国大陆独立运营的公有云服务，由<a target="_self" class="mscom-link" href="#">北京世纪互联宽带数据中心有限公司</a>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。它采用与微软服务于全球的 Office 365 云服务一致的技术，为客户提供与全球一致的服务质量保障。</p>
+                    <p>由世纪互联运营的 Office 365 是在中国大陆独立运营的公有云服务，由<a target="_self" class="mscom-link" href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。它采用与微软服务于全球的 Office 365 云服务一致的技术，为客户提供与全球一致的服务质量保障。</p>
                     <p>世纪互联运营的 Office 365 提供在线生产力和协作解决方案。世纪互联提供的可信赖的 Office 365 服务可以帮助企业拓展业务，符合不同行业的合规要求。</p>
                     <p>作为由世纪互联运营的 Office 365 的客户，您可享受到：</p>
                     <ul>
@@ -67,7 +67,7 @@ layout: TrustCenterPageCN
                         <li>我们提供灵活的安全设置，使您有效控制自己的客户数据。</li>
                         <li>我们的安全流程能够监控、预测和减少威胁，从而保护您的客户数据。</li>
                     </ul>
-                    <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />了解更多</a></p>
+                    <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />了解更多</a></p>
                     <label style="color:rgb(0,115,198)">隐私保护</label></br>
                     <label class="subhead">数据所有权及其含义</label>
                     <ul>
