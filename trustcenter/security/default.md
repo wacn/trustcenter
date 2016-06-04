@@ -24,7 +24,7 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Security
-                                          <p>We help keep your customer data secure with state-of-the-art technology</p>
+                                          <p>Protect the confidentiality, integrity, and availability of Customer Data with industry leading technology and process.</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
