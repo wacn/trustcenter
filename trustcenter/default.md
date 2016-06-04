@@ -11,9 +11,9 @@ layout: TrustCenterPage
                      <li id="slide-1" bi:index="0" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="https://www.microsoft.com/en-us/TrustCenter/STP/default.aspx" bi:track="False" bi:titleflag="t1" bi:index="1">
+                              <a href="../security/default.html" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_STP_2.jpg"></div>
+                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Security.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -24,8 +24,8 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             Service Trust Portal
-                                             <p>Access independent audit reports of our cloud services and security best practices</p>
+                                            Security
+                                             <p>Protect the confidentiality, integrity, and availability of Customer Data with industry leading technology and process.</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -38,9 +38,9 @@ layout: TrustCenterPage
                      <li id="slide-2" bi:index="1" selectBi="">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
+                              <a href="../privacy/default.html" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Compliance.jpg"></div>
+                                    <div data-src="Images/MS-TrustCenter-Privacy-Header.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -51,8 +51,8 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             Compliance
-                                             <p>The most comprehensive set of compliance certifications and attestations</p>
+                                             Privacy
+                                             <p>You own and control your Customer Data.</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -65,9 +65,9 @@ layout: TrustCenterPage
                      <li id="slide-3" bi:index="2" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../privacy/you-are-in-control-of-your-data-cn.html" bi:track="False" bi:titleflag="t1" bi:index="2">
+                              <a href="../compliance/default.html" bi:track="False" bi:titleflag="t1" bi:index="2">
                                  <div data-picture="" data-alt="Control over your data" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Control.jpg"></div>
+                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Compliance_Header.jpg?version=0bd2396e-c6ca-03f2-90c2-103d65d9c68b"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -78,8 +78,8 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             Control over your data
-                                             <p>You know where your data is stored and how it is used</p>
+                                            Compliance
+                                             <p>Comprehensive third party audited certifications.</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -92,9 +92,9 @@ layout: TrustCenterPage
                      <li id="slide-4" bi:index="3" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../security/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="3">
+                              <a href="../transparency/default.html" bi:track="False" bi:titleflag="t1" bi:index="3">
                                  <div data-picture="" data-alt="Security" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Security.jpg"></div>
+                                    <div data-src="Images/MS-TrustCenter-Transparency-Header.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -105,8 +105,8 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             Security
-                                             <p>We help keep your customer data secure with state-of-the-art technology</p>
+                                             Transparency
+                                             <p>You have visibility into our practices.</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -130,24 +130,19 @@ layout: TrustCenterPage
          </div>
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-               <br />
                <p>Microsoft Azure and Office 365 operated by 21Vianet are separate instances of cloud services located in mainland China and independently operated and sold by <a href="http://www.ch.21vianet.com/">Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet")</a>, a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure and Office 365 technology that powers Microsoft's global cloud service with comparable service levels to customers. 
                </p>
-               <br/>
                <p>As a customer of Microsoft Azure and Office 365 operated by 21Vianet, you get:</p>
                <ul style="padding-left:40px">
                     <li style="list-style-type:disc">A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.</li>
                     <li style="list-style-type:disc">Powered by world-class Azure and Office 365 technology built on Microsoft's extensive experience with online services and used by enterprise customers around the world. </li>
                </ul>
-               <br/>
                <p>When you entrust your Customer Data to Microsoft Azure and Office 365 operated by 21Vianet, you will have questions. Who can access it? Where is it? What is 21Vianet doing to protect it? How can you verify that 21Vianet is doing what it says?
                </p>
                <p>And 21Vianet have answers. Because it’s your Customer Data, you decide who has access, and you work with us to decide where it is located. To safeguard your Customer Data, 21Vianet uses Microsoft’s state-of-the art security technology and implements world-class cryptography. Our compliance is independently audited, and we’re transparent on many levels—from where your own Customer Data is stored to how it is used.</p>
                <p>21Vianet recognizes that as an Azure and Office 365 customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security,  privacy and control, compliance and transparency.</p>
-               <br/>
                <p><h2 style="color:rgb(0,115,198)">Trusted Cloud Services</h2></p>
                <p>Microsoft Azure and Office 365 operated by 21Vianet provide enterprises with an open platform that provide the flexibility and security they need to develop innovative solutions and achieve real-time data insights, empower workforce productivity and mobility, and deliver a personalized customer experience. </p>
-               <br />
                <p><h2 style="color:rgb(0,115,198)">Shared Responsibility</h2></p>
                <p>
                   In China, customers who use cloud services are subject to many different laws and regulations that may vary from location to location and industry to industry. To help our customers comply with their own requirements, we operate our services with common privacy and security requirements in mind. However, it is ultimately up to our customers to evaluate our offerings against their own requirements, so they can determine if the services we operate satisfy their regulatory needs. We are committed to providing our customers with detailed information about Azure and Office 365 services to help them make their own regulatory assessments. 
@@ -155,11 +150,10 @@ layout: TrustCenterPage
                 <p>
                 A trusted cloud platform like Azure and Azure and Office 365 requires shared responsibility between the customer and the service provider. 21Vianet is responsible for the platform and services based on technology licensed to 21Vianet by Microsoft and seeks to provide a cloud service that can meet the security, privacy, compliance and transparency needs of our customers. Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.
                 </p>
-                <br/>
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure.html','_self')">
                <div class="image-wrapper"><img src="../Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
                <p>Azure safeguards customer and enterprise data in the cloud with the security, privacy, control, compliance, and transparency they require.
                   <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
@@ -171,7 +165,7 @@ layout: TrustCenterPage
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" onclick="window.open('../cloudservices/office-365.html','_self')">
                <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a secure cloud-based productivity experience. 
                   <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
@@ -213,7 +207,7 @@ layout: TrustCenterPage
          </div>
          <div class="grayback" style="margin-top:15px">
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
-               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../security/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Security.png" class="mscom-image" alt="Image of Padlock | Security" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -223,7 +217,7 @@ layout: TrustCenterPage
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../privacy/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -233,7 +227,7 @@ layout: TrustCenterPage
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../compliance/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Compliance.png" class="mscom-image" alt="Image of Checklist | Compliance" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -243,7 +237,7 @@ layout: TrustCenterPage
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../transparency/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Transparency.png" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
