@@ -130,6 +130,7 @@ layout: TrustCenterPage
          </div>
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+               <br/>
                <p>Microsoft Azure and Office 365 operated by 21Vianet are separate instances of cloud services located in mainland China and independently operated and sold by <a href="http://www.ch.21vianet.com/">Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet")</a>, a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure and Office 365 technology that powers Microsoft's global cloud service with comparable service levels to customers. 
                </p>
                <p>As a customer of Microsoft Azure and Office 365 operated by 21Vianet, you get:</p>
