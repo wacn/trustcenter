@@ -24,7 +24,7 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">安全性
-                                          <p>我们通过顶尖技术确保您客户数据的安全</p>
+                                          <p>采用业界领先的技术和流程保护客户数据的机密性、完整性和可用性</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
