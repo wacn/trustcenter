@@ -24,7 +24,7 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             合规性<p>提供最全面的的认证和证明<p>
+                                             合规性<p>提供完备的第三方审计认证<p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
