@@ -11,9 +11,9 @@ layout: TrustCenterPageCN
                   <li id="slide-1" bi:index="0" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="https://www.microsoft.com/en-us/TrustCenter/STP/default.aspx" bi:track="False" bi:titleflag="t1" bi:index="1">
+                              <a href="../security/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_STP_2.jpg"></div>
+                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Security.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -24,8 +24,8 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             服务信任门户
-                                             <p>查阅有关我们云服务的独立审计报告和安全最佳实践</p>
+                                             安全性
+                                             <p>采用业界领先的技术和流程保护客户数据的机密性、完整性和可用性</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -38,9 +38,9 @@ layout: TrustCenterPageCN
                      <li id="slide-2" bi:index="1" selectBi="">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
+                              <a href="../privacy/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Compliance.jpg"></div>
+                                    <div data-src="Images/MS-TrustCenter-Privacy-Header.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -51,8 +51,8 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             合规性
-                                             <p>提供最全面的的认证和证明</p>
+                                             隐私保护
+                                             <p>您拥有并掌控自己的客户数据</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -65,9 +65,9 @@ layout: TrustCenterPageCN
                      <li id="slide-3" bi:index="2" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../privacy/you-are-in-control-of-your-data-cn.html" bi:track="False" bi:titleflag="t1" bi:index="2">
+                              <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="2">
                                  <div data-picture="" data-alt="Control over your data" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Control.jpg"></div>
+                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Compliance_Header.jpg?version=0bd2396e-c6ca-03f2-90c2-103d65d9c68b"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -78,8 +78,8 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                            控制您的数据
-                                             <p>您知道自己的数据存储在何处以及如何使用</p>
+                                            合规性
+                                             <p>提供完备的第三方审计认证</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -92,9 +92,9 @@ layout: TrustCenterPageCN
                      <li id="slide-4" bi:index="3" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../security/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="3">
+                              <a href="../transparency/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="3">
                                  <div data-picture="" data-alt="Security" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Security.jpg"></div>
+                                    <div data-src="Images/MS-TrustCenter-Transparency-Header.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -105,8 +105,8 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             安全性 
-                                             <p>我们通过顶尖技术确保您客户数据的安全</p>
+                                             透明度 
+                                             <p>您清楚知悉我们的运营实践</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
@@ -153,7 +153,7 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure-cn.html','_self')">
                <div class="image-wrapper"><img src="Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="28" /></div>
                <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
                   <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
@@ -166,7 +166,7 @@ layout: TrustCenterPageCN
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                </p>
             </div>
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
+            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" onclick="window.open('../cloudservices/office-365-cn.html','_self')">
                 <div class="image-wrapper"><img src="Images/Office365_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Office 365 Title" width="300" height="28" /></div>
                 <p>
                     Office 365 结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供安全的基于云的生产力体验。
@@ -211,7 +211,7 @@ layout: TrustCenterPageCN
          </div>
          <div class="grayback" style="margin-top:15px">
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
-               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../security/default-cn.html','_self')" >
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Security.png" class="mscom-image" alt="Image of Padlock | Security" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -221,7 +221,7 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../privacy/default-cn.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -231,7 +231,7 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../compliance/default-cn.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Compliance.png" class="mscom-image" alt="Image of Checklist | Compliance" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -241,7 +241,7 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../transparency/default-cn.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Transparency.png" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
