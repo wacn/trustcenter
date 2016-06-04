@@ -85,7 +85,7 @@ layout: TrustCenterPage
                         </li>
                         <li><span><strong>Security Development Lifecycle</strong><br/>Focusing on security as a core component in the software development process can reduce the risk of costly issues, improve the security and privacy of infrastructure and applications, and protect data in Azure and Office 365. The Security Development Lifecycle, which is part of the development process for the technology licensed to 21Vianet, is composed of proven security practices that consist of multiple phases in which core software assurance activities are defined.</span>
                         </li>
-                        <li><span><strong>Security Incident and Abuse Reporting</strong>To report suspected security issues or abuse of Azure and Office 365, please contact<a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/support/contact/"> Customer Support</a>.
+                        <li><span><strong>Security Incident and Abuse Reporting</strong>To report suspected security issues or abuse of Azure and Office 365, please contact<a target="_self" class="mscom-link" href="https://www.azure.cn/support/contact/"> Customer Support</a>.
                         <!--<a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>-->
                         </li>
                     </ul>
