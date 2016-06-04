@@ -4,6 +4,7 @@
     }
 .subpageBody>div:nth-of-type(2) h1{
      font-size:24px;
+     font-weight:300;
      } 
 .CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ 
     font-size:16px; 
@@ -27,19 +28,19 @@ div.whatsNewBody>div>div.row-fluid>div>div.row-fluid label a{
     font-size:24px; line-height:2em;
      }
 i .color_red{
-    font-style:normal;color: red;
+    font-style:normal; color: red;
  }
  #HeroWrapper,#Breadcrumbs{
-     padding-bottom: 30px;
+     padding-bottom: 15px;
  }
  #BreadcrumbWrapper,#ContentWrapper1{
      padding-bottom: 25px;
  }
  div#BreadcrumbWrapper a ,div#ContentWrapper1 a{
     color: rgb(21, 112, 166);
-    font-weight: bold;
+    font-weight: 500;
 }
  div#BreadcrumbWrapper ,div#ContentWrapper1{
     color: #0081c6;
-    font-weight: bold;
+    font-weight: 500;
 }
