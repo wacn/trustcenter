@@ -25,7 +25,7 @@ layout: TrustCenterPage
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
                                              Compliance
-                                             <p>The most comprehensive set of compliance certifications and attestations</p>
+                                             <p>Comprehensive third party audited certifications.</p>
                                           </h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
