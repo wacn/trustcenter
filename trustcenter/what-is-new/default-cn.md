@@ -91,6 +91,26 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
+               <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2015年2月05日</label><br /><label><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/services/mediacenter/news/2015/02/05/1629.html">首家获五项可信云服务认证：世纪互联云服务可信之选</a></label>
+                           <p>2015年1月29日，数据中心联盟发起的第三批可信云服务认证评选结果公布，世纪互联运营的 Windows Azure 又斩获了云引擎、全网负载均衡2项认证，包括第一批获得的云主机、云存储、数据库共5项可信云服务认证，是20多家参评的厂商中获得可信云服务认证数量最多和品质最优的云服务商。值得一提的是，世纪互联运营的 Windows Azure 凭借其超越 IaaS 平台之上的领先的PaaS平台云服务。获得了业内第一家全网负载均衡可信云服务认证，体现了世纪互联运营的 Windows Azure 领先的技术和安全可靠的运维和服务。</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2014年7月16日</label><br /><label><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/services/mediacenter/news/2014/07/16/916.html">世纪互联虚拟云主机、云存储和云数据库获得我国首批可信云服务认证</a></label>
+                           <p>2014年7月15-16日，北京——在工业和信息化部指导下，以“可信中国云，未来新生态”为主题的2014可信云服务大会在北京隆重召开，并为获得我国首批可信云服务认证的企业颁发了证书。世纪互联采用 Windows Azure 领先的虚拟云主机、云存储和云数据库技术，凭借可靠的本地化运营，以国际品质的SLA服务等级协议、强大的数据安全保障、最佳的客户收益，获得虚拟机、存储、SQL 数据库三项可信云服务认证。</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
             </div>
          </div>
       </div>
