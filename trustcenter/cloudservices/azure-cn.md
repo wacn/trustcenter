@@ -224,7 +224,7 @@ layout: TrustCenterPageCN
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="fedramp">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                         <h1>GB 18030</h1>
-                                                        <p>GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的Microsoft Azure 和Office 365经中国电子技术标准化研究所认证符合该标准的强制性部分。
+                                                        <p>GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的 Microsoft Azure 和 Office 365 经中国电子技术标准化研究所认证符合该标准的强制性部分。
                                                         </p>
                                                         <a target="_self" class="mscom-link withArrow" href="/compliance/default-cn.html#GB18030">了解更多</a>
                                                     </div>
@@ -273,7 +273,7 @@ layout: TrustCenterPageCN
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="hipaa">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                         <h1>ISO/IEC 27001</h1>
-                                                        <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和Office 365已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。
+                                                        <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。
                                                         </p>
                                                         <a target="_self" class="mscom-link withArrow" href="../compliance/default-cn.html#ISO/IEC_27001">了解更多</a>
                                                     </div>
