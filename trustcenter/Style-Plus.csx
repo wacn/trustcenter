@@ -1,6 +1,7 @@
 .subpageBody>div:first-of-type label{ 
     font-size:24px;
      line-height:2em;
+     font-weight:300;
     }
 .subpageBody>div:nth-of-type(2) h1{
      font-size:24px;
