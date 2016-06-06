@@ -8,6 +8,7 @@
      } 
 .CSPvNext .row-fluid>.span:first-child,p,.subpageBody>div:nth-of-type(2) label a,.subpageBody>div:first-of-type ul li, .subpageMain>div:first-of-type ul li{ 
     font-size:16px; 
+    font-weight:500;
     }
 .a.withArrow{ 
     font-size:14px;
