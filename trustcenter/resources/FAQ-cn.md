@@ -118,7 +118,7 @@ layout: TrustCenterPageCN
                    <div class="content-faq-footer">
                    <p>世纪互联认为，客户应控制自己存储在本地或云服务中的信息。相应地，我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。</p>
                    </div>
-                <div>
+                </div>
                 <div class="content-faq">
                    <label>10. 世纪互联是否允许客户审计 Azure 和 Office 365 的运营及其数据中心？</label>
                    <div class="content-faq-footer">
