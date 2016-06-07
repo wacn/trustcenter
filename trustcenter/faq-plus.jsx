@@ -17,7 +17,12 @@
     	});
     	$("#zh-cn").click(function(){
      		var webUrl = window.location.href,
-     		    current = "../en-us/" + webUrl.split("/")[2];
+     		    current = "../../zh-cn/" + webUrl.split("/")[2];
+     		$(this).children("a").attr("href",current);
+    	});
+    		$("#en-us").click(function(){
+     		var webUrl = window.location.href,
+     		    current = "../../en-us/" + webUrl.split("/")[2];
      		$(this).children("a").attr("href",current);
     	});
  });
