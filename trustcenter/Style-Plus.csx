@@ -51,6 +51,7 @@ i .color_red{
 }
 .content-faq{
     padding-left:25px; 
+    cursor: pointer;
     background: url(Images/plus-minus-sprite.png) no-repeat;
 	background-position: left 18px;
 }
