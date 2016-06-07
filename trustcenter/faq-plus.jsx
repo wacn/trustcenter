@@ -16,13 +16,12 @@
           		$(this).css({"color":"#00a8d9"});
     	});
     	$("#zh-cn").click(function(){
-     		var webUrl = window.location.href,
-     		    current = "../../zh-cn/" + webUrl.split("/")[2];
+     	var  current = "../../zh-cn/" + window.location.pathname.split("/")[2];
      		$(this).children("a").attr("href",current);
     	});
     		$("#en-us").click(function(){
      		var webUrl = window.location.href,
-     		    current = "../../en-us/" + webUrl.split("/")[2];
+     		    current = "../../en-us/" + window.location.pathname.split("/")[2];
      		$(this).children("a").attr("href",current);
     	});
  });
