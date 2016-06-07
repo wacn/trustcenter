@@ -13,7 +13,7 @@ layout: TrustCenterPage
                            <div class="media" bi:parenttitle="t1">
                               <a href="../security/default.html" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Security.jpg"></div>
+                                    <div data-src="Images/MS_TrustCenter-Home_Header_Security.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -40,7 +40,7 @@ layout: TrustCenterPage
                            <div class="media" bi:parenttitle="t1">
                               <a href="../privacy/default.html" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
-                                    <div data-src="Images/MS-TrustCenter-Privacy-Header.jpg"></div>
+                                    <div data-src="Images/MS-TrustCenter-Home-Privacy-Header.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -67,7 +67,7 @@ layout: TrustCenterPage
                            <div class="media" bi:parenttitle="t1">
                               <a href="../compliance/default.html" bi:track="False" bi:titleflag="t1" bi:index="2">
                                  <div data-picture="" data-alt="Control over your data" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Compliance_Header.jpg?version=0bd2396e-c6ca-03f2-90c2-103d65d9c68b"></div>
+                                    <div data-src="Images/MS_TrustCenter-Home_Header_Compliance.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -94,7 +94,7 @@ layout: TrustCenterPage
                            <div class="media" bi:parenttitle="t1">
                               <a href="../transparency/default.html" bi:track="False" bi:titleflag="t1" bi:index="3">
                                  <div data-picture="" data-alt="Security" data-disable-swap-below="">
-                                    <div data-src="Images/MS-TrustCenter-Transparency-Header.jpg"></div>
+                                    <div data-src="Images/MS-TrustCenter-Home-Transparency-Header.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
