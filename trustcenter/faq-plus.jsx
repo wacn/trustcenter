@@ -16,12 +16,11 @@
           		$(this).css({"color":"#00a8d9"});
     	});
     	$("#zh-cn").click(function(){
-     	var  current = "../../zh-cn/" + window.location.pathname.split("/")[2];
+     	var  current = "../.." + window.location.pathname.replace("en-us","zh-cn");
      		$(this).children("a").attr("href",current);
     	});
     		$("#en-us").click(function(){
-     		var webUrl = window.location.href,
-     		    current = "../../en-us/" + window.location.pathname.split("/")[2];
+     		    current = "../.." + window.location.pathname.replace("zh-cn","en-us");
      		$(this).children("a").attr("href",current);
     	});
  });
