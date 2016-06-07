@@ -45,5 +45,9 @@ i .color_red{
  div#BreadcrumbWrapper ,div#ContentWrapper1{
     color: #0081c6;
     font-weight: 500;
-    
 }
+.content-faq label:hover{ color:#00a8d9}
+.faq-lan{ color:#00a8d9}
+.faq-lan:hover{color:#008f8f}
+.content-faq-footer{margin-left:30px;}
+.faq-lv{color:#}
