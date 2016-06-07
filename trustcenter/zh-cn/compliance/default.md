@@ -47,7 +47,7 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container breadcrumbs" style="padding-bottom: 25px;color:#0081c6;font-weight: bold;" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html" style="color:rgb(21, 112, 166)">信任中心</a> // 合规性 </div>
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html" style="color:rgb(21, 112, 166)">信任中心</a> // 合规性 </div>
          </div>
          <div id="" class="row-fluid grid-container mscom-grid-container subpageBody noBottomBorder" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -150,7 +150,7 @@ layout: TrustCenterPageCN
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
                   </div>
                </div>
             </div>

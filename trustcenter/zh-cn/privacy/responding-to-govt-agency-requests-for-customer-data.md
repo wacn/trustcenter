@@ -45,8 +45,8 @@ layout: TrustCenterPageCN
             </div>
         </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-                <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您控制自己的客户数据
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
+                <a target="_self" class="mscom-link" href="../privacy/default.html">隐私保护</a> // 您控制自己的客户数据
             </div>
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -65,11 +65,11 @@ layout: TrustCenterPageCN
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>重要隐私信息</h1>
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where-cn.html">数据中心位置</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data-cn.html#leave_service">数据保留策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data-cn.html#shiji_contract">分包商策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">微软如何定义数据</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where.html">数据中心位置</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="../transparency/default.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data.html#leave_service">数据保留策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data.html#shiji_contract">分包商策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default.html#data_other">微软如何定义数据</a></label><br/> 
                     </div>
                 </div>
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">

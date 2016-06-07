@@ -45,8 +45,8 @@ layout: TrustCenterPageCN
             </div>
         </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-                <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您控制自己的客户数据
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
+                <a target="_self" class="mscom-link" href="../privacy/default.html">隐私保护</a> // 您控制自己的客户数据
             </div>
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -62,7 +62,7 @@ layout: TrustCenterPageCN
                 <label id="customer_data_is_located">您知道您的客户数据存储在何处</label>
                 <p>如果客户所处行业对于数据保护有相关法规要求，客户必须能够知道自己客户数据的存储位置。</p>
                 <p>世纪互联仅在位于中国大陆的数据中心运营 Azure 和 Office 365。作为 Azure 和 Office 365 的客户，您将清楚地知道您的客户数据存储在何处。
-                <br/><a target="_self" class="mscom-link withArrow" href="../transparency/you_know_where-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
+                <br/><a target="_self" class="mscom-link withArrow" href="../transparency/you_know_where.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                 </p>
                 <label id="you_control_your_data" name="you_control_your_data">您自行控制对自己客户数据的访问</label>
                 <p><strong>世纪互联员工的访问</strong> - 世纪互联运营和客户支持团队会确保一年 365 天，一天 24 小时均有专人为客户提供服务。世纪互联的工程师对您的客户数据没有常设访问权。只有在必要的情况下，工程师可以在管理层监管之下获得访问权，用于为客户提供服务，例如为客户提供客户支持和排错服务。</p>
@@ -102,17 +102,17 @@ layout: TrustCenterPageCN
                     <li>对于存储后的客户数据，Azure 和 Office 365 会使用行业标准的加密技术，并在服务中提供多种加密安全功能，您可以根据具体需求灵活选择所需解决方案。
                     </li>
                 </ul>
-                    <a target="_self" class="mscom-link withArrow" href="../security/encryption-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
+                    <a target="_self" class="mscom-link withArrow" href="../security/encryption.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>重要隐私信息</h1>
-                        <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">客户数据的位置</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#you_control_your_data">客户数据的访问权限</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#data_retention">客户数据的保留</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../privacy/default-cn.html#data_other">客户数据与其他数据类型</a></label><br/> 
+                        <label><a target="_self" class="mscom-link" href="../transparency/you_know_where.html">客户数据的位置</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#you_control_your_data">客户数据的访问权限</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#data_retention">客户数据的保留</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/default.html#data_other">客户数据与其他数据类型</a></label><br/> 
                     </div>
                     </div>
                 </div>

@@ -45,8 +45,8 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // 审计和日志记录
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
+               <a target="_self" class="mscom-link" href="../security/default.html">安全性</a> // 审计和日志记录
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -72,7 +72,7 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营 Office 365 隐私声明 </a></label><br/>
                   </div>

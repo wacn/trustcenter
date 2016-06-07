@@ -45,8 +45,8 @@ layout: TrustCenterPageCN
             </div>
         </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-                <a target="_self" class="mscom-link" href="../privacy/default-cn.html">隐私保护</a> // 您拥有自己的数据
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
+                <a target="_self" class="mscom-link" href="../privacy/default.html">隐私保护</a> // 您拥有自己的数据
             </div>
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -102,9 +102,9 @@ layout: TrustCenterPageCN
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>重要隐私信息</h1>
-                        <label><a target="_self" class="mscom-link" href="../transparency/you_know_where-cn.html">客户数据的位置</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#you_control_your_data">客户数据的访问权限</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data-cn.html#data_retention">客户数据的保留</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../transparency/you_know_where.html">客户数据的位置</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#you_control_your_data">客户数据的访问权限</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#data_retention">客户数据的保留</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="#customer_data_and_other_data_types">客户数据与其他数据类型</a></label><br/>
                     </div>
                 </div>

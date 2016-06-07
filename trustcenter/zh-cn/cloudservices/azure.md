@@ -47,8 +47,8 @@ layout: TrustCenterPageCN
             </div>
         </div>
         <div id="ContentWrapper1" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-                <a target="_self" class="mscom-link" href="../cloudservices/default-cn.html">云服务</a> // Azure
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
+                <a target="_self" class="mscom-link" href="../cloudservices/default.html">云服务</a> // Azure
             </div>
         </div>
         <div id="ContentWrapper2" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -69,7 +69,7 @@ layout: TrustCenterPageCN
                         <p>
                             了解更多有关<a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf"> Azure 网络安全</a>的信息
                         </p>
-                        <p>了解更多有关 <a target="_self" class="mscom-link" href="../security/azuresecurity-cn.html">Azure 安全性</a> 的信息</p>
+                        <p>了解更多有关 <a target="_self" class="mscom-link" href="../security/azuresecurity.html">Azure 安全性</a> 的信息</p>
                         <label style="color:rgb(0,115,198)">隐私保护:您拥有并控制自己的客户数据</label>
                         <p>世纪互联在保护客户隐私方面处于业界领先的地位。我们采用的隐私和数据保护方法立足于这样的承诺：客户拥有并控制自己客户数据的收集、使用和传播。我们会尽力维持隐私实践的透明度，为您提供合理的隐私选择，尽责地管理我们所存储和处理的客户数据。作为衡量我们数据隐私承诺的一种方法，我们遵循国际和国内标准，例如 ISO/IEC 27001 和信息系统安全等级保护定级 (DJCP)并获得三级备案。</p>
                             <p><strong>您拥有自己的客户数据</strong> - 您拥有所有您托管在 Azure 上的客户数据——包括文本、声音、视频或图像文件和软件。无需世纪互联的协助，您可出于任何目的随时访问自己的客户数据。您的客户数据不会被用于广告宣传或数据挖掘。
@@ -89,7 +89,7 @@ layout: TrustCenterPageCN
                             <p><strong>充分利用可扩展的合规性框架</strong> - Azure 提供了一系列合规性认证，以帮您符合特定的要求。Azure 满足国际和行业特定合规性标准，如 ISO/IEC 27001，同时也符合国内标准，如公安部信息系统安全等级保护定级标准(DJCP)。
                             </p>
                         <p>
-                            了解更多有关<a target="_self" class="mscom-link" href="../compliance/default-cn.html">合规性</a>的信息
+                            了解更多有关<a target="_self" class="mscom-link" href="../compliance/default.html">合规性</a>的信息
                         </p>
                         <label style="line-height: 2em; color:rgb(0,115,198)" >透明度：您知道您的客户数据是如何被存储和访问的，并知道我们如何保护它们的</label>
                         <p>Azure 构建的前提是：您可以完全控制自己在云中的客户数据，并要求对客户数据的可见性。您清楚知悉存储客户数据的位置。此外还可通过我们清晰的阐述和完备的策略以及流程明确了解我们如何帮助保护您的客户数据安全，以及何人在何种情况下可以访问您的客户数据。您不止得到我们的承诺，也可以通过查阅第三方的审计和认证来确认我们符合我们所承诺的标准。</p>
@@ -98,7 +98,7 @@ layout: TrustCenterPageCN
                             <p><strong>依据严格的访问流程</strong> - 世纪互联只允许世纪互联的工程师在执行一些关键任务，例如维护和升级，以及分包商在执行有限的服务时访问客户数据。我们会对客户数据的访问施加严格的控制，只为访问者提供完成关键任务所必需的最小特权，当不再需要访问时，访问权会被立刻撤销。
                             </p>
                         <p>
-                            了解更多有关<a target="_self" class="mscom-link" href="../transparency/default-cn.html">透明度</a>的信息
+                            了解更多有关<a target="_self" class="mscom-link" href="../transparency/default.html">透明度</a>的信息
                         </p>
                         <label style="line-height: 2em; color:rgb(0,115,198)">共担责任</label>
                         <p>在中国，使用云服务的客户受到许多适用于不同地域和不同行业的各种法律和法规约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关世纪互联运营的 Microsoft Azure 云服务的详细信息，以帮助他们进行自我监管评估。  </p>
@@ -143,7 +143,7 @@ layout: TrustCenterPageCN
                                                         <h1>信息系统安全等级保护定级</h1>
                                                         <p>公安部授权的测评机构对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。
                                                         </p>
-                                                        <a target="_self" class="mscom-link withArrow" href="/compliance/default-cn.html#DJCP"><!--<img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" />-->了解更多</a>
+                                                        <a target="_self" class="mscom-link withArrow" href="/compliance/default.html#DJCP"><!--<img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" />-->了解更多</a>
                                                     </div>
                                                 </div>
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -217,7 +217,7 @@ layout: TrustCenterPageCN
                                                         <h1>可信云服务认证</h1>
                                                         <p>世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。
                                                         </p>
-                                                        <a target="_self" class="mscom-link withArrow" href="/compliance/default-cn.html#TCS">了解更多</a>
+                                                        <a target="_self" class="mscom-link withArrow" href="/compliance/default.html#TCS">了解更多</a>
                                                     </div>
                                                 </div>
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -226,7 +226,7 @@ layout: TrustCenterPageCN
                                                         <h1>GB 18030</h1>
                                                         <p>GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的 Microsoft Azure 和 Office 365 经中国电子技术标准化研究所认证符合该标准的强制性部分。
                                                         </p>
-                                                        <a target="_self" class="mscom-link withArrow" href="/compliance/default-cn.html#GB18030">了解更多</a>
+                                                        <a target="_self" class="mscom-link withArrow" href="/compliance/default.html#GB18030">了解更多</a>
                                                     </div>
                                                 </div>
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -275,7 +275,7 @@ layout: TrustCenterPageCN
                                                         <h1>ISO/IEC 27001</h1>
                                                         <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。
                                                         </p>
-                                                        <a target="_self" class="mscom-link withArrow" href="../compliance/default-cn.html#ISO/IEC_27001">了解更多</a>
+                                                        <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#ISO/IEC_27001">了解更多</a>
                                                     </div>
                                                 </div>
                                                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">

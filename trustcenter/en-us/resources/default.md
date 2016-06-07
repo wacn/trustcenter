@@ -45,7 +45,7 @@ layout: TrustCenterPage
             </div>
         </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">Trust Center</a> // Resources
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // Resources
                <!-- <a target="_self" class="mscom-link" href="#">Resources</a> -->
             </div>
         </div>
@@ -71,21 +71,21 @@ layout: TrustCenterPage
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>重要隐私信息</h1>
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where-cn.html">数据中心位置</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data-cn.html#leave_service">数据保留策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data-cn.html#shiji_contract">分包商策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default-cn.html#data_other">微软如何定义数据</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where.html">数据中心位置</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="../transparency/default.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data.html#leave_service">数据保留策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data.html#shiji_contract">分包商策略</a></label><br/> 
+                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default.html#data_other">微软如何定义数据</a></label><br/> 
                     </div>
                     </div>
                 </div>
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
-                        <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../transparency/default.html#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </a></label><br/>
                         <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/security/encryption.html">微软云加密</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私(864 KB, PDF)</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../compliance/default-cn#ISO/IEC_27001">ISO / IEC 27001简介</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../compliance/default#ISO/IEC_27001">ISO / IEC 27001简介</a></label><br/>
                     </div>
                 </div>-->
             </div> 

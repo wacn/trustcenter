@@ -66,7 +66,7 @@ layout: TrustCenterPage
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Key privacy information</h1>
                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where.html">Datacenter locations</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">Data access policies</a></label><br/>
+                       <label><a target="_self" class="mscom-link" href="../transparency/default.html#Who-can-access-Customer-Data">Data access policies</a></label><br/>
                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data.html#leave_service">Data retention policies</a></label><br/> 
                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data.html#shiji_contract">Subcontractor policies</a></label><br/> 
                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default.html#data_other">How Microsoft defines data</a></label><br/> 

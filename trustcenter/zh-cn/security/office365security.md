@@ -45,8 +45,8 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // Office 365 安全性
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
+               <a target="_self" class="mscom-link" href="../security/default.html">安全性</a> // Office 365 安全性
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">

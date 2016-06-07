@@ -45,8 +45,8 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // 身份和访问管理
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
+               <a target="_self" class="mscom-link" href="../security/default.html">安全性</a> // 身份和访问管理
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -66,7 +66,7 @@ layout: TrustCenterPageCN
                </p>
                <p>多重身份验证加强了多设备与云应用环境的安全防御。Azure Active Directory 可提供电话、文字简讯、应用程序通知推送在内的多重身份验证，它同时支持第三方多重身份验证的解决方案.</p>
                <p>当客户用多重身份验证登录，后台可创建一个或多个程序密码来保护客户终端安全应用。
-                <br/><a target="_self" class="mscom-link withArrow" href="../security/office365security-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
+                <br/><a target="_self" class="mscom-link withArrow" href="../security/office365security.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
                </p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

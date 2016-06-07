@@ -45,16 +45,16 @@ layout: TrustCenterPageCN
             </div>
         </div>
         <div id="ContentWrapper1" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" style="margin-top:10px;"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 云服务
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" style="margin-top:10px;"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 云服务
             </div>
         </div>
         <div class="row-fluid grid-container mscom-grid-container" id="Services" data-cols="4" data-view1="1" data-view2="2" data-view3="4" data-view4="4">
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure-cn.html','_self')">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure.html','_self')">
                 <div class="image-wrapper"><img src="../Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
                 <!--<mscom:link instancename="more azure" md:payloadguid="42dea437-6cfb-44a6-afaa-6a7901426bac" classoverride="moreLink withArrow"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
                 <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、合规性及透明性要求。   
-                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
+                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                 </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden">
@@ -65,12 +65,12 @@ layout: TrustCenterPageCN
                     <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                 </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="padding: 10px 0px;" onclick="window.open('../cloudservices/office-365-cn.html','_self')">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="padding: 10px 0px;" onclick="window.open('../cloudservices/office-365.html','_self')">
                 <div class="image-wrapper"><img src="../Images/Office365_Logo_Cn.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
                 <p>Office 365结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供高度安全的基于云的生产力体验 
-                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
+                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="visibility: hidden" >
@@ -91,10 +91,10 @@ layout: TrustCenterPageCN
                      <!--       <a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#How-MS-Defines">customer data</a>.-->
                         </p>
                         <ul>
-                            <li><a target="_self" class="mscom-link" href="../security/default-cn.html">我们致力于保护您的客户数据安全。    </a></li>
-                            <li><a target="_self" class="mscom-link" href="../privacy/default-cn.html">我们致力于保护您客户数据的隐私性且在您的控制之下。</a></li>
-                            <li><a target="_self" class="mscom-link" href="../compliance/default-cn.html">我们帮助您满足合规要求。</a></li>
-                            <li><a target="_self" class="mscom-link" href="../transparency/default-cn.html">我们的透明性在于您知道您的客户数据存储在何处以及如何处理。</a></li>
+                            <li><a target="_self" class="mscom-link" href="../security/default.html">我们致力于保护您的客户数据安全。    </a></li>
+                            <li><a target="_self" class="mscom-link" href="../privacy/default.html">我们致力于保护您客户数据的隐私性且在您的控制之下。</a></li>
+                            <li><a target="_self" class="mscom-link" href="../compliance/default.html">我们帮助您满足合规要求。</a></li>
+                            <li><a target="_self" class="mscom-link" href="../transparency/default.html">我们的透明性在于您知道您的客户数据存储在何处以及如何处理。</a></li>
                         </ul>
                     </div>
                 </div>
@@ -107,7 +107,7 @@ layout: TrustCenterPageCN
                         <label><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br />
                         <label><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br />
                         <label><a target="_blank" class="mscom-link" href="#">Office 365安全与合规白皮书</a></label><br />
-                        <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
                     </div>
                 </div>
             </div>
