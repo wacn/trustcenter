@@ -13,7 +13,7 @@
      $(".faq-lan").hover(function(){
     	      	$(this).css({"color":"#008f8f"});
     	},function(){
-          		$(this).css({"color":"#00a8d9"});;
+          		$(this).css({"color":"#00a8d9"});
     	});
     	$("#zh-cn").click(function(){
      		var webUrl = window.location.href,
