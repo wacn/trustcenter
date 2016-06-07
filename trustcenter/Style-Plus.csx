@@ -58,9 +58,8 @@ i .color_red{
     background-position: left 30px;
 }
 .faq-lan{ 
-    color:#00a8d9}
-.faq-lv{
-    color:#008f8f}
+    color:#00a8d9;
+    font-weight:bold;
+}
 .content-faq-footer{
     margin-left:30px;}
-.faq-lv{color:#}
