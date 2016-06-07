@@ -15,4 +15,9 @@
     	},function(){
           		$(this).css({"color":"#00a8d9"});;
     	});
+    	$("#zh-cn").click(function(){
+     		var webUrl = window.location.href,
+     		    current = "../en-us/" + webUrl.split("/")[2];
+     		$(this).children("a").attr("href",current);
+    	});
  });
