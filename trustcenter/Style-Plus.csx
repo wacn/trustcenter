@@ -46,8 +46,21 @@ i .color_red{
     color: #0081c6;
     font-weight: 500;
 }
-.content-faq label:hover{ color:#00a8d9}
-.faq-lan{ color:#00a8d9}
-.faq-lan:hover{color:#008f8f}
-.content-faq-footer{margin-left:30px;}
+.content-faq label:hover{ 
+    color:#00a8d9
+}
+.content-faq{
+    padding-left:25px; 
+    background: url(Images/plus-minus-sprite.png) no-repeat;
+	background-position: left 10px;
+}
+.content-faqys{
+    background-position: left 30px;
+}
+.faq-lan{ 
+    color:#00a8d9}
+.faq-lan:hover{
+    color:#008f8f}
+.content-faq-footer{
+    margin-left:30px;}
 .faq-lv{color:#}
