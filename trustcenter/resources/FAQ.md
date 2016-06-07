@@ -1,6 +1,3 @@
----
-layout: TrustCenterPage
----
 <div class="row-fluid">
    <div class="span">
       <div>
@@ -66,11 +63,11 @@ layout: TrustCenterPage
                 </div>   
                 <div class="content-faq">
                     <label>Is Microsoft Azure and Office 365 operated by 21Vianet compliant with my regulatory requirements?</label><br>
-                    <div class="content-faq-footer"> 
+                    <div class="content-faq-footer">
                         <p>It is ultimately your obligation to comply with your regulatory requirements. We provide you with information to help you do so. We commit to compliance with data protection and privacy laws generally applicable to IT service providers. If you are subject to industry or jurisdictional requirements, you will need to make your own assessment of your ability to comply. Customers in many industries have found they can use Azure and Office 365 in a manner that complies with applicable regulations, provided they utilize the services in a manner appropriate to their particular circumstances.</p>
                      </div>    
                 </div>
-                <div class="content-faq">         
+                <div class="content-faq">
                     <label>How will 21Vianet use the information I store in Azure and Office 365?</label><br>
                     <div class="content-faq-footer"> 
                         <p>21Vianet will use the Customer Data you store in Azure and Office 365 only to provide you with the services you have subscribed for. 21Vianet does not mine Customer Data for advertising or share Customer Data with advertiser-supported services. We do not scan your emails or documents in Office 365 services for advertising purposes.</p>
@@ -83,50 +80,50 @@ layout: TrustCenterPage
                         </ul>
                      </div>    
                 </div> 
-                <div class="content-faq">            
+                <div class="content-faq">
                     <label>Where is my Customer Data stored? Will 21Vianet share it with other companies?</label><br>
                     <div class="content-faq-footer"> 
                         <p>Customer Data will be stored only in data centers located in mainland China. In limited circumstances, 21Vianet may authorize one of its affiliates, suppliers or subcontractors located outside China to access Customer Data when necessary to troubleshoot a customer support incident or address a technical issue. We carefully monitor such access and terminate the access when the issue is resolved.</p>
                     </div> 
                 </div> 
-                <div class="content-faq">     
+                <div class="content-faq">
                     <label>In what circumstances is Customer Data disclosed to subcontractors, and how do they use it?</label><br>
                     <div class="content-faq-footer">
                         <p>21Vianet may hire other companies to provide limited services on its behalf (such as customer support). 21Vianet will only disclose Customer Data to subcontractors so they can deliver the services we have retained them to provide. Subcontractors are prohibited from using Customer Data for any other purpose, and they are required to maintain the confidentiality of your information. Subcontractors that work in facilities or on equipment controlled by 21Vianet must follow our privacy standards. All other subcontractors must follow privacy standards equivalent to our own.</p>
                     </div>
                 </div>
-                <div class="content-faq">  
+                <div class="content-faq">
                     <label>Will Microsoft have access to my Customer Data?</label><br>
                     <div class="content-faq-footer">
                         <p>No. Microsoft does not have access to Customer Data except in limited circumstances where 21Vianet requires technical assistance from Microsoft to troubleshoot a customer support incident or address a technical issue. 21Vianet will grant such access only for the duration necessary to resolve the issue. 21Vianet carefully monitors the access given and terminates the access when the issue is resolved.</p>
                     </div>
                 </div>
-                <div class="content-faq">  
+                <div class="content-faq">
                     <label>What is “usage data” in Office 365 services, and how does 21Vianet use “usage data”?</label><br>
                     <div class="content-faq-footer">
                         <p>The usage data in Office 365 is used to provide the services. Usage data could refer to any number of data points related to Office 365. “Usage data” could refer to the average number of emails an end user receives each day, the number of licenses in a customer’s subscription, or the amount of electricity 21Vianet needs to power Office 365.</p>
                         <p>We understand that its customers are most concerned about how 21Vianet treats personally identifiable information about end users’ interactions with the services. Such data may be used for day-to-day operations and maintenance of the services (as described above) and for services communications to administrators, including emails about end users’ use or access to the services. For example, an administrator may receive a notification from 21Vianet that an end user is near usage or storage limits.</p>
                     </div>
                 </div>
-                <div class="content-faq">  
+                <div class="content-faq">
                     <label>Does 21Vianet have access to the Azure and Office 365 services that Microsoft operates globally outside China?</label><br>
                     <div class="content-faq-footer">
                         <p>No. Microsoft Azure and Office 365 operated by 21Vianet in mainland China is physically and logically separate from the services operated by Microsoft in the rest of the world. Just as Microsoft does not have access to Customer Data in 21Vianet's services (except to assist 21Vianet as detailed above), 21Vianet does not have access to Customer Data in Microsoft's services outside mainland China. For clarity, the data center in Hong Kong is part of the global services operated by Microsoft, not the 21Vianet services operated in mainland China.</p>
                     </div>
                 </div>
-                <div class="content-faq">  
+                <div class="content-faq">
                     <label>What happens if law enforcement or another third party asks 21Vianet for my Customer Data?</label><br>
-                    <div class="content-faq-footer">    
+                    <div class="content-faq-footer">
                         <p>21Vianet believes that its customers should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding its suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited.</p>
                     </div>
                 </div>
-                <div class="content-faq">  
+                <div class="content-faq">
                     <label>Does 21Vianet allow customers to audit Azure and Office 365 operations or its datacenters?</label><br>
-                    <div class="content-faq-footer">     
+                    <div class="content-faq-footer">
                         <p>No. Our independent audits and certifications are shared with customers in lieu of individual customer audits. These certifications and attestations accurately represent how we obtain and meet our security and compliance objectives, and serve as a practical mechanism to validate our promises for all customers. Allowing potentially thousands of customers to audit our services would not be a scalable practice and might compromise security and privacy. Our independent third-party validation program includes audits that are conducted on an annual basis to provide verification of security controls.</p>
                     </div>
                 </div>
-                <div class="content-faq">  
+                <div class="content-faq">
                     <label>Can 21Vianet customize its audit for customers?</label><br>
                         <div class="content-faq-footer">
                         <p>No. 21Vianet is not able to agree to custom audit obligations for individual customers. The costs and potential conflicts between varying obligations make it impractical to customize audits.</p>
@@ -146,7 +143,7 @@ layout: TrustCenterPage
                     <label>What are 21Vianet’s commitments regarding keeping my services up?</label><br>
                     <div class="content-faq-footer">
                         <p>We offer at least 99.9% uptime via a financially backed service level agreement. If a customer experiences monthly uptime that is less than 99.9%, we will compensate that customer through service credits. For more information about how Azure and Office 365 provide guarantee for customers about the above questions, you can visit <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">Service Level Agreement for Microsoft Azure operated by 21Vianet</a> page, and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-SLA/">Service Level Agreement for Office 365 operated by 21Vianet</a> page to get more details and evidence.</p>
-                <div class="content-faq"> 
+                <div class="content-faq">
                     <label>Where can I learn more about the privacy practices that apply to Microsoft Azure and Office 365 operated by 21Vianet?</label><br>
                         <div class="content-faq-footer">
                         <p>The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a> describes the specific privacy policy and practices that govern customers' use of Microsoft Azure operated by 21Vianet.</p>
@@ -154,7 +151,8 @@ layout: TrustCenterPage
                     </div>
                 </div>
             </div>
-              <!--  <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
+  <!--
+                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>重要隐私信息</h1>
@@ -179,7 +177,4 @@ layout: TrustCenterPage
         </div>        
      </div>
    </div>
-</div>
-<div class="row-fluid" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
-   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"></div>
 </div>
