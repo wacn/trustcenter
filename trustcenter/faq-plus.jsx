@@ -25,5 +25,4 @@
      		    current = "../../en-us/" + webUrl.split("/")[2];
      		$(this).children("a").attr("href",current);
     	});
-    	
  });
