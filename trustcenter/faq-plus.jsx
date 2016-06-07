@@ -11,8 +11,8 @@
          }
      });
      $(".faq-lan").hover(function(){
-    	      	$(this).addClass("faq-lv");
+    	      	$(this).css({"color":"#008f8f"});
     	},function(){
-          		$(this).removeClass("faq-lv");
+          		$(this).css({"color":"#00a8d9"});;
     	});
  });
