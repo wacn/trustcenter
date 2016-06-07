@@ -56,7 +56,7 @@ i .color_red{
 	background-position: left 18px;
 }
 .content-faqys{
-    background-position: left 30px;
+    background-position: left -22px;
 }
 .faq-lan{ 
     color:#00a8d9;
