@@ -52,14 +52,14 @@ i .color_red{
 .content-faq{
     padding-left:25px; 
     background: url(Images/plus-minus-sprite.png) no-repeat;
-	background-position: left 10px;
+	background-position: left 18px;
 }
 .content-faqys{
     background-position: left 30px;
 }
 .faq-lan{ 
     color:#00a8d9}
-.faq-lan:hover{
+.faq-lv{
     color:#008f8f}
 .content-faq-footer{
     margin-left:30px;}
