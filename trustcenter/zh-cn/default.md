@@ -13,7 +13,7 @@ layout: TrustCenterPageCN
                            <div class="media" bi:parenttitle="t1">
                               <a href="../security/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
-                                    <div data-src="Images/MS_TrustCenter_Homepage_Header_Security.jpg"></div>
+                                    <div data-src="Images/MS_TrustCenter-Home_Header_Security.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -40,7 +40,7 @@ layout: TrustCenterPageCN
                            <div class="media" bi:parenttitle="t1">
                               <a href="../privacy/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
-                                    <div data-src="Images/MS-TrustCenter-Privacy-Header.jpg"></div>
+                                    <div data-src="Images/MS-TrustCenter-Home-Privacy-Header.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -67,7 +67,7 @@ layout: TrustCenterPageCN
                            <div class="media" bi:parenttitle="t1">
                               <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="2">
                                  <div data-picture="" data-alt="Control over your data" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Compliance_Header.jpg?version=0bd2396e-c6ca-03f2-90c2-103d65d9c68b"></div>
+                                    <div data-src="Images/MS-TrustCenter-Home_Header-Compliance.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -94,7 +94,7 @@ layout: TrustCenterPageCN
                            <div class="media" bi:parenttitle="t1">
                               <a href="../transparency/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="3">
                                  <div data-picture="" data-alt="Security" data-disable-swap-below="">
-                                    <div data-src="Images/MS-TrustCenter-Transparency-Header.jpg"></div>
+                                    <div data-src="Images/MS-TrustCenter-Home-Transparency-Header.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
@@ -148,7 +148,7 @@ layout: TrustCenterPageCN
                    Azure 和 Office 365 云服务要求客户与服务提供商共担责任。世纪互联负责维护基于微软可信云技术的平台，并努力提供可满足客户的安全性、隐私保护、合规性和透明度需求的云服务。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
             </div>
          </div>
-         <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
+         <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4" >
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure-cn.html','_self')">
                <div class="image-wrapper"><img src="Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="28" /></div>
                <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
