@@ -263,7 +263,7 @@ layout: TrustCenterPageCN
                <p style="font-size: 16px;display:none"><a target="_blank" class="mscom-link" href="what-is-new/new2.html">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> </p>
                <p style="font-size: 14px;display:none">在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
                </p>
-               <a target="_self" class="mscom-link withArrowRight" href="what-is-new/default.html">更多
+               <a target="_blank" class="mscom-link withArrowRight" href="what-is-new/default.html">更多
                <img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To What's New' " width="21" height="19" /></a>
             </div>
          </div>
