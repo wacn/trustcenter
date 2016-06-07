@@ -81,14 +81,14 @@ layout: TrustCenterPage
                             <li>Ongoing improvement of features such as those that involve the detection of, and protection against, emerging and evolving threats to the services or Customer Data (such as malware or spam).</li>
                             <li>Providing personalized or inference-based service features.</li>
                         </ul>
-                     </div>    
-                </div> 
+                     </div>
+                </div>
                 <div class="content-faq">
                     <label>Where is my Customer Data stored? Will 21Vianet share it with other companies?</label>
-                    <div class="content-faq-footer"> 
+                    <div class="content-faq-footer">
                         <p>Customer Data will be stored only in data centers located in mainland China. In limited circumstances, 21Vianet may authorize one of its affiliates, suppliers or subcontractors located outside China to access Customer Data when necessary to troubleshoot a customer support incident or address a technical issue. We carefully monitor such access and terminate the access when the issue is resolved.</p>
-                    </div> 
-                </div> 
+                    </div>
+                </div>
                 <div class="content-faq">
                     <label>In what circumstances is Customer Data disclosed to subcontractors, and how do they use it?</label>
                     <div class="content-faq-footer">
@@ -179,7 +179,7 @@ layout: TrustCenterPage
                     </div>
                 </div>-->
             </div> 
-        </div>        
+        </div>
      </div>
    </div>
 </div>
