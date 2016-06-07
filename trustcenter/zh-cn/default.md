@@ -67,7 +67,7 @@ layout: TrustCenterPageCN
                            <div class="media" bi:parenttitle="t1">
                               <a href="../compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="2">
                                  <div data-picture="" data-alt="Control over your data" data-disable-swap-below="">
-                                    <div data-src="Images/MS-TrustCenter-Home_Header-Compliance.png"></div>
+                                    <div data-src="Images/MS_TrustCenter-Home_Header_Compliance.png"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
