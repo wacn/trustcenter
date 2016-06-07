@@ -11,7 +11,7 @@ layout: TrustCenterPage
                      <li id="slide-1" bi:index="0" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../security/default.html" bi:track="False" bi:titleflag="t1" bi:index="1">
+                              <a href="../en-us/security/default.html" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
                                     <div data-src="Images/MS_TrustCenter-Home_Header_Security.png"></div>
                                     <noscript></noscript>
@@ -38,7 +38,7 @@ layout: TrustCenterPage
                      <li id="slide-2" bi:index="1" selectBi="">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../privacy/default.html" bi:track="False" bi:titleflag="t1" bi:index="0">
+                              <a href="../en-us/privacy/default.html" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
                                     <div data-src="Images/MS-TrustCenter-Home-Privacy-Header.png"></div>
                                     <noscript></noscript>
@@ -65,7 +65,7 @@ layout: TrustCenterPage
                      <li id="slide-3" bi:index="2" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../compliance/default.html" bi:track="False" bi:titleflag="t1" bi:index="2">
+                              <a href="../en-us/compliance/default.html" bi:track="False" bi:titleflag="t1" bi:index="2">
                                  <div data-picture="" data-alt="Control over your data" data-disable-swap-below="">
                                     <div data-src="Images/MS_TrustCenter-Home_Header_Compliance.png"></div>
                                     <noscript></noscript>
@@ -92,7 +92,7 @@ layout: TrustCenterPage
                      <li id="slide-4" bi:index="3" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../transparency/default.html" bi:track="False" bi:titleflag="t1" bi:index="3">
+                              <a href="../en-us/transparency/default.html" bi:track="False" bi:titleflag="t1" bi:index="3">
                                  <div data-picture="" data-alt="Security" data-disable-swap-below="">
                                     <div data-src="Images/MS-TrustCenter-Home-Transparency-Header.png"></div>
                                     <noscript></noscript>
@@ -154,10 +154,10 @@ layout: TrustCenterPage
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure.html','_self')">
-               <div class="image-wrapper"><img src="../Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../en-us/cloudservices/azure.html','_self')">
+               <div class="image-wrapper"><img src="../en-us/Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
                <p>Azure safeguards customer and enterprise data in the cloud with the security, privacy, control, compliance, and transparency they require.
-                  <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
+                  <a target="_self" class="mscom-link withArrow" href="../en-us/cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden;">
@@ -166,10 +166,10 @@ layout: TrustCenterPage
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" onclick="window.open('../cloudservices/office-365.html','_self')">
-               <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" onclick="window.open('../en-us/cloudservices/office-365.html','_self')">
+               <div class="image-wrapper"><img src="../en-us/Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a secure cloud-based productivity experience. 
-                  <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
+                  <a target="_self" class="mscom-link withArrow" href="../en-us/cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="visibility: hidden;">
@@ -208,50 +208,50 @@ layout: TrustCenterPage
          </div>
          <div class="grayback" style="margin-top:15px">
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
-               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../security/default.html','_self')">
+               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../en-us/security/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Security.png" class="mscom-image" alt="Image of Padlock | Security" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Secure</h3>
                         <p>We keep your Customer Data safe</p>
-                        <a target="_self" class="mscom-link withArrow" href="../security/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../en-us/security/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../privacy/default.html','_self')">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../en-us/privacy/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Private</h3>
                         <p>You own and control your Customer Data</p>
-                        <a target="_self" class="mscom-link withArrow" href="../privacy/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../en-us/privacy/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../compliance/default.html','_self')">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../en-us/compliance/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Compliance.png" class="mscom-image" alt="Image of Checklist | Compliance" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Compliant</h3>
                         <p>Our services are in line with global /domestic standards</p>
-                        <a target="_self" class="mscom-link withArrow" href="../compliance/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../en-us/compliance/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../transparency/default.html','_self')">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../en-us/transparency/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Transparency.png" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>Transparent</h3>
                         <p>You know how your Customer Data is stored and accessed, and how we help secure it</p>
-                        <a target="_self" class="mscom-link withArrow" href="../transparency/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../en-us/transparency/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
             </div>
          </div>
          <div class="row-fluid whatsNew wider" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2" style="background-color: white;">
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left" style="width:100%"><img src="../Images/group-people-big.jpg" class="mscom-image" alt="Image of a group of people"/></div>
+            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left" style="width:100%"><img src="../en-us/Images/group-people-big.jpg" class="mscom-image" alt="Image of a group of people"/></div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
