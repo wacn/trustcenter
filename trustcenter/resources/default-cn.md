@@ -71,7 +71,7 @@ layout: TrustCenterPageCN
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <h1>重要隐私信息</h1>
+                        <h1> 重要隐私信息</h1>
                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where-cn.html">数据中心位置</a></label><br/> 
                        <label><a target="_self" class="mscom-link" href="../transparency/default-cn.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/> 
                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data-cn.html#leave_service">数据保留策略</a></label><br/> 
