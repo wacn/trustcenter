@@ -55,7 +55,7 @@ layout: TrustCenterPageCN
                 <p>如果您需要更详细的信息，Azure 和 Office 365 的安全、隐私与合规专家会定期发布白皮书，借此充分解析由世纪互联运营的 Microsoft Azure 和 Office 365 在安全和隐私方面对客户的承诺。您可以在下面看到有关由世纪互联运营的 Microsoft Azure 和 Office 365 云服务的通用白皮书，以及与 Azure 和 Office 365 具体产品相关的内容。</p>
                 <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">由世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></p>
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></p>
-                <p><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></p>
+                <p><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></p>
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></p>
                 <label id="videos">视频</label><br>
                 <p>视频短片概括介绍了由世纪互联运营的 Microsoft Azure 和 Office 365 相关内容，并充分解答您关于安全性、隐私保护、合规性及透明度方面的疑惑。</p>
@@ -65,7 +65,7 @@ layout: TrustCenterPageCN
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/partnerancasestudy/case-studies">Azure 案例</a></p>
                 <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/CaseStudy.html">Office 365 案例</a></p>
                 <label>常见问题</label><br>
-                <p><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的Microsoft Azure和Office 365常见问题</a>，能充分解答您关于Azure 和Office 365 安全性、隐私保护、合规性及透明度方面的疑惑。</p>
+                <p><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a>，能充分解答您关于 Azure 和O ffice 365 安全性、隐私保护、合规性及透明度方面的疑惑。</p>
             </div>
   <!--
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">

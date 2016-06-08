@@ -77,7 +77,7 @@ layout: TrustCenterPage
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Azure Active Directory documentation</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/multi-factor-authentication/">Multi-Factor Authentication</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance </a></label><br/>
                   </div>
                </div>
             </div>

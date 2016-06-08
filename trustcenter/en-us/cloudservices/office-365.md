@@ -23,7 +23,7 @@ layout: TrustCenterPage
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Office 365</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Office 365 operated by 21Vianet</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -51,7 +51,7 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
                 <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                    <p>Office 365 operated by 21Vianet is a separate instance of Microsoft’s Office 365 cloud services located in mainland China and independently operated and sold by <a target="_self" class="mscom-link" href="http://www.ch.21vianet.com/">Shanghai Blue Cloud Technology Co., Ltd. (“21Vianet”)</a>, a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. It is based on the same Office 365 technology that powers Microsoft’s global Office 365 services with comparable service levels to customers.</p>
+                    <p>Office 365 operated by 21Vianet is a separate instance of Microsoft’s Office 365 cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. (“21Vianet”), a wholly owned subsidiary of<a target="_self" class="mscom-link" href="http://www.ch.21vianet.com/"> Beijing 21Vianet Broadband Data Center Co., Ltd</a>. It is based on the same Office 365 technology that powers Microsoft’s global Office 365 services with comparable service levels to customers.</p>
                     <p>Office 365 operated by 21Vianet provides online productivity and collaboration solutions. 21Vianet offers trusted Office 365 services that helps enterprises expand their businesses and maintain compliance with industry requirements.</p>
                     <p>As a customer of Office 365 operated by 21Vianet, you get </p>
                     <ul>
@@ -187,7 +187,7 @@ layout: TrustCenterPage
                     <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                         <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                             <h1>Helpful information</h1>
-                            <label><a target="_self" class="mscom-link" href="#">Office 365 Security and Compliance</a></label><br/>
+                            <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance</a></label><br/>
                         </div>
                     </div>
                 </div>

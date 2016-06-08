@@ -151,7 +151,7 @@ layout: TrustCenterPageCN
                    <label>我可以在哪里进一步了解适用于由世纪互联运营的 Microsoft Azure和Office 365 的隐私惯例？</label>
                    <div class="content-faq-footer">
                     <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>介绍了管理客户对由世纪互联运营的 Microsoft Azure 的使用情况的特定隐私政策和惯例。</p>
-                    <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a>介绍了管理客户对由世纪互联运营的 Office 365 的使用情况的特定隐私政策和惯例。</p>
+                    <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明</a>介绍了管理客户对由世纪互联运营的 Office 365 的使用情况的特定隐私政策和惯例。</p>
                    </div>
                 </div>
                </div>

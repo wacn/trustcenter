@@ -69,7 +69,7 @@ layout: TrustCenterPage
                   </li>
                </ul>
                <p>Spreading encrypted files across storage locations, encrypting the map of file locations itself, and physically separating master encryption keys from both content and the file map, make OneDrive for Business and SharePoint Online a highly secure environment for your stored files.<br/>
-               <a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a></p>
+               <a target="_self" class="mscom-link withArrow" href="../../file/Office-365-Security-and-Compliance-CN.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a></p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -77,7 +77,7 @@ layout: TrustCenterPage
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/key-vault/">Azure Key Vault</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/key-vault/">Azure Key Vault documentation</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance </a></label><br/>
                   </div>
                </div>
             </div>

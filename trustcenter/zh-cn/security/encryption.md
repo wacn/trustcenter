@@ -68,7 +68,7 @@ layout: TrustCenterPageCN
                   <li><strong>存储后的数据</strong> - OneDrive for Business 和 SharePoint Online 使用文件级加密技术对存储后的客户数据进行加密。Office 365 不仅为每个磁盘提供一个加密密钥，而且为每个文件提供唯一的加密密钥。 SharePoint Online 中存储的每个文件——包括 OneDrive for Business 文件夹——都会使用自己的密钥进行加密。您组织中的文件并不会全部存储到一个数据库内，而是分散保存到多个 Azure 存储容器中，每个容器需要不同的凭据。</li>
                </ul>
                <p>通过将加密后的文件分散保存在多个存储位置，对文件位置映射图本身进行加密，并将主加密密钥和内容与文件映射图的加密密钥在物理上隔离保存，这些措施确保了 OneDrive for Business 和 SharePoint Online 为您存储的文件提供了一个高度安全的环境。
-               <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a></p>
+               <br/><a target="_self" class="mscom-link withArrow" href="../../file/Office-365-Security-and-Compliance-CN.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a></p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -76,7 +76,7 @@ layout: TrustCenterPageCN
                      <h1>更多信息</h1>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/key-vault/">Azure 密钥管理库</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/key-vault/">Azure 密钥保管库文档</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></label><br/>
                   </div>
                </div>
             </div>

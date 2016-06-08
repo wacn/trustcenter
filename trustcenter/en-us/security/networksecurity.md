@@ -71,7 +71,7 @@ layout: TrustCenterPage
                <p>Office 365 perimeter protection is implemented through the use of controlled devices at the network edge and on points throughout the network. Only connections and communications that are necessary to allow systems to operate are allowed. Access control lists (ACLs) on routers, IPsec policies on hosts, firewall rules, and host-based firewall rules are implemented in the network. Edge router security provides the ability to detect intrusions and signs of vulnerability at the network layer. Networks within the Office 365 data centers are segmented to provide physical separation of back-end servers and storage devices from the public-facing interfaces. 
                </p>
                <p>Office 365 services follow industry cryptographic standards such as SSL/TLS and AES to protect the confidentiality and integrity of data. All customer-facing servers negotiate a secure session using SSL/TLS with client machines. The use of TLS/SSL establishes a highly secure client-to-server connection to help provide data confidentiality and integrity between the desktop and the datacenter. 
-                <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
+                <br/><a target="_self" class="mscom-link withArrow" href="../../file/Office-365-Security-and-Compliance-CN.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a>
                </p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
@@ -79,7 +79,7 @@ layout: TrustCenterPage
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance </a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/vpn-gateway/">VPN Gateway</a></label><br/>
                   </div>
                </div>

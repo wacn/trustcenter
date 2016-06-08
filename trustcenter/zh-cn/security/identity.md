@@ -54,7 +54,7 @@ layout: TrustCenterPageCN
                <p>Azure Active Directory 是一个综合性的身份和访问管理的云解决方案，提供一系列的强大功能用于用户和组的管理。Azure Active Directory 帮助实现对包括 Azure、Office 365 等在线服务的本地和云应用的安全访问。
                </p>
                <label>由世纪互联运营的 Microsoft Azure  </label>
-               <p><strong>Azure Active Directory </strong>可帮助实现对本地和云应用程序中客户数据的安全访问，并简化对用户和组的管理。它将核心目录服务、高级身份监管、安全防护和应用程序访问管理相结合。 Azure Active Directory 还可方便开发人员将基于策略的身份管理构建到其应用程序中。  
+               <p><strong>Azure Active Directory </strong>可帮助实现对本地和云应用程序中客户数据的安全访问，并简化对用户和组的管理。它将核心目录服务、高级身份监管、安全防护和应用程序访问管理相结合。 Azure Active Directory 还可方便开发人员将基于策略的身份管理构建到其应用程序中。
                 <br/><a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/identity/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
                </p>
                <p><strong>Azure 多重身份验证</strong>要求使用多种验证方法对用户进行身份验证。Azure 凭借针对本地和云应用程序的额外一层身份验证，帮助保护用户对客户数据和应用程序的访问。它通过丰富的简单验证选项提供强大的身份验证，同时满足用户对简单登录过程的需求。
@@ -76,7 +76,7 @@ layout: TrustCenterPageCN
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Active Directory 文档</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></label><br/>
                   </div>
                </div>
             </div>

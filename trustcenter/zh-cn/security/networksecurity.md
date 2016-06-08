@@ -71,7 +71,7 @@ layout: TrustCenterPageCN
                <p>Office 365通过在网络边缘和节点上使用受控设备，为 Office 365 实施周边防护。只有系统运营所必需的连接和通讯是被允许的。此外还在路由器上实施了访问控制列表 (ACL)，在主机上实施了 IPsec 策略，并在网络中实施了防火墙规则和基于主机的防火墙规则。边缘路由器提供了在网络层检测入侵和漏洞特征的安全措施。Office 365 数据中心内部的网络通过划分，可在后端服务器和存储设备，以及对外接口之间实现物理隔离。
                </p>
                <p>Office 365 服务使用诸如 SSL/TLS 和 AES 等行业加密标准，以保护客户数据的机密性和完整性。所有面向客户的服务器会使用 SSL/TLS 与客户端设备协商使用安全会话。TLS/SSL 可在客户端与服务器之间建立高度安全的连接，保障用户设备和数据中心之间所传输数据的机密性和完整性。
-                <br/><a target="_self" class="mscom-link withArrow" href="http://go.microsoft.com/fwlink/p/?LinkId=401240"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
+                <br/><a target="_self" class="mscom-link withArrow" href="../../file/Office-365-Security-and-Compliance-CN.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a>
                </p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
@@ -79,7 +79,7 @@ layout: TrustCenterPageCN
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/vpn-gateway/">VPN 网关</a></label><br/>
                   </div>
                </div>

@@ -23,7 +23,7 @@ layout: TrustCenterPage
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Azure 安全性</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Azure Security</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -53,7 +53,7 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                <p>As enterprises adopt public and hybrid cloud solutions, they do extensive due diligence on their providers’ security policies, operations, and systems. Confidential data is the lifeblood of any company, and many industry companies are also bound by extensive regulations regarding the use, transmission, and storage of Customer Data. 
                </p>
-               <p>Microsoft Azure operated by 21Vianet provides businesses with the data security and privacy, control, and transparency they require. Security and privacy are embedded in the Azure platform, using the Security Development Lifecycle (SDL), from initial planning through solution launch, as well as the upgrades we continue to make. Security Management Process provides security guidelines for our operational processes, and <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a>governs how we build and operate the services.  </p>
+               <p>Microsoft Azure operated by 21Vianet provides businesses with the data security and privacy, control, and transparency they require. Security and privacy are embedded in the Azure platform, using the Security Development Lifecycle (SDL), from initial planning through solution launch, as well as the upgrades we continue to make. Security Management Process provides security guidelines for our operational processes, and <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a> governs how we build and operate the services.  </p>
                <p>Azure uses multiple safeguards to protect customer and enterprise data. These security practices and technologies include: </p>
                   <p><span><strong>Identity and access management </strong>  – Azure Active Directory helps ensure that only authorized users can access your environments, data, and applications, and provides multi-factor authentication for highly secure sign-in.</span></p>
                   <p><span><strong>Encryption</strong> – Azure uses industry-standard protocols to encrypt Customer Data as it travels between devices and Azure datacenters, and crosses between datacenters.</span></p>
@@ -61,7 +61,7 @@ layout: TrustCenterPage
                   <p><span><strong>Threat management</strong> – Microsoft Antimalware protects Azure services and virtual machines. 21Vianet also uses intrusion detection, denial-of-service (DDoS) attack prevention, penetration testing, data analytics, and machine learning to constantly strengthen its defense and reduce risks. </span></p>
                   <p><span><strong>Security Controls and Capabilities </strong> - Azure delivers a trusted foundation on which customers can design, build and manage their own secure cloud applications and infrastructure.</span>
                       <ul>
-                          <li><span><strong>Patching</strong>  Integrated deployment systems manage the distribution and installation of security patches. Customers can apply similar patch management processes for Virtual Machines deployed in Azure.</span></li>
+                          <li><span><strong>Patching.</strong>  Integrated deployment systems manage the distribution and installation of security patches. Customers can apply similar patch management processes for Virtual Machines deployed in Azure.</span></li>
                           <li><span><strong>Zero standing privileges. </strong> Access to Customer Data by our operations and support personnel is denied by default. When granted, access is carefully managed and logged. Datacenter access to the systems that store Customer Data is strictly controlled via lock box processes.</span></li>
                       </ul>
                   </p>
@@ -76,7 +76,7 @@ layout: TrustCenterPage
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Privacy Statement for Microsoft Azure Operated by 21Vianet</a></label><br/>
                   </div>
                </div>
             </div>

@@ -24,7 +24,7 @@ layout: TrustCenterPageCN
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
                                                     <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                                        Azure
+                                                        由世纪互联运营的Microsoft Azure
                                                     </h3>
                                                 </p>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></p>
@@ -53,7 +53,7 @@ layout: TrustCenterPageCN
         </div>
         <div id="ContentWrapper2" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                <p>由世纪互联运营的 Microsoft Azure 服务是在中国大陆独立运营的公有云平台，由北京世纪互联宽带数据中心有限公司的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 技术，为客户提供全球一致的服务质量保障。由世纪互联运营的 Microsoft Azure 服务是在中国大陆独立运营的公有云平台，由北京世纪互联宽带数据中心有限公司的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 技术，为客户提供全球一致的服务质量保障。</p>
+                <p>由世纪互联运营的 Microsoft Azure 服务是在中国大陆独立运营的公有云平台，由<a target="_self" href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球的 Azure 技术，为客户提供全球一致的服务质量保障。</p>
                 <p>世纪互联了解，为了获得云计算所提供的优势，您必须信任您的云服务供应商，将自己的客户数据托付给他们。在投资云服务时，您必须能够确信您的客户数据是安全的，您的数据隐私可以得到保护，且您能拥有和控制全部客户数据的使用。</p>
                 <p>因此，由世纪互联运营的 Microsoft Azure 会尽一切努力获得您的信任。微软在在运行企业级在线服务方面拥有丰富的经验，通过基础流程和技术方面的大量投入，将安全和隐私融入开发过程中。同时，世纪互联实施了业界领先的安全措施和隐私策略，通过对 Azure 的控制点进行独立验证来参与国际和国内的合规项目。</p>
                         <label style="color:rgb(0,115,198)">安全性和隐私已嵌入 Azure 的开发过程当中</label>

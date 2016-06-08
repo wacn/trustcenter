@@ -65,7 +65,7 @@ layout: TrustCenterPageCN
               <p>ISO 范围: 信息安全管理系统（ISMS），其中包含了操作、安全和对商务流程管理。</p>
               <p>该证书由<a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">北京赛西认证有限责任公司</a>（CESI）颁发，可公开查询。</p>
               <label style="color:rgb(0,115,198)" id="DJCP">信息系统安全等级保护定级 (DJCP)</label>
-              <p>根据《GB/T 22240-2008 信息安全技术 信息系统安全等级保护定级指南》，公安部授权的测评机构依据《GB/T 22239-2008 信息安全技术 信息系统安全等级保护基本要求》对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级。</p>
+              <p>根据《GB/T 22240-2008 信息安全技术 信息系统安全等级保护定级指南》，公安部授权的测评机构依据《GB/T 22239-2008 信息安全技术 信息系统安全等级保护基本要求》对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得备案证明。</p>
               <label style="color:rgb(0,115,198)" id="TCS">可信云服务认证</label>
               <p>世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</p>
               <p>可信云服务认证是在工业和信息化部的指导下，由数据中心联盟“可信云服务工作组”组织开展的云服务质量评估体系。该认证旨在培育国内公有云服务市场，增强用户对云服务的信心，保护正规云服务商，促进市场良性发展。</p>
@@ -149,7 +149,7 @@ layout: TrustCenterPageCN
                      <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
                   </div>
                </div>

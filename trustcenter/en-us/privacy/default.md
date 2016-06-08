@@ -56,7 +56,7 @@ layout: TrustCenterPage
                 <p>Privacy is an integral part of how we operate the services. Our approach to privacy and data protection is grounded in our commitment to give you control of the collection, use, and distribution of your information. We work to be transparent in our privacy practices, offer customers meaningful privacy choices, and manage responsibly the data we store.</p>
                 <p>When you entrust your Customer Data to Microsoft Azure and Office 365 operated by 21Vianet, you remain the exclusive owner of your Customer Data: you retain the rights, title, and interest in the Customer Data you store in Azure and Office 365. It’s our policy to not mine your Customer Data for advertising purposes or use your Customer Data except for purposes consistent with providing you cloud productivity services.</p>
                 <p>
-                    The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement </a>and<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> Office 365 Operated by 21Vianet Privacy Statement</a> describe the specific privacy policy and practices that govern customers' use of Azure and Office 365 
+                    The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Privacy Statement for Microsoft Azure Operated by 21Vianet </a>and<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> Privacy Statement for Office 365 Operated by 21Vianet</a> describe the specific privacy policy and practices that govern customers' use of Azure and Office 365 
                 </p>
                 <!--<ul>
                     <li><a target="_self" class="mscom-link" href="#data_other">Customer Data and Other Data Types</a></li>
@@ -83,8 +83,8 @@ layout: TrustCenterPage
                 <p>21Vianet believes that its customers who should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited. </p>
                 <label id="we_set_and">We set and adhere to stringent privacy standards</label>
                 <p>Privacy protections in Azure and Office 365 are grounded in
-                    <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement </a>and 
-                    <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 Operated by 21Vianet Privacy Statement, </a> and the underlying technology that is licensed to 21Vianet is developed using the Security Development Lifecycle (which includes addressing privacy requirements in the process of developing software).
+                    <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Privacy Statement for Microsoft Azure Operated by 21Vianet </a>and 
+                    <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet, </a> and the underlying technology that is licensed to 21Vianet is developed using the Security Development Lifecycle (which includes addressing privacy requirements in the process of developing software).
                 </p>
                 <p>We then back those protections with strong contractual commitments to safeguard Customer Data in 
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement"> 21Vianet Online Services Standard Agreement for Microsoft Azure </a>and 
@@ -107,12 +107,12 @@ layout: TrustCenterPage
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Helpful information</h1>
-                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">21Vianet Operates Microsoft Azure and Office 365 in China </a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure and Office 365 operated by 21Vianet </a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Potecting Data and Privacy in the Cloud</a></label><br/> 
                         <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement/">21Vianet Online Services Standard Agreement for Microsoft Azure</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet Online Services Standard Agreement for Office 365 </a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 Operated by 21Vianet Privacy Statement </a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Privacy Statement for Microsoft Azure Operated by 21Vianet</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet </a></label><br/>     
                     </div>
                 </div>
