@@ -73,10 +73,10 @@ layout: TrustCenterPageCN
                     <ul>
                         <li>您是客户数据的所有者，世纪互联只是您的客户数据的处理者。</li>
                         <li>您的客户数据始终归您所有，因此如果您选择不再使用这些服务，您可以带走这些客户数据。
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>您对自身客户数据拥有所有权，对于您在世纪互联运营的 Office 365 中存储的所有客户数据，您拥有保留权利、所有权及权益。</li>
                                 <li>您可以带走自己的数据。您无需世纪互联帮助，可以随时出于任何原因下载自己所有数据的副本。
-                                    <ul>
+                                    <ul style="list-style:square">
                                         <li>通过导入和导出向导，任何最终用户都可随时将 Exchange Online 数据（包括电子邮件、日历约会、联系人、任务)下载到本地计算机。</li>
                                         <li>可随时将 SharePoint 联机文档从工作空间下载到本地计算机中。</li>
                                         <li>可按照删除域的说明删除无用的域名（如 contoso.com ）。</li>
@@ -132,7 +132,7 @@ layout: TrustCenterPageCN
                     <label class="subhead">世纪互联会为您尽职尽责</label>
                     <ul>
                         <li>世纪互联会对您所使用的服务的事件进行彻底的审查
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>事故检查与回顾包括分析事故发生情况、我们的响应和如何预防同一事故再次发生的计划。</li>
                             </ul>
                         </li>
@@ -141,42 +141,42 @@ layout: TrustCenterPageCN
                     <label class="subhead">高可用性设计确保业务连续性：</label>
                     <ul>
                         <li>冗余
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>在服务器、数据中心、服务层面的物理冗余。</li>
                                 <li>拥有强大的故障恢复能力的数据冗余技术。</li>
                                 <li>拥有离线功能的功能冗余技术。</li>
                             </ul>
                         </li>
                         <li>弹性
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>主动负载平衡。</li>
                                 <li>自动故障恢复与手工备份。</li>
                                 <li>跨故障域的恢复性测试。</li>
                             </ul>
                         </li>
                         <li>简化
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>标准化的硬件减少问题隔离的复杂性。</li>
                                 <li>完全自动化的部署模型，使部署变得更简单。</li>
                                 <li>标准的内置管理机制。</li>
                             </ul>
                         </li>
                         <li>监视
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>内部监控驱动自动恢复机制。</li>
                                 <li>由外向内的监测对事故发出警告。</li>
                                 <li>广泛的诊断机制提供日志、审计与细致的追踪数据。</li>
                             </ul>
                         </li>
                         <li>分布式服务
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>分布式设计的服务，如 Exchange Online, SharePoint Online 和 Skype for Business，限制组件中任何故障的范围并降低其影响。</li>
                                 <li>在组件服务中复制的目录数据，在任何故障中将失效的服务进行隔离。</li>
                                 <li>简化的操作与部署。</li>
                             </ul>
                         </li>
                     </ul>
-                    <label class="subhead" style="color:rgb(0,115,198)">Office 365 服务健康仪表盘</label>
+                    <label class="subhead" style="color:rgb(0,115,198)" id="Office_365">Office 365 服务健康仪表盘</label>
                    <p> <img src="../Images/CloudServices_ServiceStatus.png" alt=""></p>
                     <p>Office 365 服务健康仪表盘是为您的组织提供服务健康情况的窗口。作为一个 Office 365 用户，您可以在仪表盘中得到与您组织相关的服务可用性的详细视图。我们的服务仪表盘能够向您全面展示您所用服务的当前状态甚至告知您何时需要更新许可证。</p>
                 </div>
