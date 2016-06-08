@@ -148,7 +148,7 @@ layout: TrustCenterPage
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure and Office 365 operated by 21Vianet</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Potecting Data and Privacy in the Cloud</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet </a></label><br/>     
@@ -257,7 +257,7 @@ layout: TrustCenterPage
                               <img src="../Images/SLA.png" class="mscom-image" alt="SLA" width="24" height="24"/>
                               <h1>DJCP</h1>
                               <p>
-                              <span class="seperate">the evaluation organization authorized by the Ministry of Public Security evaluates Microsoft Azure and Office 365 operated by 21Vianet, and rates both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365 by MPS.</span>
+                              <span class="seperate">the evaluation organization authorized by the Ministry of Public Security evaluates Microsoft Azure and Office 365 operated by 21Vianet, and rates both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365.</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#DJCP" style="display: block;">Learn more</a>
                               </span>
