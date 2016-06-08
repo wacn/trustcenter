@@ -49,18 +49,17 @@ i .color_red{
 .content-faq label{
       cursor: pointer;	
       background: url(Images/plus-minus-sprite.png) no-repeat;
-      background-position: left 18px;
+      background-position: left 10px;
       padding-left:25px; 
 }
 .content-faq label:hover{ 
     color:#00a8d9
 }
 .content-faqys{
-    background-position: left -22px;
-}
-.faq-lan{ 
+    background-position: left -30px;
     color:#00a8d9;
     font-weight:bold;
 }
+
 .content-faq-footer{
     margin-left:55px;}
