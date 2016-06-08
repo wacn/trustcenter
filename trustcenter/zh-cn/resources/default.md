@@ -65,7 +65,7 @@ layout: TrustCenterPageCN
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/partnerancasestudy/case-studies">Azure 案例</a></p>
                 <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/CaseStudy.html">Office 365 案例</a></p>
                 <label>常见问题</label><br>
-                <p><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a>，能充分解答您关于 Azure 和O ffice 365 安全性、隐私保护、合规性及透明度方面的疑惑。</p>
+                <p><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a>，能充分解答您关于 Azure 和 Office 365 安全性、隐私保护、合规性及透明度方面的疑惑。</p>
             </div>
   <!--
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
