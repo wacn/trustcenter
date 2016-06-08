@@ -21,5 +21,4 @@
      		    current = "../.." + window.location.pathname.replace("zh-cn","en-us");
      		$(this).children("a").attr("href",current);
     	});
- 
  });
