@@ -149,7 +149,7 @@ layout: TrustCenterPage
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="cdsa">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                         <h1>DJCP</h1>
-                                                        <p>the evaluation organization authorized by the Ministry of Public Security evaluates Microsoft Azure and Office 365 operated by 21Vianet, and rates both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365 by MPS.
+                                                        <p>the evaluation organization authorized by the Ministry of Public Security evaluates Microsoft Azure and Office 365 operated by 21Vianet, and rates both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365.
                                                         </p>
                                                         <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#DJCP">Learn more</a>
                                                     </div>
