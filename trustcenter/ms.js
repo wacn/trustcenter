@@ -308,7 +308,7 @@ function MscomIsPII(n) {
     }
 }
 function MscomIsCurrentLocation() {
-    var token = window.location.pathname.slice(1).split("/")[0];
+    var token = window.location.pathname.slice(1).split("/")[1];
     var existToken = false;
 
     $('li.mscom-navitem').each(function(){
