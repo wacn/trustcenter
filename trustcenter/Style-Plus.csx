@@ -48,14 +48,12 @@ i .color_red{
 }
 .content-faq label{
       cursor: pointer;	
+      background: url(Images/plus-minus-sprite.png) no-repeat;
+      background-position: left 18px;
+      padding-left:25px; 
 }
 .content-faq label:hover{ 
     color:#00a8d9
-}
-.content-faq{
-    padding-left:25px; 
-    background: url(Images/plus-minus-sprite.png) no-repeat;
-	background-position: left 18px;
 }
 .content-faqys{
     background-position: left -22px;
@@ -65,4 +63,4 @@ i .color_red{
     font-weight:bold;
 }
 .content-faq-footer{
-    margin-left:30px;}
+    margin-left:55px;}
