@@ -197,7 +197,7 @@ layout: TrustCenterPageCN
                </div>
             </div>
          </div>
-         <div class="row-fluid grid-container mscom-grid-container certImageTable wider" style="width: 65%;padding-top: 38px;" id="Icons" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
+         <div class="row-fluid grid-container mscom-grid-container certImageTable wider" id="Icons" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <div class="certImageContainer">
                   <div class="row-fluid certImageColor" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
@@ -256,7 +256,7 @@ layout: TrustCenterPageCN
                               <img src="../Images/SLA.png" class="mscom-image" alt="SLA" width="24" height="24"/>
                               <h1>信息系统安全等级保护定级</h1>
                               <p>
-                              <span class="seperate">公安部授权的测评机构对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。</span>
+                              <span class="seperate">公安部授权的测评机构对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得备案证明。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#DJCP" style="display: block;">了解更多</a>
                               </span>
