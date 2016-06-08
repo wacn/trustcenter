@@ -53,11 +53,11 @@ i .color_red{
       padding-left:25px; 
 }
 .content-faq label:hover{ 
-    color:#00a8d9
+    color:rgb(0, 129, 198);
 }
-.content-faqys{
+.content-faq .content-faqys{
     background-position: left -30px;
-    color:#00a8d9;
+    color:rgb(0, 129, 198);
     font-weight:bold;
 }
 
