@@ -4,10 +4,8 @@
          $(this).siblings().toggle();
          if( $(this).siblings().css("display") == 'none' ){  
             $(this).removeClass("content-faqys");
-            $(this).removeClass("faq-lan");
          }else{
             $(this).addClass("content-faqys");
-            $(this).addClass("faq-lan");
          }
      });
      $(".faq-lan").hover(function(){
