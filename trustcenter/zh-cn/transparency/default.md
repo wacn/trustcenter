@@ -52,7 +52,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>由世纪互联运营的 Microsoft Azure 和Office 365 构建的前提是：您可以完全控制自己在云中的客户数据，并要求对数据的可见性。您清楚知悉存储客户数据的位置。此外还明确了解我们如何帮助保护您的客户数据安全，以及何人在何种情况下可以访问。同时也可以查看第三方审计和合规认证。
+               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 构建的前提是：您可以完全控制自己在云中的客户数据，并要求对数据的可见性。您清楚知悉存储客户数据的位置。此外还明确了解我们如何帮助保护您的客户数据安全，以及何人在何种情况下可以访问。同时也可以查看第三方审计和合规认证。
                </p>
                    <ul>
                       <li><a target="_self" class="mscom-link" href="#How-we-help-secure-your-Customer-Data">您知道我们如何保护您的客户数据</a></li>
