@@ -73,10 +73,10 @@ layout: TrustCenterPage
                     <ul>
                         <li>You are the owner of your Customer Data; 21Vianet is the processor of your Customer Data. </li>
                         <li>It’s your Customer Data, so if you ever choose to leave the service, you can take your Customer Data with you.  
-                            <ul style="type:circle">
+                            <ul style="list-style:circle">
                                 <li>You own your Customer Data and retain the rights, title, and interest in the Customer Data you store in Office 365 operated by 21Vianet. </li>
                                 <li>You can take your data with you. You can download a copy of all your data at any time and for any reason, without any assistance from 21Vianet.
-                                    <ul>
+                                    <ul style="list-style:square">
                                         <li>Exchange Online data, including emails, calendar appointments, contacts, and tasks, can be downloaded to a local computer by any end user at any time via the Import and Export wizards.</li>
                                         <li>SharePoint Online documents can be downloaded at any time from the workspace into your local computer.</li>
                                         <li>Vanity domain names such as contoso.com can be removed by following the Domain Removal instructions.</li>
@@ -135,7 +135,7 @@ layout: TrustCenterPage
                     <label class="subhead">We are accountable to you</label>
                     <ul>
                         <li>We conduct a thorough review of all incidents related to the services you use
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>Our post-incident review consists of analysis of what happened, our response, and our plan to prevent it in the future.</li>
                             </ul>
                         </li>
@@ -144,42 +144,42 @@ layout: TrustCenterPage
                     <label class="subhead">High availability design principles:</label>
                     <ul>
                         <li>Redundancy 
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>Physical redundancy at server, datacenter, and service levels.</li>
                                 <li>Data redundancy with robust failover capabilities.</li>
                                 <li>Functional redundancy with offline functionality.</li>
                             </ul>
                         </li>
                         <li>Resiliency  
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>Active load balancing.</li>
                                 <li>Automated failover with human backup.</li>
                                 <li>Recovery testing across failure domains.</li>
                             </ul>
                         </li>
                         <li>Simplification 
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>Standardized hardware reduces issue isolation complexities.</li>
                                 <li>Fully automated deployment models, making deployment easier than ever.</li>
                                 <li>Standard built-in management mechanism.</li>
                             </ul>
                         </li>
                         <li>Monitoring  
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>Internal monitoring built to drive automatic recovery.</li>
                                 <li>Outside-in monitoring raises alerts about incidents.</li>
                                 <li>Extensive diagnostics provide logging, auditing, and granular tracing.</li>
                             </ul>
                         </li>
                         <li>Distributed services
-                            <ul type="circle">
+                            <ul style="list-style:circle">
                                 <li>Distributed component services like Exchange Online, SharePoint Online, and Skype for Business limit scope and impact of any failures in a component. </li>
                                 <li>Directory data replicated across component services insulates one service from another in any failure events. </li>
                                 <li>Simplified operations and deployment.</li>
                             </ul>
                         </li>
                     </ul>
-                    <label class="subhead" style="color:rgb(0,115,198)">Office 365 Service Health Dashboard</label>
+                    <label class="subhead" style="color:rgb(0,115,198)" id="Office_365">Office 365 Service Health Dashboard</label>
                     <p> <img src="../Images/CloudServices_ServiceStatus.png" alt=""></p> <!-- 等待图片链接 -->
                     <p>The Office 365 Service Health Dashboard is the window into the health of the services for your specific organization. As an Office 365 customer, you get a detailed view into the availability of services that is relevant to your organization. Our service dashboard gives you full insight into your services by showing their current status and even lets you see when you need to renew licenses.</p>
                 </div>
