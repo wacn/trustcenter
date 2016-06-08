@@ -137,7 +137,7 @@ layout: TrustCenterPageCN
                     <li style="list-style-type:disc">在中国大陆数据中心托管且由世纪互联独立运营的云服务。世纪互联是中国领先的互联网数据中心提供商。</li>
                     <li style="list-style-type:disc">源于微软应用于全球企业客户数十年的丰富在线服务经验而开发的世界一流的 Azure 和 Office 365 技术，全面服务于中国的客户。</li>
                </ul>
-               <p>当您将您的客户数据托付给由世纪互联运营的 Microsoft Azure 和Office 365 时，您可能会有所疑问，谁能访问我的客户数据？客户数据存放在哪里？世纪互联如何保护客户数据？以及，我怎样才能确认世纪互联按照承诺对客户数据提供相应保护？</p>
+               <p>当您将您的客户数据托付给由世纪互联运营的 Microsoft Azure 和 Office 365 时，您可能会有所疑问，谁能访问我的客户数据？客户数据存放在哪里？世纪互联如何保护客户数据？以及，我怎样才能确认世纪互联按照承诺对客户数据提供相应保护？</p>
                <p>世纪互联的回答是：由于这是客户的数据，由客户自行决定谁可以访问客户数据，并和我们一起决定客户数据的存储位置。 为了对客户数据提供保护，世纪互联采用了微软可信云技术所提供的先进的安全技术和世界一流的加密措施。 Azure 和 Office 365 服务的合规性不仅被独立审计，同时保持了各个层面的透明性，包括告知客户自己的客户数据存储在何处以及如何被使用。</p>
                <p>世纪互联深知 Azure 和 Office 365 客户信任我们会保护客户数据的安全。 我们重视您的信任，您的数据隐私和安全是我们最关心的问题之一。我们努力在安全性、隐私保护、合规性和透明度方面保持业界领先地位。</p>
                <p><h2 style="color:rgb(0,115,198)">可信赖的云服务</h2></p>
@@ -149,7 +149,7 @@ layout: TrustCenterPageCN
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4" >
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/cloudservices/azure-cn.html','_self')">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/cloudservices/azure.html','_self')">
                <div class="image-wrapper"><img src="Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="28" /></div>
                <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
                   <a target="_self" class="mscom-link withArrow" href="../zh-cn/cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
@@ -162,7 +162,7 @@ layout: TrustCenterPageCN
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                </p>
             </div>
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="window.open('../zh-cn/cloudservices/office-365-cn.html','_self')">
+            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="window.open('../zh-cn/cloudservices/office-365.html','_self')">
                 <div class="image-wrapper"><img src="Images/Office365_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Office 365 Title" width="300" height="28" /></div>
                 <p>
                     Office 365 结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供安全的基于云的生产力体验。
@@ -207,7 +207,7 @@ layout: TrustCenterPageCN
          </div>
          <div class="grayback" style="margin-top:15px">
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
-               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/security/default-cn.html','_self')" >
+               <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/security/default.html','_self')" >
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Security.png" class="mscom-image" alt="Image of Padlock | Security" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -217,7 +217,7 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/privacy/default-cn.html','_self')">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/privacy/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -227,7 +227,7 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/compliance/default-cn.html','_self')">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/compliance/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Compliance.png" class="mscom-image" alt="Image of Checklist | Compliance" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -237,7 +237,7 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
-               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/transparency/default-cn.html','_self')">
+               <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/transparency/default.html','_self')">
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Transparency.png" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
@@ -270,7 +270,7 @@ layout: TrustCenterPageCN
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear" style="margin-bottom: 4%;margin-bottom: 2%;">
                <h2>更多资源</h2>
-               <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的Office 365 隐私声明</a></span><br /><a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a></span><br />
+               <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a></span><br /><a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a></span><br />
             </div>
          </div>
       </div>
