@@ -141,7 +141,7 @@ layout: TrustCenterPageCN
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="cdsa">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                         <h1>信息系统安全等级保护定级</h1>
-                                                        <p>公安部授权的测评机构对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。
+                                                        <p>公安部授权的测评机构对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得备案证明。
                                                         </p>
                                                         <a target="_self" class="mscom-link withArrow" href="/compliance/default.html#DJCP"><!--<img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" />-->了解更多</a>
                                                     </div>
