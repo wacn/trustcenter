@@ -62,4 +62,6 @@ i .color_red{
 }
 
 .content-faq-footer{
-    margin-left:55px;}
+    margin-left:55px;
+    
+}
