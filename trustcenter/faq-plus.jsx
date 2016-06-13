@@ -14,11 +14,11 @@
           		$(this).css({"color":"#00a8d9"});
     	});
     	$("#zh-cn").click(function(){
-     	var  current = "../.." + window.location.pathname.replace("en-us","zh-cn");
+     	var  current = "../.." + window.location.pathname.indexOf("en-us")==-1?"/zh-cn":window.location.pathname.replace("en-us","zh-cn");
      		$(this).children("a").attr("href",current);
     	});
     		$("#en-us").click(function(){
-     		    current = "../.." + window.location.pathname.replace("zh-cn","en-us");
+     		    current = "../.." + window.location.pathname.indexOf("zh-cn")==-1?"/en-us":window.location.pathname.replace("zh-cn","en-us");
      		$(this).children("a").attr("href",current);
     	});
  });
