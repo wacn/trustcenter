@@ -59,7 +59,7 @@ layout: TrustCenterPageCN
                <p>从安全开发生命周期（将安全要求导入开发流程每个阶段的强制性开发流程）开始，安全性已完全融入许可给世纪互联的 Azure 和 Office 365 技术。由世纪互联运营的 Microsoft Azure 和 Office 365 确保在线服务的物理、 网络、 主机、 应用程序和数据层的安全性，使服务具有抵御攻击的能力。持续的主动监视、 渗透测试，和严格的安全准则和操作流程的实施进一步增强了整个云平台的检测和保护水平。世纪互联通过强制要求运营活动遵循安全管理流程中规定的各种安全指南，帮助其确保 Azure 和 Office 365 基础结构能够防御相关攻击。
                </p>
                     <ul>
-                        <li><span><strong>设计和运营安全</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 基于微软可信云技术，微软许可给世纪互联的应用遵循安全开发生命周期（Security Development Lifecycle）进行开发，保证设计满足安全及隐私的要求。以“假定违反”作为安全策略，世纪互联的事件响应团队提供 7x24x365 的服务以缓解任何攻击对 Azure 和 Office 365 云服务造成的影响。作为 Azure 和 Office 365 的客户，您将享受到多项微软授权世纪互联使用的技术，这些技术凝聚了微软在线服务数据安全领域十多年来的投资成果及丰富经验。</span>
+                        <li><span><strong>设计和运营安全</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 基于微软可信云技术，微软许可给世纪互联的应用遵循安全开发生命周期（Security Development Lifecycle）进行开发，保证设计满足安全及隐私的要求。以“假定入侵”作为安全策略，世纪互联的事件响应团队提供 7x24x365 的服务以缓解任何攻击对 Azure 和 Office 365 云服务造成的影响。作为 Azure 和 Office 365 的客户，您将享受到多项微软授权世纪互联使用的技术，这些技术凝聚了微软在线服务数据安全领域十多年来的投资成果及丰富经验。</span>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/designopsecurity-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
