@@ -5829,7 +5829,7 @@ ul.first-after-subhead {
     color: #f00
 }
 ul#trusted-cloud-nav li a {
-    font-size: .9em;
+    font-size: 1em;
     padding: 0 10px
 }
 ul#trusted-cloud-nav>li.currentLocation a {

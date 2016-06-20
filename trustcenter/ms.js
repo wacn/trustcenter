@@ -307,6 +307,25 @@ function MscomIsPII(n) {
         return 0
     }
 }
+function MscomIsCurrentLocation() {
+    var token = window.location.pathname.slice(1).split("/")[1];
+    var existToken = false;
+
+    $('li.mscom-navitem').each(function(){
+        if ($(this).attr('data-token') === token)
+        {
+            $(this).addClass('currentLocation');
+            existToken = true;
+        }
+    });
+
+    if (!existToken)
+    {
+        $('li.mscom-navitem[data-token="home"]').each(function(){
+            $(this).addClass('currentLocation');
+        });
+    }
+}
 var wcsIAr = [],
     wcsIArI = 0,
     wedcsCE = ["A", "IMG", "AREA", "INPUT"],
@@ -329,3 +348,4 @@ var wcsIAr = [],
     ms = [],
     vs = 4;
 MscomInit()
+MscomIsCurrentLocation()
