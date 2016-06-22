@@ -152,7 +152,7 @@ layout: TrustCenterPageCN
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/cloudservices/azure.html','_self')">
                <div class="image-wrapper"><img src="Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="28" /></div>
                <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
-                  <a target="_self" class="mscom-link withArrow" href="../zh-cn/cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
+                  <a target="_self" class="mscom-link withArrow" href="../zh-cn/cloudservices/azure.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
             <!--隐藏-->
@@ -166,7 +166,7 @@ layout: TrustCenterPageCN
                 <div class="image-wrapper"><img src="Images/Office365_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Office 365 Title" width="300" height="28" /></div>
                 <p>
                     Office 365 结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供安全的基于云的生产力体验。
-                    <a target="_self" class="mscom-link withArrow" href="../zh-cn/cloudservices/office-365-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
+                    <a target="_self" class="mscom-link withArrow" href="../zh-cn/cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
                 </p>
             </div>
             <!--隐藏-->
