@@ -93,7 +93,7 @@ layout: TrustCenterPageCN
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1 id="customer_data_and_other_data_types">客户数据与其他数据类型</h1>
-                        <p><strong>客户数据</strong</p>
+                        <p><strong>客户数据</strong></p>
                         <p>客户数据是指通过您使用服务由您提供或以您名义提供给我们的所有数据，包括所有文本、音频、软件或图片文件。例如，客户数据包括您在服务中上传的供存储或处理的数据以及您或您的终端用户在服务中上传的供托管的应用程序。这不包括配置、技术设置或服务记录信息。</p>
                         <p><strong>管理员数据</strong></p>
                         <p>管理员数据是指在注册、购买或管理服务时提供的有关管理员（包括账户联系人和订阅管理员）的信息，例如姓名、地址、电话号码和电子邮箱地址。</p>
