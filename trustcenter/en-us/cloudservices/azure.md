@@ -159,7 +159,7 @@ layout: TrustCenterPage
                                                                 <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                                 <h1>ISO/IEC 20000</h1>
                                                                 <p>ISO/IEC 20000 is the first international standard for IT Service Management. Microsoft Azure and Office 365 operated by 21Vianet focus on managing IT issues and identifying their internal relations through “IT service standardization”, then perform planning, implementation and supervision based on service level agreements and also emphasize interaction with customers.</p>
-                                                                <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#ISO/IEC_20000">Learn more</a>
+                                                                <a target="_self" class="mscom-link" href="../compliance/default.html#ISO/IEC_20000">Learn more</a>
                                                             </div>
                                                         </div>
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -167,7 +167,7 @@ layout: TrustCenterPage
                                                                 <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                                 <h1>ISO/IEC 27001</h1>
                                                                 <p>ISO/IEC 27001 is one of world-leading security standards. Microsoft Azure and Office 365 operated by 21Vianet has implemented strict physical, logical, procedure and management control defined by ISO/IEC 27001.</p>
-                                                                <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#ISO/IEC_27001">Learn more</a>
+                                                                <a target="_self" class="mscom-link" href="../compliance/default.html#ISO/IEC_27001">Learn more</a>
                                                             </div>
                                                         </div>
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -175,7 +175,7 @@ layout: TrustCenterPage
                                                                 <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                                 <h1>DJCP</h1>
                                                                 <p>the evaluation organization authorized by the Ministry of Public Security evaluates Microsoft Azure and Office 365 operated by 21Vianet, and rates both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365.</p>
-                                                                <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#DJCP">Learn more</a>
+                                                                <a target="_self" class="mscom-link" href="../compliance/default.html#DJCP">Learn more</a>
                                                             </div>
                                                         </div>
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -183,7 +183,7 @@ layout: TrustCenterPage
                                                                 <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                                 <h1>TRUCS</h1>
                                                                 <p>21Vianet adopts cutting-edge Azure and Office 365 technologies and has successfully obtained Trusted Cloud Service certification with powerful localized operation capabilities, open platform, high-quality SLA, powerful data recovery capability and best customer returns.</p>
-                                                                <a target="_self" class="mscom-link withArrow" href="/compliance/default.html#TCS">Learn more</a>
+                                                                <a target="_self" class="mscom-link" href="/compliance/default.html#TCS">Learn more</a>
                                                             </div>
                                                         </div>
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -191,7 +191,7 @@ layout: TrustCenterPage
                                                                 <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                                 <h1>GB 18030</h1>
                                                                 <p>GB 18030 is the Chinese ideographic character set and encoding standard mandated by the Chinese government. Microsoft Azure and Office 365 operated by 21Vianet are certified as compliant with the mandatory part of this standard by the China Electronics Standardization Institute (CESI).</p>
-                                                                <a target="_self" class="mscom-link withArrow" href="../compliance/default.html#GB18030">Learn more</a>
+                                                                <a target="_self" class="mscom-link" href="../compliance/default.html#GB18030">Learn more</a>
                                                             </div>
                                                         </div>                                                       
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
