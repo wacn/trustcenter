@@ -22,8 +22,11 @@ layout: TrustCenterPage
                                         <div class="text-container">
                                             <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                                 <ul bi:type="list" class="headerCaption subpageHeaderCaption">
-                                                    <li class="box-title"><h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                                            Microsoft Azure operated by 21Vianet</h3></li>
+                                                    <li class="box-title">
+                                                        <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
+                                                            Microsoft Azure operated by 21Vianet
+                                                        </h3>
+                                                    </li>
                                                     <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                                 </ul>
                                             </div>
@@ -44,7 +47,9 @@ layout: TrustCenterPage
                 </div>
             </div>
             <div id="ContentWrapper1" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-                <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // <a target="_self" class="mscom-link" href="../cloudservices/default.html">Cloud Services</a> // Azure
+                <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                    <a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // 
+                    <a target="_self" class="mscom-link" href="../cloudservices/default.html">Cloud Services</a> // Azure
                 </div>
             </div>
             <div id="ContentWrapper2" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -63,31 +68,55 @@ layout: TrustCenterPage
                         <li><strong>Increase network security. </strong>Azure provides you the security-hardened infrastructure to connect virtual machines (VMs) to one another and to connect on-premises datacenters with Azure VMs. Azure blocks unauthorized traffic to and within datacenters, using a variety of technologies. Azure Virtual Networks extend your on-premises network to the cloud through IPsec-based site-to-site VPN technology or a high-speed Azure ExpressRoute dedicated WAN link.</li>
                         <li><strong>Defend against threats. </strong> Azure offers Microsoft Antimalware for Azure Cloud Services and Virtual Machines to help you protect against online threats. Azure also employs intrusion detection, distributed denial-of-service (DDoS) attack prevention, regular penetration testing, and data analytics and machine learning tools to help mitigate threats to the Azure platform.</li>
                     </ul>
-                    <p>Learn more about<a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf"> Azure Network Security</a></p>
+                    <p>
+                        Learn more about<a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf"> Azure Network Security</a>
+                    </p>
                     <p>Learn more about <a target="_self" class="mscom-link" href="../security/azuresecurity.html">Azure Security</a></p>
                     <label style="color:rgb(0,115,198)">Privacy and Control: You own and control your Customer Data</label>
                     <p>21Vianet is an industry leader in protecting customer privacy. Our approach to privacy and data protection is grounded in our commitment to organizations’ ownership of and control over the collection, use, and distribution of their Customer Data. We strive to be transparent in our privacy practices, offer you meaningful privacy choices, and responsibly manage the Customer Data we store and process. One measure of our commitment to data privacy is our adoption of the international and domestic standards of ISO 27001 and Information System Classified Security Protection (DJCP) with classification as Level 3.</p>
                     <ul>
-                        <li><strong>You own your own Customer Data. </strong>You own all your Customer Data that you place in Azure—including text, sound, video, or image files and software. You can access your Customer Data at any time and for any reason without assistance from 21Vianet. We will not use your Customer Data or derive information from it for advertising or data mining.</li>
-                        <li><strong>You control your Customer Data. </strong> Because the Customer Data you host on Azure belongs to you, you have control over where it is stored and how it is accessed.</li>
-                        <li><strong>When law enforcement or third party request access to your data. </strong>they must follow applicable legal processes. 21Vianet believes that customers should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose your Customer Data, 21Vianet will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless we are legally prohibited from doing so.</li>
+                        <li>
+                            <strong>You own your own Customer Data. </strong>You own all your Customer Data that you place in Azure—including text, sound, video, or image files and software. You can access your Customer Data at any time and for any reason without assistance from 21Vianet. We will not use your Customer Data or derive information from it for advertising or data mining.
+                        </li>
+                        <li>
+                            <strong>You control your Customer Data. </strong> Because the Customer Data you host on Azure belongs to you, you have control over where it is stored and how it is accessed.
+                        </li>
+                        <li>
+                            <strong>When law enforcement or third party request access to your data. </strong>they must follow applicable legal processes. 21Vianet believes that customers should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose your Customer Data, 21Vianet will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless we are legally prohibited from doing so.
+                        </li>
                     </ul>
-                    <p>Learn how to <a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a>.</p>
+                    <p>
+                        Learn how to <a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a>.
+                    </p>
                     <label style="color:rgb(0,115,198)">Compliance: We conform to global and domestic standards</label>
                     <ul>
-                        <li>Azure meets international and industry-specific compliance standards, as well as country-specific standards. Rigorous third-party audits verify Azure’s adherence to standards-mandated security controls. As part of our commitment to transparency, you can verify our implementation of many security controls by requesting audit results from the certifying third parties. It makes it easier for you to validate compliance for the infrastructure and applications you run in Azure when 21Vianet verifies that our services meet compliance standards and when we demonstrate how we achieve compliance.</li>
-                        <li><strong>Determine compliance responsibilities.</strong> 21Vianet maintains compliance with leading data protection and privacy laws and regulations applicable to cloud services, to help you determine if Azure complies with the laws and regulations unique to your industry.</li>
+                        <li>
+                            Azure meets international and industry-specific compliance standards, as well as country-specific standards. Rigorous third-party audits verify Azure’s adherence to standards-mandated security controls. As part of our commitment to transparency, you can verify our implementation of many security controls by requesting audit results from the certifying third parties. It makes it easier for you to validate compliance for the infrastructure and applications you run in Azure when 21Vianet verifies that our services meet compliance standards and when we demonstrate how we achieve compliance.
                         </li>
-                        <li><strong>Take advantage of a broad compliance framework. </strong> Azure offers a set of compliance certifications to help you conform to your specific requirements. Azure complies with international and industry-specific compliance standards, such as ISO/IEC 27001, as well as country-specific standards such as Information System Classified Security Protection (DJCP) managed by MPS.</li>
+                        <li>
+                            <strong>Determine compliance responsibilities.</strong> 21Vianet maintains compliance with leading data protection and privacy laws and regulations applicable to cloud services, to help you determine if Azure complies with the laws and regulations unique to your industry.
+                        </li>
+                        </li>
+                        <li>
+                            <strong>Take advantage of a broad compliance framework. </strong> Azure offers a set of compliance certifications to help you conform to your specific requirements. Azure complies with international and industry-specific compliance standards, such as ISO/IEC 27001, as well as country-specific standards such as Information System Classified Security Protection (DJCP) managed by MPS.
+                        </li>
                     </ul>
-                    <p>Learn more about <a target="_self" class="mscom-link" href="../compliance/default.html">Compliance</a></p>
+                    <p>
+                        Learn more about <a target="_self" class="mscom-link" href="../compliance/default.html">Compliance</a>
+                    </p>
                     <label style="line-height: 2em; color:rgb(0,115,198)">Transparency: You know how your Customer Data is stored and accessed, and how we help secure it</label>
                     <p>Azure is built on the premise that for you to control your own Customer Data in the cloud, you require visibility into that Customer Data. You must know where it is stored. You must also know, through clearly stated and readily available policies and procedures, how we help secure your Customer Data, who can access it, and under what circumstances. You can review third-party audits and certifications that confirm how we meet the standards we set.</p>
                     <ul>
-                        <li><strong>Maintain clear, constant visibility. </strong>You know where your Customer Data is stored, who can access it, and under which conditions your Customer Data is accessed. You receive updates to any changes in our service operations policies.</li>
-                        <li><strong>Rely on strict access procedures.</strong> 21Vianet only grants access to Customer Data to 21Vianet engineers, to perform key tasks such as maintenance and upgrades, and subcontractors, to perform limited services. We use strict controls to govern access to Customer Data, assign the lowest level of privilege required to complete key tasks, and revoke access when it is no longer needed.</li>
+                        <li>
+                            <strong>Maintain clear, constant visibility. </strong>You know where your Customer Data is stored, who can access it, and under which conditions your Customer Data is accessed. You receive updates to any changes in our service operations policies.
+                        </li>
+                        <li>
+                            <strong>Rely on strict access procedures.</strong> 21Vianet only grants access to Customer Data to 21Vianet engineers, to perform key tasks such as maintenance and upgrades, and subcontractors, to perform limited services. We use strict controls to govern access to Customer Data, assign the lowest level of privilege required to complete key tasks, and revoke access when it is no longer needed.
+                        </li>
                     </ul>
-                    <p>Learn more about <a target="_self" class="mscom-link" href="../transparency/default.html">Transparency</a></p>
+                    <p>
+                        Learn more about <a target="_self" class="mscom-link" href="../transparency/default.html">Transparency</a>
+                    </p>
                     <label style="line-height: 2em; color:rgb(0,115,198">Shared Responsibility</label>
                     <p>In China, customers who use cloud services are subject to many different laws and regulations that may vary from location to location and industry to industry. To help our customers comply with their own requirements, we build our services with common privacy and security requirements in mind. However, it is ultimately up to our customers to evaluate our offerings against their own requirements, so they can determine if our services satisfy their regulatory needs. We are committed to providing our customers with detailed information about Microsoft Azure operated by 21Vianet to help them make their own regulatory assessments. </p>
                     <p>Trusted cloud services like Azure require shared responsibility between the customer and the service provider. 21Vianet is responsible for the services based on technology provided by Microsoft and seeks to provide cloud services that can meet the security, privacy, and compliance needs of our customers. Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.</p>
@@ -167,7 +196,10 @@ layout: TrustCenterPage
                                                         </div>                                                       
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                                             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="default">
-                                                                <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" /><h1></h1><p></p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
+                                                                <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
+                                                                <h1></h1>
+                                                                <p></p>
+                                                                <a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" /></a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -186,3 +218,4 @@ layout: TrustCenterPage
     <div class="row-fluid" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"></div>
     </div>
+</div>
