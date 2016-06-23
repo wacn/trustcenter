@@ -246,6 +246,19 @@ layout: TrustCenterPage
                   <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="ComplianceContent">
                      <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="ISO20000">
+                              <img src="../Images/ISO20000.png" class="mscom-image" alt="ISO20000" width="24" height="24" />
+                              <h1>ISO/IEC 20000</h1>
+                               <p>
+                              <span class="seperate">ISO/IEC 20000 is the first international standard for IT Service Management. Microsoft Azure and Office 365 operated by 21Vianet focus on managing IT issues and identifying their internal relations through “IT service standardization”, then perform planning, implementation and supervision based on service level agreements and also emphasize interaction with customers. </span>
+                              <span class="withTail">
+                              <a target="_blank" class="mscom-link" href="#ISO/IEC_20000" style="display: block;">Learn more</a>
+                              <!--<span class="tail"> (Chinese)</span>-->
+                              </span>
+                              </p>
+                           </div>
+                        </div>
+                        <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="ISO27001">
                               <img src="../Images/ISO27001.png" class="mscom-image" alt="ISO27001" width="24" height="24" />
                               <h1>ISO/IEC 27001</h1>
