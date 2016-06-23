@@ -101,7 +101,7 @@ layout: TrustCenterPageCN
                         <p>当您在线采购时，您将被要求提供信息，该类信息可能包括您支付工具的号码（比如银联或支付宝）、你的姓名和账单地址，以及与您支付工具有关的安全码和其他金融数据（“付款数据”）。</p>
                         <p><strong>支持数据</strong></p>
                         <p>支持数据是在您需要帮助联系世纪互联时收集的信息，包括您所递交支持请求，运行自动故障检测器的结果，或发送文件给我们。支持数据不包括管理员数据或付款数据。</p>
-                        <a target="_self" class="mscom-link" href="../../zh-cn/privacy/default.html#data_other" style="    color: rgb(21, 112, 166);text-decoration: none;transition: color 0.1s linear;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19" style="vertical-align: middle;margin-right: 10px;">了解更多</a>
+                        <a target="_self" class="mscom-link" href="../../zh-cn/privacy/default.html#data_other" style="    color: rgb(21, 112, 166);text-decoration: none;transition: color 0.1s linear;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19" style="vertical-align: middle;margin-right: 5px;">了解更多</a>
                     </div>
                 </div>
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
