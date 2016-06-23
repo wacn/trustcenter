@@ -269,7 +269,7 @@ layout: TrustCenterPageCN
                <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></span><br />
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear" style="margin-bottom: 4%;margin-bottom: 2%;">
-               <h2>更多资源</h2>
+               <h2>查看更多资源</h2>
                <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的Office 365 隐私声明</a></span><br /><a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a></span><br />
             </div>
          </div>
