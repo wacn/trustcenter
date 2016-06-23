@@ -244,7 +244,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="ISO20000">
-                              <img src="../Images/ISO27001.png" class="mscom-image" alt="ISO20000" width="24" height="24" />
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="ISO20000" width="24" height="24" />
                               <h1>ISO/IEC 20000</h1>
                                <p>
                               <span class="seperate">ISO/IEC 20000 是第一部针对信息技术服务管理（IT Service Management）领域的国际标准。由世纪互联运营的 Microsoft Azure 和 Office 365 着重于通过“IT 服务标准化”来管理 IT 问题，识别问题的内在联系，然后依据服务水平协议进行计划、推行和监控，并强调与客户的沟通。</span>
@@ -257,7 +257,7 @@ layout: TrustCenterPageCN
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="ISO27001">
-                              <img src="../Images/ISO27001.png" class="mscom-image" alt="ISO27001" width="24" height="24" />
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="ISO27001" width="24" height="24" />
                               <h1>ISO/IEC 27001</h1>
                                <p>
                               <span class="seperate">ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。</span>
@@ -270,7 +270,7 @@ layout: TrustCenterPageCN
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="SLA">
-                              <img src="../Images/SLA.png" class="mscom-image" alt="SLA" width="24" height="24"/>
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="SLA" width="24" height="24"/>
                               <h1>信息系统安全等级保护定级</h1>
                               <p>
                               <span class="seperate">公安部授权的测评机构对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得备案证明。</span>
@@ -282,7 +282,7 @@ layout: TrustCenterPageCN
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="TrustCloudAuth">
-                              <img src="../Images/TrustCloudAuth.png" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
                               <h1>可信云服务认证</h1>
                                <p>
                               <span class="seperate">世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</span>
@@ -294,7 +294,7 @@ layout: TrustCenterPageCN
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="GB-18030">
-                              <img src="../Images/GB-18030.png" class="mscom-image" alt="GB-18030" width="24" height="24" />
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="GB-18030" width="24" height="24" />
                               <h1>GB 18030</h1>
                                <p>
                               <span class="seperate">GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的 Microsoft Azure 和 Office 365 经中国电子技术标准化研究所认证符合该标准的强制性部分。</span>
