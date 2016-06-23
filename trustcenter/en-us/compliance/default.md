@@ -61,6 +61,10 @@ layout: TrustCenterPage
                   <li>Second, because regulations and standards are always evolving, our compliance experts also anticipate upcoming changes to help ensure continuous compliance—researching draft regulations, assessing potential new requirements, and developing corresponding contro</li>
                </ul>
                <p>Microsoft Azure and Office 365 operated by 21Vianet comply with the international and industry-specific compliance standard ISO/IEC 27001, as well as the Information System Classified Security Protection standard that is managed by Ministry of Public Security of People’s Republic of China, GB 18030 Information Technology — Chinese Coded Character Set and Trusted Cloud Service (TCS) certifications. Ultimately, it is up to you to determine whether our services comply with the specific laws and regulations applicable to your business. To help you make these assessments, 21Vianet supplies the specifics about its security and compliance programs, including audit reports and compliance packages. In view of our promise on transparency, you can ask a third party that performs certification for the audit result and verify the implementation of multiple security control.</p>
+              <label style="color:rgb(0,115,198)" id="ISO/IEC_20000">ISO/IEC 20000 Audit and Certification</label>
+              <p> ISO/IEC 20000 is the first international standard for IT Service Management. Microsoft Azure and Office 365 operated by 21Vianet focus on managing IT issues and identifying their internal relations through “IT service standardization”, then perform planning, implementation and supervision based on service level agreements and also emphasize interaction with customers. 21Vianet promises to carry out certification based on ISO/IEC 20000 (an international IT service standard for the IT service arena) every year. The ISO/IEC 20000 certificate confirms that 21Vianet has followed the IT service management requirements defined in this standard, and provided customers with efficient service and integrated management to identify and manage critical processes in IT service , which ensure that efficient IT service provided by 21Vianet meets the demand of customers and their business.</p>
+              <p>ISO scope: IT service management system (ITSM), including establishment, implementation, operation, supervision, review, maintenance and improvement of the IT service management system.</p>
+              <p>This certificate is issued by <a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">CESI</a> and is available for you to review.</p>
               <label style="color:rgb(0,115,198)" id="ISO/IEC_27001">ISO/IEC 27001 Audit and Certification</label>
               <p>ISO/IEC 27001 is one of world-leading security standards. Microsoft Azure and Office 365 operated by 21Vianet has implemented strict physical, logical, procedure and management control defined by ISO/IEC 27001. 21Vianet promises to carry out certification based on ISO/IEC 27001 (a widely applicable international information security standard) every year. The ISO/IEC 27001 certificate confirms that 21Vianet has implemented internationally recognized information security control measures defined in this standard, including information security management guidelines and general principles for activation, implementation, maintenance and improvement. </p>
               <p>ISO scope: Information security management system (ISMS), including management on operations, security and business procedure.</p>
@@ -203,6 +207,7 @@ layout: TrustCenterPage
                <div class="certImageContainer">
                   <div class="row-fluid certImageColor" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
                      <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                        <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure Dynamics Office AR" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="SLA" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
@@ -211,6 +216,7 @@ layout: TrustCenterPage
                   </div>
                   <div class="row-fluid certImageGray" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
                      <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                        <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure CN" alt="China TRUCS" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
@@ -240,8 +246,21 @@ layout: TrustCenterPage
                   <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="ComplianceContent">
                      <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                           <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="ISO20000">
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="ISO20000" width="24" height="24" />
+                              <h1>ISO/IEC 20000</h1>
+                               <p>
+                              <span class="seperate">ISO/IEC 20000 is the first international standard for IT Service Management. Microsoft Azure and Office 365 operated by 21Vianet focus on managing IT issues and identifying their internal relations through “IT service standardization”, then perform planning, implementation and supervision based on service level agreements and also emphasize interaction with customers. </span>
+                              <span class="withTail">
+                              <a target="_blank" class="mscom-link" href="#ISO/IEC_20000" style="display: block;">Learn more</a>
+                              <!--<span class="tail"> (Chinese)</span>-->
+                              </span>
+                              </p>
+                           </div>
+                        </div>
+                        <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="ISO27001">
-                              <img src="../Images/ISO27001.png" class="mscom-image" alt="ISO27001" width="24" height="24" />
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="ISO27001" width="24" height="24" />
                               <h1>ISO/IEC 27001</h1>
                                <p>
                               <span class="seperate">ISO/IEC 27001 is one of world-leading security standards. Microsoft Azure and Office 365 operated by 21Vianet has implemented strict physical, logical, procedure and management control defined by ISO/IEC 27001.</span>
@@ -254,7 +273,7 @@ layout: TrustCenterPage
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="SLA">
-                              <img src="../Images/SLA.png" class="mscom-image" alt="SLA" width="24" height="24"/>
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="SLA" width="24" height="24"/>
                               <h1>DJCP</h1>
                               <p>
                               <span class="seperate">the evaluation organization authorized by the Ministry of Public Security evaluates Microsoft Azure and Office 365 operated by 21Vianet, and rates both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365.</span>
@@ -266,7 +285,7 @@ layout: TrustCenterPage
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="TrustCloudAuth">
-                              <img src="../Images/TrustCloudAuth.png" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
                               <h1>TRUCS</h1>
                                <p>
                               <span class="seperate">21Vianet adopts cutting-edge Azure and Office 365 technologies and has successfully obtained Trusted Cloud Service certification with powerful localized operation capabilities, open platform, high-quality SLA, powerful data recovery capability and best customer returns.</span>
@@ -278,7 +297,7 @@ layout: TrustCenterPage
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="GB-18030">
-                              <img src="../Images/GB-18030.png" class="mscom-image" alt="GB-18030" width="24" height="24" />
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="GB-18030" width="24" height="24" />
                               <h1>GB 18030</h1>
                                <p>
                               <span class="seperate">GB 18030 is the Chinese ideographic character set and encoding standard mandated by the Chinese government. Microsoft Azure and Office 365 operated by 21Vianet are certified as compliant with the mandatory part of this standard by the China Electronics Standardization Institute (CESI).</span>

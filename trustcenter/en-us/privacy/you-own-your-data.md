@@ -23,7 +23,7 @@ layout: TrustCenterPage
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">You own your own data</h3>
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">You own your Customer Data</h3>
                                                 </li>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                             </ul>
@@ -92,10 +92,15 @@ layout: TrustCenterPage
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1 id="customer_data_and_other_data_types">Customer Data and Other Data Types</h1>
-                        <p><strong>Customer Data</strong> is all the data, including all text, sound, software or image files that you provide, or are provided on your behalf, to us through your use of the services. For example, Customer Data includes data that you upload for storage or processing in the services and applications that you or your end users upload for hosting in the services. It does not include configuration, technical settings, or support ticket information.</p>
-                        <p><strong>Administrator Data </strong> is the information about administrators (including account contact and subscription administrators) provided during sign-up, purchase, or administration of the services, such as name, address, phone number, and e-mail address.</p>
-                        <p><strong>Metadata</strong> includes configuration and technical settings and information. For example, it includes the disk configuration settings for an Azure Virtual Machine or database design for an Azure SQL Database.</p>
-                        <p><strong>Access Control Data </strong>is used to manage access to other types of data or functions within Azure and Office 365. It includes passwords, security certificates, and other authentication-related data.</p>
+                        <p><strong>Customer Data</strong></p>
+                        <p>Customer Data is all the data, including all text, sound, software or image files that you provide, or are provided on your behalf, to us through your use of the Services. For example, Customer Data includes data that you upload for storage or processing in the Services and applications that you or your end users upload for hosting in the Services. It does not include configuration, technical settings, or support ticket information.</p>
+                        <p><strong>Administrator Data</strong></p>
+                        <p>Administrator Data is the information about administrators (including account contact and subscription administrators) provided during sign-up, purchase, or administration of the Services, such as name, address, phone number, and e-mail address.</p>
+                        <p><strong>Payment Data</strong></p>
+                        <p>When you make online purchases, you will be asked to provide information, which may include your payment instrument number (e.g., UnionPay or AliPay), your name and billing address, and the security code associated with your payment instrument and other financial data ("Payment Data").</p>
+                        <p><strong>Support Data</strong></p>
+                        <p>Support Data is the information we collect when you contact 21Vianet for help, including what you supply in a support request, results from running an automated troubleshooter, or files that you send us. Support data does not include administrator or payment data.</p>
+                        <a target="_self" class="mscom-link" href="../../en-us/privacy/default.html#data_other" style="    color: rgb(21, 112, 166);text-decoration: none;transition: color 0.1s linear;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19" style="vertical-align: middle;margin-right:5px;">Learn more</a>
                     </div>
                 </div>
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">

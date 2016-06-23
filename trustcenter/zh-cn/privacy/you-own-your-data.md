@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">您拥有自己的数据</h3>
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">您拥有自己的客户数据</h3>
                                                 </li>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                             </ul>
@@ -46,7 +46,7 @@ layout: TrustCenterPageCN
         </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
-                <a target="_self" class="mscom-link" href="../privacy/default.html">隐私保护</a> // 您拥有自己的数据
+                <a target="_self" class="mscom-link" href="../privacy/default.html">隐私保护</a> // 您拥有自己的客户数据
             </div>
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -93,10 +93,15 @@ layout: TrustCenterPageCN
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1 id="customer_data_and_other_data_types">客户数据与其他数据类型</h1>
-                        <p><strong>客户数据</strong>是由您或其他人代表您在使用服务时提供给世纪互联的所有数据，包括所有文本、声音、软件或图像文件。例如，客户数据包括您上载以在服务中存储或处理的数据，以及您或您的最终用户上载以在服务中托管的应用程序。它不包括配置、技术设置或服务记录信息。</p>
-                        <p><strong>管理员数据</strong>是在注册、购买或管理服务时提供的有关管理员（包括帐户联系人和订阅管理员）的信息，包括姓名、地址、电话号码和电子邮件地址。</p>
-                        <p><strong>元数据</strong>包括配置、技术设置和信息。例如，它包括 Azure 虚拟机的磁盘配置设置和 Azure SQL Database 的数据库设计。</p>
-                        <p><strong>访问控制数据</strong>用于管理对 Azure 或 Office 365 内其他类型的数据或功能的访问。它包括密码、安全证书和其他与身份验证有关的数据。</p>
+                        <p><strong>客户数据</strong></p>
+                        <p>客户数据是指通过您使用服务由您提供或以您名义提供给我们的所有数据，包括所有文本、音频、软件或图片文件。例如，客户数据包括您在服务中上传的供存储或处理的数据以及您或您的终端用户在服务中上传的供托管的应用程序。这不包括配置、技术设置或服务记录信息。</p>
+                        <p><strong>管理员数据</strong></p>
+                        <p>管理员数据是指在注册、购买或管理服务时提供的有关管理员（包括账户联系人和订阅管理员）的信息，例如姓名、地址、电话号码和电子邮箱地址。</p>
+                        <p><strong>付款数据</strong></p>
+                        <p>当您在线采购时，您将被要求提供信息，该类信息可能包括您支付工具的号码（比如银联或支付宝）、你的姓名和账单地址，以及与您支付工具有关的安全码和其他金融数据（“付款数据”）。</p>
+                        <p><strong>支持数据</strong></p>
+                        <p>支持数据是在您需要帮助联系世纪互联时收集的信息，包括您所递交支持请求，运行自动故障检测器的结果，或发送文件给我们。支持数据不包括管理员数据或付款数据。</p>
+                        <a target="_self" class="mscom-link" href="../../zh-cn/privacy/default.html#data_other" style="    color: rgb(21, 112, 166);text-decoration: none;transition: color 0.1s linear;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19" style="vertical-align: middle;margin-right: 5px;">了解更多</a>
                     </div>
                 </div>
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">

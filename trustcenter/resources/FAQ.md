@@ -155,6 +155,15 @@ layout: TrustCenterPage
                         <p>The <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 operated by 21Vianet Privacy Statement</a> describes the specific privacy policy and practices that govern customers' use of Office 365 operated by 21Vianet.</p>
                     </div>
                 </div>
+                <div class="content-faq">
+                    <label>Where can I learn more about the privacy practices that apply to Microsoft Azure and Office 365 operated by 21Vianet?</label>
+                        <div class="content-faq-footer">
+                        <p><strong>Metadata</strong>Metadata includes configuration and technical settings and information. For example, it includes the disk configuration settings for an Azure Virtual Machine or database design for an Azure SQL Database.</p>
+                        <p><strong>Access Control Data</strong>Access Control Data is used to manage access to other types of data or functions within Azure. It includes passwords, security certificates, and other authentication-related data.</p>
+                        <p><strong>Usage Data</strong>The Usage Data in Office 365 is used to provide the services. Usage Data could refer to any number of data points related to Office 365. “Usage Data” could refer to the average number of emails an end user receives each day, the number of licenses in a customer’s subscription, or the amount of electricity 21Vianet needs to power Office 365.</p>
+                        <p>We understand that its customers are most concerned about how 21Vianet treats personally identifiable information about end users’ interactions with the services. Such data may be used for day-to-day operations and maintenance of the services (as described above) and for services communications to administrators, including emails about end users’ use or access to the services. For example, an administrator may receive a notification from 21Vianet that an end user is near usage or storage limits.</p>
+                    </div>
+                </div>
             </div>
   <!--
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
