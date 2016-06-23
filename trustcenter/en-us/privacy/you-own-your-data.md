@@ -100,7 +100,7 @@ layout: TrustCenterPage
                         <p>When you make online purchases, you will be asked to provide information, which may include your payment instrument number (e.g., UnionPay or AliPay), your name and billing address, and the security code associated with your payment instrument and other financial data ("Payment Data").</p>
                         <p><strong>Support Data</strong></p>
                         <p>Support Data is the information we collect when you contact 21Vianet for help, including what you supply in a support request, results from running an automated troubleshooter, or files that you send us. Support data does not include administrator or payment data.</p>
-                        <a target="_self" class="mscom-link withArrow"" href="../transparency/you_know_where.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
+                        <a target="_self" class="mscom-link withArrow"" href="../../en-us/privacy/default.html#data_other"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                     </div>
                 </div>
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
