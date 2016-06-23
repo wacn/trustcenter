@@ -161,7 +161,7 @@ layout: TrustCenterPageCN
                                                                 <p>
                                                                     ISO/IEC 20000 是第一部针对信息技术服务管理（IT Service Management）领域的国际标准。由世纪互联运营的 Microsoft Azure 和 Office 365 着重于通过“IT 服务标准化”来管理 IT 问题，识别问题的内在联系，然后依据服务水平协议进行计划、推行和监控，并强调与客户的沟通。
                                                                 </p>
-                                                                <a target="_self" class="mscom-link" href="/zh-cn/compliance/default.html#ISO20000"><!--<img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" />-->了解更多</a>
+                                                                <a target="_self" class="mscom-link" href="/zh-cn/compliance/default.html#ISO/IEC_20000"><!--<img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" />-->了解更多</a>
                                                             </div>
                                                         </div>
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
