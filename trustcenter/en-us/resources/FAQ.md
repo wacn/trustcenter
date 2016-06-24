@@ -109,6 +109,18 @@ layout: TrustCenterPage
                     </div>
                 </div>
                 <div class="content-faq">
+                    <label>What is “Metadata” in Azure? </label>
+                    <div class="content-faq-footer">
+                        <p>Metadata in Azure includes configuration and technical settings and information. For example, it includes the disk configuration settings for an Azure Virtual Machine or database design for an Azure SQL Database.</p>
+                    </div>
+                </div>
+                <div class="content-faq">
+                    <label>What is “Access Control Data” in Azure? </label>
+                    <div class="content-faq-footer">
+                        <p>Access Control Data in Azure is used to manage access to other types of data or functions within Azure. It includes passwords, security certificates, and other authentication-related data.</p>
+                    </div>
+                </div>
+                <div class="content-faq">
                     <label>Does 21Vianet have access to the Azure and Office 365 services that Microsoft operates globally outside China?</label>
                     <div class="content-faq-footer">
                         <p>No. Microsoft Azure and Office 365 operated by 21Vianet in mainland China is physically and logically separate from the services operated by Microsoft in the rest of the world. Just as Microsoft does not have access to Customer Data in 21Vianet's services (except to assist 21Vianet as detailed above), 21Vianet does not have access to Customer Data in Microsoft's services outside mainland China. For clarity, the data center in Hong Kong is part of the global services operated by Microsoft, not the 21Vianet services operated in mainland China.</p>
@@ -153,18 +165,6 @@ layout: TrustCenterPage
                         <div class="content-faq-footer">
                         <p>The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a> describes the specific privacy policy and practices that govern customers' use of Microsoft Azure operated by 21Vianet.</p>
                         <p>The <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 operated by 21Vianet Privacy Statement</a> describes the specific privacy policy and practices that govern customers' use of Office 365 operated by 21Vianet.</p>
-                    </div>
-                </div>
-                <div class="content-faq">
-                    <label>What are Metadata, Access Control Data and Usage Data?</label>
-                        <div class="content-faq-footer">
-                        <p><strong>Metadata</strong></p>
-                        <p>Metadata includes configuration and technical settings and information. For example, it includes the disk configuration settings for an Azure Virtual Machine or database design for an Azure SQL Database.</p>
-                        <p><strong>Access Control Data</strong></p>
-                        <p>Access Control Data is used to manage access to other types of data or functions within Azure. It includes passwords, security certificates, and other authentication-related data.</p>
-                        <p><strong>Usage Data</strong></p>
-                        <p>The Usage Data in Office 365 is used to provide the services. Usage Data could refer to any number of data points related to Office 365. “Usage Data” could refer to the average number of emails an end user receives each day, the number of licenses in a customer’s subscription, or the amount of electricity 21Vianet needs to power Office 365.</p>
-                        <p>We understand that its customers are most concerned about how 21Vianet treats personally identifiable information about end users’ interactions with the services. Such data may be used for day-to-day operations and maintenance of the services (as described above) and for services communications to administrators, including emails about end users’ use or access to the services. For example, an administrator may receive a notification from 21Vianet that an end user is near usage or storage limits.</p>
                     </div>
                 </div>
             </div>

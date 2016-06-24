@@ -108,6 +108,18 @@ layout: TrustCenterPageCN
                    </div>
                 </div>
                 <div class="content-faq">
+                   <label>什么是 Azure 中的元数据？</label>
+                   <div class="content-faq-footer">
+                   <p>Azure 中的元数据包括配置、技术设置和信息。例如，它包括 Azure 虚拟机的磁盘配置设置和 Azure SQL Database 的数据库设计。</p>
+                   </div>
+                </div>
+                <div class="content-faq">
+                   <label>什么是 Azure 中的访问控制数据？</label>
+                   <div class="content-faq-footer">
+                   <p>Azure 中的访问控制数据用于管理对 Azure 内其他类型的数据或功能的访问。它包括密码、安全证书和其他与身份验证有关的数据。</p>
+                   </div>
+                </div>
+                <div class="content-faq">
                    <label>世纪互联是否可以访问微软在中国以外的地区运营的 Azure 和 Office 365 服务？</label>
                    <div class="content-faq-footer">
                    <p>否。在中国大陆由世纪互联运营的 Microsoft Azure 和 Office 365 与全球其他地区由微软运营的服务在物理上和逻辑上都是独立的。正如微软无权访问世纪互联服务中的客户数据一样（除了上文详述的为协助世纪互联的情况外），世纪互联也无权访问中国大陆以外地区的微软服务中的客户数据。为明确起见，香港的数据中心属于由微软运营的全球服务，不属于在中国大陆运营的世纪互联服务。</p>
@@ -152,15 +164,6 @@ layout: TrustCenterPageCN
                    <div class="content-faq-footer">
                     <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>介绍了管理客户对由世纪互联运营的 Microsoft Azure 的使用情况的特定隐私政策和惯例。</p>
                     <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明</a>介绍了管理客户对由世纪互联运营的 Office 365 的使用情况的特定隐私政策和惯例。</p>
-                   </div>
-                </div>
-                <div class="content-faq">
-                   <label>什么是元数据，访问控制数据和使用数据？ </label>
-                   <div class="content-faq-footer">
-                   <p><strong>元数据</strong>包括配置、技术设置和信息。例如，它包括 Azure 虚拟机的磁盘配置设置和 Azure SQL Database 的数据库设计。</p>
-                   <p><strong>访问控制数据</strong>用于管理对 Azure 内其他类型的数据或功能的访问。它包括密码、安全证书和其他与身份验证有关的数据。</p>
-                   <p><strong>使用数据</strong>在Office 365中是用来提供服务的。使用数据可是是指与Office 365相关的任意数量的数据点。“使用数据”可以指最终用户每一天接收到的电子邮件 的平均数量，客户订阅的软件许可证数量，或世纪互联需要使Office 365工作的用电量。</p>
-                   <p>我们充分理解我们的客户最关心的是我们如何处理最终用户与我们所提供服务之间进行交互时所涉及的个人身份信息。这些数据可用于我们所提供服务的日常操作和维护（如上所述），并用于与管理员进行服务沟通，其中包括有关最终用户使用或访问该服务的电子邮件。例如，管理员可能收到来自世纪互联的通知告知最终用户已接近使用或存储上限。</p>
                    </div>
                 </div>
                </div>
