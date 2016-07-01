@@ -153,6 +153,7 @@ layout: TrustCenterPage
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure and Office 365 operated by 21Vianet</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">Shared Responsibilities For Cloud Computing</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet </a></label><br/>     
