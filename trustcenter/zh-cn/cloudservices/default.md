@@ -53,7 +53,7 @@ layout: TrustCenterPageCN
                 <div class="image-wrapper"><img src="../Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
                 <!--<mscom:link instancename="more azure" md:payloadguid="42dea437-6cfb-44a6-afaa-6a7901426bac" classoverride="moreLink withArrow"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
-                <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、合规性及透明性要求。   
+                <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、合规性及透明性要求。
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                 </p>
             </div>
@@ -81,7 +81,7 @@ layout: TrustCenterPageCN
                     <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
                 </p>
             </div>
-        </div>        
+        </div>
         <div id="ContentWrapper1" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -111,7 +111,7 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
             </div>
-        </div>                   
+        </div>
       </div>
    </div>
 </div>
