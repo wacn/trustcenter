@@ -70,6 +70,16 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
+                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2016年1月15日</label><br /><label><a target="_blank" class="mscom-link" href="http://www.ccopsa.cn/QiantaiDongtaiYaowenXiangxi/index?key=a2f23e2c-dd8b-4d2a-bc2a-113fb2ca96df">微软世纪互联参与全民互联网嘉年华 “云时代的安全保障” 圆桌对话</a></label>
+                           <p>2016年1月13日至15日，以“大有可玩”为主题的“全民互联网嘉年华”活动在北京国家会议中心盛大举行。整场活动规格高、声势大、亮点多。其中，既有政府统揽全局，表达对未来互联网的坚定主张；也有国内外互联网大佬立足产业，分享互联网创新的精彩观点；更有互联网与科技、音乐、影视、戏剧、时尚、艺术和公益跨界所产生的激情、震撼和力量。短短三天内，近4万人涌入现场，500余家媒体参与报道，辐射用户超过1个亿。</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
