@@ -117,7 +117,7 @@ layout: TrustCenterPageCN
                         <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
