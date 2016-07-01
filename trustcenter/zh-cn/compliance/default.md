@@ -62,6 +62,8 @@ layout: TrustCenterPageCN
                <p>由世纪互联运营的 Microsoft Azure 和 Office 365 满足国际和行业特定合规性标准 ISO/IEC 27001，同时也符合公安部制定的信息系统安全等级保护定级标准，GB 18030 信息技术中文编码字符国家标准以及可信云服务认证（TCS）。最终，由您自己来决定我们的服务是否符合您的业务所使用的具体法律法规。为方便您做出评估，世纪互联提供了针对安全和合规项目的详细信息，包括审核报告和合规程序包。作为我们对透明度的承诺，您可以通过向进行认证的第三方索要审核结果，并验证我们多重安全控制的实现情况。</p>
               <label style="color:rgb(0,115,198)" id="ISO/IEC_20000">ISO/IEC 20000 审核和认证</label>
               <p>ISO/IEC 20000 是第一部针对信息技术服务管理（IT Service Management）领域的国际标准。由世纪互联运营的 Microsoft Azure 和 Office 365 着重于通过“IT 服务标准化”来管理 IT 问题，识别问题的内在联系，然后依据服务水平协议进行计划、推行和监控，并强调与客户的沟通。世纪互联承诺每年基于 ISO/IEC 20000（这是一种针对 IT 服务领域的国际 IT 服务标准）进行认证。ISO/IEC 20000 证书确认世纪互联已实施此标准中定义的 IT 服务管理要求，向客户提供有效地服务及一体化的管理过程，从而识别和管理IT服务的关键过程，保证世纪互联提供有效的 IT 服务以满足客户和业务的需求。</p>
+              <p>ISO 范围: IT服务管理体系（ITSM），其中包括建立、实施、运作、监控、评审、维护和改进IT服务管理体系。</p>
+              <p>该证书由<a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">北京赛西认证有限责任公司</a>（CESI）颁发，可公开查询。</p>
               <label style="color:rgb(0,115,198)" id="ISO/IEC_27001">ISO/IEC 27001 审核和认证</label>
               <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。世纪互联承诺每年基于 ISO/IEC 27001（这是一种适用范围广泛的国际信息安全标准）进行认证。ISO/IEC 27001 证书确认世纪互联已实施此标准中定义的国际上认可的信息安全控制措施，包括有关启动、实施、维护和改进组织中的信息安全管理的指南和一般原则。</p>
               <p>ISO 范围: 信息安全管理系统（ISMS），其中包含了操作、安全和对商务流程管理。</p>
@@ -150,6 +152,7 @@ layout: TrustCenterPageCN
                      <h1>更多信息</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>

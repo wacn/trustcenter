@@ -61,7 +61,6 @@ i .color_red{
     font-weight:bold;
 }
 
-
 .content-faq-footer{
     margin-left:55px;
     

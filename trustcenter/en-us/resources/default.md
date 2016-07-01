@@ -55,11 +55,12 @@ layout: TrustCenterPage
                 <p>Looking for more in-depth content? Security, privacy, and compliance experts of Azure and Office 365 regularly publish white papers for offering more detailed analysis and discussion of Microsoft Azure and Office 365 operated by 21Vianet. Below you will find the latest papers on general cloud topics, as well as product-specific content on Azure and Office 365.</p>
                  <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure and Office 365 operated by 21Vianet</a></p>
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud </a></p>
+                <p><a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">Shared Responsibilities For Cloud Computing</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance</a></p>
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></p>
                 <label id="videos">Video</label><br>
                 <p>This collection of short videos provides overviews of security, privacy, compliance and transparency topics on Microsoft Azure and Office 365 operated by 21Vianet.</p>
-                <p><a target="_self" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/start.aspx#/Shared%20Documents/1_Bill%20of%20Materials/Video/">Trusted Cloud</a></p>
+                <!--<p><a target="_self" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/start.aspx#/Shared%20Documents/1_Bill%20of%20Materials/Video/">Trusted Cloud</a></p>-->
                 <label id="cast_studies">Case Study</label><br>
                 <p>Our rich collection of case studies includes many customer stories that describe how organizations addressed specific security, privacy, compliance and transparency issues for Microsoft Azure and Office 365 operated by 21Vianet.</p>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/partnerancasestudy/case-studies">Azure Case Studies</a></p>
