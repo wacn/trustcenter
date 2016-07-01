@@ -74,6 +74,16 @@ layout: TrustCenterPageCN
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2016年1月15日</label><br /><label><a target="_blank" class="mscom-link" href="http://www.ccopsa.cn/QiantaiDongtaiYaowenXiangxi/index?key=a2f23e2c-dd8b-4d2a-bc2a-113fb2ca96df">微软世纪互联参与全民互联网嘉年华 “云时代的安全保障” 圆桌对话</a></label>
+                           <p>2016年1月13日至15日，以“大有可玩”为主题的“全民互联网嘉年华”活动在北京国家会议中心盛大举行。整场活动规格高、声势大、亮点多。其中，既有政府统揽全局，表达对未来互联网的坚定主张；也有国内外互联网大佬立足产业，分享互联网创新的精彩观点；更有互联网与科技、音乐、影视、戏剧、时尚、艺术和公益跨界所产生的激情、震撼和力量。短短三天内，近4万人涌入现场，500余家媒体参与报道，辐射用户超过1个亿。</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                             <label class="date">2015年11月25日</label><br /><label><a target="_blank" class="mscom-link" href="../what-is-new/news3.html">由世纪互联运营的 Windows Azure 和 Office 365 获“年度最佳业务连续性策略实施奖”</a></label>
                            <p>近日，在由国际灾难恢复（中国）协会（ DRI China ）主办的 DRI 亚洲年会上，由世纪互联运营的 Windows Azure 和 Office 365 获得该协会颁发的“年度最佳 BC（业务连续性）策略实施奖”。国际灾难恢复协会是一个致力于通过专业的培训活动来推广业务连续性和灾难恢复知识，并进行相关国际资格认证的非营利学术机构，由该协会建立的业务连续性行业的国际标准，引领和管理着行业中针对业务连续性计划和管理惯例的重要认证流程。国际灾难恢复协会一年一度颁发的“年度最佳 BC （业务连续性）策略实施奖”是业界公认的业务连续性和灾难恢复领域大奖，Windows Azure 和 Office 365 是获得此奖项的唯一云服务。
                            </p>
