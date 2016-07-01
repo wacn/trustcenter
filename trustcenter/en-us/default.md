@@ -138,6 +138,7 @@ layout: TrustCenterPage
                     <li style="list-style-type:disc">A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.</li>
                     <li style="list-style-type:disc">Powered by world-class Azure and Office 365 technology built on Microsoft's extensive experience with online services and used by enterprise customers around the world. </li>
                </ul>
+               <p></p>
                <p>When you entrust your Customer Data to Microsoft Azure and Office 365 operated by 21Vianet, you will have questions. Who can access it? Where is it? What is 21Vianet doing to protect it? How can you verify that 21Vianet is doing what it says?
                </p>
                <p>And 21Vianet have answers. Because it’s your Customer Data, you decide who has access, and you work with us to decide where it is located. To safeguard your Customer Data, the trusted cloud services operated by 21Vianet is based on Microsoft technology and implements world-class cryptography. Our compliance is independently audited, and we’re transparent on many levels—from where your own Customer Data is stored to how it is used.</p>
