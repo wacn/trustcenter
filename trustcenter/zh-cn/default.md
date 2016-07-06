@@ -11,7 +11,7 @@ layout: TrustCenterPageCN
                   <li id="slide-1" bi:index="0" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../zh-cn/security/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="1">
+                              <a href="../zh-cn/security/default.html" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
                                     <div data-src="Images/MS_TrustCenter-Home_Header_Security.png"></div>
                                     <noscript></noscript>
@@ -38,7 +38,7 @@ layout: TrustCenterPageCN
                      <li id="slide-2" bi:index="1" selectBi="">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../zh-cn/privacy/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="0">
+                              <a href="../zh-cn/privacy/default.html" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="Compliance" data-disable-swap-below="">
                                     <div data-src="Images/MS-TrustCenter-Home-Privacy-Header.png"></div>
                                     <noscript></noscript>
@@ -65,7 +65,7 @@ layout: TrustCenterPageCN
                      <li id="slide-3" bi:index="2" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../zh-cn/compliance/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="2">
+                              <a href="../zh-cn/compliance/default.html" bi:track="False" bi:titleflag="t1" bi:index="2">
                                  <div data-picture="" data-alt="Control over your data" data-disable-swap-below="">
                                     <div data-src="Images/MS_TrustCenter-Home_Header_Compliance.png"></div>
                                     <noscript></noscript>
@@ -92,7 +92,7 @@ layout: TrustCenterPageCN
                      <li id="slide-4" bi:index="3" selectBi="" style="display:none;">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="../zh-cn/transparency/default-cn.html" bi:track="False" bi:titleflag="t1" bi:index="3">
+                              <a href="../zh-cn/transparency/default.html" bi:track="False" bi:titleflag="t1" bi:index="3">
                                  <div data-picture="" data-alt="Security" data-disable-swap-below="">
                                     <div data-src="Images/MS-TrustCenter-Home-Transparency-Header.png"></div>
                                     <noscript></noscript>
@@ -217,7 +217,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>安全性</h3>
                         <p>我们保证您的客户数据的安全</p>
-                        <a target="_self" class="mscom-link withArrow" href="../zh-cn/security/default-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../zh-cn/security/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Security" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -227,7 +227,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>隐私保护</h3>
                         <p>您拥有并控制自己的客户数据</p>
-                        <a target="_self" class="mscom-link withArrow" href="../zh-cn/privacy/default-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../zh-cn/privacy/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -237,7 +237,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>合规性</h3>
                         <p>我们的服务符合国际/国内标准</p>
-                        <a target="_self" class="mscom-link withArrow" href="../zh-cn/compliance/default-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../../zh-cn/compliance/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -247,7 +247,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>透明度</h3>
                         <p>您知道如何存储和访问您的客户数据，并知道我们如何保护客户数据</p>
-                        <a target="_self" class="mscom-link withArrow" href="../zh-cn/transparency/default-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
+                        <a target="_self" class="mscom-link withArrow" href="../../zh-cn/transparency/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Transparency" width="21" height="19" /></a>
                      </div>
                   </div>
                </div>
@@ -260,10 +260,10 @@ layout: TrustCenterPageCN
                <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="../zh-cn/what-is-new/news1.html">世纪互联运营的 Microsoft Azure 和 Office 365 亮相“4.29首都网络安全日</a>
                </p>
                <p style="font-size: 14px;">4月28日，由北京市公安局主办的第三届“4.29首都网络安全日”网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际云计算服务——基于微软技术由世纪互联运营的 Microsoft Azure 和 Office 365 亮相博览会。微软和世纪互联蓝云在博览会上搭建了联合展台，向与会者展示了国际一流的云计算技术和安全可信的云计算运维和服务的成果，为业界提供了云安全的交流机会，助力推动网络安全与信息安全的发展。</p>
-               <p style="font-size: 16px;display:none"><a target="_blank" class="mscom-link" href="../zh-cn/what-is-new/new2-cn.html">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> </p>
+               <p style="font-size: 16px;display:none"><a target="_blank" class="mscom-link" href="../../zh-cn/what-is-new/new2.html">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> </p>
                <p style="font-size: 14px;display:none">在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
                </p>
-               <a target="_self" class="mscom-link withArrowRight" href="../zh-cn/what-is-new/default-cn.html">更多
+               <a target="_self" class="mscom-link withArrowRight" href="../zh-cn/what-is-new/default.html">更多
                <img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow_white.png?version=5c22924b-0b30-b9e9-3bea-41132bde0152" class="mscom-image" alt="Arrow | Navigate To What's New' " width="21" height="19" /></a>
             </div>
          </div>
