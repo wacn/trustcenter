@@ -13,6 +13,7 @@
     	},function(){
           		$(this).css({"color":"#00a8d9"});
     	});
+    	
     	$("#zh-cn").click(function(){
      	var  current = "../.." + (window.location.pathname.indexOf("en-us")==-1?"/zh-cn":window.location.pathname.replace("en-us","zh-cn"));
      		$(this).children("a").attr("href",current);
