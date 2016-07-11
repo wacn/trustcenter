@@ -1,11 +1,9 @@
 function zhCn(){
-     	var  currentZhCn = "../.." + (window.location.pathname.indexOf("en-us")==-1?"/zh-cn":window.location.pathname.replace("en-us","zh-cn"));
-      window.location.href= currentZhCn;
+     window.location.href = "../.." + (window.location.pathname.indexOf("en-us")==-1?"/zh-cn" + (window.location.pathname.split("zh-cn").length == 1?"":window.location.pathname.split("zh-cn")[1]) :window.location.pathname.replace("en-us","zh-cn"));
     	}    
-    	function enUs(){
-     		   currentEnUs = "../.." + (window.location.pathname.indexOf("zh-cn")==-1?"/en-us":window.location.pathname.replace("zh-cn","en-us"));
-     	     	window.location.href= currentEnUs;
-    	};
+function enUs(){
+     window.location.href = "../.." + (window.location.pathname.indexOf("zh-cn")==-1?"/en-us" + (window.location.pathname.split("en-us").length == 1?"":window.location.pathname.split("en-us")[1]) :window.location.pathname.replace("zh-cn","en-us"));
+};
  $(function(){
      $(".content-faq-footer").hide();
      $(".content-faq label").click(function(){
