@@ -1,10 +1,10 @@
-function enUs(){
-     	var  currentEnUs = "../.." + (window.location.pathname.indexOf("en-us")==-1?"/zh-cn":window.location.pathname.replace("en-us","zh-cn"));
-      window.location.href= currentEnUs;
+function zhCn(){
+     	var  currentZhCn = "../.." + (window.location.pathname.indexOf("en-us")==-1?"/zh-cn":window.location.pathname.replace("en-us","zh-cn"));
+      window.location.href= currentZhCn;
     	}    
-    	function zhCn(){
-     		    currentZhCn = "../.." + (window.location.pathname.indexOf("zh-cn")==-1?"/en-us":window.location.pathname.replace("zh-cn","en-us"));
-     	     	window.location.href= currentZhCn;
+    	function enUs(){
+     		   currentEnUs = "../.." + (window.location.pathname.indexOf("zh-cn")==-1?"/en-us":window.location.pathname.replace("zh-cn","en-us"));
+     	     	window.location.href= currentEnUs;
     	};
  $(function(){
      $(".content-faq-footer").hide();
