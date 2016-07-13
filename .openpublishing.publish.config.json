@@ -21,7 +21,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "url": "https://github.com/wacn/trustcenter.template",
       "branch": "master"
     }
   ]
