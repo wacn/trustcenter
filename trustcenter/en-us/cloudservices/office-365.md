@@ -188,6 +188,7 @@ layout: TrustCenterPage
                         <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                             <h1>Helpful information</h1>
                             <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance</a></label><br/>
+                            <label><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Simplified Implementation of the Microsoft SDL</a></label><br/>
                         </div>
                     </div>
                 </div>
