@@ -83,8 +83,7 @@ layout: TrustCenterPageCN
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/networksecurity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>安全开发生命周期（SDL）</strong><br/>在软件开发过程中将安全做为核心部件可帮助 Azure 和 Office 365 降低成本，保护数据，以及改善基础架构和应用的隐私和安全防护。SDL（Security Development Lifecycle）作为许可给世纪互联的技术开发流程的一部分，是一种经过验证的安全实践，核心的软件开发保障行为在不同的阶段被定义。</span>
-                        <br/>
+                        <li><p><strong>安全开发生命周期（SDL）</strong><br/>在软件开发过程中将安全做为核心部件可帮助 Azure 和 Office 365 降低成本，保护数据，以及改善基础架构和应用的隐私和安全防护。SDL（Security Development Lifecycle）作为许可给世纪互联的技术开发流程的一部分，是一种经过验证的安全实践，核心的软件开发保障行为在不同的阶段被定义。</p>
                         <p>
                         了解更多有关 <a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a>的信息
                         </p>
