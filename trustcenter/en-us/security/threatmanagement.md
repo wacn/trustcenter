@@ -55,9 +55,8 @@ layout: TrustCenterPage
                </p>
                <label style="color:rgb(0,115,198)">Microsoft Azure operated by 21Vianet </label>
                <p>To protect against online threats, Azure offers Antimalware for cloud services and virtual machines, and uses detection and mitigation techniques to protect against DDoS attacks.</p>
-               <p><strong>Microsoft Antimalware for Azure with real-time protection and remediation. </strong>Microsoft Antimalware <sup style="font-size:12px"> ①</sup>is a real-time protection capability that helps identity and remove viruses, spyware, and other malicious software. You can configure alerts for when known malicious or unwanted software attempts to install itself or run on your Azure systems. Antimalware automatically takes action, such as deleting or quarantining malicious files and cleaning up malicious registry entries. </p>
+               <p><strong>Microsoft Antimalware for Azure with real-time protection and remediation. </strong>Microsoft Antimalware<sup style="font-size:12px">① </sup>is a real-time protection capability that helps identity and remove viruses, spyware, and other malicious software. You can configure alerts for when known malicious or unwanted software attempts to install itself or run on your Azure systems. Antimalware automatically takes action, such as deleting or quarantining malicious files and cleaning up malicious registry entries. </p>
                <p><strong>Intrusion detection and DDoS. </strong> Intrusion detection and prevention systems, denial of service attack prevention, regular penetration testing, and forensic tools help identify and mitigate threats from both outside and inside of Azure.</p>
-               <p style="font-size:12px; color:#666666">Notes:  ①The Microsoft Antimalware Client and Service is installed by default in a disabled state in all Cloud Services. The Microsoft Antimalware Client and Service is not installed by default in the Virtual Machines platform; it is available as an optional security extension.</p>
                <ul>
                   <li><strong>Distributed denial-of-service (DDoS) defenses. </strong>To protect the cloud services, Azure provides a distributed denial-of-service (DDoS) defense system that is part of the continuous monitoring and penetration-testing processes of Azure. Azure's DDoS defense system is designed not only to withstand attacks from the outside, but also from other Azure tenants. Azure uses standard detection and mitigation techniques such as SYN cookies, rate limiting, and connection limits to protect against these attacks.  </li>
                </ul>
@@ -69,6 +68,7 @@ layout: TrustCenterPage
                </p>
                <!--<p><strong>Exchange Online高级威胁保护(ATP) </strong>)实时保护您的电子邮件免受未知的和复杂的攻击。它可防止不安全的附件，并通过提供实时的和点击瞬间的扩展防护，使邮件免受恶意链接的侵袭。作为Exchange Online Protection安全功能的补充，Exchange Online ATP为邮件系统提供更好的全天候安全保护。
                </p>-->
+               <p style="font-size:12px; color:#666666;margin-top: 50px;">Notes:  ①The Microsoft Antimalware Client and Service is installed by default in a disabled state in all Cloud Services. The Microsoft Antimalware Client and Service is not installed by default in the Virtual Machines platform; it is available as an optional security extension.</p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
