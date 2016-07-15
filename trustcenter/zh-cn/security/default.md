@@ -71,7 +71,8 @@ layout: TrustCenterPageCN
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/identity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>威胁管理</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 帮助阻止多种形式的恶意软件的攻击。许可给世纪互联的 Microsoft Antimalware 技术基于云服务构建，Azure 和 Office 365 服务还提供其他形式的反恶意软件防范和保护。</span>
+                        <li><span><strong>威胁管理</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 帮助阻止多种形式的恶意软件的攻击。许可给世纪互联的 Microsoft Antimalware <sup style="font-size:12px"> ①</sup>技术基于云服务构建，Azure 和 Office 365 服务还提供其他形式的反恶意软件防范和保护。</p>
+                        <p style="font-size:12px; color:#666666">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态，Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台中；而是列为可选安全扩展方案。</p>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/threatmanagement.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
