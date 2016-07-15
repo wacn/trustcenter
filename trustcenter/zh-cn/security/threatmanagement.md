@@ -55,8 +55,7 @@ layout: TrustCenterPageCN
                </p>
                <label style="color:rgb(0,115,198)">由世纪互联运营的 Microsoft Azure</label>
                <p>为防止在线威胁，Azure 为云服务和虚拟机提供反恶意软件，并使用入侵检测和缓解技术防御 DDoS 攻击。</p>
-               <p><strong>用于 Azure 云服务和虚拟机的 Microsoft Antimalware </strong> - Microsoft Antimalware <sup style="font-size:12px"> ①</sup>提供的实时保护功能有助于发现并移除病毒、间谍软件，以及其他恶意软件。当恶意软件试图将自己安装到 Azure 系统，或在 Azure 系统中运行时，该产品提供了可配置的警报信息。检测到恶意软件后，反恶意软件技术会自动删除或隔离恶意文件，清理恶意注册表项。 </p>
-               <p style="font-size:12px; color:#666666">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态，Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台中；而是列为可选安全扩展方案。</p>
+               <p><strong>用于 Azure 云服务和虚拟机的 Microsoft Antimalware </strong> - Microsoft Antimalware<sup style="font-size:12px">① </sup>提供的实时保护功能有助于发现并移除病毒、间谍软件，以及其他恶意软件。当恶意软件试图将自己安装到 Azure 系统，或在 Azure 系统中运行时，该产品提供了可配置的警报信息。检测到恶意软件后，反恶意软件技术会自动删除或隔离恶意文件，清理恶意注册表项。 </p>
                <p><strong>入侵检测和分布式拒绝服务DDoS </strong> - 入侵检测和防护系统、拒绝服务攻击防护、定期渗透测试和取证工具帮助识别 Azure 内部和外部的潜在威胁并加以预防。</p>
                <ul>
                   <li><strong>DDoS 防御</strong> - 由世纪互联提供的分布式拒绝服务(DDoS) 是 Azure 通过持续监控和定期渗透测试，改善 Azure 控制机制和流程工作的一部分。Azure 的 DDoS 防御系统在设计上不仅可以抵挡外部攻击，而且可以抵挡来自内部其他 Azure 租户的攻击。Azure 使用了标准的入侵检测和缓解技术，例如 SYN cookie、速率限制，以及连接限制等保护防范此类攻击。</li>
@@ -68,6 +67,7 @@ layout: TrustCenterPageCN
                </p>
                <p><strong>Exchange Online 高级威胁保护（ATP）</strong>是一项可选附加服务，实时保护您的电子邮件免受未知的和复杂的攻击。它可防止不安全的附件，并通过提供实时的和点击瞬间的扩展防护，使邮件免受恶意链接的侵袭。作为 Exchange Online Protection 安全功能的补充，Exchange Online ATP 为邮件系统提供更好的全天候安全保护。
                </p>
+               <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态，Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台中；而是列为可选安全扩展方案。</p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
