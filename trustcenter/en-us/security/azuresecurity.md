@@ -76,6 +76,7 @@ layout: TrustCenterPage
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Simplified Implementation of the Microsoft SDL</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Privacy Statement for Microsoft Azure Operated by 21Vianet</a></label><br/>
                   </div>
                </div>
