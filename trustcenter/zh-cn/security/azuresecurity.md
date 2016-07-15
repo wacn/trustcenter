@@ -58,7 +58,8 @@ layout: TrustCenterPageCN
                   <p><span><strong>身份和访问管理</strong> - Azure Active Directory 帮助确保只有经过授权的用户才能访问您的环境、数据和应用，同时为高安全级别登录提供了多重身份验证功能。</span></p>
                   <p><span><strong>加密</strong> - Azure 采用符合行业标准的协议对传输中的客户数据进行加密，这包括设备与 Azure 数据中心之间的传输，以及不同数据中心之间的传输。</span></p>
                   <p><span><strong>网络安全</strong>  - Azure 基础架构依托各种安全措施和技术，在虚拟机间和虚拟机到内部部署数据中心间建立互联，并有效阻止未经授权的通信。Azure 虚拟网络可以通过站到站虚拟私有网络（VPN）将您的内部网络扩展至云端。当您需要私有网络连接的时候，还可以使用 <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute</a> 来建立跨越内部部署的连接。</span></p>
-                  <p><span><strong>威胁管理</strong> - Microsoft Antimalware 对 Azure 服务和虚拟机提供持续保护。世纪互联还通过入侵检测、拒绝服务（DDoS）攻击防护、渗透测试、数据分析和机器学习不断加强防御能力并减少风险。</span></p>
+                  <p><span><strong>威胁管理</strong> - Microsoft Antimalware <sup style="font-size:12px"> ①</sup>对 Azure 服务和虚拟机提供持续保护。世纪互联还通过入侵检测、拒绝服务（DDoS）攻击防护、渗透测试、数据分析和机器学习不断加强防御能力并减少风险。</span></p>
+                  <p style="font-size:12px; color:#666666">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态，Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台中；而是列为可选安全扩展方案。</p>
                   <p><span><strong>安全控制及功能</strong> - Azure 为客户提供了一个可信赖的平台，以供他们设计、构建和管理自己的安全云应用程序和基础架构。</span>
                       <ul>
                           <li><span><strong>补丁</strong>  - 使用集成的部署系统来管理安全补丁的分发和安装。对于 Azure 中部署的虚拟机，客户可以采用相似的补丁管理流程。</span></li>
