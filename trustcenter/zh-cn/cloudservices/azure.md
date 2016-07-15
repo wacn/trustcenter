@@ -60,8 +60,9 @@ layout: TrustCenterPageCN
                     <label style="color:rgb(0,115,198)">安全性和隐私已嵌入 Azure 的开发过程当中</label>
                     <p>从代码开发到事件响应的每个步骤，安全性和隐私都被优先考虑。</p>
                     <p>Azure 的设计完全以安全性为主导，采取安全开发生命周期（SDL）的方法将安全性构建到软件代码中，强制开发流程将安全要求嵌入从规划到部署的整个软件生命周期。为了确保整个运营过程中遵循一致的安全优先级，世纪互联制定了严格的安全指南，如安全管理流程的相关规定。
-                    <br/>
-                    了解更多有关<a target="_self" class="mscom-link withArrow" href="../../file/Microsoft SDL 的简化实施.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19"> Microsoft SDL 的简化实施</a>的信息
+                    </p>
+                    <p>
+                        了解更多有关<a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf"> Microsoft SDL 的简化实施</a>的信息
                     </p>
                     <label style="color:rgb(0,115,198)">安全性: 我们保证您的客户数据的安全</label>
                     <p>Azure 采用一系列可靠的安全技术和实践，帮助确保 Azure 基础结构能够应对攻击，保护用户对 Azure 环境的访问，并通过加密通信、威胁管理和缓解实践（包括定期渗透测试）来帮助保障客户数据的安全。</p>
