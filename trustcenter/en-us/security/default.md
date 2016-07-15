@@ -11,7 +11,6 @@ layout: TrustCenterPage
                      <li id="slide-1" bi:index="0" selectBi="">
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
-                              <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
                                     <div data-src="../Images/MS_TrustCenter_Homepage_Header_Security.jpg"></div>
                                     <noscript></noscript>
@@ -84,6 +83,8 @@ layout: TrustCenterPage
                         <a target="_self" class="mscom-link withArrow" href="../security/networksecurity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                         </li>
                         <li><span><strong>Security Development Lifecycle</strong><br/>Focusing on security as a core component in the software development process can reduce the risk of costly issues, improve the security and privacy of infrastructure and applications, and protect data in Azure and Office 365. The Security Development Lifecycle, which is part of the development process for the technology licensed to 21Vianet, is composed of proven security practices that consist of multiple phases in which core software assurance activities are defined.</span>
+                        <br/>
+                        Learn more about<a target="_self" class="mscom-link withArrow" href="../../file/Microsoft SDL 的简化实施.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19"> Simplified Implementation of the Microsoft SDL</a>
                         </li>
                         <li><span><strong>Security Incident and Abuse Reporting</strong>To report suspected security issues or abuse of Azure and Office 365, please contact<a target="_self" class="mscom-link" href="https://www.azure.cn/support/contact/"> Customer Support</a>.
                         <!--<a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>-->
