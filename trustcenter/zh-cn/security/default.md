@@ -72,7 +72,6 @@ layout: TrustCenterPageCN
                         <a target="_self" class="mscom-link withArrow" href="../security/identity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
                         <li><span><strong>威胁管理</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 帮助阻止多种形式的恶意软件的攻击。许可给世纪互联的 Microsoft Antimalware<sup style="font-size:12px">① </sup>技术基于云服务构建，Azure 和 Office 365 服务还提供其他形式的反恶意软件防范和保护。</p>
-                        <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/threatmanagement.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
                         <li><span><strong>监视和日志记录</strong><br/>为了帮助您管理由设备和服务生成的大量信息，由世纪互联运营的 Microsoft Azure 和 Office 365 提供了集中式监视、记录和分析系统,为客户提供持续可见性、及时报警和报告。</span>
