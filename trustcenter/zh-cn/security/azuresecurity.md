@@ -69,7 +69,7 @@ layout: TrustCenterPageCN
                   <p><span><strong>安全事件及滥用报告</strong> - 若要报告有关 Azure 的疑似安全问题或滥用情况，请联系世纪互联 Azure 客户支持部门。</span></p>
                   <p><span><strong>渗透测试</strong> - 我们通过常规渗透测试来改进 Azure 的安全控制措施和流程。</span></p>
                <p style="margin-top:20px">客户对自己的客户数据具有完全所有权和控制权。在隐私保护的透明性方面，我们之所以能够成为领先的服务提供商，一个重要的原因就是由世纪互联运营的 Microsoft Azure 实施了严格的物理、逻辑、流程和管理控制。</p>
-               <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态，Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台中；而是列为可选安全扩展方案。</p>
+               <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态。Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台层面，而是列为可选安全扩展方案。</p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
