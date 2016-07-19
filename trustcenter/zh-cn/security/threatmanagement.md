@@ -67,7 +67,7 @@ layout: TrustCenterPageCN
                </p>
                <p><strong>Exchange Online 高级威胁保护（ATP）</strong>是一项可选附加服务，实时保护您的电子邮件免受未知的和复杂的攻击。它可防止不安全的附件，并通过提供实时的和点击瞬间的扩展防护，使邮件免受恶意链接的侵袭。作为 Exchange Online Protection 安全功能的补充，Exchange Online ATP 为邮件系统提供更好的全天候安全保护。
                </p>
-               <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态，Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台中；而是列为可选安全扩展方案。</p>
+               <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态。Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台层面，而是列为可选安全扩展方案。</p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
