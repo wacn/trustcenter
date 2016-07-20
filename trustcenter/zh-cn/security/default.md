@@ -71,19 +71,21 @@ layout: TrustCenterPageCN
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/identity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>威胁管理</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 帮助阻止多种形式的恶意软件的攻击。许可给世纪互联的 Microsoft Antimalware 技术基于云服务构建，Azure 和 Office 365 服务还提供其他形式的反恶意软件防范和保护。</span>
-                        <br/>
+                        <li><span><strong>威胁管理</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 帮助阻止多种形式的恶意软件的攻击。许可给世纪互联的 Microsoft Antimalware<sup style="font-size:12px">① </sup>技术基于云服务构建，Azure 和 Office 365 服务还提供其他形式的反恶意软件防范和保护。</p>
                         <a target="_self" class="mscom-link withArrow" href="../security/threatmanagement.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
                         <li><span><strong>监视和日志记录</strong><br/>为了帮助您管理由设备和服务生成的大量信息，由世纪互联运营的 Microsoft Azure 和 Office 365 提供了集中式监视、记录和分析系统,为客户提供持续可见性、及时报警和报告。</span>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/auditingandlogging.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>网络安全</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 网络提供一个基础架构，用于服务和客户之间的安全连接，以及现场数据中心与服务之间的安全连接。Azure 和 Office 365 网络基础架构使用多种技术阻止发送到世纪互联数据中心的以及数据中心内部的未经授权通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离.</span>
+                        <li><span><strong>网络安全</strong><br/>由世纪互联运营的 Microsoft Azure 和 Office 365 网络提供一个基础架构，用于服务和客户之间的安全连接，以及现场数据中心与服务之间的安全连接。Azure 和 Office 365 网络基础架构使用多种技术阻止发送到世纪互联数据中心的以及数据中心内部的未经授权通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离。</span>
                         <br/>
                         <a target="_self" class="mscom-link withArrow" href="../security/networksecurity.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                         </li>
-                        <li><span><strong>安全开发生命周期（SDL）</strong><br/>在软件开发过程中将安全做为核心部件可帮助 Azure 和 Office 365 降低成本，保护数据，以及改善基础架构和应用的隐私和安全防护。SDL（Security Development Lifecycle）作为许可给世纪互联的技术开发流程的一部分，是一种经过验证的安全实践，核心的软件开发保障行为在不同的阶段被定义</span>
+                        <li><p><strong>安全开发生命周期（SDL）</strong><br/>在软件开发过程中将安全做为核心部件可帮助 Azure 和 Office 365 降低成本，保护数据，以及改善基础架构和应用的隐私和安全防护。SDL（Security Development Lifecycle）作为许可给世纪互联的技术开发流程的一部分，是一种经过验证的安全实践，核心的软件开发保障行为在不同的阶段被定义。</p>
+                        <p>
+                        了解更多有关 <a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a>的信息
+                        </p>
                         </li>
                         <li><span><strong>安全事件和滥用报告</strong><br/>若要报告 Azure 和 Office 365 的可疑安全问题或滥用情况，请联系<a target="_self" class="mscom-link" href="https://www.azure.cn/support/contact/">客户支持</a>。</span>
                         <br/>
@@ -95,6 +97,7 @@ layout: TrustCenterPageCN
                         <li><a target="_blank" class="mscom-link" href="../security/azuresecurity.html">Azure</a></li>
                         <li><a target="_blank" class="mscom-link" href="../security/office365security.html">Office 365</a></li>
                      </ul>
+                     <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态。Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台层面，而是列为可选安全扩展方案。</p>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">

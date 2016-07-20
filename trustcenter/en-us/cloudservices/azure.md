@@ -60,6 +60,9 @@ layout: TrustCenterPage
                     <label style="color:rgb(0,115,198)">Security and privacy are embedded into the development of Azure</label>
                     <p>Security and privacy is made a priority at every step, from code development through incident response.</p>
                     <p>The design of Azure is dominated by security from the ground up. We build security into software code following an approach known as the Security Development Lifecycle (SDL). Mandatory development process embeds security requirements into the entire software lifecycle, from planning through deployment. To help ensure that operational activities follow the same security priorities, we’ve developed rigorous security guidelines laid out in the Security Management process. </p>
+                    <p>
+                        Learn more about<a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf"> Simplified Implementation of the Microsoft SDL</a>
+                    </p>
                     <label style="color:rgb(0,115,198)">Security: We keep your Customer Data safe</label>
                     <p>Azure employs a robust set of security technologies and practices. These help ensure that Azure infrastructure is resilient to attack, safeguards user access to the Azure environment, and helps keep Customer Data secure through encrypted communications as well as threat management and mitigation practices, including regular penetration testing.</p>
                     <ul>

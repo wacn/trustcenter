@@ -58,7 +58,7 @@ layout: TrustCenterPageCN
                   <p><span><strong>身份和访问管理</strong> - Azure Active Directory 帮助确保只有经过授权的用户才能访问您的环境、数据和应用，同时为高安全级别登录提供了多重身份验证功能。</span></p>
                   <p><span><strong>加密</strong> - Azure 采用符合行业标准的协议对传输中的客户数据进行加密，这包括设备与 Azure 数据中心之间的传输，以及不同数据中心之间的传输。</span></p>
                   <p><span><strong>网络安全</strong>  - Azure 基础架构依托各种安全措施和技术，在虚拟机间和虚拟机到内部部署数据中心间建立互联，并有效阻止未经授权的通信。Azure 虚拟网络可以通过站到站虚拟私有网络（VPN）将您的内部网络扩展至云端。当您需要私有网络连接的时候，还可以使用 <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute</a> 来建立跨越内部部署的连接。</span></p>
-                  <p><span><strong>威胁管理</strong> - Microsoft Antimalware 对 Azure 服务和虚拟机提供持续保护。世纪互联还通过入侵检测、拒绝服务（DDoS）攻击防护、渗透测试、数据分析和机器学习不断加强防御能力并减少风险。</span></p>
+                  <p><span><strong>威胁管理</strong> - Microsoft Antimalware<sup style="font-size:12px">① </sup>对 Azure 服务和虚拟机提供持续保护。世纪互联还通过入侵检测、拒绝服务（DDoS）攻击防护、渗透测试、数据分析和机器学习不断加强防御能力并减少风险。</span></p>
                   <p><span><strong>安全控制及功能</strong> - Azure 为客户提供了一个可信赖的平台，以供他们设计、构建和管理自己的安全云应用程序和基础架构。</span>
                       <ul>
                           <li><span><strong>补丁</strong>  - 使用集成的部署系统来管理安全补丁的分发和安装。对于 Azure 中部署的虚拟机，客户可以采用相似的补丁管理流程。</span></li>
@@ -69,12 +69,14 @@ layout: TrustCenterPageCN
                   <p><span><strong>安全事件及滥用报告</strong> - 若要报告有关 Azure 的疑似安全问题或滥用情况，请联系世纪互联 Azure 客户支持部门。</span></p>
                   <p><span><strong>渗透测试</strong> - 我们通过常规渗透测试来改进 Azure 的安全控制措施和流程。</span></p>
                <p style="margin-top:20px">客户对自己的客户数据具有完全所有权和控制权。在隐私保护的透明性方面，我们之所以能够成为领先的服务提供商，一个重要的原因就是由世纪互联运营的 Microsoft Azure 实施了严格的物理、逻辑、流程和管理控制。</p>
+               <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态。Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台层面，而是列为可选安全扩展方案。</p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></label><br/>
                   </div>
                </div>
