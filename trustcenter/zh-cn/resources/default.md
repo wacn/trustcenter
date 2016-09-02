@@ -62,17 +62,9 @@ layout: TrustCenterPageCN
                 <label id="videos">视频</label><br>
                 <p>视频短片概括介绍了由世纪互联运营的 Microsoft Azure 和 Office 365 相关内容，并充分解答您关于安全性、隐私保护、合规性及透明度方面的疑惑。</p>
                 <div>
-                  <iframe src="https://resource.cdn.azure.cn/marketing-resource/media/videos/TrustedCloud4pc.mp4" width="640" height="320" allowFullScreen="true" frameBorder="0">
-                     <html>
-                        <head>
-                           <meta name="viewport" content="width=device-width">
-                        </head>
-                        <body style="margin: 0px;">
-                           <video controls="" name="media">
-                              <source src="https://resource.cdn.azure.cn/marketing-resource/media/videos/TrustedCloud4pc.mp4" type="video/mp4">
-                           </video>
-                        </body>
-                     </html>
+                  <iframe>
+                    <video src="https://resource.cdn.azure.cn/marketing-resource/media/videos/TrustedCloud4pc.mp4" type="video/mp4" allowFullScreen="true" frameBorder="0" autoplay="0">
+                    </video>
                   </iframe>
                 </div>
                 <!--<p><a target="_self" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/start.aspx#/Shared%20Documents/1_Bill%20of%20Materials/Video/">可信赖的云</a></p>-->
