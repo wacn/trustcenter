@@ -61,6 +61,7 @@ layout: TrustCenterPage
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></p>
                 <label id="videos">Video</label><br>
                 <p>This collection of short videos provides overviews of security, privacy, compliance and transparency topics on Microsoft Azure and Office 365 operated by 21Vianet.</p>
+                <p><a target="_self" class="mscom-link" href="https://www.azure.cn/video-center/trusted-cloud/">Trusted Cloud</a></p>
                 <!--<p><a target="_self" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/start.aspx#/Shared%20Documents/1_Bill%20of%20Materials/Video/">Trusted Cloud</a></p>-->
                 <label id="cast_studies">Case Study</label><br>
                 <p>Our rich collection of case studies includes many customer stories that describe how organizations addressed specific security, privacy, compliance and transparency issues for Microsoft Azure and Office 365 operated by 21Vianet.</p>

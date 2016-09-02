@@ -61,6 +61,7 @@ layout: TrustCenterPageCN
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></p>
                 <label id="videos">视频</label><br>
                 <p>视频短片概括介绍了由世纪互联运营的 Microsoft Azure 和 Office 365 相关内容，并充分解答您关于安全性、隐私保护、合规性及透明度方面的疑惑。</p>
+                <p><a target="_self" class="mscom-link" href="https://www.azure.cn/video-center/trusted-cloud/">Trusted Cloud</a></p>
                 <!--<p><a target="_self" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/start.aspx#/Shared%20Documents/1_Bill%20of%20Materials/Video/">可信赖的云</a></p>-->
                 <label id="cast_studies">案例研究</label><br>
                 <p>客户通过使用由世纪互联运营的 Microsoft Azure 和 Office 365 解决了许多关于安全性、隐私保护、合规性及透明度方面的问题，让我们研究一下他们分享的案例吧。</p>
