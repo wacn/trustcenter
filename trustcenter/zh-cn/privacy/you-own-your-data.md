@@ -117,6 +117,7 @@ layout: TrustCenterPageCN
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br/>
+						<label><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></label><br/>
                     </div>
                 </div>
             </div>
