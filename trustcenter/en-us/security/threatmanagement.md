@@ -60,7 +60,7 @@ layout: TrustCenterPage
                <ul>
                   <li><strong>Distributed denial-of-service (DDoS) defenses. </strong>To protect the cloud services, Azure provides a distributed denial-of-service (DDoS) defense system that is part of the continuous monitoring and penetration-testing processes of Azure. Azure's DDoS defense system is designed not only to withstand attacks from the outside, but also from other Azure tenants. Azure uses standard detection and mitigation techniques such as SYN cookies, rate limiting, and connection limits to protect against these attacks.  </li>
 				  <p>
-                  Learn more about<a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a>
+                  Learn more about<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a>
                   </p>
                </ul>
                <label style="color:rgb(0,115,198)">Office 365 operated by 21Vianet</label>
@@ -79,7 +79,7 @@ layout: TrustCenterPage
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance </a></label><br/> 
-					 <label><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
                   </div>
                </div>
             </div>
