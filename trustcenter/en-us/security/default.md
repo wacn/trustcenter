@@ -103,9 +103,9 @@ layout: TrustCenterPage
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure and Office 365 operated by 21Vianet</a></label><br/>
-					 <label><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></label><br/>
-					 <label><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
-					 <label><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a></label><br/>				 
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></label><br/>
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a></label><br/>				 
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/networking/">Networking</a></label><br/>
