@@ -53,8 +53,12 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <label id="white_papers">白皮书</label><br>
                 <p>如果您需要更详细的信息，Azure 和 Office 365 的安全、隐私与合规专家会定期发布白皮书，借此充分解析由世纪互联运营的 Microsoft Azure 和 Office 365 在安全和隐私方面对客户的承诺。您可以在下面看到有关由世纪互联运营的 Microsoft Azure 和 Office 365 云服务的通用白皮书，以及与 Azure 和 Office 365 具体产品相关的内容。</p>
-                <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">由世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></p>
-                <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></p>
+                <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">由世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></p>                        
+				<p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></p>
+				<p><a target="_self" class="mscom-link" 				href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a></p>
+				<p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></p>
+				<p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf">ISO20000和ISO27001认证介绍</a></p>
+				<p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></p>
@@ -87,7 +91,7 @@ layout: TrustCenterPageCN
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
                         <label><a target="_self" class="mscom-link" href="../transparency/default.html#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/security/encryption.html">微软云加密</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/security/encryption.html">微软云加密</a></label><br/>								
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私(864 KB, PDF)</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="../compliance/default#ISO/IEC_27001">ISO / IEC 27001简介</a></label><br/>
                     </div>
