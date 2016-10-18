@@ -57,7 +57,7 @@ layout: TrustCenterPage
                 <p><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></p>
 				<p><a target="_self" class="mscom-link" 				href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></p>
 				<p><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a></p>
-				<p><a target="_self" class="mscom-link" href="<a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf">ISO20000 and ISO27001 Certification Introduction</a></p>
+				<p><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf">ISO20000 and ISO27001 Certification Introduction</a></p>
 				<p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud </a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">Shared Responsibilities For Cloud Computing</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance</a></p>
