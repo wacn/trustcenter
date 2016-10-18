@@ -226,7 +226,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>隐私保护</h3>
-                        <p>您拥有并控制自己的客户数据</p>
+                        <p>您拥有并控制自己的客户数据</p> 
                         <a target="_self" class="mscom-link withArrow" href="../zh-cn/privacy/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
                   </div>
