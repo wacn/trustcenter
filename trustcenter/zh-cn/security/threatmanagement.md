@@ -60,7 +60,7 @@ layout: TrustCenterPageCN
                <ul>
                   <li><strong>DDoS 防御</strong> - 由世纪互联提供的分布式拒绝服务(DDoS) 是 Azure 通过持续监控和定期渗透测试，改善 Azure 控制机制和流程工作的一部分。Azure 的 DDoS 防御系统在设计上不仅可以抵挡外部攻击，而且可以抵挡来自内部其他 Azure 租户的攻击。Azure 使用了标准的入侵检测和缓解技术，例如 SYN cookie、速率限制，以及连接限制等保护防范此类攻击。</li>
 				  <p>
-                  了解更多有关 <a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a>的信息
+                  了解更多有关 <a target="_self" class="mscom-link" href="//wacnstoragep.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a>的信息
                   </p>
                </ul>
                <label style="color:rgb(0,115,198)">由世纪互联运营的 Office 365 </label>
@@ -78,7 +78,7 @@ layout: TrustCenterPageCN
                      <h1>更多信息</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全 </a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></label><br/>
-					 <label><a target="_self" class="mscom-link" href="wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></label><br/>
+					 <label><a target="_self" class="mscom-link" href="//wacnstoragep.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></label><br/>
                   </div>
                </div>
             </div>
