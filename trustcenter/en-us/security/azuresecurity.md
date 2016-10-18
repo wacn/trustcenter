@@ -9,7 +9,7 @@ layout: TrustCenterPage
                <div bi:type="slideshow" class="slideshow slideshow-hero hero" xmlns:bi="urn:schemas-microsoft-com:mscom:bi">
                   <ul bi:type="list" class="slides">
                      <li id="slide-1" bi:index="0" selectBi="">
-                        <div class="heroitem light-foreground" bi:type="heroitem">
+                        <div class="heroitem light-foreground" bi:typea="heroitem">
                            <div class="media" bi:parenttitle="t1">
                               <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
@@ -76,6 +76,9 @@ layout: TrustCenterPage
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></label><br/>					
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Simplified Implementation of the Microsoft SDL</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Privacy Statement for Microsoft Azure Operated by 21Vianet</a></label><br/>
