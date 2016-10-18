@@ -45,7 +45,7 @@ layout: TrustCenterPage
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // Location of Customer Data
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // Location of Customer Data
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
@@ -53,17 +53,19 @@ layout: TrustCenterPage
               <label>Location of Customer Data</label>
               <p>Microsoft Azure and Office 365 operated by 21Vianet are built on the premise that for you to control your Customer Data in the cloud, you require visibility into that data. You must also know, through clearly stated and readily available policies and procedures, how we help secure your Customer Data, who can access it and under what circumstances. And you can review the third-party audits and certifications.
               </p>
-              <p style="color: rgb(0,115,198);">21Vianet operates Azure and Office 365 services in datacenters located exclusively in mainland China.</p>
+              <p style="color: rgb(0,115,198);">21 Vianet operates Azure and Office 365 services in datacenters located exclusively in mainland China.The services are physically and logically entirely isolated from Microsoft Cloud services in other regions of the world. With adoption of the same Azure and Office 365 technology that powers Microsoft’s global Azure and Office 365 services, the services in China provides comparable service level to customers.  Customer Data, applications processing the Customer Data and datacenters hosting Azure and Office 365 are all located in mainland China. Datacenters in east China and north China, with the distance apart over 1000 km, maintain multiple copies of Customer Data for redundancy, in order to support business continuity of these Azure and Office 365 services.</p>
+			  <p>In terms of network connection, Microsoft Azure and Office 365 operated by 21 Vianet are connected to provincial level core network nodes of various mainstream operators (China Telecom, China Unicom, China Mobile) by BGP and offer high-speed and stable network experience for users. Datacenters in east China and north China adopt the same address broadcast and BGP routing strategy. Users can use a nearby service in one of these two datacenters to achieve the best network performance experience.</p>
+			  <p>Both datacenters are located in Chinese telecom carriers’ top level datacenters and adopt N+1 or 2N uninterrupted power supply protection for energy saving. Additionally, a high power diesel generator provides back-up power supply, guaranteed by onsite diesel storage and diesel supply of a nearby gas station. The computer rooms in the datacenters are equipped with elevated floor and closed cold aisle, which form a highly efficient cooling cycle with back-end refrigeration system, refrigerator, cooling tower and ice pool, providing a stable and suitable environment for servers operating in the computer room. The computer room is also equipped with central ventilation system which could reduce the PUE in the computer room to the largest extent when the weather conditions are suitable.<p>
               <p>Azure customers may specify the region(s) of the datacenters in which Customer Data will be stored.</p>
               <p style="font-size:12px">AZURE REGIONS</p>
               <p>
               <table border="0" cellspacing="0" cellpadding="0" class="table" style="width:auto">
                 <tbody>
                   <tr>
-                    <td style="">China (East) (located in Shanghai)</td>
+                    <td style="">China (East)</td>
                   </tr>
                   <tr>
-                    <td style="background:#f1f1f1">China (North) (located in Beijing )</td>
+                    <td style="background:#f1f1f1">China (North)</td>
                   </tr>
                 </tbody>
               </table>
