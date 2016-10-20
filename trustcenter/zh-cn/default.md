@@ -226,7 +226,7 @@ layout: TrustCenterPageCN
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                         <h3>隐私保护</h3>
-                        <p>您拥有并控制自己的客户数据</p> 
+                        <p>您拥有并控制自己的客户数据</p>
                         <a target="_self" class="mscom-link withArrow" href="../zh-cn/privacy/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
                   </div>
@@ -270,15 +270,15 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                <h2>了解更多</h2>
-               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></span><br />
-			   <span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a></span><br />
-			   <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></span><br />
-			   <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></span><br />			   
+               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></span><br/>
+			   <span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a></span><br/>
+			   <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></span><br/>
+			   <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></span><br/>			   
 			   <span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></span><br/>				   
 			   <span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></span><br/>
-			   <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></span><br />			   
-			   <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></span><br />
-			   <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></span><br />
+			   <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></span><br/>			   
+			   <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></span><br/>
+			   <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></span><br/>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear" style="margin-bottom: 4%;margin-bottom: 2%;">
                <h2>更多资源</h2>
