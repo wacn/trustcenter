@@ -264,7 +264,7 @@
        <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></span>
        <br /> 
        <span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></span>
-       <br> 
+       <br /> 
        <span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></span>
        <br /> 
        <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></span>
