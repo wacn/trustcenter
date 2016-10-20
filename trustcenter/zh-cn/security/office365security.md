@@ -94,8 +94,7 @@ layout: TrustCenterPageCN
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
 					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></label><br/>
-					 <label><a target="_self" class="mscom-link"                    href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a></label><br/>			
-					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></label><br/>
+					 <label><a target="_self" class="mscom-link"                    href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a></label><br/><label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></label><br/>
                   </div>
