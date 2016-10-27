@@ -213,7 +213,7 @@ layout: TrustCenterPageCN
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure Dynamics Office AR" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="SLA" title="SLA" width="115" height="109" /></div>
-                        <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.bmp" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image Azure CN" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
@@ -222,7 +222,7 @@ layout: TrustCenterPageCN
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure CN" alt="China TRUCS" title="SLA" width="115" height="109" /></div>
-                        <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.bmp" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
@@ -288,7 +288,7 @@ layout: TrustCenterPageCN
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="TrustCloudAuth">
-                              <img src="https://wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.bmp" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
+                              <img src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.bmp" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
                               <h1>可信云服务认证</h1>
                                <p>
                               <span class="seperate">世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</span>
