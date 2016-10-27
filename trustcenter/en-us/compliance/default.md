@@ -214,7 +214,7 @@ layout: TrustCenterPage
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure Dynamics Office AR" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="SLA" title="SLA" width="115" height="109" /></div>
-                        <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.bmp" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image Azure CN" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
@@ -223,7 +223,7 @@ layout: TrustCenterPage
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure CN" alt="China TRUCS" title="SLA" width="115" height="109" /></div>
-                        <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.bmp" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
@@ -289,7 +289,7 @@ layout: TrustCenterPage
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="TrustCloudAuth">
-                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
+                              <img src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.bmp" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
                               <h1>TRUCS</h1>
                                <p>
                               <span class="seperate">21Vianet adopts cutting-edge Azure and Office 365 technologies and has successfully obtained Trusted Cloud Service certification with powerful localized operation capabilities, open platform, high-quality SLA, powerful data recovery capability and best customer returns.</span>
