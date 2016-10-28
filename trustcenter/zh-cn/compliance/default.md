@@ -208,7 +208,8 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container certImageTable wider" id="Icons" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <div class="certImageContainer">
-                  <div class="row-fluid certImageColor" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
+                  <!--
+				  <div class="row-fluid certImageColor" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
                      <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure Dynamics Office AR" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
@@ -217,6 +218,8 @@ layout: TrustCenterPageCN
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image Azure CN" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
+				  -->
+				  
                   <div class="row-fluid certImageGray" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
                      <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
