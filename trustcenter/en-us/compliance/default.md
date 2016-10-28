@@ -289,7 +289,7 @@ layout: TrustCenterPage
                         </div>
                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="TrustCloudAuth">
-                              <img src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
+                              <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
                               <h1>TRUCS</h1>
                                <p>
                               <span class="seperate">21Vianet adopts cutting-edge Azure and Office 365 technologies and has successfully obtained Trusted Cloud Service certification with powerful localized operation capabilities, open platform, high-quality SLA, powerful data recovery capability and best customer returns.</span>
