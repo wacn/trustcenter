@@ -184,7 +184,7 @@ layout: TrustCenterPageCN
                                                         </div>
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                                             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="TRUCS">
-                                                                <img src="../Images/TrustCloudAuth.png" class="mscom-image" alt="Close" width="24" height="24" />
+                                                                <img src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.bmp" class="mscom-image" alt="Close" width="24" height="24" />
                                                                 <h1>可信云服务认证</h1>
                                                                 <p>
                                                                     世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。
