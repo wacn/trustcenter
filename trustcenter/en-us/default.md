@@ -145,12 +145,15 @@ layout: TrustCenterPage
                <p>21Vianet recognizes that as an Azure and Office 365 customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security,  privacy and control, compliance and transparency.</p>
                <p><h2 style="color:rgb(0,115,198)">Trusted Cloud Services</h2></p>
                <p>Microsoft Azure and Office 365 operated by 21Vianet provide enterprises with an open platform that provide the flexibility and security they need to develop innovative solutions and achieve real-time data insights, empower workforce productivity and mobility, and deliver a personalized customer experience. </p>
+			      <p>
+                        Learn more about<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a>
+                  </p>
                <p><h2 style="color:rgb(0,115,198)">Shared Responsibility</h2></p>
                <p>
                   In China, customers who use cloud services are subject to many different laws and regulations that may vary from location to location and industry to industry. To help our customers comply with their own requirements, we operate our services with common privacy and security requirements in mind. However, it is ultimately up to our customers to evaluate our offerings against their own requirements, so they can determine if the services we operate satisfy their regulatory needs. We are committed to providing our customers with detailed information about Azure and Office 365 services to help them make their own regulatory assessments. A trusted cloud platform like Azure and Azure and Office 365 requires shared responsibility between the customer and the service provider. 21Vianet operates trusted cloud services based on technology licensed to 21Vianetby Microsoft and seeks to meet the security, privacy, compliance and transparency needs of our customers. Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.
                 </p>
                  <p>
-                        Learn more about<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a>
+                        Learn more about<a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf"> Shared Responsibilities For Cloud Computing</a>
                   </p>
             </div>
          </div>
