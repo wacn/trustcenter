@@ -133,10 +133,12 @@ layout: TrustCenterPageCN
                <br>
                <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)"><a href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a></font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用微软服务于全球的 Azure 和 Office 365 技术，为客户提供全球一致的服务质量保障。</p>
                <p>作为由世纪互联运营的 Microsoft Azure 和 Office 365 的客户，可获得以下服务：</p>
-               <ul style="padding-left:40px">
+               <p>
+			   <ul style="padding-left:40px">
                     <li style="list-style-type:disc">在中国大陆数据中心托管且由世纪互联独立运营的云服务。世纪互联是中国领先的互联网数据中心提供商。</li>
                     <li style="list-style-type:disc">源于微软应用于全球企业客户数十年的丰富在线服务经验而开发的世界一流的 Azure 和 Office 365 技术，全面服务于中国的客户。</li>
                </ul>
+			   </p>
                <p>由世纪互联运营的 Microsoft Azure 和 Office 365 与全球其他地区由微软运营的服务在物理上和逻辑上完全独立，所有客户数据、处理这些数据的应用程序，以及承载 Azure 和 Office 365 服务的<a href="/zh-cn/transparency/you_know_where.html">数据中心</a>，全部位于中国境内。位于中国东部和中国北部的两座数据中心距离相隔 1000 公里以上，提供冗余的异地复制，为 Azure 和 Office 365 服务提供业务连续性支持。</p>
                <p>当您将您的客户数据托付给由世纪互联运营的 Microsoft Azure 和 Office 365 时，您可能会有所疑问，谁能访问我的客户数据？客户数据存放在哪里？世纪互联如何保护客户数据？以及，我怎样才能确认世纪互联按照承诺对客户数据提供相应保护？</p>
                <p>世纪互联的回答是：由于这是客户的数据，由客户自行决定谁可以访问客户数据，并和我们一起决定客户数据的存储位置。 为了对客户数据提供保护，世纪互联运营的可信云服务基于微软技术，提供的先进的安全技术和世界一流的加密措施。 Azure 和 Office 365 服务的合规性不仅被独立审计，同时保持了各个层面的透明性，包括告知客户自己的客户数据存储在何处以及如何被使用。</p>
