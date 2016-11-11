@@ -148,7 +148,7 @@ layout: TrustCenterPage
                <p><h2 style="color:rgb(0,115,198)">Trusted Cloud Services</h2></p>
                <p>Microsoft Azure and Office 365 operated by 21Vianet provide enterprises with an open platform that provide the flexibility and security they need to develop innovative solutions and achieve real-time data insights, empower workforce productivity and mobility, and deliver a personalized customer experience. </p>
 			      <p>
-                        Learn more about<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a>
+                        Learn more about <a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a>
                   </p>
                <p><h2 style="color:rgb(0,115,198)">Shared Responsibility</h2></p>
                <p>
