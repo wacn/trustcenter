@@ -52,8 +52,9 @@ layout: TrustCenterPageCN
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody" style="width:100%!important;">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <label id="Data_sheet">资料手册</label><br>
-                <p><a target="_self" class="mscom-link" 				href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a></p>
-				<p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf">ISO20000 和 ISO27001 认证介绍 </a></p>
+                <p><a target="_self" class="mscom-link" 				href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Brief_introduction_of_Trusted_Cloud.pdf">可信赖的云服务</a></p>
+				<p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification.pdf">ISO20000 和 ISO27001 认证介绍 </a></p>
+				<p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted_Cloud_Service_Certification.pdf">可信云服务认证</a></p>
 				
 				
 				<label id="white_papers">白皮书</label><br>
