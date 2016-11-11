@@ -52,8 +52,8 @@ layout: TrustCenterPage
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody" style="width:100%!important;">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <label id="Data_sheet">Datasheet</label><br>
-				<p><a target="_self" class="mscom-link" 				href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Brief_introduction_of_Trusted_Cloud.pdf">Trusted Cloud</a></p>
-				<p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification.pdf">ISO20000 and ISO27001 Certification Introduction</a></p>
+				<p><a target="_self" class="mscom-link" 				href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Brief_introduction_of_Trusted_Cloud.pdf">Brief introduction of Trusted Cloud</a></p>
+				<p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification.pdf">ISO 20000 and ISO 27001 Certification </a></p>
 				<p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted_Cloud_Service_Certification.pdf">Trusted Cloud Service Certification</a></p>
 				
 				<label id="white_papers">Whitepaper</label><br>
