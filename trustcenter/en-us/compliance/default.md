@@ -65,10 +65,16 @@ layout: TrustCenterPage
               <p> ISO/IEC 20000 is the first international standard for IT Service Management. Microsoft Azure and Office 365 operated by 21Vianet focus on managing IT issues and identifying their internal relations through “IT service standardization”, then perform planning, implementation and supervision based on service level agreements and also emphasize interaction with customers. 21Vianet promises to carry out certification based on ISO/IEC 20000 (an international IT service standard for the IT service arena) every year. The ISO/IEC 20000 certificate confirms that 21Vianet has followed the IT service management requirements defined in this standard, and provided customers with efficient service and integrated management to identify and manage critical processes in IT service , which ensure that efficient IT service provided by 21Vianet meets the demand of customers and their business.</p>
               <p>ISO scope: IT service management system (ITSM), including establishment, implementation, operation, supervision, review, maintenance and improvement of the IT service management system.</p>
               <p>This certificate is issued by <a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">CESI</a> and is available for you to review.</p>
+			  
+			  <p><a target="_self" class="mscom-link withArrow" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">&nbsp;Learn more</a></p>
+			                   
               <label style="color:rgb(0,115,198)" id="ISO/IEC_27001">ISO/IEC 27001 Audit and Certification</label>
               <p>ISO/IEC 27001 is one of world-leading security standards. Microsoft Azure and Office 365 operated by 21Vianet has implemented strict physical, logical, procedure and management control defined by ISO/IEC 27001. 21Vianet promises to carry out certification based on ISO/IEC 27001 (a widely applicable international information security standard) every year. The ISO/IEC 27001 certificate confirms that 21Vianet has implemented internationally recognized information security control measures defined in this standard, including information security management guidelines and general principles for activation, implementation, maintenance and improvement. </p>
               <p>ISO scope: Information security management system (ISMS), including management on operations, security and business procedure.</p>
               <p>This certificate is issued by <a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">CESI</a> and is available for you to review.</p>
+			  
+			  <p><a target="_self" class="mscom-link withArrow" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">&nbsp;Learn more</a></p>
+			  
               <label style="color:rgb(0,115,198)" id="DJCP">Information System Classified Security Protection (DJCP)</label>
               <p>According to GBT 22240-2008 Information Security Technology—Classification Guide for Classified Protection of Information System Security, the evaluation organizations authorized by the Ministry of Public Security (MPS) evaluate Microsoft Azure and Office 365 operated by 21Vianet based on GB/T 22239-2008 Information Security Technology—Basic Requirements for Classified Protection of Information System Security, and rate both Azure and Office 365 to Level 3 in terms of information security protection classification. Registration certifications are issued to Azure and Office 365.</p>
               <label style="color:rgb(0,115,198)" id="TCS">Trusted Cloud Service Certification</label>
@@ -152,6 +158,11 @@ layout: TrustCenterPage
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure and Office 365 operated by 21Vianet</a></label><br/>
+					 <!--
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf">ISO20000 and ISO27001 Certification Introduction</a></label><br/>-->
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
+					 <!--
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></label><br/>--><label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">Shared Responsibilities For Cloud Computing</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
@@ -211,7 +222,7 @@ layout: TrustCenterPage
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure Dynamics Office AR" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="SLA" title="SLA" width="115" height="109" /></div>
-                        <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image Azure CN" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
@@ -220,7 +231,7 @@ layout: TrustCenterPage
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure CN" alt="China TRUCS" title="SLA" width="115" height="109" /></div>
-                        <div class="imageWrapper"><img id="TrustCloudAuth" src="../Images/TrustCloudAuth.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
                      </div>
                   </div>
