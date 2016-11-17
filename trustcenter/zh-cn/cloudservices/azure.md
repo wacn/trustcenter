@@ -137,12 +137,12 @@ layout: TrustCenterPageCN
                                         </div>
                                         <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear">
                                             <img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image certImage" alt="ISO27001" title="ISO27001" width="153" height="145" />
-                                            <img id="TRUCS" src="../Images/TrustCloudAuth.png" class="mscom-image certImage" alt="TRUCS" title="TRUCS" width="153" height="145" />
+                                            <img id="TRUCS" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image certImage" alt="TRUCS" title="TRUCS" width="153" height="145" />
                                         </div>
                                     </div>
                                     <div id="GrayImageWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid certImageGray">
                                         <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image certImage" alt="ISO20000" title="ISO20000" width="153" height="145" /><img id="MLPS" src="../Images/SLA.png" class="mscom-image certImage" alt="MLPS" title="MLPS" width="153" height="145" /><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image certImage" alt="GB-18030" title="GB-18030" width="153" height="145" /></div>
-                                        <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image certImage" alt="ISO27001" title="ISO27001" width="153" height="145" /><img id="TRUCS" src="../Images/TrustCloudAuth.png" class="mscom-image certImage" alt="TRUCS" title="TRUCS" width="153" height="145" /></div>
+                                        <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image certImage" alt="ISO27001" title="ISO27001" width="153" height="145" /><img id="TRUCS" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image certImage" alt="TRUCS" title="TRUCS" width="153" height="145" /></div>
                                     </div>
                                     <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                         <div id="CertInfoWrapper" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1 certPopup certDescription" style="display:none;">
@@ -184,7 +184,7 @@ layout: TrustCenterPageCN
                                                         </div>
                                                         <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                                                             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="TRUCS">
-                                                                <img src="../Images/TrustCloudAuth.png" class="mscom-image" alt="Close" width="24" height="24" />
+                                                                <img src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image" alt="Close" width="24" height="24" />
                                                                 <h1>可信云服务认证</h1>
                                                                 <p>
                                                                     世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。
