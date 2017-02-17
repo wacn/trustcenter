@@ -58,8 +58,8 @@ layout: TrustCenterPageCN
 				
 				
 				<label id="white_papers">白皮书</label><br>
-                <p>如果您需要更详细的信息，Azure 和 Office 365 的安全、隐私与合规专家会定期发布白皮书，借此充分解析由世纪互联运营的 Microsoft Azure 和 Office 365 在安全和隐私方面对客户的承诺。您可以在下面看到有关由世纪互联运营的 Microsoft Azure 和 Office 365 云服务的通用白皮书，以及与 Azure 和 Office 365 具体产品相关的内容。</p>
-                <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">由世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></p><p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></p>
+                <p>如果您需要更详细的信息，Azure、Office 365 和Power BI 的安全、隐私与合规专家会定期发布白皮书，借此充分解析由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 在安全和隐私方面对客户的承诺。您可以在下面看到有关由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 云服务的通用白皮书，以及与 Azure、Office 365 和Power BI 具体产品相关的内容。</p>
+                <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 云服务运营模式</a></p><p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></p>
 				<!--
 				<p><a target="_self" class="mscom-link" 				href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a></p>-->
 				<p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></p>
@@ -71,15 +71,15 @@ layout: TrustCenterPageCN
                 <p><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></p>
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></p>
                 <label id="videos">视频</label><br>
-                <p>视频短片概括介绍了由世纪互联运营的 Microsoft Azure 和 Office 365 相关内容，并充分解答您关于安全性、隐私保护、合规性及透明度方面的疑惑。</p>
+                <p>视频短片概括介绍了由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 相关内容，并充分解答您关于安全性、隐私保护、合规性及透明度方面的疑惑。</p>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/video-center/trusted-cloud/">Trusted Cloud</a></p>
                 <!--<p><a target="_self" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/start.aspx#/Shared%20Documents/1_Bill%20of%20Materials/Video/">可信赖的云</a></p>-->
                 <label id="cast_studies">案例研究</label><br>
-                <p>客户通过使用由世纪互联运营的 Microsoft Azure 和 Office 365 解决了许多关于安全性、隐私保护、合规性及透明度方面的问题，让我们研究一下他们分享的案例吧。</p>
+                <p>客户通过使用由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 解决了许多关于安全性、隐私保护、合规性及透明度方面的问题，让我们研究一下他们分享的案例吧。</p>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/partnerancasestudy/case-studies">Azure 案例</a></p>
                 <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/CaseStudy.html">Office 365 案例</a></p>
                 <label>常见问题</label><br>
-                <p><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a>，能充分解答您关于 Azure 和 Office 365 安全性、隐私保护、合规性及透明度方面的疑惑。</p>
+                <p><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 常见问题</a>，能充分解答您关于 Azure、Office 365 和Power BI 安全性、隐私保护、合规性及透明度方面的疑惑。</p>
             </div>
   <!--
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
