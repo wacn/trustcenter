@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>我们深知，安全评估是客户应用程序开发和部署的重要组成部分。因此，我们确立了一项策略，即让客户对托管在 Azure、Office 365 和Power BI 中的应用程序执行授权渗透测试。因为此类测试可能无法与真实攻击进行区分，因此客户请务必在预先获得客户支持批准后才执行渗透测试。必须根据我们的条款和条件执行渗透测试。应至少提前 7 天提交渗透测试请求。
+               <p>我们深知，安全评估是客户应用程序开发和部署的重要组成部分。因此，我们确立了一项策略，即让客户对托管在 Azure、Office 365 和 Power BI 中的应用程序执行授权渗透测试。因为此类测试可能无法与真实攻击进行区分，因此客户请务必在预先获得客户支持批准后才执行渗透测试。必须根据我们的条款和条件执行渗透测试。应至少提前 7 天提交渗透测试请求。
                </p>
                <p>要了解更多信息或启动渗透测试，请下载<a target="_blank" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/media/documentation/Penetration_Test_Questionnaire_Updated_20161025-ch.docx">渗透测试批准表</a>，然后联系<a target="_blank" class="mscom-link" href="https://www.azure.cn/support/contact/">客户支持</a></p>
                  </div>

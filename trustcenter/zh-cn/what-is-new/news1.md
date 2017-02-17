@@ -5,12 +5,12 @@ layout: TrustCenterPageCN
    <div class="span">
       <div>
          <div class="row-fluid grid-container mscom-grid-container subpageBody noBottomBorder" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
-             <h1 style="font-size:24px; text-align:center;"><strong>世纪互联运营的 Microsoft Azure、Office 365 和Power BI </strong></h1>
+             <h1 style="font-size:24px; text-align:center;"><strong>世纪互联运营的 Microsoft Azure、Office 365 和 Power BI </strong></h1>
              <h1 style="font-size:24px; text-align:center;"><strong>亮相“4.29首都网络安全日”  </strong></h1>
              <h1 style="font-size:24px; text-align:center;"><strong><i>—— 安全可信的 云计算服务 助力首都网络安全建设</i></strong></h1>
-             <p>4月28日，由北京市公安局主办的第三届“4.29首都网络安全日”网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际云计算服务——基于微软技术由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 亮相博览会。微软和世纪互联蓝云在博览会上搭建了联合展台，向与会者展示了国际一流的云计算技术和安全可信的云计算运维和服务的成果，为业界提供了云安全的交流机会，助力推动网络安全与信息安全的发展。 </p>
-             <p>微软中国商用云事业部高级战略总监孔睿思表示：“ 微软与世纪互联蓝云此次共同亮相“4.29首都网络安全日”，展示安全可信云服务的成果，是双方将全球领先的技术与安全可靠的运维、以及完善规范的服务体系有机融合的体现。由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 均已获得公安部信息系统安全等级保护评定第三级备案，这使得世纪互联蓝云成为第一家同时拥有 IaaS、 PaaS 和 SaaS 服务等保三级备案的云服务商，代表了监管部门和业界对我们的肯定，也激励我们持之以恒地为中国用户提供高标准、高品质、安全、可信的云服务。” </p>
-             <p>由世纪互联运营基于微软技术的 Microsoft Azure、Office 365 和Power BI 云服务在技术创新、行业领先地位、安全性、隐私保护，以及合规等方面为客户提供了长期承诺，主要体现在以下四个方面： </p>
+             <p>4月28日，由北京市公安局主办的第三届“4.29首都网络安全日”网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际云计算服务——基于微软技术由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 亮相博览会。微软和世纪互联蓝云在博览会上搭建了联合展台，向与会者展示了国际一流的云计算技术和安全可信的云计算运维和服务的成果，为业界提供了云安全的交流机会，助力推动网络安全与信息安全的发展。 </p>
+             <p>微软中国商用云事业部高级战略总监孔睿思表示：“ 微软与世纪互联蓝云此次共同亮相“4.29首都网络安全日”，展示安全可信云服务的成果，是双方将全球领先的技术与安全可靠的运维、以及完善规范的服务体系有机融合的体现。由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 均已获得公安部信息系统安全等级保护评定第三级备案，这使得世纪互联蓝云成为第一家同时拥有 IaaS、 PaaS 和 SaaS 服务等保三级备案的云服务商，代表了监管部门和业界对我们的肯定，也激励我们持之以恒地为中国用户提供高标准、高品质、安全、可信的云服务。” </p>
+             <p>由世纪互联运营基于微软技术的 Microsoft Azure、Office 365 和 Power BI 云服务在技术创新、行业领先地位、安全性、隐私保护，以及合规等方面为客户提供了长期承诺，主要体现在以下四个方面： </p>
              <ul style="list-style:inherit;padding-left:30px;">
                 <li>安全性：业界一流的安全技术和流程确保客户数据的机密性、完整性和可用性。提供有财务保障的不低于99.9%的月度 SLA，位于北京和上海的两个数据中心可提供最多6个数据备份。 </li>
                 <li>隐私保护：客户全权拥有并控制自己的客户数据。客户数据不会被用于广告或其他商业目的。 </li>
