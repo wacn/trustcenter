@@ -55,11 +55,11 @@ layout: TrustCenterPage
                </p>
                <p>Privacy is an integral part of how we operate the services. Our approach to privacy and data protection is grounded in our commitment to give you control of the collection, use, and distribution of your information. We work to be transparent in our privacy practices, offer customers meaningful privacy choices, and manage responsibly the data we store.
                </p>
-               <p> your Customer Data to Microsoft Azure and Office 365 operated by 21Vianet, you remain the exclusive owner of your Customer Data: you retain the rights, title, and interest in the Customer Data you store in Azure and Office 365. It’s our policy to not mine your Customer Data for advertising purposes or use your Customer Data except for purposes consistent with providing you cloud productivity services.
+               <p> your Customer Data to Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you remain the exclusive owner of your Customer Data: you retain the rights, title, and interest in the Customer Data you store in Azure, Office 365 and Power BI. It’s our policy to not mine your Customer Data for advertising purposes or use your Customer Data except for purposes consistent with providing you cloud productivity services.
                </p>
                <p>The
-                  <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a> and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 Operated by 21Vianet Privacy Statement</a> describe the specific privacy policy and practices that govern customers' use of Azure and Office 365 
-In the following pages, we describe the specific policies, operational practices, and technologies that help ensure the privacy of your Customer Data in Microsoft Azure and Office 365 operated by 21Vianet.
+                  <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a> and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 Operated by 21Vianet Privacy Statement</a> describe the specific privacy policy and practices that govern customers' use of Azure, Office 365 and Power BI 
+In the following pages, we describe the specific policies, operational practices, and technologies that help ensure the privacy of your Customer Data in Microsoft Azure, Office 365 and Power BI operated by 21Vianet.
                </p>
                <!--<p>The Microsoft commitment to the privacy of your customer data is backed by our adoption of the world’s first international
                   code of practice for cloud privacy, ISO/IEC 27018. Reputable third-party auditors have independently verified that in-scope
@@ -88,25 +88,25 @@ In the following pages, we describe the specific policies, operational practices
                         <strong>Metadata</strong>includes configuration and technical settings and information. For example, it includes the disk configuration settings for an Azure Virtual Machine or database design for an Azure SQL Database.
                      </p>
                      <p>
-                        <strong>Access Control Data</strong> is used to manage access to other types of data or functions within Azure and Office 365. It includes passwords, security certificates, and other authentication-related data.
+                        <strong>Access Control Data</strong> is used to manage access to other types of data or functions within Azure, Office 365 and Power BI. It includes passwords, security certificates, and other authentication-related data.
                       </p>
                       <label>
                       You own your own Customer Data
                       </label>
                       <p>
-                         With Microsoft Azure and Office 365 operated by 21Vianet, you are the owner of your Customer Data. You can access your Customer Data at any time and for any reason without assistance from 21Vianet. 21Vianet will use your Customer Data only to provide the services agreed upon, including purposes that are compatible with providing those services. We will not use Customer Data or derive information from it for advertising.
+                         With Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you are the owner of your Customer Data. You can access your Customer Data at any time and for any reason without assistance from 21Vianet. 21Vianet will use your Customer Data only to provide the services agreed upon, including purposes that are compatible with providing those services. We will not use Customer Data or derive information from it for advertising.
                       </p>
                       <p>
                          We give you authenticated and logged access to your Customer Data, and restrict access to it by 21Vianet personnel and subcontractors. We also take strong steps to protect your Customer Data from inappropriate use or loss, and to segregate your Customer Data on shared hardware from that of other customers.
                       </p>
-                      <p><a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about data ownership in Microsoft Azure and Office 365 Operated by 21Viane</a>
+                      <p><a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about data ownership in Microsoft Azure, Office 365 and Power BI Operated by 21Viane</a>
                       </p>
                      <label>
                      You are in control of your Customer Data
                      </label>
-                     <p>In Microsoft Azure and Office 365 operated by 21Vianet, you know where your Customer Data is located, who can access it and under what circumstances, and how it is responsibly protected, transferred, and deleted. 
+                     <p>In Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you know where your Customer Data is located, who can access it and under what circumstances, and how it is responsibly protected, transferred, and deleted. 
                      </p>
-                     <p><a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about controlling your Customer Data in Azure and Office 365</a>
+                     <p><a class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#subcontractors" target="_self">Learn more about controlling your Customer Data in Azure, Office 365 and Power BI</a>
                      </p>
       
                      <label>
@@ -120,7 +120,7 @@ In the following pages, we describe the specific policies, operational practices
                      <label>
                      We set and adhere to stringent privacy standards
                      </label>
-                     <p>Privacy protections in Azure and Office 365 are grounded in <a class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/" target="_self">Microsoft Azure Operated by 21Vianet Privacy Statement</a> and <a class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/" target="_self">Office 365 Operated by 21Vianet Privacy Statement</a>, and the underlying technology that is licensed to 21Vianet is developed using the Security Development Lifecycle (which includes addressing privacy requirements in the process of developing software).
+                     <p>Privacy protections in Azure, Office 365 and Power BI are grounded in <a class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/" target="_self">Microsoft Azure Operated by 21Vianet Privacy Statement</a> and <a class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/" target="_self">Office 365 Operated by 21Vianet Privacy Statement</a>, and the underlying technology that is licensed to 21Vianet is developed using the Security Development Lifecycle (which includes addressing privacy requirements in the process of developing software).
                      </p>
                      <p>We then back those protections with strong contractual commitments to safeguard Customer Data in<a class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement" target="_self">21Vianet Online Services Standard Agreement for Microsoft Azure</a> and <a class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir" target="_self">21Vianet Online Services Standard Agreement for Office 365</a>.
                      </p>
