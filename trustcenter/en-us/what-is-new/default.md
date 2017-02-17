@@ -54,7 +54,7 @@ layout: TrustCenterPageCN
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                            <label class="date">2016年4月29日</label><br /><label><a target="_blank" class="mscom-link" href="../what-is-new/news1.html">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 成功参加第三届“4.29首都网络安全日”</a></label>
-                           <p>4月28-30日，在中共中央网络安全和信息化领导小组办公室、公安部、工业和信息化部、国家保密局、国家密码管理局等上级单位指导下，由北京市公安局主办的第三届“4.29首都网络安全日”暨网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际公有云服务，微软与世纪互联受邀并积极参与此次活动，也验证了监管部门和业界对双方创新合作模式的认可与肯定。</p>
+                           <p>4月28-30日，在中共中央网络安全和信息化领导小组办公室、公安部、工业和信息化部、国家保密局、国家密码管理局等上级单位指导下，由北京市公安局主办的第三届“4.29首都网络安全日”暨网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际公有云服务，微软与世纪互联受邀并积极参与此次活动，也验证了监管部门和业界对双方创新合作模式的认可与肯定。 </p>
                         </div>
                      </div>
                   </div>
