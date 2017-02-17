@@ -54,7 +54,7 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <p>世纪互联了解，作为我们的用户，您在使用我们运营的云服务时，托付给我们的是您最具价值的资产——您的客户数据。您信任我们充分保护您的隐私，并符合您预期的使用目的。</p>
                 <p>隐私保护是我们运营服务的重要组成部分。我们的隐私和数据保护手段始终致力于实现承诺，使您能够对信息的收集、使用和发布进行控制。世纪互联努力使自己的隐私惯例透明化，为客户提供清晰易懂的隐私选择，并以高度责任心管理客户所存储的数据。</p>
-                <p>在您将客户数据委托给由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 时，您是客户数据的唯一所有者：您存储在 Azure、Office 365 和Power BI 中的客户数据的权利、所有权和权益均由您保留。 根据世纪互联的政策，除了为您提供云生产力服务之外，我们绝不会出于广告宣传的目的而挖掘或使用您的客户数据。</p>
+                <p>在您将客户数据委托给由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 时，您是客户数据的唯一所有者：您存储在 Azure、Office 365 和 Power BI 中的客户数据的权利、所有权和权益均由您保留。 根据世纪互联的政策，除了为您提供云生产力服务之外，我们绝不会出于广告宣传的目的而挖掘或使用您的客户数据。</p>
                 <p>
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 的隐私声明</a>介绍了对客户使用 Azure 及 office 365 服务适用的隐私政策和惯例。
                 </p>
@@ -83,11 +83,11 @@ layout: TrustCenterPageCN
                 <p><strong>支持数据</strong></p>
                 <p>支持数据是在您需要帮助联系世纪互联时收集的信息，包括您所递交支持请求，运行自动故障检测器的结果，或发送文件给我们。支持数据不包括管理员数据或付款数据。</p>
                 <label id="you_own_your">您拥有自己的客户数据</label>
-                <p>借助由世纪互联运营的 Microsoft Azure、Office 365 和Power BI，您将成为客户数据的所有者。无需世纪互联的协助，即可出于任何目的随时访问自己的客户数据。您的客户数据仅用于向您提供您同意的服务，包括与提供这些服务兼容的目的。您的客户数据不会被用于广告宣传或从中获取信息。</p>
+                <p>借助由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI，您将成为客户数据的所有者。无需世纪互联的协助，即可出于任何目的随时访问自己的客户数据。您的客户数据仅用于向您提供您同意的服务，包括与提供这些服务兼容的目的。您的客户数据不会被用于广告宣传或从中获取信息。</p>
                 <p>世纪互联为您提供经身份验证和登录的访问权限，便于您访问您的客户数据，并限制世纪互联人员和分包商对您客户数据的访问。世纪互联采取有效措施来防止对您的客户数据不当使用或丢失，并在共享硬件上将您的客户数据与其他客户的数据隔离开来。</p>
                 <p><a target="_self" class="mscom-link withArrow" href="../privacy/you-own-your-data-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
                 <label id="you_are_in">您可完全控制自己的客户数据</label>
-                <p>在由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 中，您可以了解您的客户数据所存储的位置，在什么情况下可以由谁访问，以及是如何被有效保护、修改和删除的。 </p>
+                <p>在由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 中，您可以了解您的客户数据所存储的位置，在什么情况下可以由谁访问，以及是如何被有效保护、修改和删除的。 </p>
                 <p><a target="_self" class="mscom-link  withArrow" href="../privacy/you-are-in-control-of-your-data-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
                 <label id="how_21vianet_responds">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </label>
                 <p>世纪互联认为客户应控制自己存储在本地或云服务中的信息。相应地，我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。</p>
@@ -114,13 +114,13 @@ layout: TrustCenterPageCN
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
-                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure、Office 365 和Power BI 云服务运营模式</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 云服务运营模式</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联运营的 Microsoft Azure 在线服务标准协议</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 在线服务标准协议</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 隐私声明</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure、Office 365 和Power BI 常见问题</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 常见问题</a></label><br/>
                     </div>
                 </div>
             </div>
