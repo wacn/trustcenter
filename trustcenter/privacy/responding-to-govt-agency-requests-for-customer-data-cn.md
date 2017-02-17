@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                <p>当执法部门或第三方通过合法请求向世纪互联索要客户数据时，我们会遵守有关透明度的承诺，并严格限制我们所披露的数据。世纪互联认为，客户应当控制自己的数据，因此我们不会将托管在由世纪互联运营的 Microsoft Azure 和 Office 365 的数据中心内所存储的客户数据披露给执法部门或第三方，除非您指示我们这样做，或适用法律和法规要求我们这样做。
+                <p>当执法部门或第三方通过合法请求向世纪互联索要客户数据时，我们会遵守有关透明度的承诺，并严格限制我们所披露的数据。世纪互联认为，客户应当控制自己的数据，因此我们不会将托管在由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 的数据中心内所存储的客户数据披露给执法部门或第三方，除非您指示我们这样做，或适用法律和法规要求我们这样做。
                 </p>
                 <p><strong>我们会让提出客户数据索要请求的执法部门和其他第三方直接与客户联系。</strong>当我们接到来自政府或执法部门的客户数据索要请求后：</p>
                 <ul>
