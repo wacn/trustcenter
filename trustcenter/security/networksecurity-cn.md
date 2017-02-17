@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 网络为服务和客户端相互之间，以及客户现场数据中心与 Azure 和 Office 365 服务之间安全的连接提供了必要的基础结构。Azure 和 Office 365 使用多种技术阻止发往数据中心以及数据中心内部的不良通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离。
+               <p>由世纪互联运营的 Microsoft Azure、Office 365 和Power BI 网络为服务和客户端相互之间，以及客户现场数据中心与 Azure、Office 365 和Power BI 服务之间安全的连接提供了必要的基础结构。Azure、Office 365 和Power BI 使用多种技术阻止发往数据中心以及数据中心内部的不良通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离。
                </p>
                <label>由世纪互联运营的 Microsoft Azure</label>
                <p><strong>虚拟网络</strong> 可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。

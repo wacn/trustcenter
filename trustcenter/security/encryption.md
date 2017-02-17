@@ -51,7 +51,7 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>Microsoft Azure and Office 365 operated by 21Vianet use encryption to safeguard Customer Data and help you maintain control over it. When Customer Data moves over a network—between user devices and Azure and Office 365 datacenters or within the datacenters themselves—Azure and Office 365 use industry-standard secure transport protocols. For Customer Data at rest, Azure and Office 365 offer a range of encryption capabilities, giving you the flexibility to choose the solution that best meets your needs. 
+               <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet use encryption to safeguard Customer Data and help you maintain control over it. When Customer Data moves over a network—between user devices and Azure, Office 365 and Power BI datacenters or within the datacenters themselves—Azure, Office 365 and Power BI use industry-standard secure transport protocols. For Customer Data at rest, Azure, Office 365 and Power BI offer a range of encryption capabilities, giving you the flexibility to choose the solution that best meets your needs. 
                </p>
                <label>Microsoft Azure operated by 21Vianet</label>
                <p>Technological safeguards, such as encrypted communications and operational processes, help keep your Customer Data secure. You also have the flexibility to implement additional encryption and manage your own keys. </p>

@@ -51,7 +51,7 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>Microsoft Azure and Office 365 operated by 21Vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Azure and Office 365 services. The Azure and Office 365 network infrastructure blocks undesirable traffic to and within datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces. 
+               <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Azure, Office 365 and Power BI services. The Azure, Office 365 and Power BI network infrastructure blocks undesirable traffic to and within datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces. 
                </p>
                <label>Microsoft Azure operated by 21Vianet</label>
                <p><strong>Virtual Network</strong> extends your on-premises network to the cloud through site-to-site VPN. You control the network topology and manage it just like your on-site infrastructure. Each virtual network is isolated from other virtual networks. 
