@@ -59,7 +59,7 @@ layout: TrustCenterPageCN
                       <li><a target="_self" class="mscom-link" href="#You_know_where">您知道自己的客户数据存储在何处以及如何使用</a></li>
                       <li><a target="_self" class="mscom-link" href="#Who-can-access-Customer-Data">您知道何人在何种情况下可访问您的客户数据</a></li>
                       <li><a target="_self" class="mscom-link" href="#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">面对执法机关或其他第三方向世纪互联索要客户数据的要求</a></li>
-                      <li><a target="_self" class="mscom-link" href="#You-can-review-certifications">您可以查看由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 的合规认证</a></li>
+                      <li><a target="_self" class="mscom-link" href="#You-can-review-certifications">您可以查看由世纪互联运营的 Microsoft Azure、Office 365 的合规认证</a></li>
                    </ul>
                    <label id="How-we-help-secure-your-Customer-Data">您知道我们如何保护您的客户数据</label>
                    <p>许可给世纪互联，作为由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 基础的微软云技术使用安全开发生命周期的方法将安全要求融入软件代码编写工作的整个过程中，这个方法是微软从 2004 年开始使用并公开推广的。这种开发过程可以将安全要求嵌入从规划到部署的整个软件生命周期内。
