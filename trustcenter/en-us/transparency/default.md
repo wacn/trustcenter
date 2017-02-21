@@ -59,7 +59,7 @@ layout: TrustCenterPage
                       <li><a target="_self" class="mscom-link" href="#You_know_where">You know where and how your Customer Data is stored and used</a></li>
                       <li><a target="_self" class="mscom-link" href="#Who-can-access-Customer-Data">You know who can access your Customer Data and under what conditions</a></li>
                       <li><a target="_self" class="mscom-link" href="#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">How we respond when law enforcement or a third party asks 21Vianet for Customer Data</a></li>
-                      <li><a target="_self" class="mscom-link" href="#You-can-review-certifications">You can review Microsoft Azure, Office 365 and Power BI Operated by 21Vianet standards certifications</a></li>
+                      <li><a target="_self" class="mscom-link" href="#You-can-review-certifications">You can review Microsoft Azure, Office 365 Operated by 21Vianet standards certifications</a></li>
                    </ul>
                    <label id="How-we-help-secure-your-Customer-Data">You know what we do to help secure your Customer Data</label>
                    <p>Microsoft Cloud Technology that is licensed to 21Vianet and the basis for Microsoft Azure, Office 365 and Power BI operated by 21Vianet starts by building security into software code using the Security Development Lifecycle, a process that Microsoft has made publicly available since 2004. This development process embeds security requirements into the entire software lifecycle, from planning through deployment.
@@ -90,8 +90,8 @@ layout: TrustCenterPage
                       <li>21Vianet believes that its customers should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations.</li>
                       <li>If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited. </li>
                    </ul>
-                   <label id="You-can-review-certifications">You can review Microsoft Azure, Office 365 and Power BI Operated by 21Vianet standards certifications</label>
-                   <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet partner with customers to help them address regulatory requirements. By providing customers with compliant, independently verified cloud services, we make it easier for customers to achieve compliance for the infrastructure and applications they run in Microsoft Azure, Office 365 and Power BI operated by 21Vianet. We provide customers with information about our security and compliance programs, to help customers assess our services against their own legal and regulatory requirements.</p>
+                   <label id="You-can-review-certifications">You can review Microsoft Azure, Office 365 Operated by 21Vianet standards certifications</label>
+                   <p>Microsoft Azure, Office 365 operated by 21Vianet partner with customers to help them address regulatory requirements. By providing customers with compliant, independently verified cloud services, we make it easier for customers to achieve compliance for the infrastructure and applications they run in Microsoft Azure, Office 365 operated by 21Vianet. We provide customers with information about our security and compliance programs, to help customers assess our services against their own legal and regulatory requirements.</p>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
