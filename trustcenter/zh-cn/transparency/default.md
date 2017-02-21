@@ -90,8 +90,8 @@ layout: TrustCenterPageCN
                       <li>世纪互联认为，客户应控制自己存储在本地或云服务中的信息。相应地，我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。</li>
                       <li>如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。</li>
                    </ul>
-                   <label id="You-can-review-certifications"  >您可以查看由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 的合规认证</label>
-                   <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 与客户合作以帮助其满足法规要求。通过为客户提供合规的、独立验证的云服务，我们使客户能够更轻松地实现其在 Azure、Office 365 和 Power BI 中运行的基础结构和应用程序的合规性。我们为 Azure、Office 365 和 Power BI 客户提供了有关我们的安全性和合规性计划的信息，旨在帮助客户针对其自己的法律和法规要求评估我们的服务。</p>
+                   <label id="You-can-review-certifications"  >您可以查看由世纪互联运营的 Microsoft Azure、Office 365 的合规认证</label>
+                   <p>由世纪互联运营的 Microsoft Azure、Office 365 与客户合作以帮助其满足法规要求。通过为客户提供合规的、独立验证的云服务，我们使客户能够更轻松地实现其在 Azure、Office 365 中运行的基础结构和应用程序的合规性。我们为 Azure、Office 365 客户提供了有关我们的安全性和合规性计划的信息，旨在帮助客户针对其自己的法律和法规要求评估我们的服务。</p>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
