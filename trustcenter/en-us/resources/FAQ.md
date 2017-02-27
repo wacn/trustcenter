@@ -53,27 +53,27 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <p>Customers need a highly secure and reliable cloud solution; the following popular questions will help you make an informed decision when choosing a cloud services provider.</p>
                 <div class="content-faq">
-                    <label>What role does Microsoft play in Microsoft Azure, Office 365 and Power BI operated by 21Vianet?</label>
+                    <label>What role does Microsoft play in Microsoft Azure and Office 365 operated by 21Vianet?</label>
                     <div class="content-faq-footer">
-                        <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet are separate instances of public cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure, Office 365 and Power BI technology that powers Microsoft's global cloud service with the same service levels to customers.</p>
-                        <p>As a customer of Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you get:</p>
+                        <p>Microsoft Azure and Office 365 operated by 21Vianet are separate instances of public cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure and Office 365 technology that powers Microsoft's global cloud service with the same service levels to customers.</p>
+                        <p>As a customer of Microsoft Azure and Office 365 operated by 21Vianet, you get:</p>
                         <ul>
                             <li>A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.</li>
                             <li>Powered by world-class technology built on Microsoft's extensive experience with online services and used by enterprise customers around the world.</li>
                         </ul>
-                        <p>Microsoft has licensed Azure, Office 365 and Power BI technology to 21Vianet but 21Vianet is responsible for operating these services in mainland China.</p>
+                        <p>Microsoft has licensed Azure and Office 365 technology to 21Vianet but 21Vianet is responsible for operating these services in mainland China.</p>
                     </div>
                 </div>
                 <div class="content-faq">
-                    <label>Is Microsoft Azure, Office 365 and Power BI operated by 21Vianet compliant with my regulatory requirements?</label>
+                    <label>Is Microsoft Azure and Office 365 operated by 21Vianet compliant with my regulatory requirements?</label>
                     <div class="content-faq-footer">
-                        <p>It is ultimately your obligation to comply with your regulatory requirements. We provide you with information to help you do so. We commit to compliance with data protection and privacy laws generally applicable to IT service providers. If you are subject to industry or jurisdictional requirements, you will need to make your own assessment of your ability to comply. Customers in many industries have found they can use Azure, Office 365 and Power BI in a manner that complies with applicable regulations, provided they utilize the services in a manner appropriate to their particular circumstances.</p>
+                        <p>It is ultimately your obligation to comply with your regulatory requirements. We provide you with information to help you do so. We commit to compliance with data protection and privacy laws generally applicable to IT service providers. If you are subject to industry or jurisdictional requirements, you will need to make your own assessment of your ability to comply. Customers in many industries have found they can use Azure and Office 365 in a manner that complies with applicable regulations, provided they utilize the services in a manner appropriate to their particular circumstances.</p>
                      </div>
                 </div>
                 <div class="content-faq">
-                    <label>How will 21Vianet use the information I store in Azure, Office 365 and Power BI?</label>
+                    <label>How will 21Vianet use the information I store in Azure and Office 365?</label>
                     <div class="content-faq-footer"> 
-                        <p>21Vianet will use the Customer Data you store in Azure, Office 365 and Power BI only to provide you with the services you have subscribed for. 21Vianet does not mine Customer Data for advertising or share Customer Data with advertiser-supported services. We do not scan your emails or documents in Office 365 services for advertising purposes.</p>
+                        <p>21Vianet will use the Customer Data you store in Azure and Office 365 only to provide you with the services you have subscribed for. 21Vianet does not mine Customer Data for advertising or share Customer Data with advertiser-supported services. We do not scan your emails or documents in Office 365 services for advertising purposes.</p>
                         <p>It's your Customer Data, and you retain the rights to it. 21Vianet will not use Customer Data or derive information from it for any advertising or similar commercial purposes. </p>
                         <p>21Vianet will only use Customer Data for purposes compatible with providing the services, such purposes can includes using Customer Data for the following:</p>
                         <ul>
@@ -121,9 +121,9 @@ layout: TrustCenterPage
                     </div>
                 </div>
                 <div class="content-faq">
-                    <label>Does 21Vianet have access to the Azure, Office 365 and Power BI services that Microsoft operates globally outside China?</label>
+                    <label>Does 21Vianet have access to the Azure and Office 365 services that Microsoft operates globally outside China?</label>
                     <div class="content-faq-footer">
-                        <p>No. Microsoft Azure, Office 365 and Power BI operated by 21Vianet in mainland China is physically and logically separate from the services operated by Microsoft in the rest of the world. Just as Microsoft does not have access to Customer Data in 21Vianet's services (except to assist 21Vianet as detailed above), 21Vianet does not have access to Customer Data in Microsoft's services outside mainland China. For clarity, the data center in Hong Kong is part of the global services operated by Microsoft, not the 21Vianet services operated in mainland China.</p>
+                        <p>No. Microsoft Azure and Office 365 operated by 21Vianet in mainland China is physically and logically separate from the services operated by Microsoft in the rest of the world. Just as Microsoft does not have access to Customer Data in 21Vianet's services (except to assist 21Vianet as detailed above), 21Vianet does not have access to Customer Data in Microsoft's services outside mainland China. For clarity, the data center in Hong Kong is part of the global services operated by Microsoft, not the 21Vianet services operated in mainland China.</p>
                     </div>
                 </div>
                 <div class="content-faq">
@@ -133,7 +133,7 @@ layout: TrustCenterPage
                     </div>
                 </div>
                 <div class="content-faq">
-                    <label>Does 21Vianet allow customers to audit Azure, Office 365 and Power BI operations or its datacenters?</label>
+                    <label>Does 21Vianet allow customers to audit Azure and Office 365 operations or its datacenters?</label>
                     <div class="content-faq-footer">
                         <p>No. Our independent audits and certifications are shared with customers in lieu of individual customer audits. These certifications and attestations accurately represent how we obtain and meet our security and compliance objectives, and serve as a practical mechanism to validate our promises for all customers. Allowing potentially thousands of customers to audit our services would not be a scalable practice and might compromise security and privacy. Our independent third-party validation program includes audits that are conducted on an annual basis to provide verification of security controls.</p>
                     </div>
@@ -157,11 +157,11 @@ layout: TrustCenterPage
                 <div class="content-faq">
                     <label>What are 21Vianet’s commitments regarding keeping my services up?</label>
                     <div class="content-faq-footer">
-                        <p>We offer at least 99.9% uptime via a financially backed service level agreement. If a customer experiences monthly uptime that is less than 99.9%, we will compensate that customer through service credits. For more information about how Azure, Office 365 and Power BI provide guarantee for customers about the above questions, you can visit <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">Service Level Agreement for Microsoft Azure operated by 21Vianet</a> page, and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-SLA/">Service Level Agreement for Office 365 operated by 21Vianet</a> page to get more details and evidence.</p>
+                        <p>We offer at least 99.9% uptime via a financially backed service level agreement. If a customer experiences monthly uptime that is less than 99.9%, we will compensate that customer through service credits. For more information about how Azure and Office 365 provide guarantee for customers about the above questions, you can visit <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">Service Level Agreement for Microsoft Azure operated by 21Vianet</a> page, and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-SLA/">Service Level Agreement for Office 365 operated by 21Vianet</a> page to get more details and evidence.</p>
                    </div>
                 </div>
                 <div class="content-faq">
-                    <label>Where can I learn more about the privacy practices that apply to Microsoft Azure, Office 365 and Power BI operated by 21Vianet?</label>
+                    <label>Where can I learn more about the privacy practices that apply to Microsoft Azure and Office 365 operated by 21Vianet?</label>
                         <div class="content-faq-footer">
                         <p>The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a> describes the specific privacy policy and practices that govern customers' use of Microsoft Azure operated by 21Vianet.</p>
                         <p>The <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 operated by 21Vianet Privacy Statement</a> describes the specific privacy policy and practices that govern customers' use of Office 365 operated by 21Vianet.</p>
