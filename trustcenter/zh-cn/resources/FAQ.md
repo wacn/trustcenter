@@ -156,11 +156,11 @@ layout: TrustCenterPageCN
                 <div class="content-faq">
                    <label>世纪互联对确保高品质服务有何承诺？</label>
                    <div class="content-faq-footer">
-                   <p>我们提供至少 99.9% 的服务级别( SLA )并通过财务支撑的服务级别协议保证。如果客户的月度正常运行时间低于 99.9%，我们以提供服务信用额度的方式补偿客户。有关 Azure、Office 365 和 Power BI 如何就以上问题为客户提供保障，请访问由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">世纪互联运营的 Microsoft Azure 在线服务的服务级别协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">由世纪互联运营的 Office 365 服务级别协议</a>获取更多信息和证据。</p>
+                   <p>我们提供至少 99.9% 的服务级别( SLA )并通过财务支撑的服务级别协议保证。如果客户的月度正常运行时间低于 99.9%，我们以提供服务信用额度的方式补偿客户。有关 Azure 和 Office 365 如何就以上问题为客户提供保障，请访问由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">世纪互联运营的 Microsoft Azure 在线服务的服务级别协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">由世纪互联运营的 Office 365 服务级别协议</a>获取更多信息和证据。</p>
                    </div>
                 </div>
                 <div class="content-faq">
-                   <label>我可以在哪里进一步了解适用于由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 的隐私惯例？</label>
+                   <label>我可以在哪里进一步了解适用于由世纪互联运营的 Microsoft Azure 和 Office 365 的隐私惯例？</label>
                    <div class="content-faq-footer">
                     <p><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>介绍了管理客户对由世纪互联运营的 Microsoft Azure 的使用情况的特定隐私政策和惯例。</p>
                     <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明</a>介绍了管理客户对由世纪互联运营的 Office 365 的使用情况的特定隐私政策和惯例。</p>
