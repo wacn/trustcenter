@@ -53,27 +53,27 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <p>客户需要高度安全可靠的云解决方案，以下热点问题将帮助您在选择云服务商时做出明智的决策。</p>
                 <div class="content-faq">
-                    <label>微软在世纪互联运营的 Microsoft Azure 和 Office 365 服务中扮演何种角色？</label>
+                    <label>微软在世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 服务中扮演何种角色？</label>
                     <div class="content-faq-footer">
-                        <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云服务，由北京世纪互联宽带数据中心有限公司的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球云服务的 Azure 和 Office 365 技术，为客户提供全球一致的服务质量保障。</p>
-                        <p>作为由世纪互联运营的 Microsoft Azure 和 Office 365 客户，可获得以下服务：</p>
+                        <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 服务是在中国大陆独立运营的公有云服务，由北京世纪互联宽带数据中心有限公司的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用与微软服务于全球云服务的 Azure、Office 365 和 Power BI 技术，为客户提供全球一致的服务质量保障。</p>
+                        <p>作为由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 客户，可获得以下服务：</p>
                         <ul>
                             <li>在中国大陆数据中心托管，且由世纪互联独立运营的云服务。世纪互联是中国领先的互联网数据中心提供商。</li>
                             <li>源于微软应用于全球企业客户数十年的丰富在线服务经验而开发的世界一流的技术，全面服务于中国的客户。</li>
                         </ul>
-                        <p>微软将 Azure 和 Office 365 技术许可给世纪互联，世纪互联负责在中国大陆运营这些服务。</p>
+                        <p>微软将 Azure、Office 365 和 Power BI 技术许可给世纪互联，世纪互联负责在中国大陆运营这些服务。</p>
                     </div>
                 </div>
                 <div class="content-faq">
-                        <label>由世纪互联运营的 Microsoft Azure 和 Office 365 是否符合我的法规要求？</label>
+                        <label>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 是否符合我的法规要求？</label>
                         <div class="content-faq-footer">
-                        <p>遵守您的法规要求最终还是属于您的责任义务。我们为您提供可帮助您实现此目的的相关信息。我们承诺遵守适用于 IT 服务提供商的常规数据保护和隐私法规。如果您受行业或管辖权要求的约束，您将需要评估您自己的遵守能力。许多行业的客户已证实，只要以适合其特定环境的方式使用服务，就能以符合适用法规的方式使用 Azure 和 Office 365。</p>
+                        <p>遵守您的法规要求最终还是属于您的责任义务。我们为您提供可帮助您实现此目的的相关信息。我们承诺遵守适用于 IT 服务提供商的常规数据保护和隐私法规。如果您受行业或管辖权要求的约束，您将需要评估您自己的遵守能力。许多行业的客户已证实，只要以适合其特定环境的方式使用服务，就能以符合适用法规的方式使用 Azure、Office 365 和 Power BI。</p>
                         </div>
                 </div>
                 <div class="content-faq">
-                   <label>世纪互联将如何使用我存储在 Azure 和 Office 365 中的信息？</label>
+                   <label>世纪互联将如何使用我存储在 Azure、Office 365 和 Power BI 中的信息？</label>
                    <div class="content-faq-footer">
-                        <p>世纪互联仅将您存储在 Azure 和 Office 365 中的客户数据用于为您提供服务。我们不会挖掘客户数据来进行营销，不会与广告商赞助的服务共享客户数据，也不会出于广告宣传目的扫描您 Office 365 中的电子邮件或文件。</p>
+                        <p>世纪互联仅将您存储在 Azure、Office 365 和 Power BI 中的客户数据用于为您提供服务。我们不会挖掘客户数据来进行营销，不会与广告商赞助的服务共享客户数据，也不会出于广告宣传目的扫描您 Office 365 中的电子邮件或文件。</p>
                         <p>您是客户数据的所有者，因此您保留了客户数据的相关权利。世纪互联不会出于广告或者类似的商业目的利用客户数据，或者从客户数据中获取信息。世纪互联只会利用客户数据来实现与提供服务相符的目的， 此类目的包括将客户数据用于：</p>
                         <ul>
                             <li>进行故障排除，以预防、检测和修复影响服务运行的问题。</li>
@@ -120,9 +120,9 @@ layout: TrustCenterPageCN
                    </div>
                 </div>
                 <div class="content-faq">
-                   <label>世纪互联是否可以访问微软在中国以外的地区运营的 Azure 和 Office 365 服务？</label>
+                   <label>世纪互联是否可以访问微软在中国以外的地区运营的 Azure、Office 365 和 Power BI 服务？</label>
                    <div class="content-faq-footer">
-                   <p>否。在中国大陆由世纪互联运营的 Microsoft Azure 和 Office 365 与全球其他地区由微软运营的服务在物理上和逻辑上都是独立的。正如微软无权访问世纪互联服务中的客户数据一样（除了上文详述的为协助世纪互联的情况外），世纪互联也无权访问中国大陆以外地区的微软服务中的客户数据。为明确起见，香港的数据中心属于由微软运营的全球服务，不属于在中国大陆运营的世纪互联服务。</p>
+                   <p>否。在中国大陆由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 与全球其他地区由微软运营的服务在物理上和逻辑上都是独立的。正如微软无权访问世纪互联服务中的客户数据一样（除了上文详述的为协助世纪互联的情况外），世纪互联也无权访问中国大陆以外地区的微软服务中的客户数据。为明确起见，香港的数据中心属于由微软运营的全球服务，不属于在中国大陆运营的世纪互联服务。</p>
                    </div>
                 </div>
                 <div class="content-faq">
@@ -132,7 +132,7 @@ layout: TrustCenterPageCN
                    </div>
                 </div>
                 <div class="content-faq">
-                   <label>世纪互联是否允许客户审计 Azure 和 Office 365 的运营及其数据中心？</label>
+                   <label>世纪互联是否允许客户审计 Azure、Office 365 和 Power BI 的运营及其数据中心？</label>
                    <div class="content-faq-footer">
                    <p>不允许。我们的独立审计和认证信息将与客户共享，而非单独的客户审计。这些认证和证明准确地表示我们如何获取并满足我们的安全性和合规性目标，并作为实践机制来验证我们对所有客户的承诺。允许可能数千个客户审计我们的服务不是一种可缩放的做法，并可能危及安全性和隐私。我们的独立第三方验证计划包括每年为验证服务安全控制措施而进行的审计。</p>
                    </div>
@@ -156,7 +156,7 @@ layout: TrustCenterPageCN
                 <div class="content-faq">
                    <label>世纪互联对确保高品质服务有何承诺？</label>
                    <div class="content-faq-footer">
-                   <p>我们提供至少 99.9% 的服务级别( SLA )并通过财务支撑的服务级别协议保证。如果客户的月度正常运行时间低于 99.9%，我们以提供服务信用额度的方式补偿客户。有关 Azure 和 Office 365 如何就以上问题为客户提供保障，请访问由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">世纪互联运营的 Microsoft Azure 在线服务的服务级别协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">由世纪互联运营的 Office 365 服务级别协议</a>获取更多信息和证据。</p>
+                   <p>我们提供至少 99.9% 的服务级别( SLA )并通过财务支撑的服务级别协议保证。如果客户的月度正常运行时间低于 99.9%，我们以提供服务信用额度的方式补偿客户。有关 Azure、Office 365 和 Power BI 如何就以上问题为客户提供保障，请访问由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">世纪互联运营的 Microsoft Azure 在线服务的服务级别协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">由世纪互联运营的 Office 365 服务级别协议</a>获取更多信息和证据。</p>
                    </div>
                 </div>
                 <div class="content-faq">
