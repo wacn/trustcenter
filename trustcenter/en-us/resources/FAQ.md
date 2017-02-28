@@ -157,11 +157,11 @@ layout: TrustCenterPage
                 <div class="content-faq">
                     <label>What are 21Vianet’s commitments regarding keeping my services up?</label>
                     <div class="content-faq-footer">
-                        <p>We offer at least 99.9% uptime via a financially backed service level agreement. If a customer experiences monthly uptime that is less than 99.9%, we will compensate that customer through service credits. For more information about how Azure, Office 365 and Power BI provide guarantee for customers about the above questions, you can visit <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">Service Level Agreement for Microsoft Azure operated by 21Vianet</a> page, and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-SLA/">Service Level Agreement for Office 365 operated by 21Vianet</a> page to get more details and evidence.</p>
+                        <p>We offer at least 99.9% uptime via a financially backed service level agreement. If a customer experiences monthly uptime that is less than 99.9%, we will compensate that customer through service credits. For more information about how Azure and Office 365 provide guarantee for customers about the above questions, you can visit <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/sla">Service Level Agreement for Microsoft Azure operated by 21Vianet</a> page, and <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-SLA/">Service Level Agreement for Office 365 operated by 21Vianet</a> page to get more details and evidence.</p>
                    </div>
                 </div>
                 <div class="content-faq">
-                    <label>Where can I learn more about the privacy practices that apply to Microsoft Azure, Office 365 and Power BI operated by 21Vianet?</label>
+                    <label>Where can I learn more about the privacy practices that apply to Microsoft Azure and Office 365 operated by 21Vianet?</label>
                         <div class="content-faq-footer">
                         <p>The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a> describes the specific privacy policy and practices that govern customers' use of Microsoft Azure operated by 21Vianet.</p>
                         <p>The <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 operated by 21Vianet Privacy Statement</a> describes the specific privacy policy and practices that govern customers' use of Office 365 operated by 21Vianet.</p>
