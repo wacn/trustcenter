@@ -131,8 +131,8 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <br>
-               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)"><a href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a></font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用微软服务于全球的 Azure、Office 365 和 Power BI 技术，为客户提供全球一致的服务质量保障。</p>
-               <p>作为由世纪互联运营的 Microsoft Azure 和 Office 365 的客户，可获得以下服务：</p>
+               <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)"><a href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a></font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用微软服务于全球的 Azure、Office 365 和 Power BI 技术，为客户提供全球一致的服务质量保障。</p>
+               <p>作为由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 的客户，可获得以下服务：</p>
                <p>
 			   <ul style="padding-left:40px">
                     <li style="list-style-type:disc">在中国大陆数据中心托管且由世纪互联独立运营的云服务。世纪互联是中国领先的互联网数据中心提供商。</li>
@@ -262,9 +262,9 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="../zh-cn/Images/group-people.png" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear right" style="margin-bottom: 3%;">
                <h1>最新消息</h1>
-               <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="../zh-cn/what-is-new/news1.html">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 和亮相“4.29首都网络安全日</a>
+               <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="../zh-cn/what-is-new/news1.html">世纪互联运营的 Microsoft Azure 和 Office 365 和亮相“4.29首都网络安全日</a>
                </p>
-               <p style="font-size: 14px;">4月28日，由北京市公安局主办的第三届“4.29首都网络安全日”网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际云计算服务——基于微软技术由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 亮相博览会。微软和世纪互联蓝云在博览会上搭建了联合展台，向与会者展示了国际一流的云计算技术和安全可信的云计算运维和服务的成果，为业界提供了云安全的交流机会，助力推动网络安全与信息安全的发展。</p>
+               <p style="font-size: 14px;">4月28日，由北京市公安局主办的第三届“4.29首都网络安全日”网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际云计算服务——基于微软技术由世纪互联运营的 Microsoft Azure 和 Office 365 亮相博览会。微软和世纪互联蓝云在博览会上搭建了联合展台，向与会者展示了国际一流的云计算技术和安全可信的云计算运维和服务的成果，为业界提供了云安全的交流机会，助力推动网络安全与信息安全的发展。</p>
                <p style="font-size: 16px;display:none"><a target="_blank" class="mscom-link" href="../../zh-cn/what-is-new/new2.html">世纪互联运营的 Microsoft Azure 和 Office 365 再获"可信云服务认证"</a> </p>
                <p style="font-size: 14px;display:none">在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
                </p>
