@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="" class="row-fluid grid-container mscom-grid-container subpageBody noBottomBorder" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
-               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<a target="_blank" class="mscom-link" href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a>的全资子公司上海蓝云网络科技有限公司（简称为“上海蓝云”）独立运营和销售。采用微软服务于全球的 Azure、Office 365 和 Power BI 技术，为客户提供全球一致的服务质量保障。
+               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<a target="_blank" class="mscom-link" href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a>的全资子公司上海蓝云网络科技有限公司（简称为“上海蓝云”）独立运营和销售。采用微软服务于全球的 Azure 和 Office 365  技术，为客户提供全球一致的服务质量保障。
                </p>
                <p>为帮助客户遵守国家、地区以及特定行业管理个人数据采集和使用的要求，世纪互联作为云服务提供商提供全面的的认证和证明。</p>
                <p>要实现全面的合规性，世纪互联采用了双管齐下的办法：</p>
@@ -77,7 +77,7 @@ layout: TrustCenterPageCN
               <label style="color:rgb(0,115,198)" id="DJCP">信息系统安全等级保护定级 (DJCP)</label>
               <p>根据《GB/T 22240-2008 信息安全技术 信息系统安全等级保护定级指南》，公安部授权的测评机构依据《GB/T 22239-2008 信息安全技术 信息系统安全等级保护基本要求》对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得备案证明。</p>
               <label style="color:rgb(0,115,198)" id="TCS">可信云服务认证</label>
-              <p>世纪互联采用 Azure、Office 365 和 Power BI 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</p>
+              <p>世纪互联采用 Azure 和 Office 365  领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</p>
               <p>可信云服务认证是在工业和信息化部的指导下，由数据中心联盟“可信云服务工作组”组织开展的云服务质量评估体系。该认证旨在培育国内公有云服务市场，增强用户对云服务的信心，保护正规云服务商，促进市场良性发展。</p>
               <p>由世纪互联运营的 Microsoft Azure 通过审核获得云备份可信云服务认证，此项服务接受了 SLA 服务协议框架内，包括数据管理、业务质量及权益保障三大类共 16 项指标的测评，此服务拥有 99.9% 的服务可用性，通过两个数据中心提供 6 份数据备份，为用户提供了可靠、安全、灵活、高效、稳定的云备份服务。</p>
               <p>在由数据中心联盟发起的第四批可信云服务认证评选中，世纪互联运营的 Office 365 在线应用服务获得企业级电子邮件 (Exchange Online)、文件共享 (SharePoint Online)、共享日历与视频电话会议 (Skype for Business) 3 项可信云服务认证。在第五批可信云服务认证评选中，世纪互联运营的 Office 365 在线应用服务获得企业级电子邮件 (Exchange Online)、文件共享 (SharePoint Online)、共享日历与视频电话会议 (Skype for Business) 新增的“安全性、用户体验性能” 2 项指标的认证。</p>
@@ -299,7 +299,7 @@ layout: TrustCenterPageCN
                               <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="TrustCloudAuth" width="24" height="24" />
                               <h1>可信云服务认证</h1>
                                <p>
-                              <span class="seperate">世纪互联采用 Azure、Office 365 和 Power BI 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</span>
+                              <span class="seperate">世纪互联采用 Azure 和 Office 365  领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。</span>
                               <span class="withTail">
                               <a target="_blank" class="mscom-link" href="#TCS" style="display: block;">了解更多</a>
                               </span>
