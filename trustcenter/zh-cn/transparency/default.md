@@ -59,7 +59,7 @@ layout: TrustCenterPageCN
                       <li><a target="_self" class="mscom-link" href="#You_know_where">您知道自己的客户数据存储在何处以及如何使用</a></li>
                       <li><a target="_self" class="mscom-link" href="#Who-can-access-Customer-Data">您知道何人在何种情况下可访问您的客户数据</a></li>
                       <li><a target="_self" class="mscom-link" href="#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">面对执法机关或其他第三方向世纪互联索要客户数据的要求</a></li>
-                      <li><a target="_self" class="mscom-link" href="#You-can-review-certifications">您可以查看由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 的合规认证</a></li>
+                      <li><a target="_self" class="mscom-link" href="#You-can-review-certifications">您可以查看由世纪互联运营的 Microsoft Azure 和 Office 365 的合规认证</a></li>
                    </ul>
                    <label id="How-we-help-secure-your-Customer-Data">您知道我们如何保护您的客户数据</label>
                    <p>许可给世纪互联，作为由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 基础的微软云技术使用安全开发生命周期的方法将安全要求融入软件代码编写工作的整个过程中，这个方法是微软从 2004 年开始使用并公开推广的。这种开发过程可以将安全要求嵌入从规划到部署的整个软件生命周期内。
@@ -90,8 +90,8 @@ layout: TrustCenterPageCN
                       <li>世纪互联认为，客户应控制自己存储在本地或云服务中的信息。相应地，我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。</li>
                       <li>如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。</li>
                    </ul>
-                   <label id="You-can-review-certifications"  >您可以查看由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 的合规认证</label>
-                   <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 与客户合作以帮助其满足法规要求。通过为客户提供合规的、独立验证的云服务，我们使客户能够更轻松地实现其在 Azure、Office 365 和 Power BI 中运行的基础结构和应用程序的合规性。我们为 Azure、Office 365 和 Power BI 客户提供了有关我们的安全性和合规性计划的信息，旨在帮助客户针对其自己的法律和法规要求评估我们的服务。</p>
+                   <label id="You-can-review-certifications"  >您可以查看由世纪互联运营的 Microsoft Azure 和 Office 365 的合规认证</label>
+                   <p>由世纪互联运营的 Microsoft Azure 和 Office 365 与客户合作以帮助其满足法规要求。通过为客户提供合规的、独立验证的云服务，我们使客户能够更轻松地实现其在 Azure 和 Office 365 中运行的基础结构和应用程序的合规性。我们为 Azure 和 Office 365 客户提供了有关我们的安全性和合规性计划的信息，旨在帮助客户针对其自己的法律和法规要求评估我们的服务。</p>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
