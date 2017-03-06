@@ -131,21 +131,21 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <br />
-               <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)"><a href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a></font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用微软服务于全球的 Azure、Office 365 和 Power BI 技术，为客户提供全球一致的服务质量保障。</p>
-               <p>作为由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 的客户，可获得以下服务：</p>
+               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 服务是在中国大陆独立运营的公有云平台，由<font style="color:rgb(0,115,198)"><a href="http://www.ch.21vianet.com/">北京世纪互联宽带数据中心有限公司</a></font>的全资子公司上海蓝云网络科技有限公司（简称为“世纪互联”）独立运营和销售。采用微软服务于全球的 Azure 和 Office 365 技术，为客户提供全球一致的服务质量保障。</p>
+               <p>作为由世纪互联运营的 Microsoft Azure 和 Office 365 的客户，可获得以下服务：</p>
                <ul style="padding-left:40px">
                     <li style="list-style-type:disc">在中国大陆数据中心托管且由世纪互联独立运营的云服务。世纪互联是中国领先的互联网数据中心提供商。</li>
-                    <li style="list-style-type:disc">源于微软应用于全球企业客户数十年的丰富在线服务经验而开发的世界一流的 Azure、Office 365 和 Power BI 技术，全面服务于中国的客户。</li>
+                    <li style="list-style-type:disc">源于微软应用于全球企业客户数十年的丰富在线服务经验而开发的世界一流的 Azure 和 Office 365 技术，全面服务于中国的客户。</li>
                </ul>
                <p>当您将您的客户数据托付给由世纪互联运营的 Microsoft Azure 和Office 365 时，您可能会有所疑问，谁能访问我的客户数据？客户数据存放在哪里？世纪互联如何保护客户数据？以及，我怎样才能确认世纪互联按照承诺对客户数据提供相应保护？</p>
-               <p>世纪互联的回答是：由于这是客户的数据，由客户自行决定谁可以访问客户数据，并和我们一起决定客户数据的存储位置。 为了对客户数据提供保护，世纪互联采用了微软可信云技术所提供的先进的安全技术和世界一流的加密措施。 Azure、Office 365 和 Power BI 服务的合规性不仅被独立审计，同时保持了各个层面的透明性，包括告知客户自己的客户数据存储在何处以及如何被使用。</p>
-               <p>世纪互联深知 Azure、Office 365 和 Power BI 客户信任我们会保护客户数据的安全。 我们重视您的信任，您的数据隐私和安全是我们最关心的问题之一。我们努力在安全性、隐私保护、合规性和透明度方面保持业界领先地位。</p>
+               <p>世纪互联的回答是：由于这是客户的数据，由客户自行决定谁可以访问客户数据，并和我们一起决定客户数据的存储位置。 为了对客户数据提供保护，世纪互联采用了微软可信云技术所提供的先进的安全技术和世界一流的加密措施。 Azure 和 Office 365 服务的合规性不仅被独立审计，同时保持了各个层面的透明性，包括告知客户自己的客户数据存储在何处以及如何被使用。</p>
+               <p>世纪互联深知 Azure 和 Office 365 客户信任我们会保护客户数据的安全。 我们重视您的信任，您的数据隐私和安全是我们最关心的问题之一。我们努力在安全性、隐私保护、合规性和透明度方面保持业界领先地位。</p>
                <p><h2 style="color:rgb(0,115,198)">可信赖的云服务</h2></p>
-               <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 为企业提供了一个开放的平台，具备客户开发创新的解决方案所需的灵活性和安全性，实现实时数据洞察力、增强工作生产力和移动性，并交付个性化的客户体验。</p>
+               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 为企业提供了一个开放的平台，具备客户开发创新的解决方案所需的灵活性和安全性，实现实时数据洞察力、增强工作生产力和移动性，并交付个性化的客户体验。</p>
                <p><h2 style="color:rgb(0,115,198)">共担责任</h2></p>
                <p>
-                  在中国，使用云服务的客户受到许多适用于不同地域和行业的各种法律和法规的约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关 Azure、Office 365 和 Power BI 云服务的详细信息， 以帮助他们进行自我监管评估。
-                   Azure、Office 365 和 Power BI 云服务要求客户与服务提供商共担责任。世纪互联负责维护基于微软可信云技术的平台，并努力提供可满足客户的安全性、隐私保护、合规性和透明度需求的云服务。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
+                  在中国，使用云服务的客户受到许多适用于不同地域和行业的各种法律和法规的约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关 Azure 和 Office 365 云服务的详细信息， 以帮助他们进行自我监管评估。
+                   Azure 和 Office 365 云服务要求客户与服务提供商共担责任。世纪互联负责维护基于微软可信云技术的平台，并努力提供可满足客户的安全性、隐私保护、合规性和透明度需求的云服务。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
@@ -253,9 +253,9 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="../Images/group-people.png" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear right" style="margin-bottom: 3%;">
                <h1>最新消息</h1>
-               <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="../what-is-new/new2-cn.html">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 亮相“4.29首都网络安全日</a>
+               <p style="font-size: 16px;"><a target="_blank" class="mscom-link" href="../what-is-new/new2-cn.html">世纪互联运营的 Microsoft Azure 和 Office 365 亮相“4.29首都网络安全日</a>
                </p>
-               <p style="font-size: 14px;">4月28日，由北京市公安局主办的第三届“4.29首都网络安全日”网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际云计算服务——基于微软技术由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 亮相博览会。微软和世纪互联蓝云在博览会上搭建了联合展台，向与会者展示了国际一流的云计算技术和安全可信的云计算运维和服务的成果，为业界提供了云安全的交流机会，助力推动网络安全与信息安全的发展。</p>
+               <p style="font-size: 14px;">4月28日，由北京市公安局主办的第三届“4.29首都网络安全日”网络与信息安全博览会在北京展览馆举行。作为首个在国内商用的国际云计算服务——基于微软技术由世纪互联运营的 Microsoft Azure 和 Office 365 亮相博览会。微软和世纪互联蓝云在博览会上搭建了联合展台，向与会者展示了国际一流的云计算技术和安全可信的云计算运维和服务的成果，为业界提供了云安全的交流机会，助力推动网络安全与信息安全的发展。</p>
                <p style="font-size: 16px;display:none"><a target="_blank" class="mscom-link" href="../what-is-new/new2-cn.html">世纪互联运营的Microsoft Azure和Office 365再获"可信云服务认证"</a> </p>
                <p style="font-size: 14px;display:none">在刚刚揭晓的第五批“可信云服务认证”评选中，由世纪互联运营的 Microsoft Azure 获得了“云备份”项目的“可信云服务认证”。与此同时，由世纪互联运营的 Office 365 在线服务所提供的企业级电子邮件（Exchange Online）、文件共享(SharePoint Online)、享日历与视频电话会议 (Skype for Business)也获得了新增的“安全性”和“用户体验性能”两项认证。
                </p>
@@ -266,7 +266,7 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                <h2>了解更多</h2>
-               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 云服务运营模式</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></span><br />
+               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></span><br />
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear" style="margin-bottom: 4%;margin-bottom: 2%;">
                <h2>查看更多资源</h2>
