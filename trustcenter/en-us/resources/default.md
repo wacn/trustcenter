@@ -57,8 +57,8 @@ layout: TrustCenterPage
 				<p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted_Cloud_Service_Certification.pdf">Trusted Cloud Service Certification</a></p>
 				
 				<label id="white_papers">Whitepaper</label><br>
-                <p>Looking for more in-depth content? Security, privacy, and compliance experts of Azure and Office 365 regularly publish white papers for offering more detailed analysis and discussion of Microsoft Azure and Office 365 operated by 21Vianet. Below you will find the latest papers on general cloud topics, as well as product-specific content on Azure and Office 365.</p>
-                <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure and Office 365 operated by 21Vianet</a></p>
+                <p>Looking for more in-depth content? Security, privacy, and compliance experts of Azure, Office 365 and Power BI regularly publish white papers for offering more detailed analysis and discussion of Microsoft Azure, Office 365 and Power BI operated by 21Vianet. Below you will find the latest papers on general cloud topics, as well as product-specific content on Azure, Office 365 and Power BI.</p>
+                <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure, Office 365 and Power BI operated by 21Vianet</a></p>
                 <p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></p>
 				<!--
 				<p><a target="_self" class="mscom-link" 				href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></p>-->
@@ -71,15 +71,15 @@ layout: TrustCenterPage
                 <p><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Simplified Implementation of the Microsoft SDL</a></p>
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></p>
                 <label id="videos">Video</label><br>
-                <p>This collection of short videos provides overviews of security, privacy, compliance and transparency topics on Microsoft Azure and Office 365 operated by 21Vianet.</p>
+                <p>This collection of short videos provides overviews of security, privacy, compliance and transparency topics on Microsoft Azure, Office 365 and Power BI operated by 21Vianet.</p>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/video-center/trusted-cloud/">Trusted Cloud</a></p>
                 <!--<p><a target="_self" class="mscom-link" href="https://microsoft.sharepoint.com/teams/Trusted_Cloud_China/_layouts/15/start.aspx#/Shared%20Documents/1_Bill%20of%20Materials/Video/">Trusted Cloud</a></p>-->
                 <label id="cast_studies">Case Study</label><br>
-                <p>Our rich collection of case studies includes many customer stories that describe how organizations addressed specific security, privacy, compliance and transparency issues for Microsoft Azure and Office 365 operated by 21Vianet.</p>
+                <p>Our rich collection of case studies includes many customer stories that describe how organizations addressed specific security, privacy, compliance and transparency issues for Microsoft Azure, Office 365 and Power BI operated by 21Vianet.</p>
                 <p><a target="_self" class="mscom-link" href="https://www.azure.cn/partnerancasestudy/case-studies">Azure Case Studies</a></p>
                 <p><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/CaseStudy.html">Office 365 Case Studies</a></p>
                 <label>FAQ</label><br>
-                <p><a target="_blank" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet</a> will address your concerns around security, privacy, compliance and transparency topics on Azure and Office 365.</p>
+                <p><a target="_blank" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure, Office 365 and Power BI operated by 21Vianet</a> will address your concerns around security, privacy, compliance and transparency topics on Azure, Office 365 and Power BI.</p>
             </div>
                  <!--<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">

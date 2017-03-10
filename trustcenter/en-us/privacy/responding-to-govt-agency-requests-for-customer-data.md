@@ -51,7 +51,7 @@ layout: TrustCenterPage
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                <p>When law enforcement or a third party makes a lawful request for Customer Data from 21Vianet, we are committed to transparency and limit what we disclose. Because 21Vianet believes that customers should control their own data, we will not disclose Customer Data hosted in Microsoft Azure and Office 365 Operated by 21Vianet to law enforcement or third party except as you direct or where required by law.
+                <p>When law enforcement or a third party makes a lawful request for Customer Data from 21Vianet, we are committed to transparency and limit what we disclose. Because 21Vianet believes that customers should control their own data, we will not disclose Customer Data hosted in Microsoft Azure, Office 365 and Power BI Operated by 21Vianet to law enforcement or third party except as you direct or where required by law.
                 </p>
                     <p><strong>We redirect law enforcement and other third-party requests to the customer.</strong> When we receive a government or law enforcement request for Customer Data:</p>
                     <ul>

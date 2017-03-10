@@ -1,0 +1,4 @@
+[submodule "themes for trust center"]
+	path = _themes
+	url = https://github.com/wacn/trustcenter.template
+	branch = stage

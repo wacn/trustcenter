@@ -51,7 +51,7 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>Azure Active Directory is a comprehensive identity and access management cloud solution that provides a robust set of capabilities to manage users and groups. It helps secure access to on-premises and cloud applications, including Azure and Office 365 services. 
+               <p>Azure Active Directory is a comprehensive identity and access management cloud solution that provides a robust set of capabilities to manage users and groups. It helps secure access to on-premises and cloud applications, including Azure, Office 365 and Power BI services. 
                </p>
                <label>Microsoft Azure operated by 21Vianet </label>
                <p><strong>Azure Active Directory </strong>helps secure access to Customer Data in on-premises and cloud applications, and simplifies the management of users and groups. It combines core directory services, advanced identity governance, security, and application access management. Azure Active Directory also makes it easy for developers to build policy-based identity management into their applications. 

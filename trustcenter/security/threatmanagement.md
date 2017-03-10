@@ -51,7 +51,7 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>Microsoft Azure and Office 365 operated by 21Vianet help protect against malware threats in multiple ways. Microsoft Antimalware is built for the cloud, and additional antimalware protections are provided for specific services, including Azure and Office 365.
+               <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet help protect against malware threats in multiple ways. Microsoft Antimalware is built for the cloud, and additional antimalware protections are provided for specific services, including Azure, Office 365 and Power BI.
                </p>
                <label style="color:rgb(0,115,198)">Microsoft Azure operated by 21Vianet </label>
                <p>To protect against online threats, Azure offers Antimalware for cloud services and virtual machines, and uses detection and mitigation techniques to protect against DDoS attacks.</p>

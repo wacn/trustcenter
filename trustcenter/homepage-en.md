@@ -132,22 +132,22 @@ layout: TrustCenterPage
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <br />
-               <p>Microsoft Azure and Office 365 operated by 21Vianet are separate instances of cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure and Office 365 technology that powers Microsoft's global cloud service with comparable service levels to customers. 
+               <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet are separate instances of cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure, Office 365 and Power BI technology that powers Microsoft's global cloud service with comparable service levels to customers. 
                </p>
-               <p>As a customer of Microsoft Azure and Office 365 operated by 21Vianet, you get:
+               <p>As a customer of Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you get:
                </p>
                <p>•	A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.
                </p> 
                </p> 
-               <p>• Powered by world-class Azure and Office 365 technology built on Microsoft's extensive experience with online services and used by enterprise customers around the world. 
+               <p>• Powered by world-class Azure, Office 365 and Power BI technology built on Microsoft's extensive experience with online services and used by enterprise customers around the world. 
                </p>
-               <p> When you entrust your Customer Data to Microsoft Azure and Office 365 operated by 21Vianet, you will have questions. Who can access it? Where is it? What is 21Vianet doing to protect it? How can you verify that 21Vianet is doing what it says?
+               <p> When you entrust your Customer Data to Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you will have questions. Who can access it? Where is it? What is 21Vianet doing to protect it? How can you verify that 21Vianet is doing what it says?
                </p> 
                </p> 
                <p> And 21Vianet have answers. Because it’s your Customer Data, you decide who has access, and you work with us to decide where it is located. To safeguard your Customer Data, 21Vianet uses Microsoft’s state-of-the art security technology and implements world-class cryptography. Our compliance is independently audited, and we’re transparent on many levels—from where your own Customer Data is stored to how it is used.
                </p>
                </p>
-               <p>21Vianet recognizes that as an Azure and Office 365 customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security privacy and control, compliance and transparency.
+               <p>21Vianet recognizes that as an Azure, Office 365 and Power BI customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security privacy and control, compliance and transparency.
    
              
                </p>
@@ -217,7 +217,7 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 left"><img src="https://c.s-microsoft.com/en-us/CMSImages/group-people.jpg?version=4e0749fd-a9c9-2546-0da3-09ea49878089" class="mscom-image" alt="Image of a group of people" width="507" height="266" /></div>
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear right">
                        <h3>Trusted Cloud Services</h3>
-                        <p>Microsoft Azure and Office 365 operated by 21Vianet provide enterprises with an open platform that provide the flexibility and security they need to develop innovative solutions and achieve real-time data insights, empower workforce productivity and mobility, and deliver a personalized customer experience.</p>
+                        <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet provide enterprises with an open platform that provide the flexibility and security they need to develop innovative solutions and achieve real-time data insights, empower workforce productivity and mobility, and deliver a personalized customer experience.</p>
                         <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
                      </div>
                   </div>
@@ -227,9 +227,9 @@ layout: TrustCenterPage
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Transparency.png?version=3614f4fd-d3a6-b2a9-a2a8-3af9fdb45bb2" class="mscom-image" alt="Image of Magnifying Glass | Transparency" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                      <h3>Shared Responsibility</h3>
-                        <p>In China, customers who use cloud services are subject to many different laws and regulations that may vary from location to location and industry to industry. To help our customers comply with their own requirements, we operate our services with common privacy and security requirements in mind. However, it is ultimately up to our customers to evaluate our offerings against their own requirements, so they can determine if the services we operate satisfy their regulatory needs. We are committed to providing our customers with detailed information about Azure and Office 365 services to help them make their own regulatory assessments.
+                        <p>In China, customers who use cloud services are subject to many different laws and regulations that may vary from location to location and industry to industry. To help our customers comply with their own requirements, we operate our services with common privacy and security requirements in mind. However, it is ultimately up to our customers to evaluate our offerings against their own requirements, so they can determine if the services we operate satisfy their regulatory needs. We are committed to providing our customers with detailed information about Azure, Office 365 and Power BI services to help them make their own regulatory assessments.
                         </p>
-                        <p>A trusted cloud platform like Azure and Azure and Office 365 requires shared responsibility between the customer and the service provider. 21Vianet is responsible for the platform and services based on technology licensed to 21Vianet by Microsoft and seeks to provide a cloud service that can meet the security, privacy, compliance and transparency needs of our customers. Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.</p>
+                        <p>A trusted cloud platform like Azure and Azure, Office 365 and Power BI requires shared responsibility between the customer and the service provider. 21Vianet is responsible for the platform and services based on technology licensed to 21Vianet by Microsoft and seeks to provide a cloud service that can meet the security, privacy, compliance and transparency needs of our customers. Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.</p>
                         
                         <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Compliance" width="21" height="19" /></a>
                      </div>
@@ -253,7 +253,7 @@ layout: TrustCenterPage
          <div class="row-fluid grid-container mscom-grid-container" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                <h2>Learn more</h2>
-               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">How 21Vianet Operates Microsoft Azure and Office 365 in China</a><span class="tail"> </span></span><br />
+               <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">How 21Vianet Operates Microsoft Azure, Office 365 and Power BI in China</a><span class="tail"> </span></span><br />
                <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Learn how to Protect Data and Privacy in the Cloud</a><span class="tail"> </span></span><br />
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear">

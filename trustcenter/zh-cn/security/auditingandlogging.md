@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>为了帮助您对由各类设备，以及运行在由世纪互联运营的 Microsoft Azure 和 Office 365 中的各类服务产生的大量数据进行管理，我们提供了集中化监控、日志和系统分析功能，从而让您获得持续的可见性、及时的警报以及多样化的报表。 
+               <p>为了帮助您对由各类设备，以及运行在由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 中的各类服务产生的大量数据进行管理，我们提供了集中化监控、日志和系统分析功能，从而让您获得持续的可见性、及时的警报以及多样化的报表。 
                </p>
                      <label>由世纪互联运营的 Microsoft Azure</label>
                      <p><strong>24 小时物理监控</strong> - 我们的数据中心通过各类物理设施、管理和监控手段对数据和服务进行保护，从而避免未经授权的访问和各类环境威胁。</p>
@@ -72,7 +72,7 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 常见问题</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营 Office 365 隐私声明 </a></label><br/>
                   </div>

@@ -87,7 +87,7 @@ layout: TrustCenterPageCN
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <label style="line-height:2em; font-weight:300">世纪互联承诺保障和保护您客户数据的安全</label>
-                        <p style="font-weight:500;">随着云服务技术的日趋成熟和市场份额的不断上升，保障和保护数据的安全变得越来越重要。世纪互联对 Azure 和 Office 365 服务中的客户数据安全保障基于以下四个基本承诺。
+                        <p style="font-weight:500;">随着云服务技术的日趋成熟和市场份额的不断上升，保障和保护数据的安全变得越来越重要。世纪互联对 Azure、Office 365 和 Power BI 服务中的客户数据安全保障基于以下四个基本承诺。
                      <!--       <a target="_self" class="mscom-link" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/You-own-your-data#How-MS-Defines">customer data</a>.-->
                         </p>
                         <ul>
@@ -103,11 +103,11 @@ layout: TrustCenterPageCN
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="SideBarContent" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>更多信息</h1>
-                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure 和 Office 365 云服务运营模式</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 云服务运营模式</a></label><br/>
                         <label><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br />
                         <label><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私</a></label><br />
                         <label><a target="_blank" class="mscom-link" href="#">Office 365安全与合规白皮书</a></label><br />
-                        <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure 和 Office 365 常见问题</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="../resources/FAQ-cn.html">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 常见问题</a></label><br/>
                     </div>
                 </div>
             </div>

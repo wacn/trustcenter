@@ -141,7 +141,7 @@ layout: TrustCenterPageCN
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="cdsa">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                         <h1>信息系统安全等级保护定级</h1>
-                                                        <p>公安部授权的测评机构对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。
+                                                        <p>公安部授权的测评机构对由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 进行测评，信息安全保护等级均被评定为第三级，并且获得公安部备案证明。
                                                         </p>
                                                         <a target="_self" class="mscom-link withArrow" href="/compliance/default-cn.html#DJCP"><!--<img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="arrow" width="21" height="19" />-->了解更多</a>
                                                     </div>
@@ -215,7 +215,7 @@ layout: TrustCenterPageCN
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="fda">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                         <h1>可信云服务认证</h1>
-                                                        <p>世纪互联采用 Azure 和 Office 365 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。
+                                                        <p>世纪互联采用 Azure、Office 365 和 Power BI 领先的技术，以其强大的本地化运营能力，开放性的平台、高质量的服务级别协议（SLA）、强大的数据恢复能力和最佳的客户收益，成功地获得可信云服务认证。
                                                         </p>
                                                         <a target="_self" class="mscom-link withArrow" href="/compliance/default-cn.html#TCS">了解更多</a>
                                                     </div>
@@ -224,7 +224,7 @@ layout: TrustCenterPageCN
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="fedramp">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                         <h1>GB 18030</h1>
-                                                        <p>GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的 Microsoft Azure 和 Office 365 经中国电子技术标准化研究所认证符合该标准的强制性部分。
+                                                        <p>GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 经中国电子技术标准化研究所认证符合该标准的强制性部分。
                                                         </p>
                                                         <a target="_self" class="mscom-link withArrow" href="/compliance/default-cn.html#GB18030">了解更多</a>
                                                     </div>
@@ -273,7 +273,7 @@ layout: TrustCenterPageCN
                                                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="hipaa">
                                                         <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="Close" width="24" height="24" />
                                                         <h1>ISO/IEC 27001</h1>
-                                                        <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。
+                                                        <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。
                                                         </p>
                                                         <a target="_self" class="mscom-link withArrow" href="../compliance/default-cn.html#ISO/IEC_27001">了解更多</a>
                                                     </div>

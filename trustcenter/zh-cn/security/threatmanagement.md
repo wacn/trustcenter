@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 能帮助阻止多种形式的恶意软件的攻击。Microsoft Antimalware 基于云服务构建，Azure 和 Office 365 服务还提供其他形式的反恶意软件防范和保护。
+               <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 能帮助阻止多种形式的恶意软件的攻击。Microsoft Antimalware 基于云服务构建，Azure、Office 365 和 Power BI 服务还提供其他形式的反恶意软件防范和保护。
                </p>
                <label style="color:rgb(0,115,198)">由世纪互联运营的 Microsoft Azure</label>
                <p>为防止在线威胁，Azure 为云服务和虚拟机提供反恶意软件，并使用入侵检测和缓解技术防御 DDoS 攻击。</p>

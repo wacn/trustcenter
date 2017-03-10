@@ -87,7 +87,7 @@ layout: TrustCenterPage
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <label style="line-height:2em ;font-weight:300px">21Vianet is committed to securing and protecting your Customer Data</label>
-                        <p style="font-weight:500;">As cloud services gain maturity and traction in the marketplace, securing and protecting Customer Data becomes increasingly important. For the Azure and Office 365 services 21Vianet stands behind four key commitments regarding Customer Data. 
+                        <p style="font-weight:500;">As cloud services gain maturity and traction in the marketplace, securing and protecting Customer Data becomes increasingly important. For the Azure, Office 365 and Power BI services 21Vianet stands behind four key commitments regarding Customer Data. 
                         <!--<a target="_self" class="mscom-link" href="#">Customer Data</a>.-->
                         </p>
                         <ul>
@@ -103,11 +103,11 @@ layout: TrustCenterPage
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="SideBarContent" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Helpful information</h1>
-                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">21Vianet Operates Microsoft Azure and Office 365 in China </a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">21Vianet Operates Microsoft Azure, Office 365 and Power BI in China </a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br />
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Potecting Data and Privacy in the Cloud</a></label><br />
                         <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br />
-                        <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure and Office 365 operated by 21Vianet </a></label><br/>    
+                        <label><a target="_self" class="mscom-link" href="../resources/FAQ.html">Frequently asked questions about Microsoft Azure, Office 365 and Power BI operated by 21Vianet </a></label><br/>    
                     </div>
                 </div>
             </div>
