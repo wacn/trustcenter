@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">隐私保护
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">隐私与管控
                                                     <p>您拥有并掌控自己的客户数据</p>
                                                     </h3>
                                                 </li>
@@ -47,13 +47,13 @@ layout: TrustCenterPageCN
             </div>
         </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 隐私保护
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 隐私与管控
             </div>
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <p>世纪互联了解，作为我们的用户，您在使用我们运营的云服务时，托付给我们的是您最具价值的资产——您的客户数据。您信任我们充分保护您的隐私，并符合您预期的使用目的。</p>
-                <p>隐私保护是我们运营服务的重要组成部分。我们的隐私和数据保护手段始终致力于实现承诺，使您能够对信息的收集、使用和发布进行控制。世纪互联努力使自己的隐私惯例透明化，为客户提供清晰易懂的隐私选择，并以高度责任心管理客户所存储的数据。</p>
+                <p>隐私与管控是我们运营服务的重要组成部分。我们的隐私和数据保护手段始终致力于实现承诺，使您能够对信息的收集、使用和发布进行控制。世纪互联努力使自己的隐私惯例透明化，为客户提供清晰易懂的隐私选择，并以高度责任心管理客户所存储的数据。</p>
                 <p>在您将客户数据委托给由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 时，您是客户数据的唯一所有者：您存储在 Azure、Office 365 和 Power BI 中的客户数据的权利、所有权和权益均由您保留。 根据世纪互联的政策，除了为您提供云生产力服务之外，我们绝不会出于广告宣传的目的而挖掘或使用您的客户数据。</p>
                 <p>
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 的隐私声明</a>介绍了对客户使用 Azure 及 office 365 服务适用的隐私政策和惯例。
@@ -92,7 +92,7 @@ layout: TrustCenterPageCN
                 <label id="how_21vianet_responds">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </label>
                 <p>世纪互联认为客户应控制自己存储在本地或云服务中的信息。相应地，我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。</p>
                 <label id="we_set_and">我们设置并坚持严格的隐私标准</label>
-                <p>Azure 和 Office365 的隐私保护政策基于
+                <p>Azure 和 Office365 的隐私与管控政策基于
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明。</a>许可给世纪互联的底层技术运用 Microsoft 安全开发生命周期 (其中包括如何在软件开发过程中满足隐私要求)进行开发。
                 </p>
                 <p>我们还将这些保护措施与<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联有关 Microsoft Azure 在线服务标准协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a>中完善的客户数据保护合同承诺相结合。

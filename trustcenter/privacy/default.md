@@ -23,7 +23,7 @@ layout: TrustCenterPage
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Privacy
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Privacy And Control
                                                     <p>You own and control your Customer Data.</p>
                                                     </h3>
                                                 </li>
@@ -47,13 +47,13 @@ layout: TrustCenterPage
             </div>
         </div>
         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // Privacy 
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // Privacy And Control
             </div>
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <p>21Vianet understands that for you, our customer, to use the cloud services that we operate, you entrust us with your most valuable asset—your Customer Data. You trust that its privacy will be protected and that it will be used only in a way that is consistent with your expectations.</p>
-                <p>Privacy is an integral part of how we operate the services. Our approach to privacy and data protection is grounded in our commitment to give you control of the collection, use, and distribution of your information. We work to be transparent in our privacy practices, offer customers meaningful privacy choices, and manage responsibly the data we store.</p>
+                <p>Privacy And Control is an integral part of how we operate the services. Our approach to privacy and data protection is grounded in our commitment to give you control of the collection, use, and distribution of your information. We work to be transparent in our privacy practices, offer customers meaningful privacy choices, and manage responsibly the data we store.</p>
                 <p>When you entrust your Customer Data to Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you remain the exclusive owner of your Customer Data: you retain the rights, title, and interest in the Customer Data you store in Azure, Office 365 and Power BI. It’s our policy to not mine your Customer Data for advertising purposes or use your Customer Data except for purposes consistent with providing you cloud productivity services.</p>
                 <p>
                     The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement </a>and<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> Office 365 Operated by 21Vianet Privacy Statement</a> describe the specific privacy policy and practices that govern customers' use of Azure, Office 365 and Power BI 
@@ -97,7 +97,7 @@ layout: TrustCenterPage
                 <label id="how_21vianet_responds">How 21Vianet responds to law enforcement or third party asks for Customer Data.</label>
                 <p>21Vianet believes that its customers who should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited. </p>
                 <label id="we_set_and">We set and adhere to stringent privacy standards</label>
-                <p>Privacy protections in Azure, Office 365 and Power BI are grounded in
+                <p>Privacy And Control protections in Azure, Office 365 and Power BI are grounded in
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement </a>and 
                     <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 Operated by 21Vianet Privacy Statement, </a> and the underlying technology that is licensed to 21Vianet is developed using the Security Development Lifecycle (which includes addressing privacy requirements in the process of developing software).
                 </p>
