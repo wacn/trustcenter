@@ -1,16 +1,4 @@
----
-layout: TrustCenterPage
----
-<div class="row-fluid">
-   <div class="span">
-      <div>
-         <div class="row-fluid wider hero grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-               <div bi:type="slideshow" class="slideshow slideshow-hero hero" xmlns:bi="urn:schemas-microsoft-com:mscom:bi">
-                  <ul bi:type="list" class="slides">
-                     <li id="slide-1" bi:index="0" selectBi="" style="display:none;">
-                        <div class="heroitem light-foreground" bi:type="heroitem">
-                           <div class="media" bi:parenttitle="t1">
+div class="media" bi:parenttitle="t1">
                               <a href="../en-us/security/default.html" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
                                     <div data-src="Images/MS_TrustCenter-Home_Header_Security.png"></div>
@@ -51,7 +39,7 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             Privacy
+                                             Privacy And Control
                                              <p>You own and control your Customer Data.</p>
                                           </h3>
                                        </li>
@@ -228,7 +216,7 @@ layout: TrustCenterPage
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
-                        <h3>Private</h3>
+                        <h3>Privacy And Control</h3>
                         <p>You own and control your Customer Data</p>
                         <a target="_self" class="mscom-link withArrow" href="../en-us/privacy/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
