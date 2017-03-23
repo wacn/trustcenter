@@ -147,9 +147,7 @@ layout: TrustCenterPage
                <p> And 21Vianet have answers. Because it’s your Customer Data, you decide who has access, and you work with us to decide where it is located. To safeguard your Customer Data, 21Vianet uses Microsoft’s state-of-the art security technology and implements world-class cryptography. Our compliance is independently audited, and we’re transparent on many levels—from where your own Customer Data is stored to how it is used.
                </p>
                </p>
-               <p>21Vianet recognizes that as an Azure, Office 365 and Power BI customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security privacy and control, compliance and transparency.
-   
-             
+               <p>21Vianet recognizes that as an Azure, Office 365 and Power BI customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security privacy and control, compliance and transparency.  
                </p>
             </div>
          </div>
