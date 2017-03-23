@@ -140,7 +140,7 @@ layout: TrustCenterPage
                <p>• 源于微软应用于全球企业客户数十年的丰富在线服务经验而开发的世界一流的Azure和Office 365技术，全面服务于中国的客户。</p>
                <p> 当您将您的客户数据托付给由世纪互联运营的 Microsoft Azure 和Office 365 时，您可能会有所疑问，谁能访问我的客户数据？客户数据存放在哪里？世纪互联如何保护客户数据？以及，我怎样才能确认世纪互联按照承诺对客户数据提供相应保护？</p>
                <p> 世纪互联的回答是：由于这是客户的数据，由客户自行决定谁可以访问客户数据，并和我们一起决定客户数据的存储位置。 为了对客户数据提供保护，世纪互联采用了微软可信云技术所提供的先进的安全技术和世界一流的加密措施。 Azure和Office 365服务的合规性不仅被独立审计，同时保持了各个层面的透明性，包括告知客户自己的客户数据存储在何处以及如何被使用。</p>
-               <p> 世纪互联深知 Azure、Office 365 和 Power BI 客户信任我们会保护客户数据的安全。 我们重视您的信任，您的数据隐私和安全是我们最关心的问题之一。我们努力在安全性、隐私保护、合规性和透明度方面保持业界领先地位。</p>
+               <p> 世纪互联深知 Azure、Office 365 和 Power BI 客户信任我们会保护客户数据的安全。 我们重视您的信任，您的数据隐私和安全是我们最关心的问题之一。我们努力在安全性、隐私与管控、合规性和透明度方面保持业界领先地位。</p>
                <p><h2>可信赖的云服务</h2></p>
                <p>由世纪互联运营的 Microsoft Azure 和Office 365为企业提供了一个开放的平台，具备客户开发创新的解决方案所需的灵活性和安全性，实现实时数据洞察力、增强工作生产力和移动性，并交付个性化的客户体验。</p>
                <p><h2>共担责任</h2></p>
@@ -152,7 +152,7 @@ Azure 和Office 365云服务要求客户与服务提供商共担责任。世纪�
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS-Azure-Title.jpg?version=9ab94844-46b5-5f16-3d32-594cf9d6431b" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
-               <p>Azure为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
+               <p>Azure为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私与管控、控制、合规性及透明性要求。
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
@@ -198,7 +198,7 @@ Azure 和Office 365云服务要求客户与服务提供商共担责任。世纪�
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Privacy.png?version=911bcee3-a444-4ceb-39c3-0b44cf1c4643" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
-                        <h3>隐私保护</h3>
+                        <h3>隐私与管控</h3>
                         <p>您拥有并控制自己的客户数据</p>
                         <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
