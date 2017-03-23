@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             隐私保护
+                                             隐私与管控
                                              <p>您拥有并掌控自己的客户数据</p>
                                           </h3>
                                        </li>
