@@ -142,7 +142,7 @@ layout: TrustCenterPageCN
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 与全球其他地区由微软运营的服务在物理上和逻辑上完全独立。所有客户数据、处理这些数据的应用程序，以及承载 Azure、Office 365 和 Power BI 服务的<a href="/zh-cn/transparency/you_know_where.html">数据中心</a>，全部位于中国境内。位于中国东部和中国北部的两座数据中心距离相隔 1000 公里以上，提供冗余的异地复制，为 Azure、Office 365 和 Power BI 服务提供业务连续性支持。</p>
                <p>当您将您的客户数据托付给由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 时，您可能会有所疑问，谁能访问我的客户数据？客户数据存放在哪里？世纪互联如何保护客户数据？以及，我怎样才能确认世纪互联按照承诺对客户数据提供相应保护？</p>
                <p>世纪互联的回答是：由于这是客户的数据，由客户自行决定谁可以访问客户数据，并和我们一起决定客户数据的存储位置。 为了对客户数据提供保护，世纪互联运营的可信云服务基于微软技术，提供的先进的安全技术和世界一流的加密措施。 Azure、Office 365 和 Power BI 服务的合规性不仅被独立审计，同时保持了各个层面的透明性，包括告知客户自己的客户数据存储在何处以及如何被使用。</p>
-               <p>世纪互联深知 Azure、Office 365 和 Power BI 客户信任我们会保护客户数据的安全。 我们重视您的信任，您的数据隐私和安全是我们最关心的问题之一。我们努力在安全性、隐私保护、合规性和透明度方面保持业界领先地位。</p>
+               <p>世纪互联深知 Azure、Office 365 和 Power BI 客户信任我们会保护客户数据的安全。 我们重视您的信任，您的数据隐私和安全是我们最关心的问题之一。我们努力在安全性、隐私与管控、合规性和透明度方面保持业界领先地位。</p>
                <p><h2 style="color:rgb(0,115,198)">可信赖的云服务</h2></p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 为企业提供了一个开放的平台，具备客户开发创新的解决方案所需的灵活性和安全性，实现实时数据洞察力、增强工作生产力和移动性，并交付个性化的客户体验。</p>
 			   <p>
@@ -151,7 +151,7 @@ layout: TrustCenterPageCN
                <p><h2 style="color:rgb(0,115,198)">共担责任</h2></p>
                <p>
                   在中国，使用云服务的客户受到许多适用于不同地域和行业的各种法律和法规的约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关 Azure、Office 365 和 Power BI 云服务的详细信息， 以帮助他们进行自我监管评估。
-                   Azure、Office 365 和 Power BI 云服务要求客户与服务提供商共担责任。世纪互联提供基于微软技术的可信云服务，并努力提供可满足客户的安全性、隐私保护、合规性和透明度的需求。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
+                   Azure、Office 365 和 Power BI 云服务要求客户与服务提供商共担责任。世纪互联提供基于微软技术的可信云服务，并努力提供可满足客户的安全性、隐私与管控、合规性和透明度的需求。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
                     <p>
                         了解更多有关<a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a>的信息
                     </p>
@@ -160,7 +160,7 @@ layout: TrustCenterPageCN
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4" >
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" style="cursor:pointer" onclick="window.open('../zh-cn/cloudservices/azure.html','_self')">
                <div class="image-wrapper"><img src="Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="28" /></div>
-               <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
+               <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私与管控、控制、合规性及透明性要求。
                   <a target="_self" class="mscom-link withArrow" href="../zh-cn/cloudservices/azure.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
