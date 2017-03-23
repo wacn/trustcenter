@@ -53,7 +53,7 @@ layout: TrustCenterPageCN
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <p>世纪互联了解，作为我们的用户，您在使用我们运营的云服务时，托付给我们的是您最具价值的资产——您的客户数据。您信任我们充分保护您的隐私，并符合您预期的使用目的。</p>
-                <p>隐私保护是我们运营服务的重要组成部分。我们的隐私和数据保护手段始终致力于实现承诺，使您能够对信息的收集、使用和发布进行控制。世纪互联努力使自己的隐私惯例透明化，为客户提供清晰易懂的隐私选择，并以高度责任心管理客户所存储的数据。</p>
+                <p>隐私与管控是我们运营服务的重要组成部分。我们的隐私和数据保护手段始终致力于实现承诺，使您能够对信息的收集、使用和发布进行控制。世纪互联努力使自己的隐私惯例透明化，为客户提供清晰易懂的隐私选择，并以高度责任心管理客户所存储的数据。</p>
                 <p>在您将客户数据委托给由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 时，您是客户数据的唯一所有者：您存储在 Azure、Office 365 和 Power BI 中的客户数据的权利、所有权和权益均由您保留。 根据世纪互联的政策，除了为您提供云生产力服务之外，我们绝不会出于广告宣传的目的而挖掘或使用您的客户数据。</p>
                 <p>
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 的隐私声明</a>介绍了对客户使用 Azure 及 Office 365 服务适用的隐私政策和惯例。
