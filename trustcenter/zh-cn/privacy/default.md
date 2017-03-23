@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Privacy And Control
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">隐私与管控
                                                     <p>您拥有并掌控自己的客户数据</p>
                                                     </h3>
                                                 </li>
