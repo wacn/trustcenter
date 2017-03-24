@@ -1,4 +1,4 @@
-div class="media" bi:parenttitle="t1">
+<div class="media" bi:parenttitle="t1">
                               <a href="../en-us/security/default.html" bi:track="False" bi:titleflag="t1" bi:index="1">
                                  <div data-picture="" data-alt="Service Trust Portal" data-disable-swap-below="">
                                     <div data-src="Images/MS_TrustCenter-Home_Header_Security.png"></div>
