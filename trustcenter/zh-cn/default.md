@@ -146,7 +146,7 @@ layout: TrustCenterPageCN
                <p><h2 style="color:rgb(0,115,198)">可信赖的云服务</h2></p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 为企业提供了一个开放的平台，具备客户开发创新的解决方案所需的灵活性和安全性，实现实时数据洞察力、增强工作生产力和移动性，并交付个性化的客户体验。</p>
 			   <p>
-                        了解更多有关<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a>的信息
+                        了解更多有关<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud_Mar.2017.pdf">可信赖的云服务</a>的信息
                </p>
                <p><h2 style="color:rgb(0,115,198)">共担责任</h2></p>
                <p>
