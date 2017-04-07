@@ -181,7 +181,7 @@ Azure 和Office 365云服务要求客户与服务提供商共担责任。世纪�
             </div>
          </div>
 
-         <div class="row-fluid grid-container mscom-grid-container" id="Services2" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
+         <div class="row-fluid grid-container mscom-grid-container" id="Services3" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
          <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
              <div class="image-wrapper"><img src="zh-cn/Images/Power_BI_Logo_Cn.png" class="mscom-image title1Adjustment" alt="powerBI Title" width="300" height="28" /></div>
              <p>Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。
