@@ -169,7 +169,7 @@ layout: TrustCenterPage
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                <div class="image-wrapper"><img src="en-us/Images/Power_BI_Logo_En.png" class="mscom-image title1Adjustment" alt="power BI Title" width="126" height="28" /></div>
                <p>Power BI is a cloud-based suite of business analytics tools that you can trust to help you analyze Customer Data, publish reports, and share insights. 
-                  <a target="_self" class="mscom-link withArrow" href="javascript:;"></a>
+                  <a target="_self" class="mscom-link withArrow" href="javascript:;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
                
                </p>
             </div>
