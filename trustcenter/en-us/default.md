@@ -51,7 +51,7 @@ layout: TrustCenterPage
                                     <ul bi:type="list" class="headerCaption">
                                        <li class="box-title">
                                           <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">
-                                             Privacy And Control
+                                             Privacy
                                              <p>You own and control your Customer Data.</p>
                                           </h3>
                                        </li>
@@ -166,24 +166,30 @@ layout: TrustCenterPage
                   <a target="_self" class="mscom-link withArrow" href="../en-us/cloudservices/azure.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden;">
+            <!--<div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden;">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Microsoft-Commercial-Support.png?version=c6b174ce-21e8-6a22-da22-b5b5dd523d39" class="mscom-image title3Adjustment adjusted" alt="Microsoft Commercial Support Title" width="199" height="45" /></div>
                <p>Tech expertise, accelerated support, and strategic advice
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                </p>
-            </div>
+            </div>-->
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="window.open('../en-us/cloudservices/office-365.html','_self')">
                <div class="image-wrapper"><img src="../en-us/Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a secure cloud-based productivity experience. 
                   <a target="_self" class="mscom-link withArrow" href="../en-us/cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="visibility: hidden;">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="">
+               <div class="image-wrapper"><img src="Images/Power_BI_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
+               <p>Power BI is a cloud-based suite of business analytics tools that you can trust to help you analyze Customer Data, publish reports, and share insights. 
+                  <a target="_self" class="mscom-link withArrow" href="javascript:;"></a>
+               </p>
+            </div>
+            <!--<div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="visibility: hidden;">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
                <p><strong>Dynamics CRM Online</strong> enables more secure customer engagement
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
                </p>
-            </div>
+            </div>-->
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services2" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4" style="display: none;">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
@@ -228,7 +234,7 @@ layout: TrustCenterPage
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="Images/Privacy.png" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
-                        <h3>Privacy And Control</h3>
+                        <h3>Private</h3>
                         <p>You own and control your Customer Data</p>
                         <a target="_self" class="mscom-link withArrow" href="../en-us/privacy/default.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
