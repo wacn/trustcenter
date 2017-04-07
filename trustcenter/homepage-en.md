@@ -147,9 +147,7 @@ layout: TrustCenterPage
                <p> And 21Vianet have answers. Because it’s your Customer Data, you decide who has access, and you work with us to decide where it is located. To safeguard your Customer Data, 21Vianet uses Microsoft’s state-of-the art security technology and implements world-class cryptography. Our compliance is independently audited, and we’re transparent on many levels—from where your own Customer Data is stored to how it is used.
                </p>
                </p>
-               <p>21Vianet recognizes that as an Azure, Office 365 and Power BI customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security privacy and control, compliance and transparency.
-   
-             
+               <p>21Vianet recognizes that as an Azure, Office 365 and Power BI customer, you have entrusted us to help protect your own Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security privacy and control, compliance and transparency.  
                </p>
             </div>
          </div>
@@ -165,6 +163,13 @@ layout: TrustCenterPage
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Ofc365_rgb_Orng166.png?version=8cb78da7-1559-29e2-f7cc-b4dd79f440b3" class="mscom-image title1Adjustment" alt="Office 365 Title" width="126" height="28" /></div>
                <p>Office 365 combines a defense-in-depth approach to security, rich data-protection tools, and an enterprise-grade compliance framework to provide a secure cloud-based productivity experience. 
                   <a target="_self" class="mscom-link withArrow" href="/en-us/TrustCenter/CloudServices/Office-365"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
+               
+               </p>
+            </div>
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class="image-wrapper"><img src="en-us/Images/Power_BI_Logo_En.png" class="mscom-image title1Adjustment" alt="power BI Title" width="126" height="28" /></div>
+               <p>Power BI is a cloud-based suite of business analytics tools that you can trust to help you analyze Customer Data, publish reports, and share insights. 
+                  <a target="_self" class="mscom-link withArrow" href="javascript:;"></a>
                
                </p>
             </div>

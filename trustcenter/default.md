@@ -180,9 +180,9 @@ layout: TrustCenterPageCN
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
                </p>
             </div>-->
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="window.open('../../zh-cn/cloudservices/office-365.html','_self')">
-                <div class="image-wrapper"><img src="/zh-cn/Images/Power_BI_Logo_Cn.png" class="mscom-image title1Adjustment" alt="powerBI Title" width="300" height="28" /></div>
-                <pPower BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。
+            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="">
+                <div class="image-wrapper"><img src="zh-cn/Images/Power_BI_Logo_Cn.png" class="mscom-image title1Adjustment" alt="powerBI Title" width="300" height="28" /></div>
+                <p>Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。
                     <a target="_self" class="mscom-link withArrow" href="javascript:;"</a>
                 </p>
             </div>
