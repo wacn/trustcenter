@@ -59,7 +59,6 @@ layout: TrustCenterPage
             </div>
             <!--<div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden">
                 <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Microsoft-Commercial-Support.png?version=c6b174ce-21e8-6a22-da22-b5b5dd523d39" class="mscom-image title3Adjustment adjusted" alt="Microsoft Commercial Support Title" width="199" height="45" /></div>
-                
                 <p>Tech expertise, accelerated support, and strategic advice
                     <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                 </p>
