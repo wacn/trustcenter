@@ -57,14 +57,7 @@ layout: TrustCenterPage
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                 </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden">
-                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Microsoft-Commercial-Support.png?version=c6b174ce-21e8-6a22-da22-b5b5dd523d39" class="mscom-image title3Adjustment adjusted" alt="Microsoft Commercial Support Title" width="199" height="45" /></div>
-                <!--<mscom:link instancename="more intune" md:payloadguid="4f4c7b0d-9b5e-4465-a3f9-d6b3f42d88fd" classoverride="moreLink" target="_self"
-                    disablebitracking="false" text="Learn more"></mscom:link>-->
-                <p>Tech expertise, accelerated support, and strategic advice
-                    <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
-                </p>
-            </div>
+            
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" onclick="window.open('../cloudservices/office-365.html','_self')">
                 <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
@@ -73,13 +66,11 @@ layout: TrustCenterPage
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="visibility: hidden" >
-                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
-                <!--<mscom:link instancename="more dynamics" md:payloadguid="950ee371-2640-4793-bef2-9515303e138a" classoverride="moreLink" target="_self"
-                    disablebitracking="false" text="Learn more"></mscom:link>-->
-                <p><strong>Dynamics CRM Online</strong> enables more secure customer engagement
-                    <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
-                </p>
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="">
+               <div class="image-wrapper"><img src="../Images/Power_BI_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
+               <p>Power BI is a cloud-based suite of business analytics tools that you can trust to help you analyze Customer Data, publish reports, and share insights. 
+                  <a target="_self" class="mscom-link withArrow" href="javascript:;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
+               </p>
             </div>
         </div>        
         <div id="ContentWrapper1" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
