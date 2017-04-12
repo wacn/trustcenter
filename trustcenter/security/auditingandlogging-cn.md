@@ -83,7 +83,7 @@ layout: TrustCenterPageCN
                      <p>出于业务及法律法规考虑，您可能需要保留您的组织中发出或接收的电子邮件，或是在不需要的时候删除所有电子邮件。通过邮件记录管理（MRM）作为 Office 365 中的记录管理技术，您可以控制用户邮件信箱中电子邮件的保存时间，以及当电子邮件保存到一定时限时，定义需要采取的措施。
                      </p>
                      <p>了解更多有关 <a href="https://www.trustcenter.cn/en-us/security/auditingandlogging.html">Office 365 安全性</a>的信息</p>
-                     <label>由世纪互联运营的Power BI</label>
+                     <label>由世纪互联运营的 Power BI</label>
                      <p>您可利用 Power BI 的 Azure 审计日志内容包对 Azure 服务的审计日志进行分析和构想。您可以使用 Power BI 获取 Azure 数据，构建即用的显示板，并根据该数据创建报告。随后您便可以在一个地方查看所有数据，并对其进行分析以获得新的见解。您还可以筛选报告并添加想要监控的字段；控制仪表盘数据的刷新时间来刷新基础报告，获取最新信息。</p>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
