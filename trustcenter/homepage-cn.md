@@ -167,6 +167,8 @@ Azure 和Office 365云服务要求客户与服务提供商共担责任。世纪�
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services2" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
+            
+            </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Ofc365_rgb_Orng166.png?version=8cb78da7-1559-29e2-f7cc-b4dd79f440b3" class="mscom-image title1Adjustment" alt="Office 365 Title" width="126" height="28" /></div>
                <p>Office 365结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供安全的基于云的生产力体验。
@@ -178,22 +180,8 @@ Azure 和Office 365云服务要求客户与服务提供商共担责任。世纪�
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear">
                
-         </div>
-         <div class="row-fluid grid-container mscom-grid-container" id="Services3" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
-            <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
-               <div class="image-wrapper"><img src="zh-cn/Images/Power_BI_Logo_Cn.png" class="mscom-image title1Adjustment" alt="powerBI Title" width="300" height="28" /></div>
-                <p>Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。
-                    <a target="_self" class="mscom-link withArrow" href="javascript:;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
-                </p>
-            </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
-            
-            </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear">
-            
             </div>
          </div>
-
          <div class="grayback">
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">

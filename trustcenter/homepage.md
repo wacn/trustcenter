@@ -211,7 +211,7 @@ layout: TrustCenterPage
                   <div class="row-fluid" data-view4="2" data-view3="2" data-view2="2" data-view1="1" data-cols="2">
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 features-icon"><img src="https://c.s-microsoft.com/en-us/CMSImages/Privacy.png?version=911bcee3-a444-4ceb-39c3-0b44cf1c4643" class="mscom-image" alt="Image of Eye | Privacy" width="74" height="74" /></div>
                      <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
-                        <h3>Privacy And Control</h3>
+                        <h3>Privacy And Control</h3> 
                         <p>You own and control your data</p>
                         <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate to Privacy" width="21" height="19" /></a>
                      </div>
