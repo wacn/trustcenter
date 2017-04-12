@@ -57,7 +57,6 @@ layout: TrustCenterPageCN
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                 </p>
             </div>
-            
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="padding: 10px 0px;" onclick="window.open('../cloudservices/office-365-cn.html','_self')">
                 <div class="image-wrapper"><img src="../Images/Office365_Logo_Cn.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
@@ -66,20 +65,12 @@ layout: TrustCenterPageCN
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
-            <!--power BI-->
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="padding: 10px 0px;" onclick="">
-                <div class="image-wrapper"><img src="../Images/Power_BI_Logo_Cn.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
-               <p>Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。
-                  <a target="_self" class="mscom-link withArrow" href="javascript:;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
-               </p>
-            </div>
-            <!---->
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="visibility: hidden">
-                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Microsoft-Commercial-Support.png?version=c6b174ce-21e8-6a22-da22-b5b5dd523d39" class="mscom-image title3Adjustment adjusted" alt="Microsoft Commercial Support Title" width="199" height="45" /></div>
-                <!--<mscom:link instancename="more intune" md:payloadguid="4f4c7b0d-9b5e-4465-a3f9-d6b3f42d88fd" classoverride="moreLink" target="_self"
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" >
+                <div class="image-wrapper"><img src="../Images/Office365_Logo_Cn.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
+                <!--<mscom:link instancename="more dynamics" md:payloadguid="950ee371-2640-4793-bef2-9515303e138a" classoverride="moreLink" target="_self"
                     disablebitracking="false" text="Learn more"></mscom:link>-->
-                <p>Tech expertise, accelerated support, and strategic advice
-                    <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
+                <p><strong>Dynamics CRM Online</strong> enables more secure customer engagement
+                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
         </div>        
