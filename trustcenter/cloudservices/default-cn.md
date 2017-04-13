@@ -57,7 +57,7 @@ layout: TrustCenterPageCN
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                 </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="padding: 10px 0px;" onclick="window.open('../cloudservices/office-365-cn.html','_self')">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="padding: 0px 0px;" onclick="window.open('../cloudservices/office-365-cn.html','_self')">
                 <div class="image-wrapper"><img src="../Images/Office365_Logo_Cn.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
@@ -65,7 +65,7 @@ layout: TrustCenterPageCN
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" >
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="margin-top:0px">
                 <div class="image-wrapper"><img src="../Images/Power_BI_Logo_Cn.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics" md:payloadguid="950ee371-2640-4793-bef2-9515303e138a" classoverride="moreLink" target="_self"
                     disablebitracking="false" text="Learn more"></mscom:link>-->
