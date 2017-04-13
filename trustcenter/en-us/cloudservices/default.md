@@ -49,7 +49,7 @@ layout: TrustCenterPage
             </div>
         </div>
         <div class="row-fluid grid-container mscom-grid-container" id="Services" data-cols="4" data-view1="1" data-view2="2" data-view3="4" data-view4="4">
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1"  style="cursor:pointer" onclick="window.open('../cloudservices/azure.html','_self')">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure.html','_self')">
                 <div class="image-wrapper"><img src="../Images/Microsoft_Azure _Logo_En.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
                 <!--<mscom:link instancename="more azure" md:payloadguid="42dea437-6cfb-44a6-afaa-6a7901426bac" classoverride="moreLink withArrow"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
@@ -57,8 +57,7 @@ layout: TrustCenterPage
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                 </p>
             </div>
-            
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="window.open('../cloudservices/office-365.html','_self')">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" onclick="window.open('../cloudservices/office-365.html','_self')">
                 <div class="image-wrapper"><img src="../Images/Office365_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
@@ -66,15 +65,15 @@ layout: TrustCenterPage
                     <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" >
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" onclick="">
                 <div class="image-wrapper"><img src="../Images/Power_BI_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics" md:payloadguid="950ee371-2640-4793-bef2-9515303e138a" classoverride="moreLink" target="_self"
                     disablebitracking="false" text="Learn more"></mscom:link>-->
                 <p>Power BI is a cloud-based suite of business analytics tools that you can trust to help you analyze Customer Data, publish reports, and share insights.
-                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
+                    <a target="_self" class="mscom-link withArrow" href="javascript:;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
-        </div>        
+        </div>       
         <div id="ContentWrapper1" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
