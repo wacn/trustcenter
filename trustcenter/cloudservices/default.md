@@ -69,7 +69,7 @@ layout: TrustCenterPage
                 <div class="image-wrapper"><img src="../Images/Power_BI_Logo_En.png" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="300" height="22" /></div>
                 <!--<mscom:link instancename="more dynamics" md:payloadguid="950ee371-2640-4793-bef2-9515303e138a" classoverride="moreLink" target="_self"
                     disablebitracking="false" text="Learn more"></mscom:link>-->
-                <p><strong>Dynamics CRM Online</strong> enables more secure customer engagement
+                <p>Power BI is a cloud-based suite of business analytics tools that you can trust to help you analyze Customer Data, publish reports, and share insights.
                     <a target="_self" class="mscom-link withArrow" href="javascript:;"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
