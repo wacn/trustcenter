@@ -64,7 +64,7 @@ layout: TrustCenterPage
                </p>
                <p style="font-size:28px" id="infrastructure_Secure">Secure infrastructure</p>
                <p>21Vianet uses several network security technologies to protect your cloud services and Customer Data, and block attacks.</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><strong>Firewalls</strong> help protect network perimeters, subnets, and local machines (including virtual machines). Perimeter firewalls filter packets coming into the network. If malicious traffic has managed to bypass network-level controls, operating system firewalls provide another layer of protection by allowing or denying packets coming into the local system</li>
                   <li><strong>Intrusion detection systems/intrusion prevention systems</strong> detect and identify suspicious or undesirable activities that indicate intrusion, proactively drop packets that are determined to be undesirable, and disconnect unauthorized connections.</li>
                   <li><strong>Partitioned LANs</strong> enable you to separate traffic by segmenting your virtual networks and control how traffic passes between different IP subnets.</li>

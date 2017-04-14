@@ -58,12 +58,12 @@ layout: TrustCenterPageCN
                <p href="#identity_Secure">安全身份</p>
                <p href="#infrastructure_Secure">安全基础架</p>
                <p href="#apps_and_data_Secure">安全应用程序和数据</p>
-               <p style="font-size:28px" id="identity_Secure">安全身份</p>
+               <p style="font-size:28px" id="identity_Secure">安全身份</font>
                <p>世纪互联的云服务构建在 Azure 上，利用 Azure Active Directory 来进行身份管理、身份验证和访问控制。</p>
                <p>Azure Active Directory和ADDS帮助确保只有经授权的用户才能访问您的网络环境、数据和应用程序，同时提供Azure多重身份验证服务以确保登录高度安全。启用多重身份验证功能后，您可要求用户通过手机应用程序、电话呼叫或短信等方式来验证登录。</p>
-               <p style="font-size:28px" id="infrastructure_Secure">安全基础架</p>
+               <p style="font-size:28px" id="infrastructure_Secure">安全基础架</font>
                <p>世纪互联采用多项网络安全技术来保护您的云服务和客户数据，同时抵御攻击。</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li>防火墙保护网络周边环境、子网和本地机（包括虚拟机）。边界防火墙会过滤掉进入网络的数据包。如果恶意流量已经成功绕过网络级控制器，操作系统防火墙会通过允许或拒绝数据包进入本地系统的方式来提供另一层保护。</li>
                   <li>入侵检测系统/入侵防御系统监测和识别具有入侵倾向的可疑或不良行为，主动丢弃被确定为不符合需要的数据包，并断开未经授权的连接。</li>
                   <li>分区 LANs 帮助您通过分割虚拟网络来分离流量，同时控制在不同 IP 子网之间的流量传输方式。</li>
@@ -84,7 +84,7 @@ layout: TrustCenterPageCN
                </p>
                <p><strong>网络安全组</strong> 可用于对 Azure 虚拟网络中一个或多个虚拟机 (VM) 的通讯进行控制。网络安全组 (NSG) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
                </p>
-               <p><a href="https://www.azure.cn/home/features/traffic-manager/">强制信道</a>可供您重定向，或“强制”让所有发往互联网的流量通过站点到站点 VPN 信道重新回到您的内部部署位置，以进行检查或审计。在不使用强制信道的情况下，您的 Azure 虚拟机发往互联网的流量会通过 Azure 网络基础结构直接发送至互联网，您将无法对这样的流量进行检查或审计。
+               <p><a href="https://www.azure.cn/home/features/traffic-manager/">强制信道</a> 可供您重定向，或“强制”让所有发往互联网的流量通过站点到站点 VPN 信道重新回到您的内部部署位置，以进行检查或审计。在不使用强制信道的情况下，您的 Azure 虚拟机发往互联网的流量会通过 Azure 网络基础结构直接发送至互联网，您将无法对这样的流量进行检查或审计。
                </p>
                <p><strong>隔离</strong> — Azure 使用网络隔离防止不同部署之间产生不必要的通讯，通过访问控制阻止未经授权用户的访问。虚拟机不接收来自互联网的传入流量，除非客户配置它们接受。
                </p>
@@ -94,7 +94,7 @@ layout: TrustCenterPageCN
                <p>Office 365 服务使用诸如 SSL/TLS 和 AES 等行业加密标准，以保护客户数据的机密性和完整性。所有面向客户的服务器会使用 SSL/TLS 与客户端设备协商使用安全会话。TLS/SSL 可在客户端与服务器之间建立高度安全的连接，保障用户设备和数据中心之间所传输数据的机密性和完整性。
                <p>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a>
                </p>
-               <label id="Power_BI_Secure">由世纪互联运营的Power BI</label>
+               <label id="Power_BI_Secure">由世纪互联运营的 Power BI</label>
 
                <p>Power BI 以 Power BI 个人网关为特征，允许用户为多个数据源创建凭据，并在访问这些数据源时能够自动使用这些凭据。网关如同一座桥梁，在 Power BI 服务和本地数据源之间提供快速、安全的数据传输。当 Power BI 从现场数据源刷新数据时，网关确保您的账户具有正当权限连接到源并从源中查询数据。</p>
                <p>Azure 服务总线 对 Power BI 和网关之间的数据传输加以保护，在该服务和您的计算机之间创建了安全通道。因为网关提供了这种安全连接，所以通常无需在您的防火墙中再打开一个端口。</p>

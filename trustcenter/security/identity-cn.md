@@ -57,13 +57,13 @@ layout: TrustCenterPageCN
                <p><a target="_self" class="mscom-link" href="#identity_Secure">安全身份</a></p>
                <p><a target="_self" class="mscom-link" href="#infrastructure_Secure">安全基础架构</a></p>
                <p><a target="_self" class="mscom-link" href="#apps_and_data_Secure">安全应用程序和数据</a></p>
-               <p style="font-size:28px" id="identity_Secure">安全身份</p>
+               <p style="font-size:28px"> id="identity_Secure">安全身份</p>
                <p>世纪互联和微软对其产品和服务使用了多种安全实践和技术以管理身份和访问，其中包括：</p>
-               <ul>
-                  <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a>要求用户采用多种方法进行本地和云访问。它通过一系列简单的验证选项提供强大的身份验证，同时为用户提供简单的登录流程。</li>
-                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-passwords-learn-more">密码策略实施</a>通过实施密码长度和复杂性要求、定期更换密码以及认证失败后锁定账户等措施来提升传统密码的安全性。</li>
-                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-authentication-scenarios/">基于令牌的身份验证</a>通过活动目录联合身份验证服务（ADFS）或第三方安全令牌系统启用身份验证。</li>
-                  <li><a href="https://www.azure.cn/documentation/articles/role-based-access-built-in-roles/">基于角色的访问控制</a>（RBAC）使您能够根据用户角色授予其访问权限，从而轻松地为用户提供其履行工作职责所需的访问权限。基于角色的访问控制（RBAC）可根据您机构的业务模式和风险承受度进行定制。</li>
+               <ul style="list-style-type:disc">
+                  <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证 </a>要求用户采用多种方法进行本地和云访问。它通过一系列简单的验证选项提供强大的身份验证，同时为用户提供简单的登录流程。</li>
+                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-passwords-learn-more">密码策略实施 </a>通过实施密码长度和复杂性要求、定期更换密码以及认证失败后锁定账户等措施来提升传统密码的安全性。</li>
+                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-authentication-scenarios/">基于令牌的身份验证 </a>通过活动目录联合身份验证服务（ADFS）或第三方安全令牌系统启用身份验证。</li>
+                  <li><a href="https://www.azure.cn/documentation/articles/role-based-access-built-in-roles/">基于角色的访问控制 </a>（RBAC）使您能够根据用户角色授予其访问权限，从而轻松地为用户提供其履行工作职责所需的访问权限。基于角色的访问控制（RBAC）可根据您机构的业务模式和风险承受度进行定制。</li>
                   <li><strong>集成身份管理（混合型身份）</strong>使您能够保持对内部数据中心和云平台的用户访问控制，创建单一的用户身份用于对所有资源进行身份验证和授权。</li>
                </ul>
                <p style="font-size:28px" id="infrastructure_Secure">安全基础架构</p>
@@ -75,7 +75,7 @@ layout: TrustCenterPageCN
                <p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>
                <label id="Azure_Secure">由世纪互联运营的 Microsoft Azure</label>
                <p><a href="https://www.azure.cn/home/features/identity/">Azure Active Directory </a>可帮助实现对本地和云应用程序中客户数据的安全访问，并简化对用户和组的管理。它将核心目录服务、高级身份监管、安全防护和应用程序访问管理相结合。 Azure Active Directory 还可方便开发人员将基于策略的身份管理构建到其应用程序中。</p>
-               <p><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Azure 多重身份验证</a>要求使用多种验证方法对用户进行身份验证。Azure 凭借针对本地和云应用程序的额外一层身份验证，帮助保护用户对客户数据和应用程序的访问。它通过丰富的简单验证选项提供强大的身份验证，同时满足用户对简单登录过程的需求</p>
+               <p><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Azure 多重身份验证 </a>要求使用多种验证方法对用户进行身份验证。Azure 凭借针对本地和云应用程序的额外一层身份验证，帮助保护用户对客户数据和应用程序的访问。它通过丰富的简单验证选项提供强大的身份验证，同时满足用户对简单登录过程的需求</p>
                <p><strong>云应用程序发现服务</strong>是 Azure <strong>活动目录</strong>（AAD）的高级功能，它能够帮助您发现机构内员工所使用的云应用程序。</p>
                <p><strong>Azure 活动目录身份保护</strong>是一项安全服务，利用AAD的异常检测功能，帮助您综合探查影响机构身份的风险事件和潜在漏洞。</p>
                <p><strong>Azure 活动目录域服务</strong>使您能够将Azure虚拟机（VM）连接至域，而无需部署域控制器。用户可使用其企业活动目录凭据登录这些虚拟机，实现资源无缝访问。</p>
@@ -83,7 +83,7 @@ layout: TrustCenterPageCN
                <p><strong>Azure AD 应用程序代理</strong>为本地运行的网络应用程序提供单点登录（SSO）和安全的远程访问服务。</p>
                <label id="Office_365_Secure">由世纪互联运营的 Office 365</label>
                <p>Office 365 使用 Azure 活动目录来管理用户。您在创建、管理用户账号时可从 Office 365 提供的三大身份模式中进行选择。您还可以根据自身需求切换至不同的身份模式。</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><strong>云身份：</strong>仅在Office 365中管理您的用户账号。用户管理均在云中进行，无需使用本地服务器。</li>
                   <li><strong>同步身份：</strong>使本地目录对象与Office 365保持同步并管理您的本地用户。您还可以同步密码以便用户可使用同一密码在本地和云端登录，但在使用Office 365时须再次登录。</li>
                   <li><strong>联合身份：</strong>使本地目录对象与Office 365保持同步并管理您的本地用户。用户可使用同一密码在本地和云端登录，且在使用Office 365时无须再次登录。这通常被称作单点登录（SSO）。</li>
