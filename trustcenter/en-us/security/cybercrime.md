@@ -59,8 +59,8 @@ layout: TrustCenterPage
                <label>Platform security</label>
                <p>21Vianet believes that security doesn’t end in the public cloud. Security needs to be engineered into a system end to end, from the public cloud all the way to the desktop. From the very beginning, we architected our cloud services platform with multiple levels of security that are virtually and physically isolated. Your data is protected by hardened operating systems and backed by a defense-in-depth strategy that helps protect our cloud services. </p>
                <p>In addition, we have continuous, proactive, and reactive threat monitoring and analytics. We also encrypt customer data in transit, and encrypt Customer Data that passes between our datacenters. Datacenters are constructed, managed, and monitored to protect data from unauthorized access. We also do not engineer backdoors into our services.</p>
-               <p><a href="/encryption">Learn more about encryption</a></p>
-               <p><a href="../transparency/you_know_where">Learn more about physical security</a></p>
+               <p><a href="/encryption.html">Learn more about encryption</a></p>
+               <p><a href="../transparency/default.html">Learn more about physical security</a></p>
                <label>Network security</label>
                <p>We provide secure communications between your infrastructure and our cloud services and block unauthorized traffic.</p>
                <p><a href="/networksecurity">Learn more about network security</a></p>
