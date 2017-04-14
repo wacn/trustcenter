@@ -66,7 +66,7 @@ layout: TrustCenterPageCN
                <p><a href="networksecurity-cn">了解更多关于网络安全的信息</a></p>
                <label>安全特征</label>
                <p>具体的平台安全特征包括：</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><strong>SQL Always Encrypted</strong>为您提供加密敏感数据（如信用卡号和居民身份证号码）的工具，并将之储存于 Azure SQL 数据库或 SQL Server 数据库中。SQL Always Encrypted 在数据所有者（授权用户）和数据管理者（云数据库的操作者或管理者）之间设立数据分离。</li>
                </ul>
                <label>网络违规行为剖析</label>

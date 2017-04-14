@@ -66,7 +66,7 @@ layout: TrustCenterPage
                <p><a href="/networksecurity">Learn more about network security</a></p>
                <label>Security features</label>
                <p>Specific platform security features include:</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><strong>SQL Always Encrypted</strong> gives you the tools to encrypt sensitive data, such as credit card numbers and national identification numbers, and stored it in Azure SQL Database or SQL Server databases. SQL Always Encrypted creates data separation between those who own the data (authorized users) and those who manage the data (cloud database operators or administrators).</li>
                </ul>
                <label for="">Anatomy of a breach</label>

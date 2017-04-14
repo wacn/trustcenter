@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p style="font-size:24px">世纪互联基于可信技术为您提供数据保护</p>
+               <font size="24">世纪互联基于可信技术为您提供数据保护</font>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 以使用在所有云产品中的可信赖技术为基础。许可给世纪互联的 Azure、Office 365 和 Power BI 技术从设计上立足于安全性，确保基础设施能够抵御攻击。以”假定违反“作为一项安全战略，世纪互联的事件响应团队随时采取措施抵御任何攻击对 Azure、Office 365 和 Power BI 服务造成的影响。这些实践基于世纪互联的安全管理流程，用于对抗数字化犯罪，响应 Azure、Office 365 和 Power BI 安全事件和漏洞，以及防范恶意软件。
                </p>
                <label>安全身份</label>
