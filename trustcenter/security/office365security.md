@@ -58,14 +58,14 @@ layout: TrustCenterPage
                <p>The Services include security features that are scalable and combine 21Vianet’s learnings in different geographies and industry verticals.  The built-in security features safeguard Customer Data from the time it is stored to the time it reaches user devices.</p>
                <p>At the service level, Office 365 uses the defense-in-depth approach to provide physical, logical, and data layers of security features, and 21Vianet uses operational best practices to provide the service. In addition, Office 365 gives you enterprise-grade, user and admin controls to further secure your environment.</p>
                <p>Your Office 365 Customer Data belongs to you; that means you have complete control of it. We give you extensive privacy controls and visibility into where your Customer Data resides and who has access to it, as well as availability and changes to the service. If you end your subscription to the service, you can take your Customer Data with you. 21Vianet-managed service-level security technologies and policies are enabled by default, and customer-managed controls enable you to customize your Office 365 environment to fit your organization’s security needs. Office 365 is continuously updated to enhance security.</p>
-               <p style="font-size:28px">Get an overview of Office 365</p>
+               <p style="font-size:28px">Get an overview of Office 365</font>
                <p><a href="#Secure_identity">Secure identity</a></p>
                <p><a href="#Secure_infrastructure">Secure infrastructure</a></p>
                <p><a href="#Secure_apps_and_data">Secure apps and data</a></p>
                <label id="Secure_identity">Secure identity</label>
                <p>Office 365<a href="https://www.azure.cn/home/features/identity/"> uses Azure Active</a> Directory (Azure AD) to manage users and to provide authentication, identity management, and access control. Azure AD capabilities include a cloud-based store for directory data and a core set of identity services, such as user logon processes, authentication services, and federation services. These identity services easily integrate with your on-premises Azure AD deployments and fully support third-party identity providers.</p>
                <p>Office 365 uses Multi-Factor Authentication, managed from the Office 365 admin center, to help provide extra security. Office 365 offers the following subset of <a href="https://www.azure.cn/home/features/multi-factor-authentication/">Azure Multi-Factor Authentication</a> capabilities as a part of the subscription:</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li>Ability to enable and enforce Multi-Factor Authentication for end users</li>
                   <li>Use of a mobile app (online and one-time password) as a second authentication factor</li>
                   <li>Use of a phone call as a second authentication factor</li>
@@ -76,7 +76,7 @@ layout: TrustCenterPage
                <label id="Secure_infrastructure">Secure infrastructure</label>
                <p>Office 365 operated by 21Vianet uses defense-in-depth security principles to protect against internal and external risks. This enables Office 365 to detect and defend against attacks across a very large surface area.</p>
                <p>Physical security</label>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li>24-hour monitored physical datacenters.</li> 
                   <li>Multi-factor authentication, including biometric scanning for datacenter access.</li> 
                   <li>Segregation of the internal datacenter network from the external network, plus encryption of Customer Data transmitted across the networks.</li> 
@@ -84,7 +84,7 @@ layout: TrustCenterPage
                   <li>Faulty drives and hardware are demagnetized and destroyed.</li> 
                </ul>
                <p>Logical security</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li>Lockbox processes for strictly supervised escalation process greatly limits human access to your Customer Data. </li>
                   <li>Servers run only processes of authentication, minimizing risk from malicious code.</li>
                   <li>Dedicated threat management teams proactively anticipate, prevent, and mitigate malicious access.</li>
@@ -93,12 +93,12 @@ layout: TrustCenterPage
                   <li>The security controls based on Microsoft technologies give you options to customize your security features depending on your specific needs.</li>
                </ul>
                <p>Data security</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li>Logical isolation of Customer Data between tenants.</li>
                   <li>Threat management, security monitoring, and file/data integrity prevents or detects any tampering of Customer Data.</li>
                </ul>
                <p>Admin and user controls</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li>Multi-factor authentication protects access to the service with a second factor such as phone.</li>
                   <li>S/MIME provides secure certificate-based email access.</li>
                   <li>Office 365 Message Encryption allows you to send encrypted email.</li>
@@ -108,9 +108,9 @@ layout: TrustCenterPage
                   <li>Features like legal hold, governance, and archiving allow administrators to place a hold on sensitive data for legal and archiving purposes.</li>
                </ul>
                <label id="Secure_apps_and_data">Secure apps and data</p>
-               <p style="font-size:20px">Data encryption</p>
+               <p style="font-size:20px">Data encryption</font>
                <p>Office 365 uses service-side technologies that encrypt customer data at rest and in transit. For customer data at rest, Office 365 uses volume-level and file-level encryption. For customer data in transit, Office 365 uses multiple encryption technologies for communications between datacenters and between clients and servers, such as Transport Layer Security (TLS) and Internet Protocol Security (IPsec). Office 365 also includes customer-managed encryption features. Customer Data stored within Office 365 is protected in all configurations. Validation of cryptographic policy and its enforcement is independently verified through multiple third-party auditors.</p>
-               <p style="font-size:20px">Maintaining security in multitenant architecture</p>
+               <p style="font-size:20px">Maintaining security in multitenant architecture</font>
                <p>Multitenancy is a primary benefit of cloud computing. This is the ability to share common infrastructure across numerous customers simultaneously, leading to economies of scale. 21Vianet continuously works to ensure that the multitenant architecture of Office 365 supports enterprise-level security, confidentiality, privacy, integrity, and availability standards. Based upon the significant experience gathered from <a href="https://www.trustcenter.cn/">Trustworthy Computing </a>and <a href="">the Security Development Lifecycle</a>, Microsoft cloud services, including Office 365, were designed with the assumption that all tenants are potentially hostile to all other tenants. Thus, multiple forms of protection have been implemented throughout Office 365 to prevent customers from compromising Office 365 services or applications, or gaining unauthorized access to the information of other tenants or the Office 365 system itself.</p>
                <p style="dont-size:20px">How 21Vianet accesses your data</p>
                <p>21Vianet automates most Office 365 operations, while intentionally limiting its own access to customer content. This enables us to manage Office 365 at scale, and address the risks of internal threats to customer content such as a malicious actor or the spear-phishing of a 21Vianet engineer. By default, 21Vianet engineers have no standing administrative privileges and no standing access to customer content in Office 365. A 21Vianet engineer may have limited, audited, secured access to a customer’s content for a limited amount of time, but only when necessary for service operations and only when approved by a member of senior management at 21Vianet (and, for customers who are licensed for the Customer Lockbox feature, by the customer).</p>

@@ -64,34 +64,34 @@ layout: TrustCenterPage
                <p>Power BI operated by 21Vianet is built on Azure, and uses <a ref="https://www.azure.cn/home/features/identity/">the Azure Active Directory</a> (Azure AD) identity and access management mechanisms to help ensure that only authorized users can access the environment, data, and reports.</p>
                <p>Power BI uses Azure AD as an identity repository for authentication and authorization. Users sign in to the Power BI service via a secure (HTTPS) website, and all communications between the user’s web browser and Power BI service are encrypted. The<a href="https://www.azure.cn/home/features/traffic-manager/"> Azure Traffic Manager </a>receives the request, checks the user’s DNS record, determines the location of the nearest Power BI deployment, and responds with the IP address of that web front end (WFE) cluster.</p>
                <p>The user is redirected to the 21Vianet Online Services to sign in, is authenticated, and is redirected to the nearest WFE cluster, which inspects the cookie obtained when the user signed in, checks with Azure AD to authenticate the Power BI service subscription, and returns an Azure AD security token. The WFE cluster returns the token, session information, and the web address of the appropriate back-end cluster. The user’s browser downloads files necessary to interact with the Power BI service. Subsequent interactions are through the back-end cluster, and include the user’s Azure AD token.</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li>To learn more about how the Azure Traffic Manager performs traffic routing, <a href="https://www.azure.cn/documentation/articles/traffic-manager-routing-methods/">read the Azure documentation </a>on Traffic Manager traffic-routing methods.</li>
                   <li>To learn more about the Azure Content Delivery Network (CDN), from which necessary files are downloaded,<a href="https://www.azure.cn/documentation/services/cdn/"> watch the Azure documentation CDN videos.</a></li>
                </ul>
                <p style="font-size:28px" id="infrastructure_Secure">Secure infrastructure</p>
                <p>Because Power BI operated by 21Vianet is built on Azure, it employs Azure infrastructure security, which relies on best security practices and technologies to protect Customer Data as it travels within datacenters located exclusively in mainland China and across the Internet. </p>
-               <p style="font-size:20px">Architecture</p>
+               <p style="font-szie:20px">Architecture</p>
                <p>The Power BI architecture is designed to help protect your data. Power BI is deployed in datacenters around the world, and each deployment consists of two clusters:
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><strong>WFE cluster. </strong>All users connect to the WFE before accessing any information in Power BI. Servers in the WFE cluster authenticate users, using Azure AD to store user identities and authorize access to data. The Azure Traffic Manager finds the nearest Power BI deployment, and that WFE cluster manages login and authentication.</li>
                   <li><strong>Back-end cluster.</strong> All subsequent activity and access to data is handled through the back-end cluster. It manages dashboards, visualizations, datasets, reports, data storage, data connections, and data refresh activities. The back-end cluster hosts many roles, including Azure API Management, Gateway, Presentation, Customer Data, Background Job Processing, and Data Movement.</li>
                </ul>
                <p>Users directly interact only with the Gateway role and Azure API Management, which are accessible through the Internet. These roles perform authentication, authorization, distributed denial-of-service (DDoS) protection, bandwidth throttling, load balancing, routing, and other security, performance, and availability functions. There is a distinct boundary between the roles that users can access and the roles that are accessible only by the system.</p>
-               <p style="font-size:20px">Threat management</p>
+               <p style="font-szie:20px">Threat management</p>
                <p>The <a href="threatmanagement">Azure multipronged threat management </a>approach protects Power BI operated by 21Vianet by using intrusion detection, DDoS attack prevention, penetration testing, data analytics, and machine learning to constantly strengthen its defense and reduce risks.</p>
-               <p style="font-size:20px">Physical security</p>
+               <p style="font-szie:20px">Physical security</p>
                <p>Power BI operated by 21Vianet is physically and logically entirely isolated from Microsoft Cloud services in other regions of the world, which datacenter located in mainland China are protected by layers of defense-in-depth security that include perimeter fencing, video cameras, security personnel, secure entrances, and real-time communications networks, continuing from every area of the facility to each physical server unit.</p>
                <p style="font-size:28px" id="apps_and_data_Secure">Secure apps and data</p>
                <p>Customer Data transferred through the Power BI operated by 21Vianet Enterprise Gateway and Personal Gateway are encrypted. Uploaded Customer Data is typically sent to Azure Blob storage, and all metadata and artifacts for the system itself are stored in an Azure SQL database.</p>
                <p>The Power BI service handles Customer Data at rest (not currently being acted upon) and Customer Data in process (being actively accessed or updated by users or the service). Customer Data is divided into two categories: </p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li>Customer Data accessed by direct query</li>
                   <li>Customer Data not accessed by direct query</li>
                </ul>
                <p>Direct queries are directly translated to the native language of an underlying data source. Non-direct queries do not include credentials for the underlying data. The distinction between a direct query and other queries determines how the Power BI service handles the data at rest, and whether the query itself is encrypted.</p>
                <p>Power BI uses<a href="https://www.azure.cn/home/features/storage"> Azure Storage</a> for Blob storage and <a href="https://www.azure.cn/home/features/sql-database/">Azure SQL Database </a>for metadata that the system generates and uses. The user never connects directly to these storage repositories—all user connections are made to the Gateway role, which then forwards requests for data to other roles, such as the Presentation role, which is used to render the dashboard.</p>
                <p>Only authorized users can access Customer Data, with authorization decisions based on the user’s identity. However, when users access Customer Data, it becomes their responsibility to secure any Customer Data they share (particularly in the case of static reports).</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><strong>Static reports.</strong> When a static report is created, the Customer Data is fixed in the report—similarly to a PDF. (There is no “callback” to the Power BI system to view the data visualized in the report.)</li>
                   <li><strong>Dynamic reports.</strong> With a dynamic report, the Customer Data doesn’t actually reside in the report; instead, the report is generated by pulling Customer Data from SQL Server Analysis Services, using the Power BI Analysis Service Connector[没找到世纪互联对应文章]Power BI Analysis Service Connector[去掉链接] to connect to SQL Server.</li>
                </ul>
