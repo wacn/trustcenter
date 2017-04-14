@@ -59,7 +59,7 @@ layout: TrustCenterPage
                <p><a target="_self" class="mscom-link" href="#apps_and_data_Secure">Secure apps and data</a></p>
                <p style="font-size:28px" id="identity_Secure">Secure identity</p>
                <p>21Vianet and Microsoft uses multiple security practices and technologies across the products and services to manage identity and access. These include: </p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Multi-Factor Authentication</a> requires users to use multiple methods for access, on-premises and in the cloud. It provides strong authentication with a range of easy verification options, while accommodating users with a simple sign-in process.</li>
                   <li><a href="https://www.azure.cn/documentation/articles/active-directory-passwords-learn-more">Password policy enforcement</a> increases the security of traditional passwords by imposing length and complexity requirements, forced periodic rotation, and account lockout after failed authentication attempts.</li>
                   <li><a href="https://www.azure.cn/documentation/articles/active-directory-authentication-scenarios/">Token-based authentication</a> enables authentication via Active Directory Federation Services (AD FS) or third-party secure token systems.</li>
@@ -83,7 +83,7 @@ layout: TrustCenterPage
                <p><strong>Azure AD Application Proxy </strong>provides single sign-on (SSO) and secure remote access for web applications hosted on-premises</p>
                <label id="Office_365_Secure">Office 365 operated by 21Vianet </label>
                <p>Office 365 uses Azure Active Directory to manage users. You can choose from three main identity models in Office 365 when you set up and manage user accounts. You can also switch to a different identity model if your requirements change.</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><strong>Cloud identity.</strong> Manage your user accounts in Office 365 only. No on-premises servers are required to manage users; it's all done in the cloud.</li>
                   <li><strong>Synchronized identity. Synchronize</strong> on-premises directory objects with Office 365 and manage your users on-premises. You can also synchronize passwords so that the users have the same password on-premises and in the cloud, but they must sign in again to use Office 365.</li>
                   <li><strong>Federated identity. </strong>Synchronize on-premises directory objects with Office 365 and manage your users on-premises. The users have the same password on-premises and in the cloud, and they do not have to sign in again to use Office 365. This is often referred to as SSO.</li>
