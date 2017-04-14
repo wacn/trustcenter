@@ -59,11 +59,11 @@ layout: TrustCenterPageCN
                <label>平台安全</label>
                <p>世纪互联认为，安全性不止于公有云平台。安全性保证需端到端嵌入从公有云平台到桌面系统之中。从一开始，我们便构建了多层级安全云服务平台，并进行了虚拟和物理的隔离。您的客户数据不仅受到加固的操作系统的保护，而且受到保护我们云服务的深度防御战略的支持。</p>
                <p>除此之外，我们还进行了持续的、主动以及被动的威胁监测和分析，对传输中的客户数据进行加密，并对在各数据中心之间传输的客户数据进行加密。我们对数据中心进行构建、管理和监测，保护数据免于未经授权的访问。我们也不会在云服务中设计后门程序。</p>
-               <p><a href="encryption-cn">了解更多关于加密的信息</a></p>
-               <p><a href="../transparency/you_know_where-cn">了解更多关于物理安全的信息</a></p>
+               <p><a href="/encryption-cn.html">了解更多关于加密的信息</a></p>
+               <p><a href="../transparency/default-cn.html">了解更多关于物理安全的信息</a></p>
                <label>网络安全</label>
                <p>我们会在您的基础架构和我们的云服务之间提供安全通信，阻止未经授权的流量。</p>
-               <p><a href="networksecurity-cn">了解更多关于网络安全的信息</a></p>
+               <p><a href="networksecurity">了解更多关于网络安全的信息</a></p>
                <label>安全特征</label>
                <p>具体的平台安全特征包括：</p>
                <ul style="list-style-type:disc">
