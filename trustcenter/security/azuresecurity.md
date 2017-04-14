@@ -58,20 +58,20 @@ layout: TrustCenterPage
                <p>Azure uses multiple safeguards to protect customer and enterprise data. These security practices and technologies include: </p>
                   <p><strong>Identity and access management </strong></p>
                   <p>Identity and access management</p>
-                  <ul>
+                  <ul style="list-style-type:disc">
                      <li>Helps ensure that only authorized users can access your environments, data, and applications.</li>
                      <li>Offers multi-factor authentication for highly secure sign-in, including specialized administrative access through Azure Active Directory Privileged Identity Management.</li>
                      <li>Performs authentication, authorization, and access control through industry-standard protocols to help developers integrate identity management into their apps across different platforms, and to build mobile and web apps that integrate with Microsoft and third-party APIs with OAuth 2.0.</li>
                      <li>Works as a standalone cloud directory for your organization or can be integrated with your on-premises Active Directory with directory sync and single sign-on (SSO).Allows federated applications to support user provisioning and password vaulting.</li>
                   </ul>
                   <p><b>Azure Multi-Factor Authentication</b></p>
-                  <ul>
+                  <ul style="list-style-type:disc" >
                      <li>Requires users to verify their sign-ins via mobile app, phone call, or text message.</li>
                      <li>Azure Active Directory Premium edition adds Multi-Factor Authentication custom greetings, fraud alert, security reports, one-time bypass, blocking/unblocking of users, customizable caller ID for authentication phone calls, and more.</li>
                   </ul>
                   <p><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Learn more about Azure Multi-Factor Authentication</a></p>
                   <p><span><strong>Encryption</strong> – Azure uses industry-standard protocols to encrypt Customer Data as it travels between devices and Azure datacenters,crosses between datacenters.</span></p>
-                  <ul>
+                  <ul style="list-style-type:disc">
                      <li>Protection for data in transit and at rest, including encryption for data, files, applications, services, communications, and drives</li>
                      <li>Support for and use of numerous encryption mechanisms, including SSL/TLS, IPsec, and AES.</li>
                      <li>Configuration support on VHDs that contain sensitive information.</li>

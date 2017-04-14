@@ -58,7 +58,7 @@ layout: TrustCenterPage
                <p style="font-size:28px">Secure infrastructure</p>
                <p>Detailed security audit trails are required for compliance with government and industry regulations, and comprehensive information regarding security events are necessary for conducting forensics investigations as a part of the follow-up to incident response. The ability to collect and analyze such information and filter it to fit your criteria is essential for identifying patterns and trends that can be used to protect the infrastructure and proactively prevent future incidents, so 21Vianet leverages monitoring and logging technologies to help you get maximum visibility into what’s going on under the hood on your network and within your applications that can affect the security of your resources and data.</p>
                <p>21Vianet provides a number of options for auditing and logging security events.</p>
-               <ul>
+               <ul style="list-style-type:disc">
                   <li><b>Security event logs</b> that are customizable to fit your security and reporting needs can help you keep track of activities that could pose a threat to your virtual machines in the cloud or your systems on-premises.</li>
                   <li><b>Audit policies</b> define the types of events that will be audited and determine to which users the auditing will apply.</li>
                   <li><b>Security alerts</b> are communications—via dashboards, email, or other means—that notify you when a security-related event is occurring or has occurred.</li>
