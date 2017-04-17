@@ -57,7 +57,7 @@ layout: TrustCenterPageCN
                <p><a href="https://www.trustcenter.cn/en-us/cloudservices/azure.html"> Azure概述 </a>Azure 采用了多重安全防护为客户和企业数据提供保护。这些安全措施和技术包括：</p>
                   <p><strong>身份和访问管理</strong></p>
                   <ul style="list-style-type:disc">
-                  <li>帮助确保只有经过授权的用户才能访问您的环境、客户数据和应用程序</li>
+                     <li>帮助确保只有经过授权的用户才能访问您的环境、客户数据和应用程序</li>
                      <li>为高级安全登录提供了多重身份验证功能，包括通过 Azure Active Directory 授权身份管理进行的专业化管理访问。</li>
                      <li>根据行业标准协议实施身份验证、授权和访问控制，以帮助开发者跨越不同平台将身份管理与其应用程序进行结合，同时将移动和网络应用程序整合至符合 OAuth2.0 协议的世纪互联和第三方应用程序接口中。</li>
                      <li>可用作企业的独立云目录，或可与您内部部署的 Active Directory 相结合，达到目录同步和单点登录（SSO）的效果。</li>
