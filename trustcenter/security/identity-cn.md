@@ -57,7 +57,7 @@ layout: TrustCenterPageCN
                <p><a target="_self" class="mscom-link" href="#identity_Secure">安全身份</a></p>
                <p><a target="_self" class="mscom-link" href="#infrastructure_Secure">安全基础架构</a></p>
                <p><a target="_self" class="mscom-link" href="#apps_and_data_Secure">安全应用程序和数据</a></p>
-               <p style="font-size:28px"> id="identity_Secure">安全身份</p>
+               <p style="font-size:28px" id="identity_Secure">安全身份</p>
                <p>世纪互联和微软对其产品和服务使用了多种安全实践和技术以管理身份和访问，其中包括：</p>
                <ul style="list-style-type:disc">
                   <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证 </a>要求用户采用多种方法进行本地和云访问。它通过一系列简单的验证选项提供强大的身份验证，同时为用户提供简单的登录流程。</li>
