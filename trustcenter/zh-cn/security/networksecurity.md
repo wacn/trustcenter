@@ -93,10 +93,7 @@ layout: TrustCenterPageCN
                 </p>
                 <p>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a>
                </p>
-               <label id="Power_BI_Secure">由世纪互联运营的 Power BI</label>
-
-               <p>Power BI 以 Power BI 个人网关为特征，允许用户为多个数据源创建凭据，并在访问这些数据源时能够自动使用这些凭据。网关如同一座桥梁，在 Power BI 服务和本地数据源之间提供快速、安全的数据传输。当 Power BI 从现场数据源刷新数据时，网关确保您的账户具有正当权限连接到源并从源中查询数据。</p>
-               <p>Azure 服务总线 对 Power BI 和网关之间的数据传输加以保护，在该服务和您的计算机之间创建了安全通道。因为网关提供了这种安全连接，所以通常无需在您的防火墙中再打开一个端口。</p>
+               
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
