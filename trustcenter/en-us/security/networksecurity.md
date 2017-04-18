@@ -56,9 +56,9 @@ layout: TrustCenterPage
                <p>In the public cloud, the isolation of customer infrastructure is fundamental to maintaining security. Azure, on which most cloud services based on Microsoft technology are built, accomplishes this primarily through a distributed virtual firewall, partitioned local area networks (LANs), and physical separation of back-end servers from public-facing interfaces. Customers can deploy multiple logically isolated private networks, and each virtual network is isolated from the other virtual networks. For on-premises customers, Windows Server 2016 includes firewall, threat analytics, and numerous network security features.</p>
                <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Azure, Office 365 and Power BI services. The Azure, Office 365 and Power BI network infrastructure blocks undesirable traffic to and within datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces. 
                </p>
-               <p href="#identity_Secure">Secure identity</p>
-               <p href="#infrastructure_Secure">Secure infrastructure</p>
-               <p href="#apps_and_data_Secure">Secure apps and data</p>
+               <p><a href="#identity_Secure">Secure identity</a></p>
+               <p><a href="#infrastructure_Secure">Secure infrastructure</a></p>
+               <p><a href="#apps_and_data_Secure">Secure apps and data</a></p>
                <p style="font-size:28px" id="identity_Secure">Secure identity</p>
                <p>21Vianet‘s cloud services that are built on Azure use Azure Active Directory for identity management, authentication, and access control. For on-premises customers, Windows Server 2016 uses Active Directory Domain Services (AD DS).</p>
                <p>Azure Active Directory and AD DS help ensure that only authorized users can access your network environment, data, and applications, and provide Azure Multi-Factor Authentication for highly secure sign in. With Multi-Factor Authentication, you can require users to verify their sign-in with a mobile application, phone call, or text message.</p>
@@ -77,7 +77,7 @@ layout: TrustCenterPage
                <p style="font-size:28px" id="apps_and_data_Secure">Secure apps and data</p>
                <p><a target="_self" class="mscom-link" href="#Azure_Secure">Azure</a></p>
                <p><a target="_self" class="mscom-link" href="#Office_365_Secure">Office 365</a></p>
-               <p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>
+               <!--<p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>-->
 
                <label id="Azure_Secure">Microsoft Azure operated by 21Vianet</label>
                <p><a href="https://www.azure.cn/home/features/networking/">Virtual Network</a> extends your on-premises network to the cloud through site-to-site VPN. You control the network topology and manage it just like your on-site infrastructure. Each virtual network is isolated from other virtual networks. 
@@ -96,8 +96,8 @@ layout: TrustCenterPage
                 <p>Learn more about <a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance </a>
                </p>
                <label id="Power_BI_Secure">Power BI operated by 21Vianet </label> 
-               <p>Power BI features the Power BI Personal Gateway, which enables users to create credentials for multiple data sources and automatically use those credentials when accessing the sources. The gateway acts as a bridge, providing quick and secure data transfer between the Power BI service and on-premises data sources. When Power BI refreshes data from an on-site data source, the gateway ensures that your account has the right permissions to connect to and query data from the source.</p>
-               <p>Data transfer between Power BI and the gateway is secured through Azure Service Bus, which creates a secure channel between the service and your computer. Because the gateway provides this secure connection, there’s usually no need to open a port in your firewall.</p>
+               <!--<p>Power BI features the Power BI Personal Gateway, which enables users to create credentials for multiple data sources and automatically use those credentials when accessing the sources. The gateway acts as a bridge, providing quick and secure data transfer between the Power BI service and on-premises data sources. When Power BI refreshes data from an on-site data source, the gateway ensures that your account has the right permissions to connect to and query data from the source.</p>
+               <p>Data transfer between Power BI and the gateway is secured through Azure Service Bus, which creates a secure channel between the service and your computer. Because the gateway provides this secure connection, there’s usually no need to open a port in your firewall.</p>-->
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">

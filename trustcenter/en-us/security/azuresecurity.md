@@ -75,7 +75,7 @@ layout: TrustCenterPage
                      <li>Protection for data in transit and at rest, including encryption for data, files, applications, services, communications, and drives</li>
                      <li>Support for and use of numerous encryption mechanisms, including SSL/TLS, IPsec, and AES.</li>
                      <li>Configuration support on VHDs that contain sensitive information.</li>
-                     <li>Access to data by Azure support personnel requires your explicit permission and is granted on a “just in time” basis that is logged and audited, then revoked after completion of the engagement. </li>
+                     <li>Access to data by Azure support personnel requires your explicit permission and is granted on a “just in time” basis that is logged and audited, then revoked after completion of the engagement. </li>
                   </ul>
                   <p><b>Azure Key Vault service</b></p>
                   <p>Secure key management is essential to protecting data in the cloud. Azure Key Vault enables Azure subscribers to safeguard and control cryptographic keys and other secrets used by cloud apps and services.</p>
@@ -93,7 +93,7 @@ layout: TrustCenterPage
                   <ul style="list-style-type:disc">
                      <li>You can encrypt your data before putting it into Azure, and you can store keys in your on-premises datacenter.</li>
                      <li>Client-side encryption for Azure Blob storage enables you to completely control the keys. The storage service never sees the keys and is incapable of decrypting the data. Azure Storage automatically encrypts your data prior to persisting to storage and decrypts prior to retrieval.</br><a href="https://www.azure.cn/documentation/articles/storage-service-encryption/">Learn more about Azure Storage Service Encryption</a></li>
-                     <li>Storage Account Keys, Shared Access Signatures, management certificates, and other keys are unique to each Azure tenant.</br>Learn more about Azure storage security and encryption best practices</li>
+                     <li>Storage Account Keys, Shared Access Signatures, management certificates, and other keys are unique to each Azure tenant.</br><a href="https://www.azure.cn/documentation/articles/storage-security-guide/">Learn more about Azure storage security and encryption best practices</a></li>
                   </ul>
                   <p><span><strong>Secure networks </strong>  – Azure infrastructure relies on security practices and technologies to connect virtual machines to each other and to on-premises datacenters, while blocking unauthorized traffic. Azure Virtual Networks extend your on-premises network to the cloud via a site-to-site virtual private network (VPN). You can also use <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute</a> to create a cross-premises connection when needing a private network connection. </span></p>
                   <p><a href="https://www.azure.cn/documentation/articles/best-practices-network-security/">Learn more about Azure network security</a></p>
@@ -109,14 +109,14 @@ layout: TrustCenterPage
                   <p><b>Azure Fabric Controller</b></p>
                   <ul style="list-style-type:disc">
                      <li>Allocates infrastructure resources to tenant workloads and manages unidirectional communications from the host to VMs.</li>
-                     <li>Uses the Azure hypervisor to enforce memory and process separation between VMs and securely route network traffic to guest OS tenants. Azure also implements isolation for tenants, storage, and virtual networks.</li>
+                  Azure storage security and encryption best practices   <li>Uses the Azure hypervisor to enforce memory and process separation between VMs and securely route network traffic to guest OS tenants. Azure also implements isolation for tenants, storage, and virtual networks.</li>
                   </ul>
 
                   <P><b>Network Security Groups (NSG)</b></P>
                   <ul style="list-style-type:disc">
                      <li>Control traffic to VM instances.</li>
                      <li>NSGs, user-defined routing, IP forwarding, forced tunneling, and endpoint ACLs help to secure communications on Azure Virtual Networks</li>
-                     <li>Azure implements packet-filtering firewalls on all host and guest VMs by default.</br>Learn more about<a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">Network Security Groups (NSG)</a></li>
+                     <li>Azure implements packet-filtering firewalls on all host and guest VMs by default.</br><a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">Learn more aboutAzure storage security and encryption best practices Network Security Groups (NSG)</a></li>
                   </ul>
 
 

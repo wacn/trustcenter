@@ -69,13 +69,15 @@ layout: TrustCenterPage
                <ul style="list-style-type:disc">
                   <li><strong>SQL Always Encrypted</strong> gives you the tools to encrypt sensitive data, such as credit card numbers and national identification numbers, and stored it in Azure SQL Database or SQL Server databases. SQL Always Encrypted creates data separation between those who own the data (authorized users) and those who manage the data (cloud database operators or administrators).</li>
                </ul>
-               <label for="">Anatomy of a breach</label>
+               <label>Anatomy of a breach</label>
                <p>Cybercrime is relentless. Understanding the anatomy of a breach, and how people infiltrate enterprise network defenses, can help you identify potential threats and better protect yourself and your company.</p>
                <p>Most breaches go through similar stages:</p>
-               <p>1.Stage one: The initial foothold. A spam email or a vulnerability can open the door for malicious hackers to gain a foothold in your organization.</p>
-               <p>2.Stage two: Local escalation. Once they’re in, they’ll look for a higher level of access or administrator rights to escalate and widen their influence.</p>
-               <p>3.Stage three: Network escalation. They gain access to high value credentials. Now, they reuse those across the environment to access to what they’re looking for.</p>
-               <p>4.Stage four: Persistence. They settle in for the long haul, commonly installing a permanent backdoor for long-term, repeat access to your systems.</p>
+               <ul style="list-style-type:disc">
+                  <li>Stage one: The initial foothold. A spam email or a vulnerability can open the door for malicious hackers to gain a foothold in your organization.</li>
+                  <li>Stage two: Local escalation. Once they’re in, they’ll look for a higher level of access or administrator rights to escalate and widen their influence.</li>
+                  <li>Stage three: Network escalation. They gain access to high value credentials. Now, they reuse those across the environment to access to what they’re looking for.</li>
+                  <li>Stage four: Persistence. They settle in for the long haul, commonly installing a permanent backdoor for long-term, repeat access to your systems.</li>
+               </ul>
                <p><a href="https://cloud-platform-assets.azurewebsites.net/anatomy-of-a-breach/">Explore anatomy of a breach infographic</a></p>
                <p><a href="https://news.microsoft.com/security2015/">Watch webcast on enterprise security for the cloud-first world</a></p>
 
