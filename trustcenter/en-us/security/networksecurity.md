@@ -95,9 +95,7 @@ layout: TrustCenterPage
                <p>Office 365 services follow industry cryptographic standards such as SSL/TLS and AES to protect the confidentiality and integrity of data. All customer-facing servers negotiate a secure session using SSL/TLS with client machines. The use of TLS/SSL establishes a highly secure client-to-server connection to help provide data confidentiality and integrity between the desktop and the datacenter. 
                 <p>Learn more about <a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance </a>
                </p>
-               <label id="Power_BI_Secure">Power BI operated by 21Vianet </label> 
-               <!--<p>Power BI features the Power BI Personal Gateway, which enables users to create credentials for multiple data sources and automatically use those credentials when accessing the sources. The gateway acts as a bridge, providing quick and secure data transfer between the Power BI service and on-premises data sources. When Power BI refreshes data from an on-site data source, the gateway ensures that your account has the right permissions to connect to and query data from the source.</p>
-               <p>Data transfer between Power BI and the gateway is secured through Azure Service Bus, which creates a secure channel between the service and your computer. Because the gateway provides this secure connection, there’s usually no need to open a port in your firewall.</p>-->
+               
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
