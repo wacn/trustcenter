@@ -94,10 +94,7 @@ layout: TrustCenterPageCN
                <p>Office 365 服务使用诸如 SSL/TLS 和 AES 等行业加密标准，以保护客户数据的机密性和完整性。所有面向客户的服务器会使用 SSL/TLS 与客户端设备协商使用安全会话。TLS/SSL 可在客户端与服务器之间建立高度安全的连接，保障用户设备和数据中心之间所传输数据的机密性和完整性。
                <p>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a>
                </p>
-               <!--<label id="Power_BI_Secure">由世纪互联运营的 Power BI</label>
-
-               <p>Power BI 以 Power BI 个人网关为特征，允许用户为多个数据源创建凭据，并在访问这些数据源时能够自动使用这些凭据。网关如同一座桥梁，在 Power BI 服务和本地数据源之间提供快速、安全的数据传输。当 Power BI 从现场数据源刷新数据时，网关确保您的账户具有正当权限连接到源并从源中查询数据。</p>
-               <p>Azure 服务总线 对 Power BI 和网关之间的数据传输加以保护，在该服务和您的计算机之间创建了安全通道。因为网关提供了这种安全连接，所以通常无需在您的防火墙中再打开一个端口。</p>-->
+               
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
