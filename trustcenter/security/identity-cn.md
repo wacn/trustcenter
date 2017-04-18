@@ -95,10 +95,9 @@ layout: TrustCenterPageCN
                   </li>
                   <li><strong>多重身份验证</strong>加强了多设备与云应用环境的安全防御。Azure Active Directory 可提供电话、文字简讯、应用程序通知推送在内的多重身份验证，它同时支持第三方多重身份验证的解决方案.当客户用多重身份验证登录，后台可创建一个或多个程序密码来保护客户终端安全应用。</li>
                </ul>
-               <br/>
                <p><a target="_self" class="mscom-link withArrow" href="../security/office365security-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a></p>
                <label id="Power_BI_Secure">由世纪互联运营的 Power BI</label>
-               <p>Power BI 使用 Azure 活动目录验证登录该服务的用户；每当用户尝试访问需要身份验证的资源时，会有提示要求输入 Power BI 凭据。用户可通过其在 Power BI 账户中设立的电子邮件地址登录该服务；Power BI 将电子邮件地址用作用户名，每当用户尝试连接至数据时，该用户名都将被传递给相关资源。</br><a target="_self" class="mscom-link withArrow" href="../security/office365security-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a></p>
+               <p>Power BI 使用 Azure 活动目录验证登录该服务的用户；每当用户尝试访问需要身份验证的资源时，会有提示要求输入 Power BI 凭据。用户可通过其在 Power BI 账户中设立的电子邮件地址登录该服务；Power BI 将电子邮件地址用作用户名，每当用户尝试连接至数据时，该用户名都将被传递给相关资源。</br><a target="_self" class="mscom-link withArrow" href="../security/powerbi-security-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a></p>
 
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

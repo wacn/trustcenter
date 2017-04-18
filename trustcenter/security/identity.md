@@ -98,7 +98,7 @@ layout: TrustCenterPage
                <p><a target="_self" class="mscom-link withArrow" href="../security/office365security.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a></p>
                <label id="Power_BI_Secure">Power BI operated by 21Vianet</label>
                <p>Power BI uses Azure Active Directory to authenticate users who sign in to the service, and prompts for Power BI credentials whenever a user attempts to access resources that require authentication. Users sign in to the service by using the email addresses they set up in their Power BI accounts; Power BI uses the email address as the username, which is passed to resources whenever a user attempts to connect to data.
-               <br/><a target="_self" class="mscom-link withArrow" href="../security/office365security.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a></p>
+               <br/><a target="_self" class="mscom-link withArrow" href="../security/powerbi-security.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">Learn more</a></p>
 
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
