@@ -67,7 +67,7 @@ layout: TrustCenterPage
                 <!--<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>--></p>
                 <p><strong style="color:rgb(0,115,198)">Incident-Response presence</strong> 21Vianet operates a 24x7 event and incident response team to help mitigate threats from attacks and malicious activity. Our incident response team is on constant alert to identify, investigate, and resolve security incidents and vulnerabilities in the security of software. The detection of a security event mobilizes engineers and a communications team; while the engineering team conducts a detailed investigation of the issue and develops a solution, it works with the communications team who develops guidance for customers.</p>
                 <p>The <strong  style="color:rgb(0,115,198)">21Vianet Security Response Team, </strong>led by experienced security experts, delivers security response, collaborates with the security community to help improve customer security, advances innovation in the security landscape, and provides authoritative security guidance.</p>
-                <label>Security tool</label>
+                <p style="font-size:20px">Security tool</p>
                 <p>21Vianet provides tools to help developers build and maintain secure apps, protect your data from threats, and address security compliance requirements, at the same time reducing development costs.</p>
                 <p><a href="https://www.microsoft.com/en-us/sdl/default.aspx">Learn more about security tools</a></p>
             </div>
