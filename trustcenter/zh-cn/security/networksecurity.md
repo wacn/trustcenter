@@ -55,9 +55,9 @@ layout: TrustCenterPageCN
                <p>保护云和本地的网络流量的安全性和机密性是客户数据保护战略的关键部分。保护网络基础架构的安全有助于防止攻击，拦截恶意软件，并保护您的客户数据免受未经授权的访问、中断访问或丢失。</p>
                <p>对公有云来说，客户基础架构的隔离对维护安全性至关重要。Azure 主要通过分布式虚拟防火墙、分区局域网（LAN）、以及后端服务器与面向公共接口的物理隔离来为您提供基于微软技术的云服务。客户可以部署多个逻辑隔离的专用网络，每个虚拟网络都会与其他虚拟网络相隔离。</p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 网络为服务和客户端相互之间，以及客户现场数据中心与 Azure、Office 365 和 Power BI 服务之间安全的连接提供了必要的基础结构。Azure、Office 365 和 Power BI 使用多种技术阻止发往数据中心以及数据中心内部的不良通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离。</p>
-               <p href="#identity_Secure">安全身份</p>
-               <p href="#infrastructure_Secure">安全基础架</p>
-               <p href="#apps_and_data_Secure">安全应用程序和数据</p>
+               <p><a href="#identity_Secure">安全身份</a></p>
+               <p><a href="#infrastructure_Secure">安全基础架</a></p>
+               <p><a href="#apps_and_data_Secure">安全应用程序和数据</a></p>
                <p style="font-size:28px" id="identity_Secure">安全身份</p>
                <p>世纪互联的云服务构建在 Azure 上，利用 Azure Active Directory 来进行身份管理、身份验证和访问控制。</p>
                <p>Azure Active Directory 和 ADDS 帮助确保只有经授权的用户才能访问您的网络环境、数据和应用程序，同时提供 Azure 多重身份验证服务以确保登录高度安全。启用多重身份验证功能后，您可要求用户通过手机应用程序、电话呼叫或短信等方式来验证登录。</p>
@@ -75,7 +75,7 @@ layout: TrustCenterPageCN
                <p style="font-size:28px" id="apps_and_data_Secure">安全应用程序和数据</p>
                <p><a target="_self" class="mscom-link" href="#Azure_Secure">Azure</a></p>
                <p><a target="_self" class="mscom-link" href="#Office_365_Secure">Office 365</a></p>
-               <p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>
+               <!--<p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>-->
                <label id="Azure_Secure">由世纪互联运营的 Microsoft Azure</label>
                <p><a href="https://www.azure.cn/home/features/networking/">虚拟网络</a> 可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
                </p>

@@ -69,7 +69,7 @@ layout: TrustCenterPageCN
                 <p><strong style="color: rgb(21, 112, 166); font-weight:300">假定入侵策略 </strong>进一步加固了 Azure、Office 365 和 Power BI 服务，使其技术领先于不断出现的威胁。这种方法通过假设攻击者已经成功利用漏洞或获得了特权访问，来改变设计、开发和运营的基本前提。由安全专家组成的专属“红色小组”会在网络、平台，以及应用程序层面模拟现实世界的攻击，借此对 Azure、Office 365 和 Power BI 检测和防范安全入侵，以及从入侵中恢复的能力提出挑战。<!--<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>--></p>
                 <p><strong style="color: rgb(21, 112, 166); font-weight:300">现场事件响应 </strong>世纪互联配备了全天候事件响应团队，帮助消除攻击和恶意活动的威胁。我们的事件响应团队时刻保持警惕，以识别、调查、解决自身软件的安全事件和安全漏洞。检测安全事件会调动技术团队和沟通团队，技术团队和沟通团队在此过程中通力协作，由技术团队对问题展开详细调查并制定解决方案，由沟通团队为客户制定指南。</p>
                 <p><strong style="color: rgb(21, 112, 166); font-weight:300">世纪互联安全响应团队 </strong>由有经验的安全专家领导，负责提供安全响应，与安全社区展开协作，提高客户的安全性，推进安全领域的技术创新，提供权威的安全指导。</p>
-                <lable>安全工具</lable>
+                <p sytle="font-size:20px">安全工具</p>
                 <p>世纪互联提供工具来帮助开发人员建立和维护安全应用程序，保护您的客户数据免受威胁，解决安全合规需求，同时减少开发成本。</p>
                 <p>了解更多有关<a href="https://www.microsoft.com/en-us/sdl/default.aspx">安全工具</a>的信息</p>
             </div>

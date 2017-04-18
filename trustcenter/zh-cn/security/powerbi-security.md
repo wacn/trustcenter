@@ -55,7 +55,7 @@ layout: TrustCenterPageCN
                <p>利用安全的客户数据可视化云解决方案保护您的客户数据和报告</p>
                <p>由世纪互联运营的 Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。</p>
                <p><a href="">Power BI 概述</a></p>
-               <p>Power BI 服务以<a href="azuresecurity-cn">Azure</a>为基础，能够从 Azure 平台强大的安全技术中受益。Power BI 采用分离式前端与后端集群、网关和安全的客户数据存储结构来保护您的信息。认证过程可将未授权用户拒之门外；无论是存储状态还是传输状态下，客户数据加密技术均能保证客户数据的机密性。同时，Power BI 还可在云端或本地整合您企业所有的客户数据。</p>
+               <p>Power BI 服务以<a href="azuresecurity.html">Azure</a>为基础，能够从 Azure 平台强大的安全技术中受益。Power BI 采用分离式前端与后端集群、网关和安全的客户数据存储结构来保护您的信息。认证过程可将未授权用户拒之门外；无论是存储状态还是传输状态下，客户数据加密技术均能保证客户数据的机密性。同时，Power BI 还可在云端或本地整合您企业所有的客户数据。</p>
                <p>Power BI 服务受 <a href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议 </a>和<a href="http://www.21vbluecloud.com/office365/O365-Privacy/"> 世纪互联运营的 Office 365 和 Power BI 隐私声明 </a>的约束。</p>
                <p style="font-size:28px">主题</p>
                <p><a target="_self" class="mscom-link" href="#identity_Secure">安全身份</a></p>
@@ -79,11 +79,11 @@ layout: TrustCenterPageCN
                </ul>
                <p>可与用户实现直接交互的只有网关和 Azure 应用程序接口管理，二者皆可通过互联网进行访问。这些角色可实现认证、授权、分布式拒绝服务（DDoS）防御、带宽节流、负载均衡、路由及其他安全、性能和可用性功能。用户可获取的角色与仅系统能取得的角色之间存在明显的界限。</p>
                <p style="font-size:20px">威胁管理</p>
-               <p><a href="/threatmanagement.html">Azure 多极威胁管理</a> 手段借助侵入检测、分布式拒绝服务攻击预防、渗透测试、数据分析学和机器学习来持续增强防御能力、减少风险，对由世纪互联运营的  Power BI 实施保护。</p>
+               <p><a href="../security/threatmanagement.html">Azure 多极威胁管理</a> 手段借助侵入检测、分布式拒绝服务攻击预防、渗透测试、数据分析学和机器学习来持续增强防御能力、减少风险，对由世纪互联运营的  Power BI 实施保护。</p>
                <p style="font-size:20px">物理安全</p>
                <p>无论从物理角度还是逻辑角度，由世纪互联运营的 Power BI 均与世界其他地区的微软云服务实现了完全隔离，数据中心位于中国大陆，由深度防御安全体系层层保护。该防御安全体系包括周边防护、摄影机、安保人员、安全入口和实时通讯网络，防御范围从该设施的每个区域延续至每一个物理服务器单元。</p>
                <p style="font-size:28px" id="apps_and_data_Secure">安全应用程序与数据</p>
-               <p>客户数据经世纪互联企业网关和个人网关运营的 Power BI 传输时均被加密。上传的客户数据通常被送至 Azure Blob 存储器中，系统自带的所有元数据和人工资料均被存储在 Azure SQL 数据库中。</p>
+               <p>客户数据经世纪互联企业网关运营的 Power BI 传输时均被加密。上传的客户数据通常被送至 Azure Blob 存储器中，系统自带的所有元数据和人工资料均被存储在 Azure SQL 数据库中。</p>
                <p>Power BI 服务可处理存储后的客户数据（非当前处理客户数据）和处理中的客户数据（当前因用户或服务而被访问或更新的数据）。客户数据分为两类：</p>
                <ul style="list-style-type:disc">
                   <li>通过直接查询被访问的客户数据</li>
@@ -94,7 +94,7 @@ layout: TrustCenterPageCN
                <p>用户仅在获得授权后方可访问客户数据，而授权决定则取决于用户的身份。不过，用户在访问客户数据时须保护其共享的所有客户数据（在静态报告中尤其如此）。</p>
                <ul style="list-style-type:disc">
                   <li><strong>静态报告</strong>创建静态报告时，客户数据被固定在报告中——与PDF文件类似。（无法通过向 Power BI 系统发送“回叫信号”来观看报告中的可视化数据）</li>
-                  <li<strong>动态报告</strong>客户数据并非真实存在于动态报告中；相反，动态报告通过从 SQL 服务器分析服务中获取客户数据得以生成，并借助Power BI分析服务连接器连入 SQL 服务器中。</li>
+                  <li><strong>动态报告</strong>客户数据并非真实存在于动态报告中；相反，动态报告通过从 SQL 服务器分析服务中获取客户数据得以生成，并借助Power BI分析服务连接器连入 SQL 服务器中。</li>
                </ul>
                <p>授权用户可与未经授权的用户共享静态报告的内容。然而，用户仅能在得到认证和授权后才可获取动态报告的内容。借助 HTTPS 将数据源连接至 Power BI 服务，所有由 Power BI 请求和传输的客户数据均在传输过程中被加密。</p>
             </div> 

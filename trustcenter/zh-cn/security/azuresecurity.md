@@ -54,7 +54,8 @@ layout: TrustCenterPageCN
                <p>任何采用公有云和混合云的企业都会对服务提供商的安全策略、运营和系统进行深入考察。机密信息是公司的命脉，对于很多行业来说，客户数据的使用、传输和存储都受到诸多制约。
                </p>
                <p>由世纪互联运营的 Microsoft Azure 针对您的需求，在提供业务的同时，还提供了完善的数据安全、隐私保护、可控及透明性。通过采用安全开发生命周期 (SDL) 流程，Azure 平台自设计至方案发布，以及后续升级更新过程中，安全和隐私保护始终被充分考虑。世纪互联通过安全管理流程为平台运营提供安全指南。我们还严格根据由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/"> 世纪互联运营的 Microsoft Azure 隐私声明 </a>构建和运营各项服务。 </p>
-               <p><a href="https://www.trustcenter.cn/en-us/cloudservices/azure.html"> Azure概述 </a>Azure 采用了多重安全防护为客户和企业数据提供保护。这些安全措施和技术包括：</p>
+               <p><a href="https://www.trustcenter.cn/en-us/cloudservices/azure.html"> Azure 概述 </a></p>
+               <p>Azure 采用了多重安全防护为客户和企业数据提供保护。这些安全措施和技术包括：</p>
                   <p><strong>身份和访问管理</strong></p>
                   <ul style="list-style-type:disc">
                      <li>帮助确保只有经过授权的用户才能访问您的环境、客户数据和应用程序</li>
@@ -91,9 +92,8 @@ layout: TrustCenterPageCN
                   <p><b>数据与存储安全特征</b></p>
                   <ul style="list-style-type:disc">
                      <li>您可以在将客户数据导入 Azure 之前对其进行加密，并将密钥存储在内部部署的数据中心中。</li>
-                     <li>Azure Blob 存储的客户端加密使您能够完全控制密钥。存储服务无法获取密钥，也不能解密数据。Azure Storage 会在您选择存储客户数据之前自动加密您的数据，并在读取客户数据之前自动解密。</br><a href="https://www.azure.cn/documentation/articles/storage-service-encryption/"> 了解更多有关Azure存储服务加密的详细信息 </a></li>
-                     <li>每位 Azure 租户均享有独一无二的存储帐户密钥、共享访问签名、管理证书和其他密钥。</br>了解更多有关<a href="https://www.trustcenter.cn/zh-cn/cloudservices/azure.html"> Azure存储安全与加密最佳实践</a> 的信息</li>
-                     <li></li>
+                     <li>Azure Blob 存储的客户端加密使您能够完全控制密钥。存储服务无法获取密钥，也不能解密数据。Azure Storage 会在您选择存储客户数据之前自动加密您的数据，并在读取客户数据之前自动解密。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/storage-service-encryption/"> Azure 存储服务加密</a> 的详细信息</li>
+                     <li>每位 Azure 租户均享有独一无二的存储帐户密钥、共享访问签名、管理证书和其他密钥。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/storage-security-guide/"> Azure 存储安全与加密最佳实践</a> 的信息</li>
                   </ul>
                   <p><span><strong>网络安全</strong>  - Azure 基础架构依托各种安全措施和技术，在虚拟机间和虚拟机到内部部署数据中心间建立互联，并有效阻止未经授权的通信。Azure 虚拟网络可以通过站到站虚拟私有网络（VPN）将您的内部网络扩展至云端。当您需要私有网络连接的时候，还可以使用 <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/"> ExpressRoute </a> 来建立跨越内部部署的连接。</span></p>
                   <p>了解更多关于<a href="https://www.azure.cn/documentation/articles/best-practices-network-security/"> Azure 网络安全 </a>的信息<b>
