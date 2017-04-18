@@ -80,7 +80,7 @@ layout: TrustCenterPage
                <p><strong>Azure Active Directory Identity Protection</strong> is a security service that provides a consolidated view into risk events and potential vulnerabilities affecting your organization’s identities, leveraging AAD’s anomaly detection capabilities.</p>
                <p><strong>Azure Active Directory Domain Services </strong>enables you to join Azure virtual machines (VMs) to a domain without the need to deploy domain controllers. Users sign in to these VMs using their corporate Active Directory credentials, and can access resources seamlessly.</p>
                <p><strong>Azure Active Directory B2B Collaboration</strong> is a secure partner integration solution that supports your cross-company relationships by enabling partners to selectively access your corporate applications and data by using their self-managed identities.</p>
-               <p><strong>Azure AD Application Proxy </strong>provides single sign-on (SSO) and secure remote access for web applications hosted on-premises</p>
+               <p><strong>Azure AD Application Proxy </strong>provides single sign-on (SSO) and secure remote access for web applications hosted on-premises.</p>
                <label id="Office_365_Secure">Office 365 operated by 21Vianet </label>
                <p>Office 365 uses Azure Active Directory to manage users. You can choose from three main identity models in Office 365 when you set up and manage user accounts. You can also switch to a different identity model if your requirements change.</p>
                <ul style="list-style-type:disc">
