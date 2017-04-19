@@ -116,7 +116,7 @@ layout: TrustCenterPage
                   <ul style="list-style-type:disc">
                      <li>Control traffic to VM instances.</li>
                      <li>NSGs, user-defined routing, IP forwarding, forced tunneling, and endpoint ACLs help to secure communications on Azure Virtual Networks</li>
-                     <li>Azure implements packet-filtering firewalls on all host and guest VMs by default.</br><a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">Learn more aboutAzure storage security and encryption best practices Network Security Groups (NSG)</a></li>
+                     <li>Azure implements packet-filtering firewalls on all host and guest VMs by default.</br><a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">Learn more about Azure storage security and encryption best practices Network Security Groups (NSG)</a></li>
                   </ul>
 
 
