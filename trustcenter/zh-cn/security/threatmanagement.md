@@ -79,7 +79,7 @@ layout: TrustCenterPageCN
                   <li><strong>DDoS 防御</strong> - 由世纪互联提供的分布式拒绝服务(DDoS) 是 Azure 通过持续监控和定期渗透测试，改善 Azure 控制机制和流程工作的一部分。Azure 的 DDoS 防御系统在设计上不仅可以抵挡外部攻击，而且可以抵挡来自内部其他 Azure 租户的攻击。Azure 使用了标准的入侵检测和缓解技术，例如 SYN cookie、速率限制，以及连接限制等保护防范此类攻击。</li>
                </ul>
                <p>
-                  了解更多有关 <a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a>的信息
+                  了解更多有关<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a>的信息
                   </p>
                <p><strong>威胁管理合作伙伴:</strong>除了 Azure 内置的强大的安全性能外，世纪互联还为 Azure 提供了一系列第三方安全产品，以满足您独特的安全需求。</p>
                <p>在<a href="https://market.azure.cn/"> Azure 镜像市场</a>中寻找合适的威胁管理合作伙伴</p>
