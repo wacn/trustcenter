@@ -63,7 +63,7 @@ layout: TrustCenterPage
                <p><a href="#Secure_infrastructure">Secure infrastructure</a></p>
                <p><a href="#Secure_apps_and_data">Secure apps and data</a></p>
                <label id="Secure_identity">Secure identity</label>
-               <p>Office 365 uses <a href="https://www.azure.cn/home/features/identity/"> Azure Active</a> Directory (Azure AD) to manage users and to provide authentication, identity management, and access control. Azure AD capabilities include a cloud-based store for directory data and a core set of identity services, such as user logon processes, authentication services, and federation services. These identity services easily integrate with your on-premises Azure AD deployments and fully support third-party identity providers.</p>
+               <p>Office 365 uses <a href="https://www.azure.cn/home/features/identity/"> Azure Active Directory </a>(Azure AD) to manage users and to provide authentication, identity management, and access control. Azure AD capabilities include a cloud-based store for directory data and a core set of identity services, such as user logon processes, authentication services, and federation services. These identity services easily integrate with your on-premises Azure AD deployments and fully support third-party identity providers.</p>
                <p>Office 365 uses Multi-Factor Authentication, managed from the Office 365 admin center, to help provide extra security. Office 365 offers the following subset of <a href="https://www.azure.cn/home/features/multi-factor-authentication/">Azure Multi-Factor Authentication</a> capabilities as a part of the subscription:</p>
                <ul style="list-style-type:disc">
                   <li>Ability to enable and enforce Multi-Factor Authentication for end users</li>
@@ -107,7 +107,7 @@ layout: TrustCenterPage
                   <li>Identity systems and services such as Windows Active Directory, Azure Active Directory, and Active Directory Federation Services can be enabled for highly secure access to Office 365.</li>
                   <li>Features like legal hold, governance, and archiving allow administrators to place a hold on sensitive data for legal and archiving purposes.</li>
                </ul>
-               <label id="Secure_apps_and_data">Secure apps and data</p>
+               <label id="Secure_apps_and_data">Secure apps and data</label>
                <p style="font-size:20px">Data encryption</font>
                <p>Office 365 uses service-side technologies that encrypt customer data at rest and in transit. For customer data at rest, Office 365 uses volume-level and file-level encryption. For customer data in transit, Office 365 uses multiple encryption technologies for communications between datacenters and between clients and servers, such as Transport Layer Security (TLS) and Internet Protocol Security (IPsec). Office 365 also includes customer-managed encryption features. Customer Data stored within Office 365 is protected in all configurations. Validation of cryptographic policy and its enforcement is independently verified through multiple third-party auditors.</p>
                <p style="font-size:20px">Maintaining security in multitenant architecture</font>

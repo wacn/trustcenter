@@ -78,7 +78,7 @@ layout: TrustCenterPage
                   <li><strong>Distributed denial-of-service (DDoS) defenses. </strong>To protect the cloud services, Azure provides a distributed denial-of-service (DDoS) defense system that is part of the continuous monitoring and penetration-testing processes of Azure. Azure's DDoS defense system is designed not only to withstand attacks from the outside, but also from other Azure tenants. Azure uses standard detection and mitigation techniques such as SYN cookies, rate limiting, and connection limits to protect against these attacks.  </li>
                </ul>
                <p>
-                  Learn more about<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a>
+                  Learn more about <a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a>
                   </p>
                   <p><strong>Threat management partners.</strong> In addition to the robust security benefits built into Azure, Microsoft offers a rich array of third party security products for Azure that are built to meet your unique security needs. </p><p><a href="https://market.azure.cn/">Find the right threat management partner in the Azure Marketplace</a></p>
                <label>Office 365 operated by 21Vianet</label>
