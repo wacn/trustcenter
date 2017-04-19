@@ -79,7 +79,7 @@ layout: TrustCenterPageCN
                <label id="Azure_Secure">由世纪互联运营的 Microsoft Azure</label>
                <p><a href="https://www.azure.cn/home/features/networking/">虚拟网络</a>可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
                </p>
-               <p><a href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute</a>可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
+               <p><a href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute </a>可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
                </p>
                <p><strong>网络安全组</strong>可用于对 Azure 虚拟网络中一个或多个虚拟机 (VM) 的通讯进行控制。网络安全组 (NSG) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
                </p>
@@ -91,7 +91,7 @@ layout: TrustCenterPageCN
                </p>
                <p>Office 365 服务使用诸如 SSL/TLS 和 AES 等行业加密标准，以保护客户数据的机密性和完整性。所有面向客户的服务器会使用 SSL/TLS 与客户端设备协商使用安全会话。TLS/SSL 可在客户端与服务器之间建立高度安全的连接，保障用户设备和数据中心之间所传输数据的机密性和完整性。
                 </p>
-                <p>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a>
+                <p>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf"> Office 365 安全与合规白皮书</a>
                </p>
                
               </div> 
