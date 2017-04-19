@@ -90,8 +90,7 @@ layout: TrustCenterPage
                <label>Power BI operated by 21Vianet</label>
                <p>Power BI runs on the Azure infrastructure, and uses the threat management protections that are built into Azure. Specifically, Power BI helps protect against threats by separating the front-end web cluster from the back-end cluster, where activity and access to data are handled. It creates a further boundary on the back-end cluster between the Gateway and API Management roles and other roles that are accessible only by the system. Because only the Gateway and API Management roles are accessible over the Internet, this helps protect against DDoS attacks and unauthorized access.</p>
                <p style="font-size:12px; color:#666666;margin-top: 50px;">Notes:  ①The Microsoft Antimalware Client and Service is installed by default in a disabled state in all Cloud Services. The Microsoft Antimalware Client and Service is not installed by default in the Virtual Machines platform; it is available as an optional security extension.</p>
-               <!--<p><strong>Exchange Online高级威胁保护(ATP) </strong>)实时保护您的电子邮件免受未知的和复杂的攻击。它可防止不安全的附件，并通过提供实时的和点击瞬间的扩展防护，使邮件免受恶意链接的侵袭。作为Exchange Online Protection安全功能的补充，Exchange Online ATP为邮件系统提供更好的全天候安全保护。
-               </p>-->
+               
             </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
