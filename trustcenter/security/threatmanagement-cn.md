@@ -91,7 +91,7 @@ layout: TrustCenterPageCN
                <p><strong>Exchange Online 高级威胁保护( ATP )是一项可选附加服务，</strong>实时保护您的电子邮件免受未知的和复杂的攻击。它可防止不安全的附件，并通过提供实时的和点击瞬间的扩展防护，使邮件免受恶意链接的侵袭。作为 Exchange Online Protection 安全功能的补充，Exchange Online ATP 为邮件系统提供更好的全天候安全保护。
                </p>
                <label>由世纪互联运营的 Power BI</label>
-               <p>Power BI 在 Azure 基础架构上运行，并采用内置于 Azure 的威胁管理保护功能。具体来说，，Power BI 通过将前端网络集群与后端网络集群相分离来防范威胁,而后端网络集群是负责处理活动和进行数据访问的。Power BI 在网关、应用程序接口管理角色及其他只能为系统所访问的角色之间的后端集群中创建了进一步界限。因为只有网关和应用程序接口管理角色可以通过互联网访问，所以这此举有助于防范 DDos 攻击和未经授权的访问。</p>
+               <p>Power BI 在 Azure 基础架构上运行，并采用内置于 Azure 的威胁管理保护功能。具体来说，Power BI 通过将前端网络集群与后端网络集群相分离来防范威胁,而后端网络集群是负责处理活动和进行数据访问的。Power BI 在网关、应用程序接口管理角色及其他只能为系统所访问的角色之间的后端集群中创建了进一步界限。因为只有网关和应用程序接口管理角色可以通过互联网访问，所以这此举有助于防范 DDos 攻击和未经授权的访问。</p>
                <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态。Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台层面，而是列为可选安全扩展方案。</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
