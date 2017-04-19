@@ -92,11 +92,11 @@ layout: TrustCenterPageCN
                   <p><b>数据与存储安全特征</b></p>
                   <ul style="list-style-type:disc">
                      <li>您可以在将客户数据导入 Azure 之前对其进行加密，并将密钥存储在内部部署的数据中心中。</li>
-                     <li>Azure Blob 存储的客户端加密使您能够完全控制密钥。存储服务无法获取密钥，也不能解密数据。Azure Storage 会在您选择存储客户数据之前自动加密您的数据，并在读取客户数据之前自动解密。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/storage-service-encryption/"> Azure 存储服务加密</a> 的详细信息</li>
+                     <li>Azure Blob 存储的客户端加密使您能够完全控制密钥。存储服务无法获取密钥，也不能解密数据。Azure Storage 会在您选择存储客户数据之前自动加密您的数据，并在读取客户数据之前自动解密。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/storage-service-encryption/"> Azure 存储服务加密</a>的详细信息</li>
                      <li>每位 Azure 租户均享有独一无二的存储帐户密钥、共享访问签名、管理证书和其他密钥。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/storage-security-guide/">Azure 存储安全与加密最佳实践</a>的信息</li>
                   </ul>
-                  <p><span><strong>网络安全</strong>  - Azure 基础架构依托各种安全措施和技术，在虚拟机间和虚拟机到内部部署数据中心间建立互联，并有效阻止未经授权的通信。Azure 虚拟网络可以通过站到站虚拟私有网络（VPN）将您的内部网络扩展至云端。当您需要私有网络连接的时候，还可以使用 <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute</a> 来建立跨越内部部署的连接。</span></p>
-                  <p>了解更多关于<a href="https://www.azure.cn/documentation/articles/best-practices-network-security/"> Azure 网络安全 </a>的信息<b>
+                  <p><span><strong>网络安全</strong> - Azure 基础架构依托各种安全措施和技术，在虚拟机间和虚拟机到内部部署数据中心间建立互联，并有效阻止未经授权的通信。Azure 虚拟网络可以通过站到站虚拟私有网络（VPN）将您的内部网络扩展至云端。当您需要私有网络连接的时候，还可以使用<a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute</a>来建立跨越内部部署的连接。</span></p>
+                  <p>了解更多关于<a href="https://www.azure.cn/documentation/articles/best-practices-network-security/"> Azure 网络安全</a>的信息<b>
 物理基础设施安全</b>——由世纪互联运营的 Microsoft Azure 在物理和逻辑上完全与全球其他地区的微软云服务隔离。世纪互联的服务受到深度防御安全体系的层层保护，包括周边防护、摄影机、安保人员、安全入口和实时通讯网络等。深度防御安全体系贯穿设施的每个区域，也囊括了每一个物理服务器单元。</p>
                   <p><span><strong>威胁管理</strong> - Microsoft Antimalware 对 Azure 服务和虚拟机提供持续保护并能支持在订购中部署第三方安全解决方案，例如网络应用程序防火墙、网络防火墙、反恶意软件、入侵检测和预防系统（IDS / IPS）等。世纪互联还通过入侵检测、拒绝服务（DDoS）攻击防护、渗透测试、数据分析和机器学习不断加强防御能力并减少风险。</span></p>
                   <p><span><strong>安全控制及功能</strong> - Azure 为客户提供了一个可信赖的平台，以供他们设计、构建和管理自己的安全云应用程序和基础架构。</span>
@@ -115,14 +115,14 @@ layout: TrustCenterPageCN
                   <ul>
                      <li>控制虚拟机实例的路由流量。</li>
                      <li>网络安全组、用户定义的路由、IP转发、强制隧道和端点访问控制列表有助于保护 Azure 虚拟网络上的通信。</li>
-                     <li>默认情况下，Azure 对所有主机和客户虚拟机开启数据包过滤防火墙。</br>了解更多有关 <a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">网络安全组 (NSG)</a> 的信息</li>
+                     <li>默认情况下，Azure 对所有主机和客户虚拟机开启数据包过滤防火墙。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">网络安全组 (NSG)</a>的信息</li>
                   </ul>
 
-                  <p><span><strong>合规性</strong>  - 我们严格遵守国际及行业合规性标准，并通过严格的第三方审计对各项安全控制点进行验证。</span></p>
+                  <p><span><strong>合规性</strong> - 我们严格遵守国际及行业合规性标准，并通过严格的第三方审计对各项安全控制点进行验证。</span></p>
                   <p><span><strong>安全事件及滥用报告</strong> - 若要报告有关 Azure 的疑似安全问题或滥用情况，请联系世纪互联 Azure 客户支持部门。</span></p>
                   <p><span><strong>渗透测试</strong> - 我们通过常规渗透测试来改进 Azure 的安全控制措施和流程。</span></p>
                <p style="margin-top:20px">客户对自己的客户数据具有完全所有权和控制权。在隐私保护的透明性方面，我们之所以能够成为领先的服务提供商，一个重要的原因就是由世纪互联运营的 Microsoft Azure 实施了严格的物理、逻辑、流程和管理控制。</p>
-              </div> 
+              </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">

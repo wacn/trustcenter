@@ -57,11 +57,11 @@ layout: TrustCenterPageCN
                <p>Power BI概述</p>
                <p>Power BI 服务以<a href="azuresecurity-cn">Azure</a> 为基础，能够从 Azure 平台强大的安全技术中受益。Power BI 采用分离式前端与后端集群、网关和安全的客户数据存储结构来保护您的信息。认证过程可将未授权用户拒之门外；无论是存储状态还是传输状态下，客户数据加密技术均能保证客户数据的机密性。同时，Power BI 还可在云端或本地整合您企业所有的客户数据。</p>
                <p>Power BI 服务受<a href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议 </a>和<a href="http://www.21vbluecloud.com/office365/O365-Privacy/"> 世纪互联运营的 Office 365 和 Power BI 隐私声明</a> 的约束。</p>
-               <<p style="font-size:28px">主题</p>
+               <p style="font-size:28px">主题</p>
                <p><a target="_self" class="mscom-link" href="#identity_Secure">安全身份</a></p>
                <p><a target="_self" class="mscom-link" href="#infrastructure_Secure">安全基础架构</a></p>
                <p><a target="_self" class="mscom-link" href="#apps_and_data_Secure">安全应用程序和数据</a></p>
-               <<p style="font-size:28px" id="identity_Secure">安全身份</p>
+               <p style="font-size:28px" id="identity_Secure">安全身份</p>
                <p>由世纪互联运营的 Power BI 以 Azure 为基础，采用 <a href="https://www.azure.cn/home/features/identity/">Azure 活动目录</a>（Azure AD）身份与访问管理机制以确保只有已授权的用户方可访问企业环境、数据与报告。</p>
                <p>Power BI 将 Azure 活动目录作为身份验证和授权标识库。用户通过安全的（HTTPS）网站登录享受 Power BI 服务，用户浏览器和 Power BI 服务之间的所有通讯记录均被加密。Azure 流量管理器负责接收请求，核查用户的DNS记录，确定最近的 Power BI 部署位置，最终回复其网络前端（WFE）集群的 IP 地址。</p>
                <p>用户被转入世纪互联在线服务进行登录，经认证后重新转入距离最近的网络前端集群。用户登录后，该集群将浏览器储存的信息与Azure活动目录比对来确认用户已订购 Power BI 服务，最终返还一个 Azure 活动目录安全令牌。网络前端集群将返还该令牌、会话信息以及相应的后端集群网址。用户浏览器会下载必要的文件，实现与 Power BI 服务的交互。后续交互活动将通过后端集群进行，并需要使用用户的 Azure 活动目录令牌。</p>

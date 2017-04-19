@@ -64,7 +64,7 @@ layout: TrustCenterPageCN
                <p><a href="#Secure_apps_and_data">安全应用程序和数据</a></p>
                <label id="Secure_identity">安全身份</label>
                <p>Office 365 利用<a href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a>（Azure AD）对用户进行管理，提供身份验证、身份管理和访问控制等服务。Azure Active Directory 的功能包含目录数据的云存储和一组核心身份验证服务（如用户登录程序、认证服务及联合服务）。这些认证服务可轻松地与您内部部署的 Azure AD 相结合，同时完全支持第三方身份提供商</p>
-               <p>Office 365 采用多重身份验证手段，由 Office 365 管理中心管理，帮助提供额外的安全保障。订购 Office 365 后， 您将享受到 Azure<a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a> 的如下功能：</p>
+               <p>Office 365 采用多重身份验证手段，由 Office 365 管理中心管理，帮助提供额外的安全保障。订购 Office 365 后， 您将享受到 Azure <a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a>的如下功能：</p>
                <ul style="list-style-type:disc">
                   <li>能够为最终用户启用和实施多重身份验证</li>
                   <li>使用移动应用程序（在线和一次性密码）作为二次身份验证</li>
@@ -77,11 +77,11 @@ layout: TrustCenterPageCN
                <p>由世纪互联运营的Office 365采用深度防御安全原则来防范内部和外部风险，使得Office 365能够检测和抵御大范围多层面的攻击。</p>
                <p>物理安全性</p>
                <ul style="list-style-type:disc">
-                  <li>24 小时监控的物理数据中心</li> 
-                  <li>多重身份验证，包括访问数据中心时的生物识别扫描</li> 
-                  <li>内部数据中心网络与外部网络分离，网络间传输客户数据加密</li> 
-                  <li>角色分离可保证具备物理访问权限的人员无法了解具体客户客户数据的位置</li> 
-                  <li>发生故障的驱动器和硬件将在消磁后销毁</li> 
+                  <li>24 小时监控的物理数据中心</li>
+                  <li>多重身份验证，包括访问数据中心时的生物识别扫描</li>
+                  <li>内部数据中心网络与外部网络分离，网络间传输客户数据加密</li>
+                  <li>角色分离可保证具备物理访问权限的人员无法了解具体客户客户数据的位置</li>
+                  <li>发生故障的驱动器和硬件将在消磁后销毁</li>
                </ul>
                <p>逻辑安全性</p>
                <ul style="list-style-type:disc">

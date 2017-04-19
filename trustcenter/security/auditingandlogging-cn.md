@@ -69,7 +69,7 @@ layout: TrustCenterPageCN
                      <p><strong>24 小时物理监控</strong> - 我们的数据中心通过各类物理设施、管理和监控手段对数据和服务进行保护，从而避免未经授权的访问和各类环境威胁。</p>
                      <p><strong>创建审计记录</strong> - 为部署在 Azure 中的应用程序以及通过 Azure 虚拟机库创建的虚拟机生成审计记录。Azure 会默认启用一系列操作系统安全事件。您也可以通过自定义审核策略来添加、删除或修改要审核的事件。除了生成 Windows 事件日志之外，您还可以配置操作系统组件以生成安全分析和监视所需的日志。
                      </p>
-                     <p><strong>对大型数据集进行集中分析</strong> - 通过在 Azure 基础架构即服务（IaaS）和平台即服务（PaaS）中收集安全事件，对大型数据集合进行集中化分析。您还可以使用 <a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/hdinsight/" style="display:inline">HDInsight</a> 聚合并分析这些事件，并将其导出至内部部署的安全信息和事件管理系统，从而实现持续性监控。
+                     <p><strong>对大型数据集进行集中分析</strong> - 通过在 Azure 基础架构即服务（IaaS）和平台即服务（PaaS）中收集安全事件，对大型数据集合进行集中化分析。您还可以使用<a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/home/features/hdinsight/" style="display:inline"> HDInsight</a> 聚合并分析这些事件，并将其导出至内部部署的安全信息和事件管理系统，从而实现持续性监控。
                      </p>
                      <p><strong>监视访问和使用情况报告</strong> - 充分利用 Azure 管理操作日志（如系统访问）以创建审计记录，以免进行未授权或意外的更改。您可以获取 Azure Active Directory 租户的审计日志，并查看访问和使用情况报告。该功能可以帮助您在部署完整性和安全方面获得更好的可见性，同时更好的了解潜在风险。借助于集中化的监控、关联和分析系统，安全性得到监控，这些系统还可以对环境中各类设备产生的大量数据进行管理，并提供及时警报。此外，不同级别的监控、日志和报表也为客户提供了可见性。在 Azure Management Portal 中，您可以浏览使用情况和资产报告，例如异常登录事件报告、特定用户报告及活动日志等。</p>
                      <p>了解更多有关<a href="https://www.azure.cn/documentation/articles/best-practices-monitoring/">监视访问和使用情况的报告</a></p>

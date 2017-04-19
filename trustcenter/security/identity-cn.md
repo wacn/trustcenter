@@ -60,10 +60,10 @@ layout: TrustCenterPageCN
                <p style="font-size:28px" id="identity_Secure">安全身份</p>
                <p>世纪互联和微软对其产品和服务使用了多种安全实践和技术以管理身份和访问，其中包括：</p>
                <ul style="list-style-type:disc">
-                  <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证 </a>要求用户采用多种方法进行本地和云访问。它通过一系列简单的验证选项提供强大的身份验证，同时为用户提供简单的登录流程。</li>
-                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-passwords-learn-more">密码策略实施 </a>通过实施密码长度和复杂性要求、定期更换密码以及认证失败后锁定账户等措施来提升传统密码的安全性。</li>
-                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-authentication-scenarios/">基于令牌的身份验证 </a>通过活动目录联合身份验证服务（ADFS）或第三方安全令牌系统启用身份验证。</li>
-                  <li><a href="https://www.azure.cn/documentation/articles/role-based-access-built-in-roles/">基于角色的访问控制 </a>（RBAC）使您能够根据用户角色授予其访问权限，从而轻松地为用户提供其履行工作职责所需的访问权限。基于角色的访问控制（RBAC）可根据您机构的业务模式和风险承受度进行定制。</li>
+                  <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a>要求用户采用多种方法进行本地和云访问。它通过一系列简单的验证选项提供强大的身份验证，同时为用户提供简单的登录流程。</li>
+                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-passwords-learn-more">密码策略实施</a>通过实施密码长度和复杂性要求、定期更换密码以及认证失败后锁定账户等措施来提升传统密码的安全性。</li>
+                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-authentication-scenarios/">基于令牌的身份验证</a>通过活动目录联合身份验证服务（ADFS）或第三方安全令牌系统启用身份验证。</li>
+                  <li><a href="https://www.azure.cn/documentation/articles/role-based-access-built-in-roles/">基于角色的访问控制</a>（RBAC）使您能够根据用户角色授予其访问权限，从而轻松地为用户提供其履行工作职责所需的访问权限。基于角色的访问控制（RBAC）可根据您机构的业务模式和风险承受度进行定制。</li>
                   <li><strong>集成身份管理（混合型身份）</strong>使您能够保持对内部数据中心和云平台的用户访问控制，创建单一的用户身份用于对所有资源进行身份验证和授权。</li>
                </ul>
                <p style="font-size:28px" id="infrastructure_Secure">安全基础架构</p>
@@ -75,7 +75,7 @@ layout: TrustCenterPageCN
                <p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>
                <label id="Azure_Secure">由世纪互联运营的 Microsoft Azure</label>
                <p><a href="https://www.azure.cn/home/features/identity/">Azure Active Directory </a>可帮助实现对本地和云应用程序中客户数据的安全访问，并简化对用户和组的管理。它将核心目录服务、高级身份监管、安全防护和应用程序访问管理相结合。 Azure Active Directory 还可方便开发人员将基于策略的身份管理构建到其应用程序中。</p>
-               <p><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Azure 多重身份验证 </a>要求使用多种验证方法对用户进行身份验证。Azure 凭借针对本地和云应用程序的额外一层身份验证，帮助保护用户对客户数据和应用程序的访问。它通过丰富的简单验证选项提供强大的身份验证，同时满足用户对简单登录过程的需求</p>
+               <p><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Azure 多重身份验证</a>要求使用多种验证方法对用户进行身份验证。Azure 凭借针对本地和云应用程序的额外一层身份验证，帮助保护用户对客户数据和应用程序的访问。它通过丰富的简单验证选项提供强大的身份验证，同时满足用户对简单登录过程的需求</p>
                <p><strong>云应用程序发现服务</strong>是 Azure <strong>活动目录</strong>（AAD）的高级功能，它能够帮助您发现机构内员工所使用的云应用程序。</p>
                <p><strong>Azure 活动目录身份保护</strong>是一项安全服务，利用AAD的异常检测功能，帮助您综合探查影响机构身份的风险事件和潜在漏洞。</p>
                <p><strong>Azure 活动目录域服务</strong>使您能够将Azure虚拟机（VM）连接至域，而无需部署域控制器。用户可使用其企业活动目录凭据登录这些虚拟机，实现资源无缝访问。</p>
@@ -99,7 +99,7 @@ layout: TrustCenterPageCN
                <label id="Power_BI_Secure">由世纪互联运营的 Power BI</label>
                <p>Power BI 使用 Azure 活动目录验证登录该服务的用户；每当用户尝试访问需要身份验证的资源时，会有提示要求输入 Power BI 凭据。用户可通过其在 Power BI 账户中设立的电子邮件地址登录该服务；Power BI 将电子邮件地址用作用户名，每当用户尝试连接至数据时，该用户名都将被传递给相关资源。</br><a target="_self" class="mscom-link withArrow" href="../security/powerbi-security-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" width="21" height="19">了解更多</a></p>
 
-              </div> 
+              </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">

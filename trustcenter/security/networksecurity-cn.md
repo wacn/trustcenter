@@ -78,13 +78,13 @@ layout: TrustCenterPageCN
                <!--<p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>-->
                
                <label id="Azure_Secure">由世纪互联运营的 Microsoft Azure</label>
-               <p><a href="https://www.azure.cn/home/features/networking/">虚拟网络</a> 可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
+               <p><a href="https://www.azure.cn/home/features/networking/">虚拟网络</a>可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
                </p>
-               <p><a href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute</a> 可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
+               <p><a href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute</a>可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
                </p>
-               <p><strong>网络安全组</strong> 可用于对 Azure 虚拟网络中一个或多个虚拟机 (VM) 的通讯进行控制。网络安全组 (NSG) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
+               <p><strong>网络安全组</strong>可用于对 Azure 虚拟网络中一个或多个虚拟机 (VM) 的通讯进行控制。网络安全组 (NSG) 中包含的访问控制规则可以根据流量的方向、协议、源地址和端口、目标地址和端口允许或拒绝流量。NSG 规则可随时更改，更改会应用到所有相关联的实例。
                </p>
-               <p><a href="https://www.azure.cn/home/features/traffic-manager/">强制信道</a> 可供您重定向，或“强制”让所有发往互联网的流量通过站点到站点 VPN 信道重新回到您的内部部署位置，以进行检查或审计。在不使用强制信道的情况下，您的 Azure 虚拟机发往互联网的流量会通过 Azure 网络基础结构直接发送至互联网，您将无法对这样的流量进行检查或审计。
+               <p><a href="https://www.azure.cn/home/features/traffic-manager/">强制信道</a>可供您重定向，或“强制”让所有发往互联网的流量通过站点到站点 VPN 信道重新回到您的内部部署位置，以进行检查或审计。在不使用强制信道的情况下，您的 Azure 虚拟机发往互联网的流量会通过 Azure 网络基础结构直接发送至互联网，您将无法对这样的流量进行检查或审计。
                </p>
                <p><strong>隔离</strong> — Azure 使用网络隔离防止不同部署之间产生不必要的通讯，通过访问控制阻止未经授权用户的访问。虚拟机不接收来自互联网的传入流量，除非客户配置它们接受。
                </p>
@@ -95,7 +95,7 @@ layout: TrustCenterPageCN
                <p>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a>
                </p>
                
-              </div> 
+              </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
