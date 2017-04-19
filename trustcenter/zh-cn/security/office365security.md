@@ -65,7 +65,7 @@ layout: TrustCenterPageCN
                <p><a href="#Secure_apps_and_data">安全应用程序和数据</a></p>
                <label id="Secure_identity">安全身份</label>
                <p>Office 365 利用 <a href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a>（Azure AD）对用户进行管理，提供身份验证、身份管理和访问控制等服务。Azure Active Directory 的功能包含目录数据的云存储和一组核心身份验证服务（如用户登录程序、认证服务及联合服务）。这些认证服务可轻松地与您内部部署的 Azure AD 相结合，同时完全支持第三方身份提供商</p>
-               <p>Office 365 采用多重身份验证手段，由 Office 365 管理中心管理，帮助提供额外的安全保障。订购 Office 365 后， 您将享受到 Azure <a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证 </a>的如下功能：</p>
+               <p>Office 365 采用多重身份验证手段，由 Office 365 管理中心管理，帮助提供额外的安全保障。订购 Office 365 后，您将享受到 Azure <a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证 </a>的如下功能：</p>
                <ul style="list-style-type:disc">
                   <li>能够为最终用户启用和实施多重身份验证</li>
                   <li>使用移动应用程序（在线和一次性密码）作为二次身份验证</li>
@@ -78,11 +78,11 @@ layout: TrustCenterPageCN
                <p>由世纪互联运营的 Office 365 采用深度防御安全原则来防范内部和外部风险，使得 Office 365 能够检测和抵御大范围多层面的攻击。</p>
                <p>物理安全性</p>
                <ul style="list-style-type:disc">
-                  <li>24 小时监控的物理数据中心</li> 
-                  <li>多重身份验证，包括访问数据中心时的生物识别扫描</li> 
-                  <li>内部数据中心网络与外部网络分离，网络间传输客户数据加密</li> 
-                  <li>角色分离可保证具备物理访问权限的人员无法了解具体客户客户数据的位置</li> 
-                  <li>发生故障的驱动器和硬件将在消磁后销毁</li> 
+                  <li>24 小时监控的物理数据中心</li>
+                  <li>多重身份验证，包括访问数据中心时的生物识别扫描</li>
+                  <li>内部数据中心网络与外部网络分离，网络间传输客户数据加密</li>
+                  <li>角色分离可保证具备物理访问权限的人员无法了解具体客户客户数据的位置</li>
+                  <li>发生故障的驱动器和硬件将在消磁后销毁</li>
                </ul>
                <p>逻辑安全性</p>
                <ul style="list-style-type:disc">
@@ -112,7 +112,7 @@ layout: TrustCenterPageCN
                <p style="font-size:20px">数据加密</p>
                <p>Office 365 采用服务侧技术对存储后和传输中的数据进行加密。对于存储后的客户数据，Office 365 使用卷级加密技术和文件级加密技术。对于传输中的客户数据，Office 365 使用传输层安全（TLS）和因特网协议安全（IPsec）等多种加密技术对数据中心之间和客户端、服务器之间的通信进行加密。Office 365 还包括客户管理加密功能。存储在 Office 365 中 的客户数据在所有配置中都受到保护。加密策略的验证及其实施已通过多个第三方审计机构独立进行</p>
                <p style="font-size:20px">维护多租户架构的安全性</p>
-               <p>多租户是云计算的主要优点。这一特点使得众多客户能够同时共享公共基础设施，从而实现规模经济。世纪互联不断努力，以确保 Office 365 的多租户架构支持企业级的安全性、机密性、隐私性、完整性和可用性标准。基于从<a href="https://www.trustcenter.cn"> 可信赖计算 </a>和<a href=""> 安全开发生命周期</a> 积累的重要经验，包括 Office 365 在内的微软云服务均设计为假定所有租户都对其他租户怀有潜在的敌意。因此，多种形式的保护已实施于整个 Office 365 服务之中，以防止客户损害 Office 365 的服务或应用，或未经授权访问其他租户的信息或 Office 365 系统本身的信息。</p>
+               <p>多租户是云计算的主要优点。这一特点使得众多客户能够同时共享公共基础设施，从而实现规模经济。世纪互联不断努力，以确保 Office 365 的多租户架构支持企业级的安全性、机密性、隐私性、完整性和可用性标准。基于从<a href="https://www.trustcenter.cn">可信赖计算 </a>和<a href="">安全开发生命周期</a>积累的重要经验，包括 Office 365 在内的微软云服务均设计为假定所有租户都对其他租户怀有潜在的敌意。因此，多种形式的保护已实施于整个 Office 365 服务之中，以防止客户损害 Office 365 的服务或应用，或未经授权访问其他租户的信息或 Office 365 系统本身的信息。</p>
                <p style="font-size:20px">世纪互联如何访问您的客户数据</p>
                <p>世纪互联对 Office 365 的大部分操作实现了自动化，同时有意限制其对客户内容的访问。这使我们能够大规模管理 Office 365 信息，同时消除恶意行为或世纪互联工程师鱼叉式网络钓鱼等针对客户内容的内部威胁。在默认情况下，世纪互联的工程师没有常驻管理特权，也没有访问 Office 365 客户内容的常设权限。世纪互联的工程师仅在有必要进行服务操作且经过世纪互联管理团队批准的情况下，可能在有限的时间内对客户内容进行有限的、经审查的及安全的访问。</p>
                <p style="font-size:20px">您如何访问您的客户数据</p>
