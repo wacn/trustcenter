@@ -115,7 +115,7 @@ layout: TrustCenterPageCN
                   <ul style="list-style-type:disc">
                      <li>控制虚拟机实例的路由流量。</li>
                      <li>网络安全组、用户定义的路由、IP转发、强制隧道和端点访问控制列表有助于保护 Azure 虚拟网络上的通信。</li>
-                     <li>默认情况下，Azure 对所有主机和客户虚拟机开启数据包过滤防火墙。</br>了解更多有关 <a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">网络安全组 (NSG)</a>的信息</li>
+                     <li>默认情况下，Azure 对所有主机和客户虚拟机开启数据包过滤防火墙。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">网络安全组 (NSG) </a>的信息</li>
                   </ul>
                   <p><span><strong>合规性</strong> - 我们严格遵守国际及行业合规性标准，并通过严格的第三方审计对各项安全控制点进行验证。</span></p>
                   <p><span><strong>安全事件及滥用报告</strong> - 若要报告有关 Azure 的疑似安全问题或滥用情况，请联系世纪互联 Azure 客户支持部门。</span></p>
