@@ -116,8 +116,8 @@ layout: TrustCenterPageCN
                <p>世纪互联对 Office 365 的大部分操作实现了自动化，同时有意限制其对客户内容的访问。这使我们能够大规模管理 Office 365 信息，同时消除恶意行为或世纪互联工程师鱼叉式网络钓鱼等针对客户内容的内部威胁。在默认情况下，世纪互联的工程师没有常驻管理特权，也没有访问 Office 365 客户内容的常设权限。世纪互联的工程师仅在有必要进行服务操作且经过世纪互联管理团队批准的情况下，可能在有限的时间内对客户内容进行有限的、经审查的及安全的访问。</p>
                <p style="font-size:20px">您如何访问您的客户数据</font>
                <p>除了世纪互联实施的控制操作外，Office 365 还允许您以与在内部部署的环境中管理数据基本相同的方式来管理您的客户数据。管理员可以访问管理中心的所有功能、创建或编辑用户、执行管理任务，以及将管理角色分配给他人。您还可以控制用户如何从特定设备或特定位置或特定设备及位置访问信息。</p>
-              </div>
-              <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+           </div>
+           <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
