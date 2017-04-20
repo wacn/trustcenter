@@ -82,7 +82,7 @@ layout: TrustCenterPageCN
                <p><a href="/threatmanagement-cn.html">Azure 多极威胁管理</a> 手段借助侵入检测、分布式拒绝服务攻击预防、渗透测试、数据分析学和机器学习来持续增强防御能力、减少风险，对由世纪互联运营的  Power BI 实施保护。</p>
                <p style="font-size:20px">物理安全</p>
                <p>无论从物理角度还是逻辑角度，由世纪互联运营的Power BI均与世界其他地区的微软云服务实现了完全隔离，数据中心位于中国大陆，由深度防御安全体系层层保护。该防御安全体系包括周边防护、摄影机、安保人员、安全入口和实时通讯网络，防御范围从该设施的每个区域延续至每一个物理服务器单元。</p>
-               <<p style="font-size:28px" id="apps_and_data_Secure">安全应用程序与数据</p>
+               <p style="font-size:28px" id="apps_and_data_Secure">安全应用程序与数据</p>
                <p>客户数据经世纪互联企业网关运营的 Power BI 传输时均被加密。上传的客户数据通常被送至 Azure Blob 存储器中，系统自带的所有元数据和人工资料均被存储在 Azure SQL 数据库中。</p>
                <p>Power BI 服务可处理存储后的客户数据（非当前处理客户数据）和处理中的客户数据（当前因用户或服务而被访问或更新的数据）。客户数据分为两类：</p>
                <ul style="list-style-type:disc">
