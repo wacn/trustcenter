@@ -63,7 +63,7 @@ layout: TrustCenterPageCN
                <p><a href="#Secure_infrastructure">安全基础架构</a></p>
                <p><a href="#Secure_apps_and_data">安全应用程序和数据</a></p>
                <label id="Secure_identity">安全身份</label>
-               <p>Office 365 利用<a href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a>（Azure AD）对用户进行管理，提供身份验证、身份管理和访问控制等服务。Azure Active Directory 的功能包含目录数据的云存储和一组核心身份验证服务（如用户登录程序、认证服务及联合服务）。这些认证服务可轻松地与您内部部署的 Azure AD 相结合，同时完全支持第三方身份提供商</p>
+               <p>Office 365 利用<a href="https://www.azure.cn/home/features/identity/"> Azure Active Directory</a>（Azure AD）对用户进行管理，提供身份验证、身份管理和访问控制等服务。Azure Active Directory 的功能包含目录数据的云存储和一组核心身份验证服务（如用户登录程序、认证服务及联合服务）。这些认证服务可轻松地与您内部部署的 Azure AD 相结合，同时完全支持第三方身份提供商</p>
                <p>Office 365 采用多重身份验证手段，由 Office 365 管理中心管理，帮助提供额外的安全保障。订购 Office 365 后， 您将享受到 Azure <a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a>的如下功能：</p>
                <ul style="list-style-type:disc">
                   <li>能够为最终用户启用和实施多重身份验证</li>
