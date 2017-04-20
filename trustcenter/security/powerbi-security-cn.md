@@ -69,7 +69,7 @@ layout: TrustCenterPageCN
                   <li>如需了解更多关于 Azure 流量管理器的流量路由操作，请阅读 Azure 流量管理器流量路由方式相关文档。</li>
                   <li>Azure 内容分发网络（CDN）提供必要文件的下载服务，如需了解更多内容，请观看 Azure 内容分发网络资料视频。</li>
                </ul>
-               <<p style="font-size:28px" id="infrastructure_Secure">安全基础架构</p>
+               <p style="font-size:28px" id="infrastructure_Secure">安全基础架构</p>
                <p>由于世纪互联运营的 Power BI 以 Azure 为基础，因而采用了 Azure 安全基础架构，该基础架构凭借最佳的安全实践与技术，保护客户数据在中国大陆的数据中心内部以及互联网上的传输。</p>
                <p style="font-size:20px">架构</p>
                <p>Power BI 的架构设计旨在保护您的数据。Power BI 配置在世界各个数据中心中，且每一个配置均由两种集群组成</p>
