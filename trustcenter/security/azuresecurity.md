@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPage
+layout: TrustCenterPageCN
 ---
 <div class="row-fluid">
    <div class="span">
@@ -45,93 +45,95 @@ layout: TrustCenterPage
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // 
-               <a target="_self" class="mscom-link" href="../security/default.html">Security </a> // Azure Security
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">信任中心</a> // 
+               <a target="_self" class="mscom-link" href="../security/default.html">安全性 </a> // Azure 安全性
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>As enterprises adopt public and hybrid cloud solutions, they do extensive due diligence on their providers’ security policies, operations, and systems. Confidential data is the lifeblood of any company, and many industry companies are also bound by extensive regulations regarding the use, transmission, and storage of Customer Data. 
+               <p>任何采用公有云和混合云的企业都会对服务提供商的安全策略、运营和系统进行深入考察。机密信息是公司的命脉，对于很多行业来说，客户数据的使用、传输和存储都受到诸多制约。
                </p>
-               <p>Microsoft Azure operated by 21Vianet provides businesses with the data security and privacy, control, and transparency they require. Security and privacy are embedded in the Azure platform, using the Security Development Lifecycle (SDL), from initial planning through solution launch, as well as the upgrades we continue to make. Security Management Process provides security guidelines for our operational processes, and <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a>governs how we build and operate the services.  </p>
-               <p><a href="https://www.trustcenter.cn/en-us/cloudservices/azure.html">Get an overview of Azure</a></p>
-               <p>Azure uses multiple safeguards to protect customer and enterprise data. These security practices and technologies include: </p>
-                  <p><strong>Identity and access management </strong></p>
-                  <p>Identity and access management</p>
+               <p>由世纪互联运营的 Microsoft Azure 针对您的需求，在提供业务的同时，还提供了完善的数据安全、隐私保护、可控及透明性。通过采用安全开发生命周期 (SDL) 流程，Azure 平台自设计至方案发布，以及后续升级更新过程中，安全和隐私保护始终被充分考虑。世纪互联通过安全管理流程为平台运营提供安全指南。我们还严格根据由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a>构建和运营各项服务。 </p>
+               <p><a href="https://www.trustcenter.cn/zh-cn/cloudservices/azure.html">Azure 概述 </a></p>
+               <p>Azure 采用了多重安全防护为客户和企业数据提供保护。这些安全措施和技术包括：</p>
+                  <p><strong>身份和访问管理</strong></p>
                   <ul style="list-style-type:disc">
-                     <li>Helps ensure that only authorized users can access your environments, data, and applications.</li>
-                     <li>Offers multi-factor authentication for highly secure sign-in, including specialized administrative access through Azure Active Directory Privileged Identity Management.</li>
-                     <li>Performs authentication, authorization, and access control through industry-standard protocols to help developers integrate identity management into their apps across different platforms, and to build mobile and web apps that integrate with Microsoft and third-party APIs with OAuth 2.0.</li>
-                     <li>Works as a standalone cloud directory for your organization or can be integrated with your on-premises Active Directory with directory sync and single sign-on (SSO).Allows federated applications to support user provisioning and password vaulting.</li>
+                     <li>帮助确保只有经过授权的用户才能访问您的环境、客户数据和应用程序</li>
+                     <li>为高级安全登录提供了多重身份验证功能，包括通过 Azure Active Directory 授权身份管理进行的专业化管理访问。</li>
+                     <li>根据行业标准协议实施身份验证、授权和访问控制，以帮助开发者跨越不同平台将身份管理与其应用程序进行结合，同时将移动和网络应用程序整合至符合 OAuth2.0 协议的世纪互联和第三方应用程序接口中。</li>
+                     <li>可用作企业的独立云目录，或可与您内部部署的 Active Directory 相结合，达到目录同步和单点登录（SSO）的效果。</li>
+                     <li>允许联合应用程序支持用户配置和密码保管。</li>
                   </ul>
-                  <p><b>Azure Multi-Factor Authentication</b></p>
-                  <ul style="list-style-type:disc" >
-                     <li>Requires users to verify their sign-ins via mobile app, phone call, or text message.</li>
-                     <li>Azure Active Directory Premium edition adds Multi-Factor Authentication custom greetings, fraud alert, security reports, one-time bypass, blocking/unblocking of users, customizable caller ID for authentication phone calls, and more.</li>
-                  </ul>
-                  <p><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Learn more about Azure Multi-Factor Authentication</a></p>
-                  <p><span><strong>Encryption</strong> – Azure uses industry-standard protocols to encrypt Customer Data as it travels between devices and Azure datacenters,crosses between datacenters.</span></p>
+                  <p><strong>Azure多重身份验证</strong></p>
                   <ul style="list-style-type:disc">
-                     <li>Protection for data in transit and at rest, including encryption for data, files, applications, services, communications, and drives</li>
-                     <li>Support for and use of numerous encryption mechanisms, including SSL/TLS, IPsec, and AES.</li>
-                     <li>Configuration support on VHDs that contain sensitive information.</li>
-                     <li>Access to data by Azure support personnel requires your explicit permission and is granted on a “just in time” basis that is logged and audited, then revoked after completion of the engagement. </li>
+                     <li>要求用户通过移动应用程序、语音通话或短信验证登录。</li>
+                     <li>Azure Active Directory Premium 版本增添了多重身份验证自定义问候语、欺诈警报、安全报告、一次性绕过、加入黑名单/移出黑名单、对认证通话定制呼叫人 ID 等多种服务。</li>
                   </ul>
-                  <p><b>Azure Key Vault service</b></p>
-                  <p>Secure key management is essential to protecting data in the cloud. Azure Key Vault enables Azure subscribers to safeguard and control cryptographic keys and other secrets used by cloud apps and services.</p>
-                  <ul>
-                     <li>Encrypt keys and small secrets like passwords using keys in Hardware Security Modules (HSMs).</li>
-                     <li>Import or generate your keys in HSMs certified to FIPS 140-2 level 2 standards for added assurance, so that your keys stay within the HSM boundary.</li>
-                     <li>Simplify and automate tasks for SSL/TLS certificates, enroll and automatically renew certificates from supported Public Certification Authority's (CA).</li>
-                     <li>Provision and deploy new Vaults and Keys in minutes without waiting for procurement, hardware or IT and centrally manage keys, secrets, and policies.</li>
-                     <li>Maintain control over encrypted data—grant and revoke key use by your own and third-party applications as needed.</li>
-                     <li>Segregate key management duties to enable developers to easily manage keys used for dev/test and migrate seamlessly to production keys managed by security operations.</li>
-                     <li>Rapidly scale to meet the cryptographic needs of your cloud applications and match peak demand.</li>
+                  <p>了解更多有关<a href="https://www.azure.cn/home/features/multi-factor-authentication/"> Azure 多重身份验证</a>的信息</p>
+                  <p><span><strong>加密</strong> - Azure 采用符合行业标准的协议对传输中的客户数据进行加密，这包括设备与 Azure 数据中心之间的传输，以及不同数据中心之间的传输。</span></p>
+                  <ul style="list-style-type:disc">
+                     <li>对传输中和存储后的数据实施保护，其中包括对客户数据、文件、应用程序、服务、通讯和驱动器进行加密。</li>
+                     <li>支持并运用各种加密机制，如 SSL/TLS 协议、IP 安全协议（IPsec）和高级加密标准（AES）。</li>
+                     <li>对包含敏感信息的虚拟磁盘（VHD）进行加密时提供配置支持。</li>
+                     <li>Azure 支持人员访问客户数据时需获取您的明确许可，他们仅被授予“即时”权限，并且会被日志记录和审计，在服务完成后权限即被撤销。</li>
                   </ul>
-                  <p><a href="https://www.azure.cn/home/features/key-vault">Learn more about Azure Key Vault</a></p>
-                  <p><b>Data and storage security features</b></p>
-                  <ul>
-                     <li>You can encrypt your data before putting it into Azure, and you can store keys in your on-premises datacenter.</li>
-                     <li>Client-side encryption for Azure Blob storage enables you to completely control the keys. The storage service never sees the keys and is incapable of decrypting the data. Azure Storage automatically encrypts your data prior to persisting to storage and decrypts prior to retrieval.</br><a href="https://www.azure.cn/documentation/articles/storage-service-encryption/">Learn more about Azure Storage Service Encryption</a></li>
-                     <li>Storage Account Keys, Shared Access Signatures, management certificates, and other keys are unique to each Azure tenant.</br><a href="https://www.azure.cn/documentation/articles/storage-security-guide/">Learn more about Azure storage security and encryption best practices</a></li>
+                  <p><b>Azure 密钥保管库服务</b></p>
+                  <p>安全密钥管理对云中客户数据的保护至关重要。Azure 密钥保管库能够使 Azure 订阅用户保护和掌控密钥及云应用程序和服务所使用的其他机密信息。</p>
+                  <ul style="list-style-type:disc">
+                     <li>使用硬件安全模块（HSM）中的秘钥加密秘钥和密码等小型隐私信息。</li>
+                     <li>在通过（美国）联邦信息处理标准（FIPS）140-2 二级标准认证的硬件安全模块中输入或生成您的秘钥以增加担保，由此确保您的秘钥保持在硬件安全模块的边界之内。</li>
+                     <li>简化并自动处理 SSL/TLS 证书任务，从支持的公共认证机构（CA）注册并自动更新证书。</li>
+                     <li>能够在短短几分钟之内配置和部署新的保管库和秘钥，而不会在采购、硬件或信息技术上耗时；</li>
+                     <li>掌控加密客户数据——可根据您自身和第三方应用程序的需要同意或撤销秘钥的使用。</li>
+                     <li>分离秘钥管理责任，使开发人员能够轻松管理用于开发/测试的密钥，并无缝迁移至由安全操作管理的生产密钥。</li>
+                     <li>快速扩展以满足您的云应用程序的加密需求，并匹配高峰需求。</li>
                   </ul>
-                  <p><span><strong>Secure networks </strong>  – Azure infrastructure relies on security practices and technologies to connect virtual machines to each other and to on-premises datacenters, while blocking unauthorized traffic. Azure Virtual Networks extend your on-premises network to the cloud via a site-to-site virtual private network (VPN). You can also use <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute</a> to create a cross-premises connection when needing a private network connection. </span></p>
-                  <p><a href="https://www.azure.cn/documentation/articles/best-practices-network-security/">Learn more about Azure network security</a></p>
-                  <p><b>Physical infrastructure security-</b>Microsoft Azure operated by 21Vianet is physically and logically entirely isolated from Microsoft Cloud services in other regions of the world, which is protected by layers of defense-in-depth security that include perimeter fencing, video cameras, security personnel, secure entrances, and real-time communications networks. The defense-in-depth security is in use throughout every area of the facility, including each physical server unit.</p
-                  <p><span><strong>Threat management</strong> – Microsoft Antimalware protects Azure services and virtual machineswhich Supports deployment of third-party security solutions within your subscriptions, such as web application firewalls, network firewalls, antimalware, intrusion detection and prevention systems (IDS/IPS), and more. 21Vianet also uses intrusion detection, denial-of-service (DDoS) attack prevention, penetration testing, data analytics, and machine learning to constantly strengthen its defense and reduce risks. </span></p>
-                  <p><span><strong>Security Controls and Capabilities </strong> - Azure delivers a trusted foundation on which customers can design, build and manage their own secure cloud applications and infrastructure.</span>
-                      <ul>
-                          <li><span><strong>Patching</strong>  Integrated deployment systems manage the distribution and installation of security patches. Customers can apply similar patch management processes for Virtual Machines deployed in Azure.</span></li>
-                          <li><span><strong>Zero standing privileges. </strong> Access to Customer Data by our operations and support personnel is denied by default. When granted, access is carefully managed and logged. Datacenter access to the systems that store Customer Data is strictly controlled via lock box processes.</span></li>
+                  <p>了解更多有关 <a href="https://www.azure.cn/home/features/key-vault">Azure 密钥保管库</a>的信息</p>
+                  <p><b>数据与存储安全特征</b></p>
+                  <ul style="list-style-type:disc">
+                     <li>您可以在将客户数据导入 Azure 之前对其进行加密，并将密钥存储在内部部署的数据中心中。</li>
+                     <li>Azure Blob 存储的客户端加密使您能够完全控制密钥。存储服务无法获取密钥，也不能解密数据。Azure Storage 会在您选择存储客户数据之前自动加密您的数据，并在读取客户数据之前自动解密。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/storage-service-encryption/"> Azure 存储服务加密</a>的详细信息</li>
+                     <li>每位 Azure 租户均享有独一无二的存储帐户密钥、共享访问签名、管理证书和其他密钥。</br>了解更多有关 <a href="https://www.azure.cn/documentation/articles/storage-security-guide/">Azure 存储安全与加密最佳实践</a>的信息</li>
+                  </ul>
+                  <p><span><strong>网络安全</strong> - Azure 基础架构依托各种安全措施和技术，在虚拟机间和虚拟机到内部部署数据中心间建立互联，并有效阻止未经授权的通信。Azure 虚拟网络可以通过站到站虚拟私有网络（VPN）将您的内部网络扩展至云端。当您需要私有网络连接的时候，还可以使用 <a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/expressroute/">ExpressRoute </a>来建立跨越内部部署的连接。</span></p>
+                  <p>了解更多关于 <a href="https://www.azure.cn/documentation/articles/best-practices-network-security/">Azure 网络安全</a>的信息<b>
+物理基础设施安全</b>——由世纪互联运营的 Microsoft Azure 在物理和逻辑上完全与全球其他地区的微软云服务隔离。世纪互联的服务受到深度防御安全体系的层层保护，包括周边防护、摄影机、安保人员、安全入口和实时通讯网络等。深度防御安全体系贯穿设施的每个区域，也囊括了每一个物理服务器单元。</p>
+                  <p><span><strong>威胁管理</strong> - Microsoft Antimalware<sup style="font-size:12px">① </sup>对 Azure 服务和虚拟机提供持续保护并能支持在订购中部署第三方安全解决方案，例如网络应用程序防火墙、网络防火墙、反恶意软件、入侵检测和预防系统（IDS / IPS）等。世纪互联还通过入侵检测、拒绝服务（DDoS）攻击防护、渗透测试、数据分析和机器学习不断加强防御能力并减少风险。</span></p>
+                  <p><span><strong>安全控制及功能</strong> - Azure 为客户提供了一个可信赖的平台，以供他们设计、构建和管理自己的安全云应用程序和基础架构。</span>
+                      <ul style="list-style-type:disc">
+                          <li><span><strong>补丁</strong> - 使用集成的部署系统来管理安全补丁的分发和安装。对于 Azure 中部署的虚拟机，客户可以采用相似的补丁管理流程。</span></li>
+                          <li><span><strong>无常设访问权</strong> - 默认情况下，杜绝运营和支持人员访问客户数据。授予他们权限时，谨慎管理和记录其访问情况。通过数据中心对存储客户数据的系统的访问通过锁箱流程进行严格控制。</span></li>
                       </ul>
                   </p>
-                  <p>Azure prevents unauthorized and unintentional transfer of information between deployments in a multitenant architecture, using virtual local area network (VLAN) isolation, access control lists (ACLs), load balancers, and IP filters, along with traffic flow policies; network address translation (NAT) separates internal network traffic from external traffic.</p>
-                  <p><b>Azure Fabric Controller</b></p>
-                  <ul>
-                     <li>Allocates infrastructure resources to tenant workloads and manages unidirectional communications from the host to VMs.</li>
-                     <li>Uses the Azure hypervisor to enforce memory and process separation between VMs and securely route network traffic to guest OS tenants. Azure also implements isolation for tenants, storage, and virtual networks.</li>
+                  <p>借助虚拟局域网（VLAN）隔离、访问控制列表（ACL）、负载均衡器、IP 过滤器以及流量策略，Azure 可防止多租户架构中的各部署之间产生未授权和无意的信息传输；网络地址转换（NAT）可对内部网络流量与外部流量进行分离。</p>
+                  <p><b>Azure 结构控制器</b></p>
+                  <ul style="list-style-type:disc">
+                     <li>将基础架构资源分配给租户工作负载，并对从主机到虚拟机的单向通信实施管理。</li>
+                     <li>使用 Azure 虚拟机监视器在虚拟机之间实施内存和进程分离，并将网络流量安全分配给客户机操作系统租户。Azure 还能为租户、存储和虚拟网络实现隔离。</li>
                   </ul>
-                  
-                  <P><b>Network Security Groups (NSG)</b></P>
-                  <ul>
-                     <li>Control traffic to VM instances.</li>
-                     <li>NSGs, user-defined routing, IP forwarding, forced tunneling, and endpoint ACLs help to secure communications on Azure Virtual Networks</li>
-                     <li>Azure implements packet-filtering firewalls on all host and guest VMs by default.</br><a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">Learn more about Network Security Groups (NSG)</a></li>
+                  <p><b>网络安全组（NSG）</b></p>
+                  <ul style="list-style-type:disc">
+                     <li>控制虚拟机实例的路由流量。</li>
+                     <li>网络安全组、用户定义的路由、IP转发、强制隧道和端点访问控制列表有助于保护 Azure 虚拟网络上的通信。</li>
+                     <li>默认情况下，Azure 对所有主机和客户虚拟机开启数据包过滤防火墙。</br>了解更多有关<a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">网络安全组 (NSG) </a>的信息</li>
                   </ul>
-
-                  
-                  <p><span><strong>Compliance</strong> – We comply with both international and industry-specific compliance standards and participate in rigorous third-party audits, which verify our security controls.</span></p>
-                  <p><span><strong>Security Incident and Abuse Reporting</strong> – To report suspected security issues or abuse of Azure, please contact Azure Customer Support.</span></p>
-                  <p><span><strong>Penetration testing</strong> – We conduct regular penetration testing to improve Azure security controls and processes.
-                </span></p>
-               <p style="margin-top:20px">Customers maintain full ownership and control over their own Customer Data. We are a leader in providing transparency about our privacy practices—one reason that Microsoft Azure operated by 21Vianet has implemented the rigorous set of physical, logical, process and management controls.</p>
-              </div> 
+                  <p><span><strong>合规性</strong> - 我们严格遵守国际及行业合规性标准，并通过严格的第三方审计对各项安全控制点进行验证。</span></p>
+                  <p><span><strong>安全事件及滥用报告</strong> - 若要报告有关 Azure 的疑似安全问题或滥用情况，请联系世纪互联 Azure 客户支持部门。</span></p>
+                  <p><span><strong>渗透测试</strong> - 我们通过常规渗透测试来改进 Azure 的安全控制措施和流程。</span></p>
+               <p style="margin-top:20px">客户对自己的客户数据具有完全所有权和控制权。在隐私保护的透明性方面，我们之所以能够成为领先的服务提供商，一个重要的原因就是由世纪互联运营的 Microsoft Azure 实施了严格的物理、逻辑、流程和管理控制。</p>
+               <p style="font-size:12px; color:#666666;margin-top: 50px;">注：  ①Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下安装在所有云服务中，并处于禁用状态。Microsoft Antimalware (微软反恶意软件) 客户端和服务默认情况下不安装在虚拟机平台层面，而是列为可选安全扩展方案。</p>
+              </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/>
+                     <h1>更多信息</h1>
+                      <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></label><br/>
+					 <!--
+					 <label><a target="_self" class="mscom-link"                    href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a></label><br/>-->
+					 <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></label><br/>
+					 <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></label><br/>
                   </div>
                </div>
             </div>
