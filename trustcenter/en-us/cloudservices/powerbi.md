@@ -78,7 +78,7 @@ layout: TrustCenterPage
                         <li><a href="../privacy/you-own-your-data.html">Learn more about how 21Vianet manages your Customer Data</a></li>
                      </ul>
                      <label>Where Power BI Customer Data is located</label>
-                     <p>Power BI operated by 21Vianet is physically and logically entirely isolated from Microsoft Cloud services in other regions of the world. Customer Data, applications processing the Customer Data and<a href="../transparency/you_know_where.html">datacenters</a>,hosting Azure, Office 365 and Power BI are all located in mainland China. Datacenters in east China and north China, with the distance apart over 1000 km, maintain multiple copies of Customer Data for redundancy, in order to support business continuity of Azure, Office 365 and Power BI services.</p>
+                     <p>Power BI operated by 21Vianet is physically and logically entirely isolated from Microsoft Cloud services in other regions of the world. Customer Data, applications processing the Customer Data and <a href="../transparency/you_know_where.html">datacenters</a>,hosting Azure, Office 365 and Power BI are all located in mainland China. Datacenters in east China and north China, with the distance apart over 1000 km, maintain multiple copies of Customer Data for redundancy, in order to support business continuity of Azure, Office 365 and Power BI services.</p>
                      <ul style="list-style-type:disc;">
                         <li><a href="../transparency/you_know_where.html">Find out where your Power BI data is stored</a></li>
                      </ul>
@@ -93,6 +93,7 @@ layout: TrustCenterPage
                      <p>Clearly stated policies and procedures inform you, as a Power BI customer, where your customer data is stored and how we help secure it, as well as who can access it and under what circumstances.</p>
                      <ul style="list-style-type:disc;">
                         <li><a href="../transparency/default.html">Learn more about transparency</a></li>
+                     </ul>
                 </div>    
                 
          </div>
