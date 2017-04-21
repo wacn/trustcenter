@@ -47,12 +47,12 @@ layout: TrustCenterPageCN
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // Power BI安全性
+               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // Power BI 安全性
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>利用安全的客户数据可视化云解决方案保护您的客户数据和报告</p>
+               <label>利用安全的客户数据可视化云解决方案保护您的客户数据和报告</label>
                <p>由世纪互联运营的 Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。</p>
                <p><a href="">Power BI 概述</a></p>
                <p>Power BI 服务以 <a href="azuresecurity.html">Azure</a> 为基础，能够从 Azure 平台强大的安全技术中受益。Power BI 采用分离式前端与后端集群、网关和安全的客户数据存储结构来保护您的信息。认证过程可将未授权用户拒之门外；无论是存储状态还是传输状态下，客户数据加密技术均能保证客户数据的机密性。同时，Power BI 还可在云端或本地整合您企业所有的客户数据。</p>
