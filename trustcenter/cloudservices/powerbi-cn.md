@@ -52,7 +52,7 @@ layout: TrustCenterPageCN
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
                 <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                      <p style="font-size:28px">由世纪互联运营的 Power BI</p>
-                     <p style="font-size:20px;"><strong>使您的数据充满商业智能</strong></p>
+                     <p style="font-size:20px;">使您的数据充满商业智能</p>
                      <p>由世纪互联运营的 Power BI 是一种基于云平台的分析服务，您可在业务中用其对数据进行分析和视觉显示、并共享数据背后的真知灼见。一键点击，您即可创建更具表现力的报表和演示文稿，展示丰富的视觉效果，更清晰、更快速地传达您的信息。直观的工具将帮助您更轻松地探索数据、找到答案。事实上，由世纪互联运营的 Power BI  可帮助您随时随地获取答案，因为我们的仪表盘提供 360 度视角，可展示最重要的衡量指标，并对其进行实时更新。</p>
                      <p>您可通过 Power BI Mobile 应用程序随时随地访问您的数据和报表，一旦您的数据出现任何变化，应用程序也会自动更新数据。由世纪互联运营的 Power BI 可将您的机构的所有数据统一起来，将其存储于云端或本地。由世纪互联运营的 Power BI 包括服务本身、仪表盘、移动应用程序和 Power BI Desktop 报表创作工具。</p>
                      <ul style="list-style-type:disc;">
