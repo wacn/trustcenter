@@ -52,7 +52,7 @@ layout: TrustCenterPage
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                <p style="font-size:28px">Power BI operated by 21Vianet</p>
-               <p><strong>Business intelligence that brings your data to life</strong></p>
+               <p style="font-size:20px;"><strong>Business intelligence that brings your data to life</strong></p>
                <p>Power BI operated by 21Vianet is a cloud-based analytics service that your business can use to analyze, visualize, and share data insights. With one click, you can create more effective reports and presentations with rich visuals that communicate your message more clearly and quickly. Intuitive tools help you explore your data and find answers easily. In fact, Power BI operated by 21Vianet helps you get answers whenever and wherever you need them, with your most important metrics available through dashboards that provide a 360-degree view, updated in real time.</p>
                <p>Access your data and reports from anywhere with the Power BI Mobile apps, which also update automatically with any changes to your data. Power BI operated by 21Vianet can unify all your organization’s data, in the cloud or on premises. Power BI operated by 21Vianet includes the service itself, dashboards, mobile apps, and the Power BI Desktop report authoring tool.</p>
                <ul style="list-style-type:disc;">
