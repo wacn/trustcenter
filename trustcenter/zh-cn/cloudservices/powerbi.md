@@ -62,7 +62,7 @@ layout: TrustCenterPageCN
                      <ul>
                         <li><a href="../security/default.html">安全性</a></li>
                         <li><a href="../privacy/default.html">隐私与管控</a></li>
-                        <li><a href="./compliance/default.html">合规性</a></li>
+                        <li><a href="../compliance/default.html">合规性</a></li>
                         <li><a href="../transparency/default.html">透明度</a></li>
                      </ul>
                      <label style="color:rgb(0,115,198)">安全性</label>
@@ -78,7 +78,7 @@ layout: TrustCenterPageCN
                         <li><a href="../privacy/you-own-your-data.html">了解更多有关世纪互联如何管理您的客户数据</a></li>
                      </ul>
                      <label>Power BI 客户数据的存储位置</label>
-                     <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 与全球其他地区由微软运营的服务在物理上和逻辑上完全独立。所有客户数据、处理这些数据的应用程序，以及承载 Azure、Office 365 和 Power BI 服务的<a href="../zh-cn/transparency/you_know_where.html">数据中心</a>，全部位于中国境内。位于中国东部和中国北部的两座数据中心距离相隔 1000 公里以上，提供冗余的异地复制，为 Azure、Office 365 和 Power BI 服务提供业务连续性支持。</p>
+                     <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 与全球其他地区由微软运营的服务在物理上和逻辑上完全独立。所有客户数据、处理这些数据的应用程序，以及承载 Azure、Office 365 和 Power BI 服务的<a href="../transparency/you_know_where.html">数据中心</a>，全部位于中国境内。位于中国东部和中国北部的两座数据中心距离相隔 1000 公里以上，提供冗余的异地复制，为 Azure、Office 365 和 Power BI 服务提供业务连续性支持。</p>
                      <ul style="list-style-type:disc;">
                         <li><a href="../transparency/you_know_where.html">了解你的 Power BI 客户数据的存储位置</a></li>
                      </ul>
@@ -88,7 +88,7 @@ layout: TrustCenterPageCN
                         <li><a href="../transparency/default.html">了解更多有关世纪互联如何保护您的数据访问</a></li>
                      </ul>
                      <label style="color:rgb(0,115,198)">合规性</label>
-                     <p>由世纪互联运营的 Power BI 遵循相应标准，且其合规性经过第三方审核和认证，因此您可确信，您托付给我们的数据是按照严格的行业措施获得保护的</p>
+                     <p>由世纪互联运营的 Power BI 遵循相应标准，且其合规性经过第三方审核和认证，因此您可确信，您托付给我们的数据是按照严格的行业措施获得保护的。</p>
                      <label style="color:rgb(0,115,198)">透明度</label>
                      <p>明确清晰的政策和流程会使您了解，作为 Power BI 客户，您的客户数据存储在哪里，我们如何帮助您确保安全，以及谁可以访问数据、并在什么情况下访问数据。</p>
                      <ul style="list-style-type:disc;">
