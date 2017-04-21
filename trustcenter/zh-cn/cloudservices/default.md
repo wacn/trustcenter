@@ -49,12 +49,12 @@ layout: TrustCenterPageCN
             </div>
         </div>
         <div class="row-fluid grid-container mscom-grid-container" id="Services" data-cols="4" data-view1="1" data-view2="2" data-view3="4" data-view4="4">
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure-cn.html','_self')">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1" onclick="window.open('../cloudservices/azure.html','_self')">
                 <div class="image-wrapper"><img src="../Images/Microsoft_Azure_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="300" height="23" /></div>
                 <!--<mscom:link instancename="more azure" md:payloadguid="42dea437-6cfb-44a6-afaa-6a7901426bac" classoverride="moreLink withArrow"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
                 <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、合规性及透明性要求。   
-                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
+                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/azure.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                 </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="padding: 0px 0px;" onclick="window.open('../cloudservices/office-365.html','_self')">
@@ -62,7 +62,7 @@ layout: TrustCenterPageCN
                 <!--<mscom:link instancename="more dynamics ax" md:payloadguid="1ad212da-6a93-4a9c-b7b9-eeb4bd75e8e0" classoverride="moreLink"
                     target="_self" disablebitracking="false" text="Learn more"></mscom:link>-->
                 <p>Office 365结合了多种安全纵深防护措施，拥有丰富的数据保护工具，以及企业级合规性框架，从而为您提供高度安全的基于云的生产力体验 
-                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
+                    <a target="_self" class="mscom-link withArrow" href="../cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics ax" width="21" height="19" /></a>
                 </p>
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear" style="margin-top:0px" onclick="window.open('../cloudservices/powerbi.html','_self')">
