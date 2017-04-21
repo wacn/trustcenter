@@ -51,9 +51,9 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <label>Protect your Customer Data and reports with a secure cloud solution for Customer Data visualization</label>
+               <p style="font-size:24px;">Protect your Customer Data and reports with a secure cloud solution for Customer Data visualization</p>
                <p>Power BI operated by 21Vianet is a cloud-based suite of business analytics tools that you can trust to help you analyze Customer Data, publish reports, and share insights.</p>
-               <p><a href="">Get an overview of Power BI</a></p>
+               <p><a href="javascript:;">Get an overview of Power BI</a></p>
                <p>The Power BI service is built on <a href="azuresecurity.html">Azure</a>, which means that it benefits from the Azure platform’s robust security technologies. Power BI uses separate front-end and back-end clusters, the Gateway role, and a secure Customer Data storage architecture to help protect your information. The authentication process keeps unauthorized users out. And encryption of Customer Data, at rest and in transit, preserves confidentiality. Power BI can unify all your organization’s data, in the cloud or on premises.</p>
                <p>The Power BI service is governed by the <a href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet Online Standard Agreement for Office 365 </a> and the <a href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 and Power BI Operated by 21Vianet.</p>
                <p style="font-size:28px">Topics</p>
