@@ -55,9 +55,7 @@ layout: TrustCenterPage
                <p style="font-size:20px;"><strong>Business intelligence that brings your data to life</strong></p>
                <p>Power BI operated by 21Vianet is a cloud-based analytics service that your business can use to analyze, visualize, and share data insights. With one click, you can create more effective reports and presentations with rich visuals that communicate your message more clearly and quickly. Intuitive tools help you explore your data and find answers easily. In fact, Power BI operated by 21Vianet helps you get answers whenever and wherever you need them, with your most important metrics available through dashboards that provide a 360-degree view, updated in real time.</p>
                <p>Access your data and reports from anywhere with the Power BI Mobile apps, which also update automatically with any changes to your data. Power BI operated by 21Vianet can unify all your organization’s data, in the cloud or on premises. Power BI operated by 21Vianet includes the service itself, dashboards, mobile apps, and the Power BI Desktop report authoring tool.</p>
-               <ul style="list-style-type:disc;">
-                  <li><a href="http://www.21vbluecloud.com/powerbi/">Find out more about Power BI</a></li>
-               </ul>
+                  <p><a href="http://www.21vbluecloud.com/powerbi/">Find out more about Power BI</a></p>
                <p style="font-size:26px;">Power BI operated by 21Vianet topics</p>
                <ul>
                   <li><a href="../security/default.html">Security</a></li>
@@ -75,9 +73,7 @@ layout: TrustCenterPage
                   <p><a href="../privacy/you-own-your-data.html">Learn more about how 21Vianet manages your Customer Data</a></p>
                <label>Where Power BI Customer Data is located</label>
                <p>Power BI operated by 21Vianet is physically and logically entirely isolated from Microsoft Cloud services in other regions of the world. Customer Data, applications processing the Customer Data and <a href="../transparency/you_know_where.html">datacenters</a>,hosting Azure, Office 365 and Power BI are all located in mainland China. Datacenters in east China and north China, with the distance apart over 1000 km, maintain multiple copies of Customer Data for redundancy, in order to support business continuity of Azure, Office 365 and Power BI services.</p>
-               <ul style="list-style-type:disc;">
-                  <li><a href="../transparency/you_know_where.html">Find out where your Power BI data is stored</a></li>
-               </ul>
+                  <p><a href="../transparency/you_know_where.html">Find out where your Power BI data is stored</a></p>
                <label>Who can access Power BI Customer Data and on what terms</label>
                <p>We take strong measures to protect your Customer Data from use by unauthorized persons or from inappropriate access. we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited. However, you can always access your own Customer Data at any time and for any reason.</p>
                   <p><a href="../transparency/default.html">Learn more about how 21Vianet protects access to your Customer Data </a></p>
