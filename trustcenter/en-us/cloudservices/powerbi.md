@@ -67,16 +67,12 @@ layout: TrustCenterPage
                </ul>
                <label style="color:rgb(0,115,198)">Security</label>
                <p>The Power BI operated by 21Vianet service is built on the Azure cloud computing platform, and takes advantage of Azure’s robust set of security technologies and practices. Power BI operated by 21Vianet uses separate front-end and back-end clusters, and a secure data storage architecture to protect your information. The authentication process keeps unauthorized users out. And encryption of data, at rest and in transit, preserves confidentiality. Rigorous authentication and encryption help ensure that Power BI is resistant to attack, safeguards user access, and secures your Customer Data through encrypted communications.</p>
-               <ul style="list-style-type:disc;">
-                  <li><a href="../security/powerbi-security.html">Learn more about Power BI security</a></li>
-               </ul>
+                  <p><a href="../security/powerbi-security.html">Learn more about Power BI security</a></p>
                <label style="color:rgb(0,115,198)">Privacy and Control</label>
                <p>For years, 21Vianet approach to privacy and data protection has been grounded in our commitment to organizations’ ownership of and control over the collection, use, and distribution of their Customer Data. </p>
                <label>How 21Vianet manages Power BI Customer Data</label>
                <p>We use your Customer Data only to provide the services we have agreed upon, and do not mine it for marketing or advertising. If you end your Power BI subscription, 21Vianet is governed by strict standards and follows specific processes for removing data from our systems.</p>
-               <ul style="list-style-type:disc;">
-                  <li><a href="../privacy/you-own-your-data.html">Learn more about how 21Vianet manages your Customer Data</a></li>
-               </ul>
+                  <p><a href="../privacy/you-own-your-data.html">Learn more about how 21Vianet manages your Customer Data</a></p>
                <label>Where Power BI Customer Data is located</label>
                <p>Power BI operated by 21Vianet is physically and logically entirely isolated from Microsoft Cloud services in other regions of the world. Customer Data, applications processing the Customer Data and <a href="../transparency/you_know_where.html">datacenters</a>,hosting Azure, Office 365 and Power BI are all located in mainland China. Datacenters in east China and north China, with the distance apart over 1000 km, maintain multiple copies of Customer Data for redundancy, in order to support business continuity of Azure, Office 365 and Power BI services.</p>
                <ul style="list-style-type:disc;">
@@ -84,16 +80,12 @@ layout: TrustCenterPage
                </ul>
                <label>Who can access Power BI Customer Data and on what terms</label>
                <p>We take strong measures to protect your Customer Data from use by unauthorized persons or from inappropriate access. we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited. However, you can always access your own Customer Data at any time and for any reason.</p>
-               <ul style="list-style-type:disc">
-                  <li><a href="../transparency/default.html">Learn more about how 21Vianet protects access to your Customer Data </a></li>
-               </ul>
+                  <p><a href="../transparency/default.html">Learn more about how 21Vianet protects access to your Customer Data </a></p>
                <label style="color:rgb(0,115,198)">Compliance</label>
                <p>Power BI operated by 21Vianet complies with relative standards, and its compliance is verified by third-party audits and certifications so you know that the data you entrust to us is held in accordance with stringent industry safeguards.</p>
                <label style="color:rgb(0,115,198)">Transparency</label>
                <p>Clearly stated policies and procedures inform you, as a Power BI customer, where your customer data is stored and how we help secure it, as well as who can access it and under what circumstances.</p>
-               <ul style="list-style-type:disc;">
-                  <li><a href="../transparency/default.html">Learn more about transparency</a></li>
-               </ul>
+                  <p><a href="../transparency/default.html">Learn more about transparency</a></p>
             </div>          
          </div>
       </div>
