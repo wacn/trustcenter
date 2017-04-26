@@ -55,9 +55,7 @@ layout: TrustCenterPageCN
                      <p style="font-size:20px;">使您的数据充满商业智能</p>
                      <p>由世纪互联运营的 Power BI 是一种基于云平台的分析服务，您可在业务中用其对数据进行分析和视觉显示、并共享数据背后的真知灼见。一键点击，您即可创建更具表现力的报表和演示文稿，展示丰富的视觉效果，更清晰、更快速地传达您的信息。直观的工具将帮助您更轻松地探索数据、找到答案。事实上，由世纪互联运营的 Power BI  可帮助您随时随地获取答案，因为我们的仪表盘提供 360 度视角，可展示最重要的衡量指标，并对其进行实时更新。</p>
                      <p>您可通过 Power BI Mobile 应用程序随时随地访问您的数据和报表，一旦您的数据出现任何变化，应用程序也会自动更新数据。由世纪互联运营的 Power BI 可将您的机构的所有数据统一起来，将其存储于云端或本地。由世纪互联运营的 Power BI 包括服务本身、仪表盘、移动应用程序和 Power BI Desktop 报表创作工具。</p>
-                     <ul style="list-style-type:disc;">
-                        <li><a href="http://www.21vbluecloud.com/powerbi/">了解更多有关 Power BI 的信息</a></li>
-                     </ul>
+                        <p><a href="http://www.21vbluecloud.com/powerbi/">了解更多有关 Power BI 的信息</a></p>
                      <p style="font-size:26px;">由世纪互联运营的 Power BI 主题</p>
                      <ul>
                         <li><a href="../security/default-cn.html">安全性</a></li>
@@ -67,32 +65,23 @@ layout: TrustCenterPageCN
                      </ul>
                      <label style="color:rgb(0,115,198)">安全性</label>
                      <p>由世纪互联运营的 Power BI 服务以 Microsoft Azure 平台为基础，利用了 Azure 强大的安全技术，并借鉴了其良好的做法。为保护您的信息，由世纪互联运营的 Power BI 使用单独的前端和后端集群和安全数据存储架构。身份验证过程可阻止未经授权的用户。我们还对静态和传输中的数据进行加密，保证数据的秘密性。借助严格的身份验证和加密过程， Power BI 能够抵御攻击、保护用户访问，并通过加密通信保护您的客户数据。</p>
-                     <ul style="list-style-type:disc;">
-                        <li><a href="../security/powerbi-security-cn.html">了解更多有关 Power BI 安全性的信息</a></li>
-                     </ul>
+                        <p><a href="../security/powerbi-security-cn.html">了解更多有关 Power BI 安全性的信息</a></p>
                      <label style="color:rgb(0,115,198)">隐私与管控</label>
                      <p>多年来，世纪互联的隐私保护和数据保护理念已深深植根于我们的承诺，即各机构对其客户数据的收集、使用和分发拥有所有权和控制权。</p>
                      <label>世纪互联如何管理 Power BI 数据</label>
                      <p>我们仅使用您的客户数据来提供双方协定的服务，不会将其用于营销或广告。若您终止订购 Power BI，世纪互联将按照严格的标准，遵循特定流程将数据从系统中删除。</p>
-                     <ul style="list-style-type:disc;">
-                        <li><a href="../../zh-cn/privacy/you-own-your-data.html">了解更多有关世纪互联如何管理您的客户数据</a></li>
-                     </ul>
+                        <p><a href="../../zh-cn/privacy/you-own-your-data.html">了解更多有关世纪互联如何管理您的客户数据</a></p>
                      <label>Power BI 客户数据的存储位置</label>
                      <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 与全球其他地区由微软运营的服务在物理上和逻辑上完全独立。所有客户数据、处理这些数据的应用程序，以及承载 Azure、Office 365 和 Power BI 服务的<a href="../../zh-cn/transparency/you_know_where.html">数据中心</a>，全部位于中国境内。位于中国东部和中国北部的两座数据中心距离相隔 1000 公里以上，提供冗余的异地复制，为 Azure、Office 365 和 Power BI 服务提供业务连续性支持。</p>
-                     <ul style="list-style-type:disc;">
-                        <li><a href="../../zh-cn/transparency/you_know_where.html">了解你的 Power BI 客户数据的存储位置</a></li>
-                     </ul>
+                        <p><a href="../../zh-cn/transparency/you_know_where.html">了解你的 Power BI 客户数据的存储位置</a></p>
                      <label>访问 Power BI 客户数据的人员和条件</label>
                      <p>我们采取强有力的措施防止未经授权的人员使用您的客户数据或发生不当访问。我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。但是您可随时访问自己的客户数据。</p>
-                     <ul style="list-style-type:disc">
-                        <li><a href="../../zh-cn/transparency/default.html">了解更多有关世纪互联如何保护您的数据访问</a></li>
-                     </ul>
+                        <p><a href="../../zh-cn/transparency/default.html">了解更多有关世纪互联如何保护您的数据访问</a></p>
                      <label style="color:rgb(0,115,198)">合规性</label>
                      <p>由世纪互联运营的 Power BI 遵循相应标准，且其合规性经过第三方审核和认证，因此您可确信，您托付给我们的数据是按照严格的行业措施获得保护的。</p>
                      <label style="color:rgb(0,115,198)">透明度</label>
                      <p>明确清晰的政策和流程会使您了解，作为 Power BI 客户，您的客户数据存储在哪里，我们如何帮助您确保安全，以及谁可以访问数据、并在什么情况下访问数据。</p>
-                     <ul style="list-style-type:disc;">
-                        <li><a href="../../zh-cn/transparency/default.html">了解更多有关透明度的信息</a></li>
+                        <p><a href="../../zh-cn/transparency/default.html">了解更多有关透明度的信息</a></p>
                 </div>
             </div>
       </div>
