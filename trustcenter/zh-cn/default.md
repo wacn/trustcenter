@@ -146,7 +146,7 @@ layout: TrustCenterPageCN
                <p><h2 style="color:rgb(0,115,198)">可信赖的云服务</h2></p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 为企业提供了一个开放的平台，具备客户开发创新的解决方案所需的灵活性和安全性，实现实时数据洞察力、增强工作生产力和移动性，并交付个性化的客户体验。</p>
 			   <p>
-                        了解更多有关<a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">可信赖的云服务</a>的信息
+                        了解更多有关<a target="_self" class="mscom-link" href="../../file/Trusted-Cloud_Mar-2017.pdf">可信赖的云服务</a>的信息
                </p>
                <p><h2 style="color:rgb(0,115,198)">共担责任</h2></p>
                <p>
@@ -165,12 +165,12 @@ layout: TrustCenterPageCN
                </p>
             </div>
             <!--隐藏-->
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear"  style="visibility: hidden;">
+            <!--<div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear"  style="visibility: hidden;">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/Microsoft-Commercial-Support.png?version=c6b174ce-21e8-6a22-da22-b5b5dd523d39" class="mscom-image title3Adjustment adjusted" alt="Microsoft Commercial Support Title" width="199" height="45" /></div>
                <p>Tech expertise, accelerated support, and strategic advice
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Commercial-Support"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To commercial support" width="21" height="19" /></a>
                </p>
-            </div>
+            </div>-->
             <div class="span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="window.open('../zh-cn/cloudservices/office-365.html','_self')">
                 <div class="image-wrapper"><img src="Images/Office365_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Office 365 Title" width="300" height="28" /></div>
                 <p>
@@ -178,13 +178,14 @@ layout: TrustCenterPageCN
                     <a target="_self" class="mscom-link withArrow" href="../zh-cn/cloudservices/office-365.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></a>
                 </p>
             </div>
-            <!--隐藏-->
-            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear"  style="visibility: hidden;">
-               <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS_Dynamics_Logo_Blk_rgb.png?version=06e4eef9-aa86-64d0-5f85-b53520154354" class="mscom-image title2Adjustment" alt="Microsoft Dynamics Title" width="172" height="22" /></div>
-               <p><strong>Dynamics CRM Online</strong> enables more secure customer engagement
-                  <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
+            <!--power BI-->
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear" style="cursor:pointer" onclick="window.open('../zh-cn/cloudservices/powerbi.html','_self')">
+               <div class="image-wrapper"><img src="Images/Power_BI_Logo_Cn.png" alt="Microsoft Dynamics Title" width="300" height="28"  class="mscom-image" alt="Arrow | Navigate To office" width="21" height="19" /></div>
+               <p>Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。
+                  <a target="_self" class="mscom-link withArrow" href="../zh-cn/cloudservices/powerbi.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To dynamics" width="21" height="19" /></a>
                </p>
             </div>
+            <!---->
          </div>
             <!--隐藏-->
          <div class="row-fluid grid-container mscom-grid-container" id="Services2" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4" style="display:none !important">
