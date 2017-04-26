@@ -77,6 +77,10 @@ layout: TrustCenterPage
                      <h1>Helpful information</h1>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">21Vianet Online Services Standard Agreement for Mircosoft Azure</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet’s Online Services Standard Agreement for Office 365</a></label><br/>
+                <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
+                
+                <!--
+                <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></label><br/>--><label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a></label><br/>
                   </div>
                </div>
             </div>
