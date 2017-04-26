@@ -51,29 +51,23 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <label>Protect user credentials and access</label>
+               <p style="font-size:24px;font-weight:500">Protect user credentials and access</p>
                <p>Securing systems, applications, and data begins with identity-based access controls. The identity and access management features that are built into Microsoft cloud technology and 21Vianet services help protect your organizational and personal information from unauthorized access while making it available to legitimate users whenever and wherever they need it.</p>
                <p>These features enable you to manage user identities, credentials, and access rights from creation through retirement, and help automate and centralize the identity lifecycle processes. 21Vianet goes beyond the username and password model to provide stronger authentication, while making security more convenient for users with simplified processes and single sign-on (SSO). Robust tools make it easier for administrators to manage identity, and developers to build policy-based identity management into their apps </p>
-               <p><a target="_self" class="mscom-link" href="#identity_Secure">Secure identity</a></p>
-               <p><a target="_self" class="mscom-link" href="#infrastructure_Secure">Secure infrastructure</a></p>
-               <p><a target="_self" class="mscom-link" href="#apps_and_data_Secure">Secure apps and data</a></p>
-               <p style="font-size:28px" id="identity_Secure">Secure identity</p>
+               <label id="identity_Secure">Secure identity</label>
                <p>21Vianet and Microsoft uses multiple security practices and technologies across the products and services to manage identity and access. These include: </p>
                <ul style="list-style-type:disc">
                   <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Multi-Factor Authentication</a> requires users to use multiple methods for access, on-premises and in the cloud. It provides strong authentication with a range of easy verification options, while accommodating users with a simple sign-in process.</li>
-                  <li><a href="https://www.azure.cn/documentation/articles/active-directory-passwords-learn-more">Password policy enforcement</a> increases the security of traditional passwords by imposing length and complexity requirements, forced periodic rotation, and account lockout after failed authentication attempts.</li>
+                  <li>Password policy enforcement increases the security of traditional passwords by imposing length and complexity requirements, forced periodic rotation, and account lockout after failed authentication attempts.</li>
                   <li><a href="https://www.azure.cn/documentation/articles/active-directory-authentication-scenarios/">Token-based authentication</a> enables authentication via Active Directory Federation Services (AD FS) or third-party secure token systems.</li>
                   <li><a href="https://www.azure.cn/documentation/articles/role-based-access-built-in-roles/">Role-based access control </a>(RBAC) enables you to grant access based on the user’s assigned role, making it easy to give users only the amount of access they need to perform their job duties. RBAC can be customized according to your organization’s business model and risk tolerance. </li>
                   <li><strong>Integrated identity management (hybrid identity)</strong> enables you to maintain control of users’ access across internal datacenters and cloud platforms, creating a single user identity for authentication and authorization to all resources.</li>
                </ul>
-               <p style="font-size:28px" id="infrastructure_Secure">Secure infrastructure</p>
+               <label id="infrastructure_Secure">Secure infrastructure</label>
                <p>Azure is the foundation for many Microsoft services. Azure Active Directory and Windows Server Active Directory Domain Services enable you to monitor access patterns both in the cloud and on-premises, and to identify and address unauthorized access attempts and other potential threats. Active Directory Domain Services also support features that are widely used in enterprises, such as domain join, LDAP, NTLM, and Kerberos authentication.</p>
                <p>You can migrate legacy directory-aware applications running on-premises to Azure without worrying about identity requirements. You do not need to deploy domain controllers as Azure virtual machines (VMs), or use a cross-premises connection, such as site-to-site VPN or ExpressRoute, back to your identity infrastructure</p>
-               <p style="font-size:28px" id="apps_and_data_Secure">Secure apps and data</p>
-               <p><a target="_self" class="mscom-link" href="#Azure_Secure">Azure</a></p>
-               <p><a target="_self" class="mscom-link" href="#Office_365_Secure">Office 365</a></p>
-               <p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>
-<label id="Azure_Secure">Microsoft Azure operated by 21Vianet </label>
+               <label id="apps_and_data_Secure">Secure apps and data</label>
+               <p style="font-size:20px;font-weight:500" id="Azure_Secure">Microsoft Azure operated by 21Vianet </p>
                <p><a href="https://www.azure.cn/home/features/identity/">Azure Active Directory </a>helps secure access to Customer Data in on-premises and cloud applications, and simplifies the management of users and groups. It combines core directory services, advanced identity governance, security, and application access management. Azure Active Directory also makes it easy for developers to build policy-based identity management into their applications.</p>
                <p><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Azure Multi-Factor Authentication </a>requires the use of more than one verification method to authenticate a user. With this extra layer of authentication for both on-premises and cloud applications, Azure helps safeguard user access to Customer Data and applications. It delivers strong authentication with a range of easy verification options while meeting user demand for a simple sign-in process. </p>
                <p><strong>Cloud App Discovery</strong> is a Premium feature of Azure Active Directory (AAD) that enables you to discover cloud applications that are used by the employees in your organization.</p>
@@ -81,7 +75,7 @@ layout: TrustCenterPage
                <p><strong>Azure Active Directory Domain Services </strong>enables you to join Azure virtual machines (VMs) to a domain without the need to deploy domain controllers. Users sign in to these VMs using their corporate Active Directory credentials, and can access resources seamlessly.</p>
                <p><strong>Azure Active Directory B2B Collaboration</strong> is a secure partner integration solution that supports your cross-company relationships by enabling partners to selectively access your corporate applications and data by using their self-managed identities.</p>
                <p><strong>Azure AD Application Proxy </strong>provides single sign-on (SSO) and secure remote access for web applications hosted on-premises.</p>
-               <label id="Office_365_Secure">Office 365 operated by 21Vianet </label>
+               <p style="font-size:20px;font-weight:500" id="Office_365_Secure">Office 365 operated by 21Vianet </p>
                <p>Office 365 uses Azure Active Directory to manage users. You can choose from three main identity models in Office 365 when you set up and manage user accounts. You can also switch to a different identity model if your requirements change.</p>
                <ul style="list-style-type:disc">
                   <li><strong>Cloud identity.</strong> Manage your user accounts in Office 365 only. No on-premises servers are required to manage users; it's all done in the cloud.</li>
