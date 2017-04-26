@@ -51,18 +51,15 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <label>Protect data with network technologies that block intrusions and attacks</label>
+               <p style="font-size:28px">Protect data with network technologies that block intrusions and attacks</p>
                <p>Protecting the security and confidentiality of network traffic, whether in the cloud or on-premises, is a critical part of any data protection strategy. Securing the network infrastructure helps prevent attacks, block malware, and protect your data from unauthorized access, interrupted access, or loss.</p>
                <p>In the public cloud, the isolation of customer infrastructure is fundamental to maintaining security. Azure, on which most cloud services based on Microsoft technology are built, accomplishes this primarily through a distributed virtual firewall, partitioned local area networks (LANs), and physical separation of back-end servers from public-facing interfaces. Customers can deploy multiple logically isolated private networks, and each virtual network is isolated from the other virtual networks. For on-premises customers, Windows Server 2016 includes firewall, threat analytics, and numerous network security features.</p>
-               <p><a href="#identity_Secure">Secure identity</a></p>
-               <p><a href="#infrastructure_Secure">Secure infrastructure</a></p>
-               <p><a href="#apps_and_data_Secure">Secure apps and data</a></p>
-               <p style="font-size:28px" id="identity_Secure">Secure identity</p>
+               <label id="identity_Secure">Secure identity</label>
                <p>21Vianet‘s cloud services that are built on Azure use Azure Active Directory for identity management, authentication, and access control. For on-premises customers, Windows Server 2016 uses Active Directory Domain Services (AD DS).</p>
                <p>Azure Active Directory and AD DS help ensure that only authorized users can access your network environment, data, and applications, and provide Azure Multi-Factor Authentication for highly secure sign in. With Multi-Factor Authentication, you can require users to verify their sign-in with a mobile application, phone call, or text message.</p>
                <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Azure, Office 365 and Power BI services. The Azure, Office 365 and Power BI network infrastructure blocks undesirable traffic to and within datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces. 
                </p>
-               <p style="font-size:28px" id="infrastructure_Secure">Secure infrastructure</p>
+               <label id="infrastructure_Secure">Secure infrastructure</label>
                <p>21Vianet uses several network security technologies to protect your cloud services and Customer Data, and block attacks.</p>
                <ul style="list-style-type:disc">
                   <li><strong>Firewalls</strong> help protect network perimeters, subnets, and local machines (including virtual machines). Perimeter firewalls filter packets coming into the network. If malicious traffic has managed to bypass network-level controls, operating system firewalls provide another layer of protection by allowing or denying packets coming into the local system</li>
@@ -74,11 +71,8 @@ layout: TrustCenterPage
                   <li><strong>Access Control</strong> Lists are rules that you can create at different levels of granularity, including network interfaces, individual VMs, or virtual subnets. You can then control access by allowing or denying communications between workloads within a virtual network, from systems on your on-premises networks, or direct Internet communications.</li>
                   <li><strong>Azure Security Center</strong> provides a centralized portal from which you can secure resources you place in Azure. When you enable Azure Security Center for your subscription or Resource Group, Azure Security Center provides recommendations and alerts for network security issues, with a centralized portal from which you can help secure your Azure deployments and prevent, detect, and respond to threats. It uses behavioral analytics and machine learning for effective threat detection and helps you build an attack timeline for faster remediation.</li>
                </ul>
-               <p style="font-size:28px" id="apps_and_data_Secure">Secure apps and data</p>
-               <p><a target="_self" class="mscom-link" href="#Azure_Secure">Azure</a></p>
-               <p><a target="_self" class="mscom-link" href="#Office_365_Secure">Office 365</a></p>
-               <!--<p><a target="_self" class="mscom-link" href="#Power_BI_Secure">Power BI</a></p>-->
-               <label id="Azure_Secure">Microsoft Azure operated by 21Vianet</label>
+               <label id="apps_and_data_Secure">Secure apps and data</label>
+               <p style="font-size:20px;font-weight:500" id="Azure_Secure">Microsoft Azure operated by 21Vianet</p>
 
                <p><a href="https://www.azure.cn/home/features/networking/">Virtual Network</a> extends your on-premises network to the cloud through site-to-site VPN. You control the network topology and manage it just like your on-site infrastructure. Each virtual network is isolated from other virtual networks. 
                </p>
@@ -89,7 +83,7 @@ layout: TrustCenterPage
                <p><a href="https://www.azure.cn/home/features/traffic-manager/">Forced tunneling</a> lets you redirect or "force" all Internet-bound traffic back to your on-premises location via a site-to-site VPN tunnel for inspection and auditing. Without forced tunneling, Internet-bound traffic from your VMs in Azure will always traverse from Azure network infrastructure directly out to the Internet, without the option to allow you to inspect or audit the traffic.</p>
                <p><strong>Isolation. </strong>Azure uses network isolation to prevent unwanted communications between deployments, and access controls block unauthorized users. Virtual Machines do not receive inbound traffic from the Internet unless customers configure them to do so.
                </p>
-               <label id="Office_365_Secure">Office 365 Operated by 21Vianet </label>
+               <p style="font-size:20px;font-weight:500" id="Office_365_Secure">Office 365 Operated by 21Vianet </p>
                <p>Office 365 perimeter protection is implemented through the use of controlled devices at the network edge and on points throughout the network. Only connections and communications that are necessary to allow systems to operate are allowed. Access control lists (ACLs) on routers, IPsec policies on hosts, firewall rules, and host-based firewall rules are implemented in the network. Edge router security provides the ability to detect intrusions and signs of vulnerability at the network layer. Networks within the Office 365 data centers are segmented to provide physical separation of back-end servers and storage devices from the public-facing interfaces. 
                </p>
                <p>Office 365 services follow industry cryptographic standards such as SSL/TLS and AES to protect the confidentiality and integrity of data. All customer-facing servers negotiate a secure session using SSL/TLS with client machines. The use of TLS/SSL establishes a highly secure client-to-server connection to help provide data confidentiality and integrity between the desktop and the datacenter.
