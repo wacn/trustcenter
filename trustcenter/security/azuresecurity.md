@@ -54,7 +54,7 @@ layout: TrustCenterPage
                <p>As enterprises adopt public and hybrid cloud solutions, they do extensive due diligence on their providers’ security policies, operations, and systems. Confidential data is the lifeblood of any company, and many industry companies are also bound by extensive regulations regarding the use, transmission, and storage of Customer Data. 
                </p>
                <p>Microsoft Azure operated by 21Vianet provides businesses with the data security and privacy, control, and transparency they require. Security and privacy are embedded in the Azure platform, using the Security Development Lifecycle (SDL), from initial planning through solution launch, as well as the upgrades we continue to make. Security Management Process provides security guidelines for our operational processes, and <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a>governs how we build and operate the services.  </p>
-               <p><a href="https://www.trustcenter.cn/en-us/cloudservices/azure.html">Get an overview of Azure</a></p>
+               <p><a href="https://www.trustcenter.cn/en-us/cloudservices/azure.html" style="font-size:24px">Get an overview of Azure</a></p>
                <p>Azure uses multiple safeguards to protect customer and enterprise data. These security practices and technologies include: </p>
                   <p><strong>Identity and access management </strong></p>
                   <p>Identity and access management</p>
@@ -122,8 +122,7 @@ layout: TrustCenterPage
                   
                   <p><span><strong>Compliance</strong> – We comply with both international and industry-specific compliance standards and participate in rigorous third-party audits, which verify our security controls.</span></p>
                   <p><span><strong>Security Incident and Abuse Reporting</strong> – To report suspected security issues or abuse of Azure, please contact Azure Customer Support.</span></p>
-                  <p><span><strong>Penetration testing</strong> – We conduct regular penetration testing to improve Azure security controls and processes.
-                </span></p>
+                  <p><a href="../security/penetrationtesting.html" style="font-weight:500">Penetration testing</a> – We conduct regular penetration testing to improve Azure security controls and processes.</p>
                <p style="margin-top:20px">Customers maintain full ownership and control over their own Customer Data. We are a leader in providing transparency about our privacy practices—one reason that Microsoft Azure operated by 21Vianet has implemented the rigorous set of physical, logical, process and management controls.</p>
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

@@ -56,7 +56,7 @@ layout: TrustCenterPageCN
                <p>由世纪互联运营的 Microsoft Azure 针对您的需求，在提供业务的同时，还提供了完善的数据安全、隐私保护、可控及透明性。通过采用安全开发生命周期 (SDL) 流程，Azure 平台自设计至方案发布，以及后续升级更新过程中，安全和隐私保护始终被充分考虑。世纪互联通过安全管理流程为平台运营提供安全指南。我们还严格根据由<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">世纪互联运营的 Microsoft Azure 隐私声明</a>构建和运营各项服务。 </p>
                <p><a href="https://www.trustcenter.cn/zh-cn/cloudservices/azure.html">Azure 概述 </a></p>
                <p>Azure 采用了多重安全防护为客户和企业数据提供保护。这些安全措施和技术包括：</p>
-               <p><strong>身份和访问管理</strong></p>
+               <p><a href="https://www.trustcenter.cn/zh-cn/cloudservices/azure.html" style="font-size:24px;">身份和访问管理</a></p>
                <ul style="list-style-type:disc">
                   <li>帮助确保只有经过授权的用户才能访问您的环境、客户数据和应用程序</li>
                   <li>为高级安全登录提供了多重身份验证功能，包括通过 Azure Active Directory 授权身份管理进行的专业化管理访问。</li>
@@ -120,7 +120,7 @@ layout: TrustCenterPageCN
 
                   <p><span><strong>合规性</strong> - 我们严格遵守国际及行业合规性标准，并通过严格的第三方审计对各项安全控制点进行验证。</span></p>
                   <p><span><strong>安全事件及滥用报告</strong> - 若要报告有关 Azure 的疑似安全问题或滥用情况，请联系世纪互联 Azure 客户支持部门。</span></p>
-                  <p><span><strong>渗透测试</strong> - 我们通过常规渗透测试来改进 Azure 的安全控制措施和流程。</span></p>
+                  <p><a href="../security/penetrationtesting-cn.html" style="font-weight:500">渗透测试</a> - 我们通过常规渗透测试来改进 Azure 的安全控制措施和流程。</p>
                <p style="margin-top:20px">客户对自己的客户数据具有完全所有权和控制权。在隐私保护的透明性方面，我们之所以能够成为领先的服务提供商，一个重要的原因就是由世纪互联运营的 Microsoft Azure 实施了严格的物理、逻辑、流程和管理控制。</p>
               </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
