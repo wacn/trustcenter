@@ -144,15 +144,14 @@ layout: TrustCenterPage
                <p><h2>可信赖的云服务</h2></p>
                <p>由世纪互联运营的 Microsoft Azure 和Office 365为企业提供了一个开放的平台，具备客户开发创新的解决方案所需的灵活性和安全性，实现实时数据洞察力、增强工作生产力和移动性，并交付个性化的客户体验。 </p>
                <p><h2>共担责任</h2></p>
-               <p>在中国，使用云服务的客户受到许多适用于不同地域和行业的各种法律和法规的约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关Azure 和Office 365云服务的详细信息，以帮助他们进行自我监管评估。
-Azure 和Office 365云服务要求客户与服务提供商共担责任。世纪互联负责维护基于微软可信云技术的平台，并努力提供可满足客户的安全性、隐私保护、合规性和透明度需求的云服务。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
+               <p>在中国，使用云服务的客户受到许多适用于不同地域和行业的各种法律和法规的约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关Azure 和Office 365云服务的详细信息，以帮助他们进行自我监管评估。Azure 和Office 365云服务要求客户与服务提供商共担责任。世纪互联负责维护基于微软可信云技术的平台，并努力提供可满足客户的安全性、隐私保护、合规性和透明度需求的云服务。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
 
             </div>
          </div>
          <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
                <div class="image-wrapper"><img src="https://c.s-microsoft.com/en-us/CMSImages/MS-Azure-Title.jpg?version=9ab94844-46b5-5f16-3d32-594cf9d6431b" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
-               <p>Azure为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
+               <p>Azure 为云中的客户和企业数据提供全面保护的同时，还可以满足安全、隐私保护、控制、合规性及透明性要求。
                   <a target="_self" class="mscom-link withArrow" href="https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
                </p>
             </div>
@@ -182,6 +181,25 @@ Azure 和Office 365云服务要求客户与服务提供商共担责任。世纪�
                
             </div>
          </div>
+         <!---->
+         <div class="row-fluid grid-container mscom-grid-container" id="Services" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
+               <div class="image-wrapper"><img src="zh-cn/Images/Power_BI_Logo_Cn.png" class="mscom-image title1Adjustment" alt="Microsoft Azure Title" width="150" height="23" /></div>
+               <p>Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。
+                  <a target="_self" class="mscom-link withArrow" href="/en-us/TrustCenter/CloudServices/powerbi"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Azure" width="21" height="19" /></a>
+               </p>
+            </div>
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
+               
+            </div>
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear">
+               
+            </div>
+            <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1 bp0-clear bp1-clear">
+               
+            </div>
+         </div>
+         <!---->
          <div class="grayback">
             <div class="row-fluid grid-container mscom-grid-container features" data-view4="4" data-view3="4" data-view2="2" data-view1="1" data-cols="4">
                <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-4-1 bp3-col-4-1">
