@@ -58,7 +58,7 @@ layout: TrustCenterPageCN
                <p>世纪互联和微软对其产品和服务使用了多种安全实践和技术以管理身份和访问，其中包括：</p>
                <ul style="list-style-type:disc">
                   <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a>要求用户采用多种方法进行本地和云访问。它通过一系列简单的验证选项提供强大的身份验证，同时为用户提供简单的登录流程。</li>
-                  <li>密码策略实施通过实施密码长度和复杂性要求、定期更换密码以及认证失败后锁定账户等措施来提升传统密码的安全性。</li>
+                  <li><strong>密码策略实施</strong>通过实施密码长度和复杂性要求、定期更换密码以及认证失败后锁定账户等措施来提升传统密码的安全性。</li>
                   <li><a href="https://www.azure.cn/documentation/articles/active-directory-authentication-scenarios/">基于令牌的身份验证</a>通过活动目录联合身份验证服务（ADFS）或第三方安全令牌系统启用身份验证。</li>
                   <li><a href="https://www.azure.cn/documentation/articles/role-based-access-built-in-roles/">基于角色的访问控制</a>（RBAC）使您能够根据用户角色授予其访问权限，从而轻松地为用户提供其履行工作职责所需的访问权限。基于角色的访问控制（RBAC）可根据您机构的业务模式和风险承受度进行定制。</li>
                   <li><strong>集成身份管理（混合型身份）</strong>使您能够保持对内部数据中心和云平台的用户访问控制，创建单一的用户身份用于对所有资源进行身份验证和授权。</li>
