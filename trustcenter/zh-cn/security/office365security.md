@@ -58,9 +58,9 @@ layout: TrustCenterPageCN
                <p>世纪互联在安全方面的实践具有扩展性，并结合了为各地区各行业提供服务的实践。内置安全功能保证了客户数据自开始存放到到达用户设备时的安全。</p>
                <p>在服务层面上，世纪互联运营的 Office 365 采用深度防御方法，提供物理、逻辑和数据安全层面的安全功能，并使用运营最佳实践提供服务。 此外，Office 365 还为您提供了企业级用户和管理员控制，帮助您进一步保护运营环境。</p>
                <p>您的 Office 365 客户数据归您所有，即您对这些客户数据享有完全的控制权。我们会为您提供高度的隐私控制权限和可见性，让您自行决定您的客户数据存储位置、客户数据访问权限，以及服务的可用性和更改设置的支持。如果您终止订购此项服务，您可以将您的客户数据导出带走。世纪互联将负责管理服务层级的安全技术和策略，您也可以通过客户管理控制器自定义 Office 365 环境，以适应公司的安全需求。Office 365 会持续进行更新，以提高安全性能。</p>
-               <p><a href="../cloudservices/office-365.html" style="font-size:28px">Office 365 概述</a></p>
-               <label id="Secure_identity">安全身份</label>
-               <p>Office 365 利用 <a href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a>（Azure AD）对用户进行管理，提供身份验证、身份管理和访问控制等服务。Azure Active Directory 的功能包含目录数据的云存储和一组核心身份验证服务（如用户登录程序、认证服务及联合服务）。这些认证服务可轻松地与您内部部署的 Azure AD 相结合，同时完全支持第三方身份提供商</p>
+               <p><a href="../cloudservices/office-365.html" style="font-size:28px;font-weight:500;">Office 365 概述</a></p>
+               <p style="font-size:26px;font-weight:500;" id="Secure_identity">安全身份</p>
+               <p>Office 365 利用<a href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a>（Azure AD）对用户进行管理，提供身份验证、身份管理和访问控制等服务。Azure Active Directory 的功能包含目录数据的云存储和一组核心身份验证服务（如用户登录程序、认证服务及联合服务）。这些认证服务可轻松地与您内部部署的 Azure AD 相结合，同时完全支持第三方身份提供商</p>
                <p>Office 365 采用多重身份验证手段，由 Office 365 管理中心管理，帮助提供额外的安全保障。订购 Office 365 后，您将享受到 Azure <a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a>的如下功能：</p>
                <ul style="list-style-type:disc">
                   <li>能够为最终用户启用和实施多重身份验证</li>
@@ -70,9 +70,9 @@ layout: TrustCenterPageCN
                   <li>非浏览器客户端的应用程序密码（如 Skype 的商业客户端软件）</li>
                   <li>在进行验证通话时来电号码默认为世纪互联</li>
                </ul>
-               <label id="Secure_infrastructure">安全基础架构</label>
+               <p style="font-size:26px;font-weight:500;" id="Secure_infrastructure">安全基础架构</p>
                <p>由世纪互联运营的 Office 365 采用深度防御安全原则来防范内部和外部风险，使得 Office 365 能够检测和抵御大范围多层面的攻击。</p>
-               <p>物理安全性</p>
+               <p style="font-size:20px">物理安全性</p>
                <ul style="list-style-type:disc">
                   <li>24 小时监控的物理数据中心</li>
                   <li>多重身份验证，包括访问数据中心时的生物识别扫描</li>
@@ -80,7 +80,7 @@ layout: TrustCenterPageCN
                   <li>角色分离可保证具备物理访问权限的人员无法了解具体客户客户数据的位置</li>
                   <li>发生故障的驱动器和硬件将在消磁后销毁</li>
                </ul>
-               <p>逻辑安全性</p>
+               <p style="font-size:20px">逻辑安全性</p>
                <ul style="list-style-type:disc">
                   <li>锁箱流程确保严格受监督的升级流程，极大地限制他人对您客户数据的访问</li>
                   <li>服务器仅运行已认证的进程，将恶意代码风险控制在最低限度</li>
@@ -89,12 +89,12 @@ layout: TrustCenterPageCN
                   <li>应用开发遵循安全开发生命周期（Security Development Lifecycle），保证设计满足安全及隐私的要求</li>
                   <li>基于微软技术的安全控制能提供多种选择配置，可根据您的特定需要，量身定制</li>
                </ul>
-               <p>数据安全性</p>
+               <p style="font-size:20px">数据安全性</p>
                <ul style="list-style-type:disc">
                   <li>租户客户数据逻辑分隔</li>
                   <li>威胁管理、安全监控和文件/数据完整性可防止或检测任何客户数据篡改</li>
                </ul>
-               <p>管理员和用户控制</p>
+               <p style="font-size:20px">管理员和用户控制</p>
                <ul style="list-style-type:disc">
                   <li>多重身份验证可通过电话等第二因素保护服务访问</li>
                   <li>S/MIME 提供基于证书的安全电子邮件访问</li>
@@ -104,7 +104,7 @@ layout: TrustCenterPageCN
                   <li>Windows Active Directory， Azure Active Directory，Active Directory Federation Services 的身份认证系统及服务可以被开启以实现对 Office 365 的高级别安全访问</li>
                   <li>依法保留、治理及归档功能，使得系统管理员能够为法律及归档目的控制敏感数据</li>
                </ul>
-               <label id="Secure_apps_and_data">安全应用程序和数据</label>
+               <p style="font-size:26px;font-weight:500;" id="Secure_apps_and_data">安全应用程序和数据</p>
                <p style="font-size:20px">数据加密</p>
                <p>Office 365 采用服务侧技术对存储后和传输中的数据进行加密。对于存储后的客户数据，Office 365 使用卷级加密技术和文件级加密技术。对于传输中的客户数据，Office 365 使用传输层安全（TLS）和因特网协议安全（IPsec）等多种加密技术对数据中心之间和客户端、服务器之间的通信进行加密。Office 365 还包括客户管理加密功能。存储在 Office 365 中 的客户数据在所有配置中都受到保护。加密策略的验证及其实施已通过多个第三方审计机构独立进行</p>
                <p style="font-size:20px">维护多租户架构的安全性</p>
