@@ -70,7 +70,7 @@ layout: TrustCenterPageCN
                   <li>访问控制列表是您可以按不同粒度级别创建的规则，包括网络接口、独立虚拟机、虚拟子网。然后，您可以通过允许或拒绝虚拟网络中工作负载间的通信、本地网络系统通信或直接互联网通信来进行控制访问。</li>
                </ul>
                <p style="font-size:26px;font-weight:500;" id="apps_and_data_Secure">安全应用程序和数据</p>
-               <label id="Azure_Secure">由世纪互联运营的 Microsoft Azure</label>
+               <p style="font-size:20px" id="Azure_Secure">由世纪互联运营的 Microsoft Azure</p>
                <p><a href="https://www.azure.cn/home/features/networking/">虚拟网络</a>可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
                </p>
                <p><a href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute </a>可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
@@ -80,7 +80,7 @@ layout: TrustCenterPageCN
                <p><a href="https://www.azure.cn/home/features/traffic-manager/">强制信道</a>可供您重定向，或“强制”让所有发往互联网的流量通过站点到站点 VPN 信道重新回到您的内部部署位置，以进行检查或审计。在不使用强制信道的情况下，您的 Azure 虚拟机发往互联网的流量会通过 Azure 网络基础结构直接发送至互联网，您将无法对这样的流量进行检查或审计。</p>
                <p><strong>隔离</strong> — Azure 使用网络隔离防止不同部署之间产生不必要的通讯，通过访问控制阻止未经授权用户的访问。虚拟机不接收来自互联网的传入流量，除非客户配置它们接受。
                </p>
-               <label id="Office_365_Secure">由世纪互联运营的 Office 365</label>
+               <p style="font-size:20px" id="Office_365_Secure">由世纪互联运营的 Office 365</p>
                <p>Office 365 通过在网络边缘和节点上使用受控设备，为 Office 365 实施周边防护。只有系统运营所必需的连接和通讯是被允许的。此外还在路由器上实施了访问控制列表 (ACL)，在主机上实施了 IPsec 策略，并在网络中实施了防火墙规则和基于主机的防火墙规则。边缘路由器提供了在网络层检测入侵和漏洞特征的安全措施。Office 365 数据中心内部的网络通过划分，可在后端服务器和存储设备，以及对外接口之间实现物理隔离。
                </p>
                <p>Office 365 服务使用诸如 SSL/TLS 和 AES 等行业加密标准，以保护客户数据的机密性和完整性。所有面向客户的服务器会使用 SSL/TLS 与客户端设备协商使用安全会话。TLS/SSL 可在客户端与服务器之间建立高度安全的连接，保障用户设备和数据中心之间所传输数据的机密性和完整性。

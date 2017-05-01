@@ -65,7 +65,7 @@ layout: TrustCenterPageCN
                      <li><b>导出工具</b>可将您的数据发送至第三方的安全信息和事件管理（SIEM）系统。</li>
                   </ul style="list-style-type:disc">
                   <p style="font-size:26px;font-weight:500;">安全应用程序与数据</p>
-                     <label>由世纪互联运营的 Microsoft Azure</label>
+                     <p style="font-size:20px">由世纪互联运营的 Microsoft Azure</p>
                      <p><strong>24 小时物理监控</strong> - 我们的数据中心通过各类物理设施、管理和监控手段对数据和服务进行保护，从而避免未经授权的访问和各类环境威胁。</p>
                      <p><strong>创建审计记录</strong> - 为部署在 Azure 中的应用程序以及通过 Azure 虚拟机库创建的虚拟机生成审计记录。Azure 会默认启用一系列操作系统安全事件。您也可以通过自定义审核策略来添加、删除或修改要审核的事件。除了生成 Windows 事件日志之外，您还可以配置操作系统组件以生成安全分析和监视所需的日志。
                      </p>
@@ -77,12 +77,12 @@ layout: TrustCenterPageCN
                      <p><strong>导出安全警报至内部部署的 SIEM 系统</strong> - 通过使用并配置 Windows Azure Diagnostics（WAD），可以收集各类 Windows 安全事件和其他特定安全日志。您还可以将这些信息导出至第三方内部部署的安全信息和事件管理（SIEM）系统进行进一步分析或设置警报。
                      </p>
                      <a target="_self" class="mscom-link withArrow" href="https://www.azure.cn/documentation/articles/monitoring-stream-activity-logs-event-hubs/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
-                     <label>由世纪互联运营的 Office 365	</label>
+                     <p style="font-size:20px">由世纪互联运营的 Office 365</p>
                      <p>Office 365 审计策略使您能够使用日志记录事件，包括浏览、编辑或删除内容，这些内容包含电子邮件信息、文档、任务列表、问题列表、讨论组和日历等。只要在信息管理策略中启用了审计功能，您就可以浏览审计数据和概览当前使用情况。您还可以使用这些报表来确定如何在企业中使用这些信息，管理合规性，以及调查所关注的领域。</p>
                      <p>出于业务及法律法规考虑，您可能需要保留您的组织中发出或接收的电子邮件，或是在不需要的时候删除所有电子邮件。通过邮件记录管理（MRM）作为 Office 365 中的记录管理技术，您可以控制用户邮件信箱中电子邮件的保存时间，以及当电子邮件保存到一定时限时，定义需要采取的措施。
                      </p>
                      <p>了解更多有关<a href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全性</a>的信息</p>
-                     <label>由世纪互联运营的 Power BI</label>
+                     <p style="font-size:20px">由世纪互联运营的 Power BI</p>
                      <p>您可利用 Power BI 的 Azure 审计日志内容包对 Azure 服务的审计日志进行分析和构想。您可以使用 Power BI 获取 Azure 数据，构建即用的显示板，并根据该数据创建报告。随后您便可以在一个地方查看所有数据，并对其进行分析以获得新的见解。您还可以筛选报告并添加想要监控的字段；控制仪表盘数据的刷新时间来刷新基础报告，获取最新信息。</p>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
