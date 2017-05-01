@@ -65,7 +65,7 @@ layout: TrustCenterPage
                   <li><b>Export tools</b> can send your data to a third-party SIEM.</li>
                </ul style="list-style-type:disc">
                <p style="font-size:26px;font-weight:500;">Secure apps and data</p>
-                     <label>Microsoft Azure operated by 21Vianet</label>
+                     <p style="font-size:20px">Microsoft Azure operated by 21Vianet</p>
                      <p><strong>24 hour monitored physical security. </strong>Datacenters are physically constructed, managed, and monitored to shelter data and services from unauthorized access as well as environmental threats.</p>
                      <p><strong>Create an audit trail</strong> for applications that are deployed in Azure and virtual machines created from the Azure Virtual Machines Gallery. Azure enables a set of operating system security events by default. You can add, remove, or modify events to be audited by customizing the audit policy. In addition to generating Windows event logs, you can configure operating system components to generate logs for security analysis and monitoring.
                      </p>
@@ -77,12 +77,12 @@ layout: TrustCenterPage
                      <p><strong>Export security alerts to on-premises SIEM </strong>using Windows Azure Diagnostics (WAD), which can be configured to collect Windows security event logs and other security-specific logs. You can also export this data into a third-party, on-premises security information and event management (SIEM) system for analysis and alerting. 
                      <a target="_self" class="mscom-link withArrow" href="https://azure.microsoft.com/zh-cn/documentation/articles/cloud-services-dotnet-diagnostics/"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                      </p>
-                     <label>Office 365 operated by 21Vianet</label>
+                     <p style="font-size:20px">Office 365 operated by 21Vianet</p>
                      <p>Office 365 auditing policies enable you to log events, including viewing, editing, and deleting content such as email messages, documents, task lists, issues lists, discussion groups, and calendars. When auditing is enabled as part of an information management policy, you can view the audit data and summarize current usage. You can also use these reports to determine how information is being used within the organization, manage compliance, and investigate areas of concern.  </p>
                      <p>For business, legal, or regulatory reasons, you may have to retain email messages sent to and from users in your organization, or you may want to remove email that you aren't required to retain. Messaging records management (MRM), the records management technology in Office 365, enables you to control how long to keep items in users' mailboxes and define what action to take on items that have reached a certain age. 
                      </p>
                      <p>Learn more about <a href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 security</a></p>
-                     <label>Power BI operated by 21Vianet</label>
+                     <p style="font-size:20px">Power BI operated by 21Vianet</p>
                      <p>With the Azure Audit logs content pack for Power BI, you can analyze and visualize audit logs from Azure services. You can use Power BI to retrieve Azure data, build an out-of-the box dashboard, and create reports based on that data. You can then see all the data in one place and analyze it to gain new insights. You can filter the reports and add fields that you want to monitor. You can also control the refresh timing of the data in the dashboard, which refreshes the underlying reports to give you the most current information.</p>
                  </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
