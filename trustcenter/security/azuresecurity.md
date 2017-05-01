@@ -56,8 +56,7 @@ layout: TrustCenterPage
                <p>Microsoft Azure operated by 21Vianet provides businesses with the data security and privacy, control, and transparency they require. Security and privacy are embedded in the Azure platform, using the Security Development Lifecycle (SDL), from initial planning through solution launch, as well as the upgrades we continue to make. Security Management Process provides security guidelines for our operational processes, and <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement</a>governs how we build and operate the services.  </p>
                <p><a href="https://www.trustcenter.cn/en-us/cloudservices/azure.html" style="font-size:24px">Get an overview of Azure</a></p>
                <p>Azure uses multiple safeguards to protect customer and enterprise data. These security practices and technologies include: </p>
-                  <p><strong>Identity and access management </strong></p>
-                  <p>Identity and access management</p>
+                  <p><strong>Identity and access management</strong></p>
                   <ul style="list-style-type:disc">
                      <li>Helps ensure that only authorized users can access your environments, data, and applications.</li>
                      <li>Offers multi-factor authentication for highly secure sign-in, including specialized administrative access through Azure Active Directory Privileged Identity Management.</li>
