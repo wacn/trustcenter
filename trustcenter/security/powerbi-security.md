@@ -64,7 +64,7 @@ layout: TrustCenterPage
                   <li>To learn more about how the Azure Traffic Manager performs traffic routing, <a href="https://www.azure.cn/documentation/articles/traffic-manager-routing-methods/">read the Azure documentation </a>on Traffic Manager traffic-routing methods.</li>
                   <li>To learn more about the Azure Content Delivery Network (CDN), from which necessary files are downloaded,<a href="https://www.azure.cn/documentation/services/cdn/"> watch the Azure documentation CDN videos.</a></li>
                </ul>
-               <Secure infrastructure  id="infrastructure_Secure">Secure infrastructure</p>
+               <p style="font-size:20px" id="infrastructure_Secure">Secure infrastructure</p>
                <p>Because Power BI operated by 21Vianet is built on Azure, it employs Azure infrastructure security, which relies on best security practices and technologies to protect Customer Data as it travels within datacenters located exclusively in mainland China and across the Internet. </p>
                <p style="font-szie:20px">Architecture</p>
                <p>The Power BI architecture is designed to help protect your data. Power BI is deployed in datacenters around the world, and each deployment consists of two clusters:
