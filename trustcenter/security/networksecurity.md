@@ -72,7 +72,7 @@ layout: TrustCenterPage
                   <li><strong>Azure Security Center</strong> provides a centralized portal from which you can secure resources you place in Azure. When you enable Azure Security Center for your subscription or Resource Group, Azure Security Center provides recommendations and alerts for network security issues, with a centralized portal from which you can help secure your Azure deployments and prevent, detect, and respond to threats. It uses behavioral analytics and machine learning for effective threat detection and helps you build an attack timeline for faster remediation.</li>
                </ul>
                <p style="font-size:26px;font-weight:500;" id="apps_and_data_Secure">Secure apps and data</p>
-               <label id="Azure_Secure">Microsoft Azure operated by 21Vianet</label>
+               <p style="font-size:20px" id="Azure_Secure">Microsoft Azure operated by 21Vianet</p>
 
                <p><a href="https://www.azure.cn/home/features/networking/">Virtual Network</a> extends your on-premises network to the cloud through site-to-site VPN. You control the network topology and manage it just like your on-site infrastructure. Each virtual network is isolated from other virtual networks. 
                </p>
@@ -83,7 +83,7 @@ layout: TrustCenterPage
                <p><a href="https://www.azure.cn/home/features/traffic-manager/">Forced tunneling</a> lets you redirect or "force" all Internet-bound traffic back to your on-premises location via a site-to-site VPN tunnel for inspection and auditing. Without forced tunneling, Internet-bound traffic from your VMs in Azure will always traverse from Azure network infrastructure directly out to the Internet, without the option to allow you to inspect or audit the traffic.</p>
                <p><strong>Isolation. </strong>Azure uses network isolation to prevent unwanted communications between deployments, and access controls block unauthorized users. Virtual Machines do not receive inbound traffic from the Internet unless customers configure them to do so.
                </p>
-               <label id="Office_365_Secure">Office 365 Operated by 21Vianet </label>
+               <p style="font-size:20px" id="Office_365_Secure">Office 365 Operated by 21Vianet</p>
                <p>Office 365 perimeter protection is implemented through the use of controlled devices at the network edge and on points throughout the network. Only connections and communications that are necessary to allow systems to operate are allowed. Access control lists (ACLs) on routers, IPsec policies on hosts, firewall rules, and host-based firewall rules are implemented in the network. Edge router security provides the ability to detect intrusions and signs of vulnerability at the network layer. Networks within the Office 365 data centers are segmented to provide physical separation of back-end servers and storage devices from the public-facing interfaces. 
                </p>
                <p>Office 365 services follow industry cryptographic standards such as SSL/TLS and AES to protect the confidentiality and integrity of data. All customer-facing servers negotiate a secure session using SSL/TLS with client machines. The use of TLS/SSL establishes a highly secure client-to-server connection to help provide data confidentiality and integrity between the desktop and the datacenter.
