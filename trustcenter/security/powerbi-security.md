@@ -66,7 +66,7 @@ layout: TrustCenterPage
                </ul>
                <p style="font-size:20px" id="infrastructure_Secure">Secure infrastructure</p>
                <p>Because Power BI operated by 21Vianet is built on Azure, it employs Azure infrastructure security, which relies on best security practices and technologies to protect Customer Data as it travels within datacenters located exclusively in mainland China and across the Internet. </p>
-               <p style="font-szie:20px">Architecture</p>
+               <p style="font-size:20px">Architecture</p>
                <p>The Power BI architecture is designed to help protect your data. Power BI is deployed in datacenters around the world, and each deployment consists of two clusters:
                <ul style="list-style-type:disc">
                   <li><strong>WFE cluster. </strong>All users connect to the WFE before accessing any information in Power BI. Servers in the WFE cluster authenticate users, using Azure AD to store user identities and authorize access to data. The Azure Traffic Manager finds the nearest Power BI deployment, and that WFE cluster manages login and authentication.</li>
