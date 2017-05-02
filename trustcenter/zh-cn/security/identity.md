@@ -54,7 +54,7 @@ layout: TrustCenterPageCN
                <p style="font-size:28px;font-weight:500">保护用户凭据和访问</p>
                <p>对系统、应用程序和数据的防护首先是基于身份的访问控制。内置于微软云技术和世纪互联服务中的身份和访问管理功能有助于保护您的组织和个人信息免受未经授权的访问，同时保证合法用户根据需要随时随地获取这些信息。</p>
                <p>这些功能帮助您从用户创建到注销的全过程管理用户身份、凭据和访问权限，实现身份生命周期各流程的自动化操作和集中处理。世纪互联在使用用户名和密码模式进行验证的基础上提供更加强大的身份验证，并通过简化流程和单点登录（SSO）使用户的安全操作更加方便。强大的工具能够使管理员更轻松地进行身份管理，开发人员也能在其应用程序中轻松构建基于策略的身份管理。</p>
-               <p style="font-size:26px;font-weight:500;">安全身份</p>
+               <p style="font-size:24px;font-weight:500;">安全身份</p>
                <p>世纪互联和微软对其产品和服务使用了多种安全实践和技术以管理身份和访问，其中包括：</p>
                <ul style="list-style-type:disc">
                   <li><a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a>要求用户采用多种方法进行本地和云访问。它通过一系列简单的验证选项提供强大的身份验证，同时为用户提供简单的登录流程。</li>
@@ -63,10 +63,10 @@ layout: TrustCenterPageCN
                   <li><a href="https://www.azure.cn/documentation/articles/role-based-access-built-in-roles/">基于角色的访问控制</a>（RBAC）使您能够根据用户角色授予其访问权限，从而轻松地为用户提供其履行工作职责所需的访问权限。基于角色的访问控制（RBAC）可根据您机构的业务模式和风险承受度进行定制。</li>
                   <li><strong>集成身份管理（混合型身份）</strong>使您能够保持对内部数据中心和云平台的用户访问控制，创建单一的用户身份用于对所有资源进行身份验证和授权。</li>
                </ul>
-               <p style="font-size:26px;font-weight:500;">安全基础架构</p>
+               <p style="font-size:24px;font-weight:500;">安全基础架构</p>
                <p>Azure 是世纪互联云服务的基础。Azure Active Directory <strong>活动目录</strong>使您能够监控云及本地的访问模式，识别并解决未经授权的访问尝试和其他潜在威胁。活动目录域服务还支持域加入、LDAP、NTLM、Kerberos 身份验证等各企业中广泛使用的功能。</p>
                <p>您可以将内部部署的目录感知应用程序迁移至 Azure，而无需考虑身份要求。您也无需将域控制器部署为 Azure 虚拟机（VM），或在您的身份基础架构中使用跨站点连接（如站点到站点 VPN 或 ExpressRoute）。</p>
-               <p style="font-size:26px;font-weight:500;">安全应用程序与数据</p>
+               <p style="font-size:24px;font-weight:500;">安全应用程序与数据</p>
                <p style="font-size:20px">由世纪互联运营的 Microsoft Azure</p>
                <p><a href="https://www.azure.cn/home/features/identity/">Azure Active Directory </a>可帮助实现对本地和云应用程序中客户数据的安全访问，并简化对用户和组的管理。它将核心目录服务、高级身份监管、安全防护和应用程序访问管理相结合。 Azure Active Directory 还可方便开发人员将基于策略的身份管理构建到其应用程序中。</p>
                <p><a href="https://www.azure.cn/home/features/multi-factor-authentication/">Azure 多重身份验证</a>要求使用多种验证方法对用户进行身份验证。Azure 凭借针对本地和云应用程序的额外一层身份验证，帮助保护用户对客户数据和应用程序的访问。它通过丰富的简单验证选项提供强大的身份验证，同时满足用户对简单登录过程的需求</p>

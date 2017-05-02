@@ -55,10 +55,10 @@ layout: TrustCenterPageCN
                <p>保护云和本地的网络流量的安全性和机密性是客户数据保护战略的关键部分。保护网络基础架构的安全有助于防止攻击，拦截恶意软件，并保护您的客户数据免受未经授权的访问、中断访问或丢失。</p>
                <p>对公有云来说，客户基础架构的隔离对维护安全性至关重要。Azure 主要通过分布式虚拟防火墙、分区局域网（LAN）、以及后端服务器与面向公共接口的物理隔离来为您提供基于微软技术的云服务。客户可以部署多个逻辑隔离的专用网络，每个虚拟网络都会与其他虚拟网络相隔离。</p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 网络为服务和客户端相互之间，以及客户现场数据中心与 Azure、Office 365 和 Power BI 服务之间安全的连接提供了必要的基础结构。Azure、Office 365 和 Power BI 使用多种技术阻止发往数据中心以及数据中心内部的不良通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离。</p>
-               <p style="font-size:26px;font-weight:500;" id="identity_Secure">安全身份</p>
+               <p style="font-size:24px;font-weight:500;" id="identity_Secure">安全身份</p>
                <p>世纪互联的云服务构建在 Azure 上，利用 Azure Active Directory 来进行身份管理、身份验证和访问控制。</p>
                <p>Azure Active Directory 和 ADDS 帮助确保只有经授权的用户才能访问您的网络环境、数据和应用程序，同时提供 Azure 多重身份验证服务以确保登录高度安全。启用多重身份验证功能后，您可要求用户通过手机应用程序、电话呼叫或短信等方式来验证登录。</p>
-               <p style="font-size:26px;font-weight:500;" id="infrastructure_Secure">安全基础架构</p>
+               <p style="font-size:24px;font-weight:500;" id="infrastructure_Secure">安全基础架构</p>
                <p>世纪互联采用多项网络安全技术来保护您的云服务和客户数据，同时抵御攻击。</p>
                <ul style="list-style-type:disc">
                   <li>防火墙保护网络周边环境、子网和本地机（包括虚拟机）。边界防火墙会过滤掉进入网络的数据包。如果恶意流量已经成功绕过网络级控制器，操作系统防火墙会通过允许或拒绝数据包进入本地系统的方式来提供另一层保护。</li>
@@ -69,7 +69,7 @@ layout: TrustCenterPageCN
                   <li>Cross-premises connectivity 通过使用 VPN 网关或第三方虚拟设备，您能在一个虚拟网络和多个本地站点或 Azure 上其他虚拟网络之间建立连接。</li>
                   <li>访问控制列表是您可以按不同粒度级别创建的规则，包括网络接口、独立虚拟机、虚拟子网。然后，您可以通过允许或拒绝虚拟网络中工作负载间的通信、本地网络系统通信或直接互联网通信来进行控制访问。</li>
                </ul>
-               <p style="font-size:26px;font-weight:500;" id="apps_and_data_Secure">安全应用程序和数据</p>
+               <p style="font-size:24px;font-weight:500;" id="apps_and_data_Secure">安全应用程序和数据</p>
                <p style="font-size:20px" id="Azure_Secure">由世纪互联运营的 Microsoft Azure</p>
                <p><a href="https://www.azure.cn/home/features/networking/">虚拟网络</a>可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
                </p>
