@@ -49,6 +49,7 @@ layout: TrustCenterPageCN
                <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // Office 365 安全性
             </div>
          </div>
+		 <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
          <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                <p>人员和客户数据是您最重要的资产，因此，在您考虑选择 Office 365 满足生产力需求时，世纪互联希望尽一切所能预先为您排疑解惑。 世纪互联信任中心是分享我们的承诺和信任相关的信息的地方。
                </p>
