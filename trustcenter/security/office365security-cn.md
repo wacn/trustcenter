@@ -60,7 +60,7 @@ layout: TrustCenterPageCN
                <p>您的 Office 365 客户数据归您所有，即您对这些客户数据享有完全的控制权。我们会为您提供高度的隐私控制权限和可见性，让您自行决定您的客户数据存储位置、客户数据访问权限，以及服务的可用性和更改设置的支持。如果您终止订购此项服务，您可以将您的客户数据导出带走。世纪互联将负责管理服务层级的安全技术和策略，您也可以通过客户管理控制器自定义 Office 365 环境，以适应公司的安全需求。Office 365 会持续进行更新，以提高安全性能。</p>
                <p><a href="../cloudservices/office-365-cn.html" style="font-size:28px;font-weight:500;">Office 365 概述</a></p>
                <p style="font-size:24px;font-weight:500;" id="Secure_identity">安全身份</p>
-               <p>Office 365 利用<a href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a>（Azure AD）对用户进行管理，提供身份验证、身份管理和访问控制等服务。Azure Active Directory 的功能包含目录数据的云存储和一组核心身份验证服务（如用户登录程序、认证服务及联合服务）。这些认证服务可轻松地与您内部部署的 Azure AD 相结合，同时完全支持第三方身份提供商</p>
+               <p>Office 365 利用 <a href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a>（Azure AD）对用户进行管理，提供身份验证、身份管理和访问控制等服务。Azure Active Directory 的功能包含目录数据的云存储和一组核心身份验证服务（如用户登录程序、认证服务及联合服务）。这些认证服务可轻松地与您内部部署的 Azure AD 相结合，同时完全支持第三方身份提供商</p>
                <p>Office 365 采用多重身份验证手段，由 Office 365 管理中心管理，帮助提供额外的安全保障。订购 Office 365 后， 您将享受到 Azure <a href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a>的如下功能：</p>
                <ul style="list-style-type:disc">
                   <li>能够为最终用户启用和实施多重身份验证</li>
