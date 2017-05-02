@@ -72,7 +72,7 @@ layout: TrustCenterPage
                </ul>
                <p style="font-size:26px;font-weight:500;" id="Secure_infrastructure">Secure infrastructure</p>
                <p>Office 365 operated by 21Vianet uses defense-in-depth security principles to protect against internal and external risks. This enables Office 365 to detect and defend against attacks across a very large surface area.</p>
-               <p style="font-size:20px"> security</label>
+               <p style="font-size:20px">security</p>
                <ul style="list-style-type:disc">
                   <li>24-hour monitored physical datacenters.</li> 
                   <li>Multi-factor authentication, including biometric scanning for datacenter access.</li> 
