@@ -55,9 +55,9 @@ layout: TrustCenterPage
                <p>Threat management includes protection from both malicious software and attacks against systems and networks. Microsoft cloud technology and services have built-in protection features to help defend your data against malware and other types of threats.</p>
                <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet help protect against malware threats in multiple ways. Microsoft Antimalware is built for the cloud, and additional antimalware protections are provided for specific services, including Azure, Office 365 and Power BI.Denial-of-service (DoS) attacks can deny access to important resources and result in lost productivity, so Microsoft builds its services to defend against such attacks. Windows server and client operating systems include multiple technologies for protecting against these threats at the local level. 
                </p>
-               <p style="font-size:26px;font-weight:500;" id="identity_Secure">Secure identity</p>
+               <p style="font-size:24px;font-weight:500;" id="identity_Secure">Secure identity</p>
                <p>Threat management technologies help protect systems against malware, in both cloud and on-premises environments. Malware is a leading cause of identity compromise. It can run in the background and collect information, such as user names and passwords, and transmit them back to the attacker. With stolen credentials, an attacker can access, modify, or destroy your valuable data. If the compromised account has administrative privileges, the attacker can change system or account settings and do much more damage. Thus, an important element in keeping user identities secure is protecting them from the effects of malicious software.</p>
-               <p style="font-size:26px;font-weight:500;" id="infrastructure_Secure">Secure infrastructure</p>
+               <p style="font-size:24px;font-weight:500;" id="infrastructure_Secure">Secure infrastructure</p>
                <p style="font-size:20px">Security technologies</p>
                <p>21Vianet and Microsoft use many security technologies and practices to protect the cloud infrastructure and on-premises networks against modern, sophisticated threats:</p>
                <ul>
@@ -66,7 +66,7 @@ layout: TrustCenterPage
                   <li><strong>Advanced</strong> Threat Analytics is technology that monitors normal usage patterns for networks, systems, and users, and employs machine learning to flag any behavior that is out of the ordinary. Advanced Threat Analytics uses information derived from networked devices and heuristics to detect suspicious activity that may indicate a threat; it then sends real-time alerts so that you can mount a response to protect your assets.</li>
                </ul>
                <p>Microsoft threat management technologies were developed based on our experience addressing emerging threats in the public cloud, private cloud, and datacenter environments, and are driven by the “assume breach” approach.</p>
-               <p style="font-size:26px;font-weight:500;" id="apps_and_data_Secure">Secure apps and data</p>
+               <p style="font-size:24px;font-weight:500;" id="apps_and_data_Secure">Secure apps and data</p>
                <p style="font-size:20px">Microsoft Azure operated by 21Vianet</p>
                <p>To protect against online threats, Azure offers Antimalware for cloud services and virtual machines, and uses detection and mitigation techniques to protect against DDoS attacks.</p>
                <p><strong>Microsoft Antimalware for Azure with real-time protection and remediation. </strong>Microsoft Antimalware is a real-time protection capability that helps identity and remove viruses, spyware, and other malicious software. You can configure alerts for when known malicious or unwanted software attempts to install itself or run on your Azure systems. Antimalware automatically takes action, such as deleting or quarantining malicious files and cleaning up malicious registry entries. </p>

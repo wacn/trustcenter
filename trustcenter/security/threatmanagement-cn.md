@@ -55,9 +55,9 @@ layout: TrustCenterPageCN
                <p>威胁管理包括防止恶意软件和对系统和网络的攻击。微软云技术和世纪互联的服务均设有内置保护功能，帮助您的数据抵御恶意软件的攻击和其他类型的威胁。</p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 能帮助阻止多种形式的恶意软件的攻击。Microsoft Antimalware 基于云服务构建，Azure、Office 365 和 Power BI 服务还提供其他形式的反恶意软件防范和保护。拒绝服务（DoS）攻击可以阻止对重要资源的访问，导致生产力损失，因此微软提供 Microsoft Antimalware 服务来防御此类攻击。Windows 服务器和客户端操作系统采取多种技术来防范本地级别的此类威胁。
                </p>
-               <p style="font-size:26px;font-weight:500;" id="identity_Secure">安全身份</p>
+               <p style="font-size:24px;font-weight:500;" id="identity_Secure">安全身份</p>
                <p>威胁管理技术在云环境和本地环境中保护系统免受恶意软件的攻击。恶意软件是造成身份盗用问题的主要原因。恶意软件可以在后台运行，收集用户姓名、密码等的信息，然后将这些信息传送回攻击者。攻击者可以使用窃取的身份凭据访问、篡改或破坏您宝贵的数据。如果被盗用的账户具有管理特权，攻击者则可以更改系统或账户设置进行更多的破坏。因此，保证用户身份安全的一个重要因素就是保护用户免受恶意软件的攻击。</p>
-               <p style="font-size:26px;font-weight:500;" id="infrastructure_Secure">安全基础架构</p>
+               <p style="font-size:24px;font-weight:500;" id="infrastructure_Secure">安全基础架构</p>
                <p style="font-size:20px">安全技术</p>
                <p>由世纪互联和微软采用多项安全技术和实践来保护云基础架构和本地网络免受各种现代且复杂的威胁：</p>
                <ul style="list-style-type:disc">
@@ -66,7 +66,7 @@ layout: TrustCenterPageCN
                   <li><strong>高级威胁分析技术</strong>对网络、系统、用户的正常使用模式进行监控，并采取机器学习的方式来标记任何异常行为。高级威胁分析技术利用来自互联网设备和探试程序的信息来监测可能造成威胁的可疑行为，随即发送实时警报信息以便您可采取措施来保护您的资产。</li>
                </ul>
                <p>威胁管理技术是基于我们处理公有云、私有云和数据中心环境中不断出现的威胁所积累的经验而开发的，并由“假定入侵”方法所推进。</p>
-               <p style="font-size:26px;font-weight:500;" id="apps_and_data_Secure">安全应用程序与数据</p>
+               <p style="font-size:24px;font-weight:500;" id="apps_and_data_Secure">安全应用程序与数据</p>
                <p style="font-size:20px">由世纪互联运营的 Microsoft Azure</p>
                <p>为防止在线威胁，Azure 为云服务和虚拟机提供反恶意软件，并使用入侵检测和缓解技术防御 DDoS 攻击。</p>
                <p><strong>用于 Azure 云服务和虚拟机的 Microsoft Antimalware </strong> - Microsoft Antimalware 提供的实时保护功能有助于发现并移除病毒、间谍软件，以及其他恶意软件。当恶意软件试图将自己安装到 Azure 系统，或在 Azure 系统中运行时，该产品提供了可配置的警报信息。检测到恶意软件后，反恶意软件技术会自动删除或隔离恶意文件，清理恶意注册表项。 </p>

@@ -54,18 +54,18 @@ layout: TrustCenterPageCN
                <p style="font-size:28px;font-weight:500;">世纪互联基于可信技术为您提供数据保护</p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 以使用在所有云产品中的可信赖技术为基础。许可给世纪互联的 Azure、Office 365 和 Power BI 技术从设计上立足于安全性，确保基础设施能够抵御攻击。以”假定违反“作为一项安全战略，世纪互联的事件响应团队随时采取措施抵御任何攻击对 Azure、Office 365 和 Power BI 服务造成的影响。这些实践基于世纪互联的安全管理流程，用于对抗数字化犯罪，响应 Azure、Office 365 和 Power BI 安全事件和漏洞，以及防范恶意软件。
                </p>
-               <p style="font-size:26px;font-weight:500;">安全身份</p>
+               <p style="font-size:24px;font-weight:500;">安全身份</p>
                <p>世纪互联采用严格的身份管理和访问控制，将数据和系统访问权限授予那些有真正业务需求的人群（即最少特权的人群）。账户密码控制器执行密码复杂性规则，同时要求定期更换密码。为了防止已授权访问客户数据的人员越权使用数据，我们实施了系统设计和政策。安全政策为数据保护设立了各项标准并定义了各项程序。</p>
                <p>世纪互联在系统和控制方面有很大的投入，使绝大部分 Office 365 操作能够自动进行，用以限制世纪互联对客户内容的访问。人工负责掌控服务，而软件来实施操作。这使世纪互联能够大规模地管理 Office 365，处理针对客户内容的内部威胁（如怀有恶意的黑客或世纪互联工程师的鱼叉式网络钓鱼）。</p>
                <p>A 示例：在默认情况下，世纪互联的工程师没有常设管理特权，也没有访问 Office 365 客户内容的常设权限。在有必要进行服务操作且经过世纪互联管理团队批准的情况下（同时客户获得客户锁箱功能的授权），世纪互联的工程师才可以在有限的时间内对客户内容进行有限的（被审计的）安全访问。</p>
                <p>第三方须遵循与世纪互联员工相同的安全标准。在由世纪互联控制的设施内部工作或使用其设备工作的分包商必须执行我们的客户数据保护标准，所有其他分包商也必须执行与世纪互联相当的客户数据保护标准。</p>
-               <p style="font-size:26px;font-weight:500;">安全应用程序和数据</p>
+               <p style="font-size:24px;font-weight:500;">安全应用程序和数据</p>
                <p><strong style="color:rgb(0,115,198)">安全开发生命周期 (SDL) </strong>是开发人员在使用 Azure、Office 365 和 Power BI 技术时必须遵循的软件开发流程，这些技术已经许可给世纪互联使用。 SDL 流程旨在降低 Azure、Office 365 和 Power BI 中漏洞的数量和严重性。自 2004 年起，SDL 就将对安全的需求嵌入整个软件开发生命周期中。随着技术逐步发展，犯罪手段越来越复杂，SDL 流程 也日趋完善。过去十多年来，Azure、Office 365 和 Power BI 的安全性有了大幅提升，部分程度上这也要归功于对安全开发生命周期的重视。<!--<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.spng?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>--></p>
                 <p><strong style="color:rgb(0,115,198)">安全管理流程</strong>通过降低预防、检测、响应实际存在的和潜在的互联网安全威胁所需的时间，来增强由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 服务防范攻击的能力。这一流程确保了所有运营活动遵循严格的安全指南，同时这些指南也能得到验证。在发现问题后，可以通过反馈环路确保未来修订后的安全管理流程能够对类似的问题加以缓解。<!--<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>--></p>
                 <p><strong style="color:rgb(0,115,198)">假定违反策略</strong>进一步加固了 Azure、Office 365 和 Power BI 服务，使其技术领先于不断出现的威胁。这种方法通过假设攻击者已经成功利用漏洞或获得了特权访问，来改变设计、开发和运营的基本前提。由安全专家组成的专属“红色小组”会在网络、平台，以及应用程序层面模拟现实世界的攻击，借此对 Azure、Office 365 和 Power BI 检测和防范安全入侵，以及从入侵中恢复的能力提出挑战。<!--<br/><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>--></p>
                 <p><strong style="color:rgb(0,115,198)">现场事件响应</strong>世纪互联配备了全天候事件响应团队，帮助消除攻击和恶意活动的威胁。我们的事件响应团队时刻保持警惕，以识别、调查、解决自身软件的安全事件和安全漏洞。检测安全事件会调动技术团队和沟通团队，技术团队和沟通团队在此过程中通力协作，由技术团队对问题展开详细调查并制定解决方案，由沟通团队为客户制定指南。</p>
                 <p><strong style="color:rgb(0,115,198)">世纪互联安全响应团队</strong>由有经验的安全专家领导，负责提供安全响应，与安全社区展开协作，提高客户的安全性，推进安全领域的技术创新，提供权威的安全指导。</p>
-                <p style="font-size:26px;font-weight:500;">安全工具</p>
+                <p style="font-size:24px;font-weight:500;">安全工具</p>
                 <p>世纪互联提供工具来帮助开发人员建立和维护安全应用程序，保护您的客户数据免受威胁，解决安全合规需求，同时减少开发成本。</p>
                 <p>了解更多有关<a href="https://www.microsoft.com/en-us/sdl/default.aspx">安全工具</a>的信息</p>
             </div>
