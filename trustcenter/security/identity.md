@@ -51,7 +51,7 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p style="font-size:28px:font-weight:500">Protect user credentials and access</p>
+               <p style="font-size:28px;font-weight:500">Protect user credentials and access</p>
                <p>Securing systems, applications, and data begins with identity-based access controls. The identity and access management features that are built into Microsoft cloud technology and 21Vianet services help protect your organizational and personal information from unauthorized access while making it available to legitimate users whenever and wherever they need it.</p>
                <p>These features enable you to manage user identities, credentials, and access rights from creation through retirement, and help automate and centralize the identity lifecycle processes. 21Vianet goes beyond the username and password model to provide stronger authentication, while making security more convenient for users with simplified processes and single sign-on (SSO). Robust tools make it easier for administrators to manage identity, and developers to build policy-based identity management into their apps </p>
                <p style="font-size:24px;font-weight:500;" id="identity_Secure">Secure identity</p>
