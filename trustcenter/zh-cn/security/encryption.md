@@ -51,7 +51,7 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 使用加密技术保护客户数据，帮助客户维持对客户数据的控制权。当客户通过网络传输数据时——无论在用户设备与 Azure、Office 365 和 Power BI 数据中心之间，或在数据中心之间—— Azure、Office 365 和 Power BI 会使用行业标准的安全传输协议。对于存储后的客户数据， Azure、Office 365 和 Power BI 提供了一系列加密能力，用户可以灵活选择最能满足自己需求的解决方案。
+               <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 使用加密技术保护客户数据，帮助客户维持对客户数据的控制权。当客户通过网络传输数据时——无论在用户设备与 Azure、Office 365 和 Power BI 数据中心之间，或在数据中心之间—— Azure、Office 365 和 Power BI 会使用行业标准的安全传输协议。对于存储后的客户数据， Azure、Office 365 和 Power BI 提供了一系列加密能力，用户可以灵活选择最能满足自己需求的解决方案。 
                </p>
                <label>由世纪互联运营的 Microsoft Azure</label>
                <p>加密的通讯以及运营流程等技术保护措施，有助于确保您客户数据的安全。您可以灵活地实施额外的加密机制，并自行管理您的密钥。</p>
