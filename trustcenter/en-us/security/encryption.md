@@ -75,7 +75,7 @@ layout: TrustCenterPage
                   <li><span><strong>Encrypted communications.</strong>Built-in SSL and TLS cryptography enables customers to encrypt communications within and between deployments, from Azure to on-premises datacenters, and from Azure to administrators and users.</span></li>
                </ul>
 
-               <p style="font-style: 20px;font-weight: 500;">Office 365 operated by 21Vianet </p>
+               <p style="font-size: 20px;font-weight: 500;">Office 365 operated by 21Vianet </p>
                <p>Office 365 services follow industry cryptographic standards such as SSL/TLS and AES to protect the confidentiality and integrity of Customer Data.</p>
                <ul>
                   <li><strong>Data in transit.</strong>All customer-facing servers negotiate a secure session using SSL/TLS with client machines to secure Customer Data in transit. This applies to protocols used by clients such as Skype for Business Online, Outlook, and Outlook on the web on any device. </li>
@@ -86,7 +86,7 @@ layout: TrustCenterPage
                <p>Spreading encrypted files across storage locations, encrypting the map of file locations itself, and physically separating master encryption keys from both content and the file map, make OneDrive for Business and SharePoint Online a highly secure environment for your stored files.<br/>
                <!-- 指向白皮书的链接 -->
                <!-- <a target="_self" class="mscom-link withArrow" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Learn more about Office 365 Security and Compliance </a> --></p>
-               <p  style="font-style: 20px;font-weight: 500;">Power BI operated by 21Vianet</p>
+               <p  style="font-size: 20px;font-weight: 500;">Power BI operated by 21Vianet</p>
                <p>For Customer Data in transit, all Customer Data requested and transmitted by Power BI is encrypted in transit by using HTTPS to connect from the Customer Data source to the Power BI service. A secure connection is established with the Customer Data provider before Customer Data can traverse the network. <!-- <br><a href="###">Learn more about Power BI Security Whitepaper</a> -->
                </p>
               </div> 
