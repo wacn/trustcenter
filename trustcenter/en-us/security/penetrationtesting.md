@@ -55,14 +55,14 @@ layout: TrustCenterPage
                </p>
                <p>To learn more or to initiate penetration testing, please download the <a target="_blank" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/media/documentation/Penetration_Test_Questionnaire_Updated_20161025-en.docx">Penetration Testing Approval Form,</a>， and then contact <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/contact/">Customer Support.</a></p>
                  </div>
-           <!-- <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+           <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link" href="#">。。。</a></label><br/>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">21Vianet Blue Security Operation Center</a></label><br>
                   </div>
                </div>
-            </div>-->
+            </div>
          </div>
       </div>
    </div>

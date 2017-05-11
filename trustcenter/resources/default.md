@@ -53,6 +53,7 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <label id="Data_sheet">Datasheet</label><br>
                 <p><a target="_self" class="mscom-link"                 href="../../file/Trusted-Cloud_Mar-2017.pdf">Brief introduction of Trusted Cloud</a></p>
+                <p><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">21Vianet Blue Security Operation Center</a></p>
                 <p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification.pdf">ISO 20000 and ISO 27001 Certification </a></p>
                 <p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted_Cloud_Service_Certification.pdf">Trusted Cloud Service Certification</a></p>
                 

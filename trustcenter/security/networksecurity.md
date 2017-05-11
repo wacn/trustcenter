@@ -95,6 +95,7 @@ layout: TrustCenterPage
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">21Vianet Blue Security Operation Center</a><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure Network Security</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/vpn-gateway/">VPN Gateway</a></label><br/>

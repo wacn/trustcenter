@@ -55,14 +55,14 @@ layout: TrustCenterPageCN
                </p>
                <p>要了解更多信息或启动渗透测试，请下载<a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Penetration_Test_Questionnaire.docx">渗透测试批准表</a>，然后联系<a target="_blank" class="mscom-link" href="https://www.azure.cn/support/contact/">客户支持</a></p>
                  </div>
-            <!--<div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="#">更新中。。。</a></label><br/>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">世纪互联蓝云安全运营中心</a></label><br>
                   </div>
                </div>
-            </div>-->
+            </div>
          </div>
       </div>
    </div>
