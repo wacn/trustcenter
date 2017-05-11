@@ -61,9 +61,9 @@ layout: TrustCenterPageCN
                <p>世纪互联的服务使用多种加密方法、协议和运算法则来帮助保护客户数据在其基础架构中的传输安全和存储机密性。世纪互联使用业界最强大、安全的加密协议阻止未经授权的客户数据访问。适当的密钥管理是最佳加密实践必不可少的要素，世纪互联通过使用微软的技术来帮助确保密钥受到恰当保护。</p>
                <p style="font-size: 20px;font-weight: 500;">协议和技术示例包括：</p>
                <p>安全传输层协议/安全套层协议（TLS/SSL）使用基于共享密钥的对称密码术在网络传输中对通信加密。</p>
-               <p><strong>网络协议安全（IPsec）</strong>是一套行业标准协议，当客户数据在网络间传输时，该协议用于在IP数据包层面提供身份验证、客户数据完整性和机密性。</p>
-               <p><a href="https://www.azure.cn/documentation/articles/storage-service-encryption/">Azure存储服务加密法</a>对存入Azure Blob存储器的客户数据加密。Azure Disk Encryption通过使用Windows的BitLocker特性和Linux的DM-Crypt特性将您的Windows和Linux基础架构即服务（IaaS）虚拟机器磁盘进行加密，为操作系统和客户数据盘提供卷加密服务。</p>
-               <p><a href="https://www.azure.cn/documentation/articles/sql-data-warehouse-encryption-tde/">透明数据加密（TDE）</a>将存入Azure SQL数据的客户数据进行加密</p>
+               <p><strong>网络协议安全（IPsec）</strong>是一套行业标准协议，当客户数据在网络间传输时，该协议用于在 IP 数据包层面提供身份验证、客户数据完整性和机密性。</p>
+               <p><a href="https://www.azure.cn/documentation/articles/storage-service-encryption/">Azure 存储服务加密法</a>对存入 Azure Blob 存储器的客户数据加密。Azure Disk Encryption 通过使用 Windows 的 BitLocker 特性和 Linux 的 DM-Crypt 特性将您的 Windows 和 Linux 基础架构即服务（IaaS）虚拟机器磁盘进行加密，为操作系统和客户数据盘提供卷加密服务。</p>
+               <p><a href="https://www.azure.cn/documentation/articles/sql-data-warehouse-encryption-tde/">透明数据加密（TDE）</a>将存入 Azure SQL 数据的客户数据进行加密</p>
                <p style="font-size: 26px; font-weight: 500">安全应用程序和数据</p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 使用加密技术保护客户数据，帮助客户维持对客户数据的控制权。当客户通过网络传输客户数据时——无论在用户设备与 Azure、Office 365 和 Power BI 数据中心之间，或在数据中心之间—— Azure、Office 365 和 Power BI 会使用行业标准的安全传输协议。对于存储后的客户数据， Azure、Office 365 和 Power BI 提供了一系列加密能力，用户可以灵活选择最能满足自己需求的解决方案。</p>
                <p style="font-size: 20px; font-weight: 500;">由世纪互联运营的 Microsoft Azure </p>
@@ -79,11 +79,12 @@ layout: TrustCenterPageCN
                <ul>
                   <li><strong>传输中的数据</strong> - 为了对传输中的客户数据提供保护，所有面向客户的服务器都会使用 SSL/TLS 与客户端设备协商使用安全会话。这一方式也适用于客户端使用的协议，例如 Skype for Business Online、Outlook，以及 Web 端和任何设备上的 Outlook。</li>
                   <li><strong>存储后的数据</strong> - OneDrive for Business 和 SharePoint Online 使用文件级加密技术对存储后的客户数据进行加密。Office 365 不仅为每个磁盘提供一个加密密钥，而且为每个文件提供唯一的加密密钥。 SharePoint Online 中存储的每个文件——包括 OneDrive for Business 文件夹——都会使用自己的密钥进行加密。您组织中的文件并不会全部存储到一个数据库内，而是分散保存到多个 Azure 存储容器中，每个容器需要不同的凭据。</li>
-                  <li><strong>在某些情况下，我们使用文件级加密技术。</strong> 例如，与会人员上传的文件和陈述使用AES加密技术加密。OneDrive for Business和SharePoint Online也使用文件级加密技术加密存储后客户数据。Office 365在每个磁盘一个单独密钥的基础上，给存储于SharePoint Online（包括OneDrive for Business文件夹）的每个文件分配单独的加密密钥。您组织的文件携带单独的凭据被分配至多个Azure存储器中，而非同一个数据库中。将加密文件存储于多个位置、将文件位置映射图加密并将主加密密钥与内容和文件映射图物理分离等操作使OneDrive for Business和SharePoint Online成为高度安全的文件存储环境。</li>
+                  <li><strong>在某些情况下，我们使用文件级加密技术。</strong> 例如，与会人员上传的文件和陈述使用 AES 加密技术加密。OneDrive for Business 和 SharePoint Online 也使用文件级加密技术加密存储后客户数据。Office 365 在每个磁盘一个单独密钥的基础上，给存储于 SharePoint Online（包括 OneDrive for Business 文件夹）的每个文件分配单独的加密密钥。您组织的文件携带单独的凭据被分配至多个 Azure 存储器中，而非同一个数据库中。将加密文件存储于多个位置、将文件位置映射图加密并将主加密密钥与内容和文件映射图物理分离等操作使 OneDrive for Business 和 SharePoint Online 成为高度安全的文件存储环境。</li>
                </ul>
                <p>通过将加密后的文件分散保存在多个存储位置，对文件位置映射图本身进行加密，并将主加密密钥和内容与文件映射图的加密密钥在物理上隔离保存，这些措施确保了 OneDrive for Business 和 SharePoint Online 为您存储的文件提供了一个高度安全的环境。
-               <br/>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规</a>的信息</p>
-               <p>对于传输中的客户数据，所有由Power BI请求和传输的客户数据均在传输过程中加密，利用HTTPS将数据源与Power BI服务连接。客户数据提供者在数据网络传输之前建立了安全连接。
+               <br/><br/>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规</a>的信息</p>
+               <p style="font-size: 20px; font-weight: 500">由世纪互联运营的 Power BI</p>
+               <p>对于传输中的客户数据，所有由 Power BI 请求和传输的客户数据均在传输过程中加密，利用 HTTPS 将数据源与 Power BI 服务连接。客户数据提供者在数据网络传输之前建立了安全连接。
                <!-- <br/>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Power BI 安全</a>的信息</p> -->
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
