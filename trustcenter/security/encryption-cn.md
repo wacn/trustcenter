@@ -69,17 +69,17 @@ layout: TrustCenterPageCN
                <p style="font-size: 20px; font-weight: 500;">由世纪互联运营的 Microsoft Azure </p>
                <p>加密的通讯以及运营流程等技术保护措施，有助于确保您客户数据的安全。您可以灵活地实施额外的加密机制，并自行管理您的密钥。</p>
                <ul>
-                  <li><span><strong>传输中的数据</strong> - Azure 在用户设备和 Azure 数据中心之间，以及数据中心之间，均使用了业界标准的安全传输协议，例如 IPsec 和 SSL/TLS 。您可以为自己的虚拟机 (VM) 和用户之间的通讯启用加密。通过使用 Azure 虚拟网络，您可以使用业界标准的 IPsec 协议对企业 VPN 网关和 Azure 之间，以及位于您的 Azure 虚拟网络内部的虚拟机之间的通讯进行加密。<br>了解更多有关<a href="https://www.azure.cn/home/features/networking/">Azure 虚拟网络</a>的信息</span></li> 
-                  <li><span><strong>存储后的数据</strong> - Azure 提供了一系列加密选项，您可以在不同的数据存储场景中，灵活地选择最能满足自己需求的解决方案。<br>了解更多有关<a href="https://www.azure.cn/documentation/articles/storage-service-encryption/">Azure 存储空间服务加密</a>的信息</span></li> 
-                  <li><span><strong>Azure 密钥保管库</strong> - 可以帮您轻松地以低成本的方式简化密钥管理，并对云应用和服务加密客户数据所用的密钥加以控制。<br>了解更多有关<a href="https://www.azure.cn/home/features/key-vault/">Azure 密钥保管库</a>的信息</span></li> 
+                  <li><span><strong>传输中的数据</strong> - Azure 在用户设备和 Azure 数据中心之间，以及数据中心之间，均使用了业界标准的安全传输协议，例如 IPsec 和 SSL/TLS 。您可以为自己的虚拟机 (VM) 和用户之间的通讯启用加密。通过使用 Azure 虚拟网络，您可以使用业界标准的 IPsec 协议对企业 VPN 网关和 Azure 之间，以及位于您的 Azure 虚拟网络内部的虚拟机之间的通讯进行加密。<br>了解更多有关 <a href="https://www.azure.cn/home/features/networking/">Azure 虚拟网络</a>的信息</span></li> 
+                  <li><span><strong>存储后的数据</strong> - Azure 提供了一系列加密选项，您可以在不同的数据存储场景中，灵活地选择最能满足自己需求的解决方案。<br>了解更多有关 <a href="https://www.azure.cn/documentation/articles/storage-service-encryption/">Azure 存储空间服务加密</a>的信息</span></li> 
+                  <li><span><strong>Azure 密钥保管库</strong> - 可以帮您轻松地以低成本的方式简化密钥管理，并对云应用和服务加密客户数据所用的密钥加以控制。<br>了解更多有关 <a href="https://www.azure.cn/home/features/key-vault/">Azure 密钥保管库</a>的信息</span></li> 
                   <li><span><strong>加密的通讯</strong> - 内建的 SSL 和 TLS 加密技术使得客户能够对同一部署内部，不同部署之间，从 Azure 到内部部署数据中心，以及从 Azure 到管理员和用户的通讯进行加密。</span></li> 
                </ul>
                <p style="font-size: 20px; font-weight: 500">由世纪互联运营的 Office 365</p>
                <p>Office 365 服务使用了诸如 SSL/TLS 和 AES 等行业加密标准保护客户数据的机密性和完整性。</p>
                <ul>
                   <li><strong>传输中的数据</strong> - 为了对传输中的客户数据提供保护，所有面向客户的服务器都会使用 SSL/TLS 与客户端设备协商使用安全会话。这一方式也适用于客户端使用的协议，例如 Skype for Business Online、Outlook，以及 Web 端和任何设备上的 Outlook。</li>
-                  <li><strong>存储后的数据</strong> - OneDrive for Business 和 SharePoint Online 使用文件级加密技术对存储后的客户数据进行加密。Office 365 不仅为每个磁盘提供一个加密密钥，而且为每个文件提供唯一的加密密钥。 SharePoint Online 中存储的每个文件——包括 OneDrive for Business 文件夹——都会使用自己的密钥进行加密。您组织中的文件并不会全部存储到一个数据库内，而是分散保存到多个 Azure 存储容器中，每个容器需要不同的凭据。</li>
-                  <li><strong>在某些情况下，我们使用文件级加密技术。</strong> 例如，与会人员上传的文件和陈述使用 AES 加密技术加密。OneDrive for Business 和 SharePoint Online 也使用文件级加密技术加密存储后客户数据。Office 365 在每个磁盘一个单独密钥的基础上，给存储于 SharePoint Online（包括 OneDrive for Business 文件夹）的每个文件分配单独的加密密钥。您组织的文件携带单独的凭据被分配至多个Azure存储器中，而非同一个数据库中。将加密文件存储于多个位置、将文件位置映射图加密并将主加密密钥与内容和文件映射图物理分离等操作使 OneDrive for Business 和 SharePoint Online 成为高度安全的文件存储环境。</li>
+                  <li><strong>存储后的数据</strong> - OneDrive for Business 和 SharePoint Online 使用文件级加密技术对存储后的客户数据进行加密。 Office 365 不仅为每个磁盘提供一个加密密钥，而且为每个文件提供唯一的加密密钥。 SharePoint Online 中存储的每个文件——包括 OneDrive for Business 文件夹——都会使用自己的密钥进行加密。您组织中的文件并不会全部存储到一个数据库内，而是分散保存到多个 Azure 存储容器中，每个容器需要不同的凭据。</li>
+                  <li><strong>在某些情况下，我们使用文件级加密技术。</strong> 例如，与会人员上传的文件和陈述使用 AES 加密技术加密。OneDrive for Business 和 SharePoint Online 也使用文件级加密技术加密存储后客户数据。Office 365 在每个磁盘一个单独密钥的基础上，给存储于 SharePoint Online（包括 OneDrive for Business 文件夹）的每个文件分配单独的加密密钥。您组织的文件携带单独的凭据被分配至多个 Azure 存储器中，而非同一个数据库中。将加密文件存储于多个位置、将文件位置映射图加密并将主加密密钥与内容和文件映射图物理分离等操作使 OneDrive for Business 和 SharePoint Online 成为高度安全的文件存储环境。</li>
                </ul>
                <p>通过将加密后的文件分散保存在多个存储位置，对文件位置映射图本身进行加密，并将主加密密钥和内容与文件映射图的加密密钥在物理上隔离保存，这些措施确保了 OneDrive for Business 和 SharePoint Online 为您存储的文件提供了一个高度安全的环境。
                <br/><br/>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规</a>的信息</p>
