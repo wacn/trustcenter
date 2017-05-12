@@ -1,5 +1,5 @@
 ---
-layout: TrustCenterPage
+layout: TrustCenterPageCN
 ---
 <div class="row-fluid">
    <div class="span">
@@ -23,7 +23,7 @@ layout: TrustCenterPage
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Penetration Testing  </h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">渗透测试</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -45,21 +45,21 @@ layout: TrustCenterPage
             </div>
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> // 
-               <a target="_self" class="mscom-link" href="../security/default.html">Security </a> // Penetration Testing 
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
+               <a target="_self" class="mscom-link" href="../security/default-cn.html">安全性</a> // 渗透测试
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p>We conduct regular penetration testing to improve Azure, Office 365 and Power BI security controls and processes. We understand that security assessment is also an important part of our customers' application development and deployment. Therefore, we have established a policy for customers to carry out authorized penetration testing on their applications hosted in Azure, Office 365 and Power BI. Because such testing can be indistinguishable from a real attack, it is critical that customers conduct penetration testing only after obtaining approval in advance from Azure Customer Support. Penetration testing must be conducted in accordance with our terms and conditions. Requests for penetration testing should be submitted with a minimum of 7-day advanced notice.
+               <p>我们通过执行常规渗透测试来改进 Azure、Office 365 和 Power BI 的安全控制措施和过程。我们深知，安全评估也是客户应用程序开发和部署的重要组成部分。因此，我们确立了一项策略，即让客户对托管在 Azure、Office 365 和 Power BI 中的应用程序执行授权渗透测试。因为此类测试可能无法与真实攻击进行区分，因此客户请务必在预先获得客户支持批准后才执行渗透测试。必须根据我们的条款和条件执行渗透测试。应至少提前 7 天提交渗透测试请求。
                </p>
-               <p>To learn more or to initiate penetration testing, please download the <a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Penetration_Test_Questionnaire.docx">Penetration Testing Approval Form,</a>， and then contact <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/contact/">Customer Support.</a></p>
-                 </div>
-           <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+               <p>要了解更多信息或启动渗透测试，请下载<a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Penetration_Test_Questionnaire.docx">渗透测试批准表</a>，然后联系<a target="_blank" class="mscom-link" href="https://www.azure.cn/support/contact/">客户支持</a></p>
+            </div>
+            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">21Vianet Blue Security Operation Center</a></label><br>
+                     <h1>更多信息</h1>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">世纪互联蓝云安全运营中心</a></label><br>
                   </div>
                </div>
             </div>

@@ -51,14 +51,14 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-            <p style="font-size:28px;">采用网络技术保护客户数据, 阻止入侵和攻击</p>
+            <p style="font-size:28px;font-weight:500;">采用网络技术保护客户数据, 阻止入侵和攻击</p>
                <p>保护云和本地的网络流量的安全性和机密性是客户数据保护战略的关键部分。保护网络基础架构的安全有助于防止攻击，拦截恶意软件，并保护您的客户数据免受未经授权的访问、中断访问或丢失。</p>
                <p>对公有云来说，客户基础架构的隔离对维护安全性至关重要。Azure主要通过分布式虚拟防火墙、分区局域网（LAN）、以及后端服务器与面向公共接口的物理隔离来为您提供基于微软技术的云服务。客户可以部署多个逻辑隔离的专用网络，每个虚拟网络都会与其他虚拟网络相隔离。</p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 网络为服务和客户端相互之间，以及客户现场数据中心与 Azure、Office 365 和 Power BI 服务之间安全的连接提供了必要的基础结构。Azure、Office 365 和 Power BI 使用多种技术阻止发往数据中心以及数据中心内部的不良通信，例如防火墙、分区局域网（LANs）以及后端服务器与公共接口的物理分离。</p>
-               <label id="identity_Secure">安全身份</label>
+               <p style="font-size:24px;font-weight:500;" id="identity_Secure">安全身份</p>
                <p>世纪互联的云服务构建在 Azure 上，利用 Azure Active Directory 来进行身份管理、身份验证和访问控制。</p>
                <p>Azure Active Directory和ADDS帮助确保只有经授权的用户才能访问您的网络环境、数据和应用程序，同时提供Azure多重身份验证服务以确保登录高度安全。启用多重身份验证功能后，您可要求用户通过手机应用程序、电话呼叫或短信等方式来验证登录。</p>
-               <label id="infrastructure_Secure">安全基础架</label>
+               <p style="font-size:24px;font-weight:500;" id="infrastructure_Secure">安全基础架构</p>
                <p>世纪互联采用多项网络安全技术来保护您的云服务和客户数据，同时抵御攻击。</p>
                <ul style="list-style-type:disc">
                   <li>防火墙保护网络周边环境、子网和本地机（包括虚拟机）。边界防火墙会过滤掉进入网络的数据包。如果恶意流量已经成功绕过网络级控制器，操作系统防火墙会通过允许或拒绝数据包进入本地系统的方式来提供另一层保护。</li>
@@ -69,8 +69,8 @@ layout: TrustCenterPageCN
                   <li>Cross-premises connectivity 通过使用 VPN 网关或第三方虚拟设备，您能在一个虚拟网络和多个本地站点或 Azure 上其他虚拟网络之间建立连接。</li>
                   <li>访问控制列表是您可以按不同粒度级别创建的规则，包括网络接口、独立虚拟机、虚拟子网。然后，您可以通过允许或拒绝虚拟网络中工作负载间的通信、本地网络系统通信或直接互联网通信来进行控制访问。</li>
                </ul>
-               <label id="apps_and_data_Secure">安全应用程序和数据</label>
-               <p style="font-size:20px;font-weight:500" id="Azure_Secure">由世纪互联运营的 Microsoft Azure</p>
+               <p style="font-size:24px;font-weight:500;" id="apps_and_data_Secure">安全应用程序和数据</p>
+               <p style="font-size:20px" id="Azure_Secure">由世纪互联运营的 Microsoft Azure</p>
                <p><a href="https://www.azure.cn/home/features/networking/">虚拟网络</a>可通过站点到站点 VPN 将内部部署网络扩展至云。您可以控制网络拓扑并采用与现场基础结构相同的管理方式。每个虚拟网络都会与其他虚拟网络进行隔离。
                </p>
                <p><a href="https://www.azure.cn/home/features/expressroute/">Azure ExpressRoute </a>可在 Azure 数据中心与您的本地或共置环境中的基础结构之间创建专有连接。ExpressRoute 使用专用 WAN 直接连接，相比互联网连接更可靠，更快速，更安全。
@@ -81,7 +81,7 @@ layout: TrustCenterPageCN
                </p>
                <p><strong>隔离</strong> — Azure 使用网络隔离防止不同部署之间产生不必要的通讯，通过访问控制阻止未经授权用户的访问。虚拟机不接收来自互联网的传入流量，除非客户配置它们接受。
                </p>
-               <p style="font-size:20px;font-weight:500" id="Office_365_Secure">由世纪互联运营的 Office 365</p>
+               <p style="font-size:20px" id="Office_365_Secure">由世纪互联运营的 Office 365</p>
                <p>Office 365通过在网络边缘和节点上使用受控设备，为 Office 365 实施周边防护。只有系统运营所必需的连接和通讯是被允许的。此外还在路由器上实施了访问控制列表 (ACL)，在主机上实施了 IPsec 策略，并在网络中实施了防火墙规则和基于主机的防火墙规则。边缘路由器提供了在网络层检测入侵和漏洞特征的安全措施。Office 365 数据中心内部的网络通过划分，可在后端服务器和存储设备，以及对外接口之间实现物理隔离。
                </p>
                <p>Office 365 服务使用诸如 SSL/TLS 和 AES 等行业加密标准，以保护客户数据的机密性和完整性。所有面向客户的服务器会使用 SSL/TLS 与客户端设备协商使用安全会话。TLS/SSL 可在客户端与服务器之间建立高度安全的连接，保障用户设备和数据中心之间所传输数据的机密性和完整性。
@@ -93,6 +93,7 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">世纪互联蓝云安全运营中心</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/vpn-gateway/">VPN 网关</a></label><br/>
