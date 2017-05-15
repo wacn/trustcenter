@@ -53,7 +53,7 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2" style="width:100%!important;">
                 <label id="Data_sheet">资料手册</label><br>
                 <p><a target="_self" class="mscom-link"         href="../../file/Trusted-Cloud_Mar-2017.pdf">可信赖的云服务</a></p>
-                <p><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">世纪互联蓝云安全运营中心</a></p>
+                <p><a target="_self" class="mscom-link"    href="../../世纪互联蓝云安全运营中心V2.pdf">世纪互联蓝云安全运营中心</a></p>
         <p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification.pdf">ISO20000 和 ISO27001 认证介绍 </a></p>
         <p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted_Cloud_Service_Certification.pdf">可信云服务认证</a></p>
         

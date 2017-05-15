@@ -73,7 +73,7 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link"    href="../../file/T世纪互联蓝云安全运营中心(内容阅读版) 6P_3折页_Apr2017.pdf">世纪互联蓝云安全运营中心</a></label><br/>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心V2.pdf">世纪互联蓝云安全运营中心</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement/">世纪互联运营的 Microsoft Azure 在线服务标准协议</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a></label><br/><label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></label><br/>
                 
