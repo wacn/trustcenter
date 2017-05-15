@@ -87,7 +87,7 @@ layout: TrustCenterPage
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link"    href="../../世纪互联蓝云安全运营中心V2.pdf">21Vianet-Blue Cloud Security Operation Center </a></label><br>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心V2.pdf">21Vianet-Blue Cloud Security Operation Center </a></label><br>
                   </div>
                </div>
             </div>

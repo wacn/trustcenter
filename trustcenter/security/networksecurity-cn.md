@@ -93,7 +93,7 @@ layout: TrustCenterPageCN
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link"    href="../../世纪互联蓝云安全运营中心V2.pdf">世纪互联蓝云安全运营中心</a></label><br/>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心V2.pdf">世纪互联蓝云安全运营中心</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/vpn-gateway/">VPN 网关</a></label><br/>
