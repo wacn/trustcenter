@@ -82,7 +82,7 @@ layout: TrustCenterPageCN
                   <li><strong>在某些情况下，我们使用文件级加密技术。</strong> 例如，与会人员上传的文件和陈述使用 AES 加密技术加密。OneDrive for Business 和 SharePoint Online 也使用文件级加密技术加密存储后客户数据。Office 365 在每个磁盘一个单独密钥的基础上，给存储于 SharePoint Online（包括 OneDrive for Business 文件夹）的每个文件分配单独的加密密钥。您组织的文件携带单独的凭据被分配至多个 Azure 存储器中，而非同一个数据库中。将加密文件存储于多个位置、将文件位置映射图加密并将主加密密钥与内容和文件映射图物理分离等操作使 OneDrive for Business 和 SharePoint Online 成为高度安全的文件存储环境。</li>
                </ul>
                <p>通过将加密后的文件分散保存在多个存储位置，对文件位置映射图本身进行加密，并将主加密密钥和内容与文件映射图的加密密钥在物理上隔离保存，这些措施确保了 OneDrive for Business 和 SharePoint Online 为您存储的文件提供了一个高度安全的环境。
-               <br/><br/>了解更多有关 <a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规</a>的信息</p>
+               <br/><br/>了解更多有关 <a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf"> Office 365 安全与合规</a>的信息</p>
                <p style="font-size: 20px; font-weight: 500">由世纪互联运营的 Power BI</p>
                <p>对于传输中的客户数据，所有由 Power BI 请求和传输的客户数据均在传输过程中加密，利用 HTTPS 将数据源与 Power BI 服务连接。客户数据提供者在数据网络传输之前建立了安全连接。
                <!-- <br/>了解更多有关<a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Power BI 安全</a>的信息</p> -->
