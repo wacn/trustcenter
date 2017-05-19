@@ -69,6 +69,7 @@ layout: TrustCenterPageCN
 				<p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></p>
+                <p><a target="_self" class="mscom-link" href="http://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/%E7%94%B1%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94%E8%BF%90%E8%90%A5%E7%9A%84%20Power%20BI%20%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6_May2017.pdf">由世纪互联运营的Power BI 安全白皮书</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></p>
                 <p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></p>
                 <label id="videos">视频</label><br>

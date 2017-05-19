@@ -51,12 +51,12 @@ layout: TrustCenterPageCN
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p style="font-size:28px;font-weight:500;">利用安全的客户数据可视化云解决方案保护您的客户数据和报告</p>
+               <p style="font-size:28px">利用安全的客户数据可视化云解决方案保护您的客户数据和报告</p>
                <p>由世纪互联运营的 Power BI 是一套基于云的商业分析工具，您可以放心地使用它来分析客户数据、发布报告和分享见解。</p>
-               <p><a href="../cloudservices/powerbi-cn.html" style="font-size:24px;">Power BI 概述</a></p>
+               <p><a href="../cloudservices/powerbi-cn.html" style="font-size:24px;">Power BI概述</a></p>
                <p>Power BI 服务以 <a href="azuresecurity-cn">Azure</a> 为基础，能够从 Azure 平台强大的安全技术中受益。Power BI 采用分离式前端与后端集群、网关和安全的客户数据存储结构来保护您的信息。认证过程可将未授权用户拒之门外；无论是存储状态还是传输状态下，客户数据加密技术均能保证客户数据的机密性。同时，Power BI 还可在云端或本地整合您企业所有的客户数据。</p>
                <p>Power BI 服务受<a href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a>和<a href="http://www.21vbluecloud.com/office365/O365-Privacy/">世纪互联运营的 Office 365 和 Power BI 隐私声明</a>的约束。</p>
-               <p style="font-size:24px;font-weight:500;" id="identity_Secure">安全身份</p>
+               <label id="identity_Secure">安全身份</label>
                <p>由世纪互联运营的 Power BI 以 Azure 为基础，采用 <a href="https://www.azure.cn/home/features/identity/">Azure 活动目录</a>（Azure AD）身份与访问管理机制以确保只有已授权的用户方可访问企业环境、数据与报告。</p>
                <p>Power BI 将 Azure 活动目录作为身份验证和授权标识库。用户通过安全的（HTTPS）网站登录享受 Power BI 服务，用户浏览器和 Power BI 服务之间的所有通讯记录均被加密。Azure 流量管理器负责接收请求，核查用户的DNS记录，确定最近的 Power BI 部署位置，最终回复其网络前端（WFE）集群的 IP 地址。</p>
                <p>用户被转入世纪互联在线服务进行登录，经认证后重新转入距离最近的网络前端集群。用户登录后，该集群将浏览器储存的信息与Azure活动目录比对来确认用户已订购 Power BI 服务，最终返还一个 Azure 活动目录安全令牌。网络前端集群将返还该令牌、会话信息以及相应的后端集群网址。用户浏览器会下载必要的文件，实现与 Power BI 服务的交互。后续交互活动将通过后端集群进行，并需要使用用户的 Azure 活动目录令牌。</p>
@@ -64,7 +64,7 @@ layout: TrustCenterPageCN
                   <li>如需了解更多关于 Azure 流量管理器的流量路由操作，请阅读 Azure 流量管理器流量路由方式相关文档。</li>
                   <li>Azure 内容分发网络（CDN）提供必要文件的下载服务，如需了解更多内容，请观看 Azure 内容分发网络资料视频。</li>
                </ul>
-               <p style="font-size:20px" id="infrastructure_Secure">安全基础架构</p>
+               <label id="infrastructure_Secure">安全基础架构</label>
                <p>由于世纪互联运营的 Power BI 以 Azure 为基础，因而采用了 Azure 安全基础架构，该基础架构凭借最佳的安全实践与技术，保护客户数据在中国大陆的数据中心内部以及互联网上的传输。</p>
                <p style="font-size:20px">架构</p>
                <p>Power BI 的架构设计旨在保护您的数据。Power BI 配置在世界各个数据中心中，且每一个配置均由两种集群组成</p>
@@ -77,7 +77,7 @@ layout: TrustCenterPageCN
                <p><a href="/threatmanagement-cn.html">Azure 多极威胁管理</a>手段借助侵入检测、分布式拒绝服务攻击预防、渗透测试、数据分析学和机器学习来持续增强防御能力、减少风险，对由世纪互联运营的  Power BI 实施保护。</p>
                <p style="font-size:20px">物理安全</p>
                <p>无论从物理角度还是逻辑角度，由世纪互联运营的Power BI均与世界其他地区的微软云服务实现了完全隔离，数据中心位于中国大陆，由深度防御安全体系层层保护。该防御安全体系包括周边防护、摄影机、安保人员、安全入口和实时通讯网络，防御范围从该设施的每个区域延续至每一个物理服务器单元。</p>
-               <p style="font-size:24px;font-weight:500;" id="apps_and_data_Secure">安全应用程序与数据</p>
+               <label id="apps_and_data_Secure">安全应用程序与数据</label>
                <p>客户数据经世纪互联企业网关运营的 Power BI 传输时均被加密。上传的客户数据通常被送至 Azure Blob 存储器中，系统自带的所有元数据和人工资料均被存储在 Azure SQL 数据库中。</p>
                <p>Power BI 服务可处理存储后的客户数据（非当前处理客户数据）和处理中的客户数据（当前因用户或服务而被访问或更新的数据）。客户数据分为两类：</p>
                <ul style="list-style-type:disc">
@@ -93,17 +93,18 @@ layout: TrustCenterPageCN
                </ul>
                <p>授权用户可与未经授权的用户共享静态报告的内容。然而，用户仅能在得到认证和授权后才可获取动态报告的内容。借助 HTTPS 将数据源连接至 Power BI 服务，所有由 Power BI 请求和传输的客户数据均在传输过程中被加密。</p>
             </div> 
-            <!--<div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>更多信息</h1>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory</a></label><br/>
+                     <label><p><a target="_self" class="mscom-link" href="http://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/%E7%94%B1%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94%E8%BF%90%E8%90%A5%E7%9A%84%20Power%20BI%20%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6_May2017.pdf">由世纪互联运营的Power BI 安全白皮书</a></p></label><br>
+                     <!-- <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Active Directory</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Active Directory 文档</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/multi-factor-authentication/">多重身份验证</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/>
+                     <label><a target="_self" class="mscom-link" href="#">Office 365 安全与合规白皮书</a></label><br/> -->
                   </div>
                </div>
-            </div>-->
+            </div>
          </div>
       </div>
    </div>
