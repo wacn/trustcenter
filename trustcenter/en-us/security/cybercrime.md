@@ -51,25 +51,25 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <label>Cybercrime</label>
+               <p style="font-size:28px;font-weight:500;">Cybercrime</p>
                <p>Cybercrime is a constantly evolving and ever-increasing challenge for all organizations. The combination of expanded access to the Internet, the explosive increase in connected devices, and the rapid expansion of innovative cloud-based services is creating tremendous economic and social opportunity for consumers, governments, and businesses. Unfortunately, it has also opened new avenues of attack for cybercriminals and other malicious actors. </p>
                <p>Like all technical advances, the storage of data and applications in the cloud has attracted an entire criminal ecosystem, from individual hackers to highly organized groups that aim to take down entire networks. Cybercriminals, motivated by everything from profit to political gain, use the Internet to disrupt business activities and access sensitive personal and financial data. Because most companies rely on a third party to administer their cloud services, it's critical that companies that provide cloud services, are committed to, and capable of, fighting cybercrime. </p>
                <p>Unfortunately, cybercrime is not purely a technical problem—nor will it ever “go away.” Cloud service providers must continuously fight cybercrime at multiple levels using teams of specialists, from IT security experts to policy advocates. It takes a concerted effort as well as deep financial and operational investment to truly understand cybercrime and effectively fight it.</p>
                <p>21Vianet knows that security and privacy are intrinsically connected—the data you entrust to our cloud services must be kept private. We work diligently to help protect your data from unauthorized access—both internally and externally. 21Vianet has made significant investments in the security of its platform, which, when combined with high levels of security-intelligence and strategic partnerships, helps keep our cloud-based products and services more secure.</p>
-               <label>Platform security</label>
+               <p style="font-size:24px;font-weight:500;">Platform security</p>
                <p>21Vianet believes that security doesn’t end in the public cloud. Security needs to be engineered into a system end to end, from the public cloud all the way to the desktop. From the very beginning, we architected our cloud services platform with multiple levels of security that are virtually and physically isolated. Your data is protected by hardened operating systems and backed by a defense-in-depth strategy that helps protect our cloud services. </p>
                <p>In addition, we have continuous, proactive, and reactive threat monitoring and analytics. We also encrypt customer data in transit, and encrypt Customer Data that passes between our datacenters. Datacenters are constructed, managed, and monitored to protect data from unauthorized access. We also do not engineer backdoors into our services.</p>
                <p><a href="../security/encryption.html">Learn more about encryption</a></p>
                <p><a href="../transparency/default.html">Learn more about physical security</a></p>
-               <label>Network security</label>
+               <p style="font-size:24px;font-weight:500;">Network security</p>
                <p>We provide secure communications between your infrastructure and our cloud services and block unauthorized traffic.</p>
                <p><a href="../security/networksecurity.html">Learn more about network security</a></p>
-               <label>Security features</label>
+               <p style="font-size:24px;font-weight:500;">Security features</p>
                <p>Specific platform security features include:</p>
                <ul style="list-style-type:disc">
                   <li><strong>SQL Always Encrypted</strong> gives you the tools to encrypt sensitive data, such as credit card numbers and national identification numbers, and stored it in Azure SQL Database or SQL Server databases. SQL Always Encrypted creates data separation between those who own the data (authorized users) and those who manage the data (cloud database operators or administrators).</li>
                </ul>
-               <label>Anatomy of a breach</label>
+               <p style="font-size:24px;font-weight:500;">Anatomy of a breach</p>
                <p>Cybercrime is relentless. Understanding the anatomy of a breach, and how people infiltrate enterprise network defenses, can help you identify potential threats and better protect yourself and your company.</p>
                <p>Most breaches go through similar stages:</p>
                <ul style="list-style-type:disc">
@@ -83,17 +83,14 @@ layout: TrustCenterPage
 
 
               </div> 
-            <!--<div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+           <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Azure Active Directory documentation</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/multi-factor-authentication/">Multi-Factor Authentication</a></label><br/>
-                     <label><a target="_self" class="mscom-link" href="#">Security In Office 365 Whitepaper</a></label><br/>
+                     <label><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心V2.pdf">21Vianet-Blue Cloud Security Operation Center </a></label><br>
                   </div>
                </div>
-            </div>-->
+            </div>
          </div>
       </div>
    </div>
