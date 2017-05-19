@@ -97,7 +97,7 @@ layout: TrustCenterPage
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <h1>Helpful information</h1>
-                     <label><p><a target="_self" class="mscom-link" href="http://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/%E7%94%B1%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94%E8%BF%90%E8%90%A5%E7%9A%84%20Power%20BI%20%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6_May2017.pdf">Power BI Operated by 21Vianet Security Whitepaper</a></p></label><br />
+                     <label><a target="_self" class="mscom-link" href="http://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/%E7%94%B1%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94%E8%BF%90%E8%90%A5%E7%9A%84%20Power%20BI%20%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6_May2017.pdf">Power BI Operated by 21Vianet Security Whitepaper</a></label><br />
                      <!-- <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/identity/">Azure Active Directory</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/documentation/services/identity/">Azure Active Directory documentation</a></label><br/>
                      <label><a target="_self" class="mscom-link" href="https://www.azure.cn/home/features/multi-factor-authentication/">Multi-Factor Authentication</a></label><br/>
