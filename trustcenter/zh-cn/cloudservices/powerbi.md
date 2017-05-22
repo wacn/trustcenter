@@ -44,13 +44,14 @@ layout: TrustCenterPageCN
                </div>
             </div>
          </div>
-         <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
+        <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+            	<a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
                <a target="_self" class="mscom-link" href="../cloudservices/default-cn.html">云服务</a> // Power BI
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
-                <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
+            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                      <p style="font-size:28px">由世纪互联运营的 Power BI</p>
                      <p style="font-size:20px;">使您的数据充满商业智能</p>
                      <p>由世纪互联运营的 Power BI 是一种基于云平台的分析服务，您可在业务中用其对数据进行分析和视觉显示、并共享数据背后的真知灼见。一键点击，您即可创建更具表现力的报表和演示文稿，展示丰富的视觉效果，更清晰、更快速地传达您的信息。直观的工具将帮助您更轻松地探索数据、找到答案。事实上，由世纪互联运营的 Power BI  可帮助您随时随地获取答案，因为我们的仪表盘提供 360 度视角，可展示最重要的衡量指标，并对其进行实时更新。</p>
@@ -82,18 +83,16 @@ layout: TrustCenterPageCN
                      <label style="color:rgb(0,115,198)">透明度</label>
                      <p>明确清晰的政策和流程会使您了解，作为 Power BI 客户，您的客户数据存储在哪里，我们如何帮助您确保安全，以及谁可以访问数据、并在什么情况下访问数据。</p>
                         <p><a href="../transparency/default.html">了解更多有关透明度的信息</a></p>
-                </div>
-                <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
-                     <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
-                        <div id="SideBarContent" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                           <h1>更多信息</h1>
-                           <label><a target="_self" class="mscom-link" href="http://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/%E7%94%B1%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94%E8%BF%90%E8%90%A5%E7%9A%84%20Power%20BI%20%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6_May2017.pdf">由世纪互联运营的 Power BI 安全白皮书</a></label><br>
+            </div>
+            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                    <div id="SideBarContent" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                        <h1>更多信息</h1>
+                        <label><a target="_self" class="mscom-link" href="http://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/%E7%94%B1%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94%E8%BF%90%E8%90%A5%E7%9A%84%20Power%20BI%20%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6_May2017.pdf">由世纪互联运营的 Power BI 安全白皮书</a></label><br>
                         </div>
-                     </div>
-                 </div>
-
+               </div>
+           </div>        
+         </div>
+      </div>
    </div>
-</div>
-<div class="row-fluid" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
-   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"></div>
 </div>
