@@ -280,7 +280,7 @@ layout: TrustCenterPage
             </div>
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1 bp0-clear">
                <h2>Resources</h2>
-               <a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心V2.pdf">21Vianet-Blue Cloud Security Operation Center </a><br>
+               <a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心V2.pdf">21Vianet-Blue Cloud Security Operation Center </a><br/>
                <a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Privacy Statement for Microsoft Azure Operated by 21Vianet</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet</a></span><br /><a target="_blank" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">21Vianet Online Services Standard Agreement for Microsoft Azure</a><br /><span class="withTail"><a target="_blank" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet Online Services Standard Agreement for Office 365</a></span><br />
             </div>
          </div>
