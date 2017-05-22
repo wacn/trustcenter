@@ -92,8 +92,6 @@ layout: TrustCenterPageCN
                      </div>
                  </div>
 
-            </div>
-      </div>
    </div>
 </div>
 <div class="row-fluid" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
