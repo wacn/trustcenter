@@ -12,7 +12,7 @@ layout: TrustCenterPage
                         <div class="heroitem light-foreground" bi:type="heroitem">
                            <div class="media" bi:parenttitle="t1">
                               <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
-                                 <div data-picture="" data-alt="Whats New" data-disable-swap-below="">
+                                 <div data-picture="" data-alt="Blog" data-disable-swap-below="">
                                     <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Whats_New_Header.jpg?version=9f644300-f787-a453-8452-7b3974e50a6c"></div>
                                     <noscript></noscript>
                                  </div>
@@ -45,7 +45,7 @@ layout: TrustCenterPage
             </div>
          </div>
          <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
-            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default.html">Trust Center</a> //  Blog</div>
+            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../../default.html">Trust Center</a> //  Blog</div>
 
 			<div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container whatsNewBody wider">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
@@ -53,7 +53,7 @@ layout: TrustCenterPage
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                           <label class="date">2017年5月</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170501-cn.html">云服务的安全运维平台</a></label>
+                           <label class="date">2017年5月</label><br /><label><a target="_blank" class="mscom-link" href="../../blog/blog170501-cn.html">云服务的安全运维平台</a></label>
                            <p>云服务作为一种近年相当热门的 IT 服务，云服务的服务质量往往取决于运维的质量。如何为用户提供可靠的、可信的、安全的云服务，安全的运维平台就尤为重要。针对云运维的要点、难点和重点，介绍了从传统 IT 运维到云运维的变迁及其差异，阐述了安全的运维平台的模型和核心内容，并且对安全运维平台的各个组成部分进行了分析解释，同时还阐述了云安全和云合规。</p>
                         </div>
                      </div>
@@ -74,7 +74,7 @@ layout: TrustCenterPage
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                            <label class="date">2017年4月10日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170410-cn.html">数据的名义 可信云之隐私篇</a></label>
+                            <label class="date">2017年4月10日</label><br /><label><a target="_blank" class="mscom-link" href="../../blog/blog170410-cn.html">数据的名义 可信云之隐私篇</a></label>
                            <p>在云计算能力逐渐渗透到互联网以及越来越多的传统行业的过程中，客户数据以海量形态源源不断地产生，一方面尚有相当一部分传统企业对“上云”后的安全和稳定性存疑，另一方面个人用户也有自己的数据可能会被滥用或泄露的担忧。此前被曝光的电商内部员工利用职位便利倒卖用户数据的行为，几乎一度让全社会陷入一种隐私恐慌。云时代的到来，大数据技术的日益倚重，客户数据的隐私与管控已成为当下的重要议题。
                            </p>
                         </div>
@@ -85,7 +85,7 @@ layout: TrustCenterPage
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                            <label class="date">2017年3月23日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170323-cn.html">由世纪互联运营的 Windows Azure 和 Office 365 获“年度最佳业务连续性策略实施奖”</a></label>
+                            <label class="date">2017年3月23日</label><br /><label><a target="_blank" class="mscom-link" href="../../blog/blog170323-cn.html">由世纪互联运营的 Windows Azure 和 Office 365 获“年度最佳业务连续性策略实施奖”</a></label>
                            <p>今天，云服务已经成为很多企业的选择，因为这可以省去大量的人力物力，无需企业再搭建一套自有信息系统。自2013年开始至今，微软可信云技术已经成功落地中国市场三年。由微软提供全球领先的安全技术开发和安全技术，并由世纪互联蓝云提供本地化运营。蓝云以其出众的安全性和专业运维，赢得了客户的信赖。下面让我们走近落地中国的微软可信云，看看它是如何系统地保障云服务的安全。
                            </p>
                         </div>
@@ -96,7 +96,7 @@ layout: TrustCenterPage
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                           <label class="date">2017年3月3日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170303-cn.html">微软携手世纪互联 可信云成功植根中国三周年</a></label>
+                           <label class="date">2017年3月3日</label><br /><label><a target="_blank" class="mscom-link" href="../../blog/blog170303-cn.html">微软携手世纪互联 可信云成功植根中国三周年</a></label>
                            <p>日月轮回，斗转星移，三年前微软携手世纪互联奏响了“可信云”进军中国云市场的号角，三年里两家公司的强强联合让“可信云”成功扎根中国，在中国市场上越来越强，在梦想的路上走的越来越远。</p>
 						   <p>当前，中国正实施网络强国、互联网+战略、大数据等国家战略，云计算应用也在不断走向成熟，中国云服务产业正全面爆发进入高增长阶段，步入重体验、重应用时代。云服务成为各个行业领域的基础技术，时下火热的大数据、人工智能等新兴领域，都离不开云计算支持。</p>
                         </div>
