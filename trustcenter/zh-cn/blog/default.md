@@ -13,7 +13,7 @@ layout: TrustCenterPageCN
                            <div class="media" bi:parenttitle="t1">
                               <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                  <div data-picture="" data-alt="Blog" data-disable-swap-below="">
-                                    <div data-src="https://c.s-microsoft.com/en-us/CMSImages/MS_TrustCenter_Whats_New_Header.jpg?version=9f644300-f787-a453-8452-7b3974e50a6c"></div>
+                                    <div data-src="../Images/MS_TrustCenter_Blog_Header.jpg"></div>
                                     <noscript></noscript>
                                  </div>
                               </a>
