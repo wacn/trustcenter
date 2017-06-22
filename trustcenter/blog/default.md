@@ -84,7 +84,7 @@ layout: TrustCenterPage
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                            <label class="date">2017年3月23日</label><br /><label><a target="_blank" class="mscom-link" href="../../blog/blog170323-cn.html">由世纪互联运营的 Windows Azure 和 Office 365 获“年度最佳业务连续性策略实施奖”</a></label>
+                            <label class="date">2017年3月23日</label><br /><label><a target="_blank" class="mscom-link" href="../../blog/blog170323-cn.html">三生三世的信任 可信云之安全篇</a></label>
                            <p>今天，云服务已经成为很多企业的选择，因为这可以省去大量的人力物力，无需企业再搭建一套自有信息系统。自2013年开始至今，微软可信云技术已经成功落地中国市场三年。由微软提供全球领先的安全技术开发和安全技术，并由世纪互联蓝云提供本地化运营。蓝云以其出众的安全性和专业运维，赢得了客户的信赖。下面让我们走近落地中国的微软可信云，看看它是如何系统地保障云服务的安全。
                            </p>
                         </div>
