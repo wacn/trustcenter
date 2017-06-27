@@ -142,7 +142,11 @@ layout: TrustCenterPageCN
                <p>世纪互联深知 Azure、Office 365 和 Power BI 客户信任我们会保护客户数据的安全。 我们重视您的信任，您的数据隐私和安全是我们最关心的问题之一。我们努力在安全性、隐私保护、合规性和透明度方面保持业界领先地位。</p>
                <p><h2 style="color:rgb(0,115,198)">可信赖的云服务</h2></p>
                <p>由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 为企业提供了一个开放的平台，具备客户开发创新的解决方案所需的灵活性和安全性，实现实时数据洞察力、增强工作生产力和移动性，并交付个性化的客户体验。</p>
-               <p><h2 style="color:rgb(0,115,198)">共担责任</h2></p>
+               <p>
+                        了解更多有关<a target="_self" class="mscom-link" href="../../file/Trusted-Cloud_May2017.pdf">可信赖的云服务</a>的信息
+               </p>
+			   
+			   <p><h2 style="color:rgb(0,115,198)">共担责任</h2></p>
                <p>
                   在中国，使用云服务的客户受到许多适用于不同地域和行业的各种法律和法规的约束。为保证我们的客户符合其各自法律法规的要求，我们在构建服务时就牢记通用隐私和安全性要求。但最终将由我们的客户根据自己的要求来评估我们的服务，以便他们可以确定我们的服务是否满足其法规要求。我们承诺为客户提供有关 Azure、Office 365 和 Power BI 云服务的详细信息， 以帮助他们进行自我监管评估。
                    Azure、Office 365 和 Power BI 云服务要求客户与服务提供商共担责任。世纪互联负责维护基于微软可信云技术的平台，并努力提供可满足客户的安全性、隐私保护、合规性和透明度需求的云服务。在配置服务之后，客户负责维护其环境，包括其自行部署的应用程序、数据内容、虚拟机、访问凭据以及遵守适用于其特定行业和区域的法规。</p>
@@ -268,7 +272,7 @@ layout: TrustCenterPageCN
             <div class=" span bp0-col-1-1 bp1-col-2-1 bp2-col-2-1 bp3-col-2-1">
                <h2>了解更多</h2>
                <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 云服务运营模式</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></span><br/>
-            <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></span><br/><span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></span><br />
+            <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></span><br><span class="withTail"><a target="_blank" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></span><br />
             <span class="withTail"><a target="_blank" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></span><br />
             <span class="withTail"><a target="_self" class="mscom-link" href="http://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/%E7%94%B1%E4%B8%96%E7%BA%AA%E4%BA%92%E8%81%94%E8%BF%90%E8%90%A5%E7%9A%84%20Power%20BI%20%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6_May2017.pdf">由世纪互联运营的 Power BI 安全白皮书</a></span><br /><span class="withTail"><a target="_blank" class="mscom-link" href="../../file/Microsoft SDL 的简化实施.pdf">Microsoft SDL 的简化实施</a></span><br/>
             <span class="withTail"><a target="_blank" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/AzureNetworkSecurity_v3_Feb2015_CN_20151214.pdf">Azure 网络安全</a></span><br/>
