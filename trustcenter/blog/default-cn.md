@@ -53,6 +53,38 @@ layout: TrustCenterPageCN
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2017年6月15日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170615-cn.html">中国城镇化规模“空前”，建设新型智慧城市是“解题”关键？</a></label>
+                           <p>黎明  国家发改委城市和小城镇改革发展中心智慧城市所所长</p>
+						   <p>智慧城市本质上是基于新一代信息技术，通过整合城市信息资源，实现城市在政务、商务、交通、医疗、社区等多领域的高效管理，可以将其理解为知识社会创新2.0环境下的城市组织形态。智慧城市近期的重点技术发展方向是物联网技术和人工智能技术，目标是实现对城市管理与发展的各种需求做出智能响应，并实现以用户创新、大众创新、开放创新、协同创新为特点的以人为本可持续创新。</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+			<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2017年5月19日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170519-cn.html">从 “一带一路”战略谈世纪互联、紫光互联与微软的国际合作</a></label>
+                           <p>银鹰 上海交通大学信息安全服务技术研究实验室副主任，信息安等级保护高级测评师</p>
+						   <p>当前，我们已经进入信息时代，互联网的发展推动政治经济繁荣的同时，网络空间也日益成为人类重要的活动平台，甚至逐步成为影响国家安全的“第五域”，各国对网络空间建设都极为重视。我国自习近平总书记2013年提出“一带一路”战略以来，一直对网络空间国际合作极为重视，“一带一路”官方文件《愿景与行动》中就明确提出，要建设“信息丝绸之路”。目的是希望各国在共商、共建、共享、共治、共赢的基础上，通过网络和信息的互联互通、利益的互相交融，把全世界融为一个命运共同体，从而有望沿着和平发展的路径，重新构建人类新文明，实现全球再平衡。</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+			<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2017年5月11日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170511-cn.html">《网络安全法》下，世纪互联蓝云和微软的“中国云实践”</a></label>
+                           <p>当今时代，网络已经深刻地融入了经济、社会、生活的各个方面，网络安全威胁也随之向经济社会的各个层面渗透，网络安全日益成为既关系国家安全和发展、也关乎广大人民群众切身利益的重大战略选项。《中华人民共和国网络安全法》(下称《网络安全法》)就在这样的时代背景下应运而生，它标志着我国网络安全将有法可依，信息安全行业将由合规性驱动过渡到合规性和强制性驱动并重。《网络安全法》的出台，不仅有利于网络安全产业的快速拓展延伸，更将有效改善我国的网络安全环境，为“互联网+”的发展清除障碍。</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+			<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                            <label class="date">2017年5月</label><br /><label><a target="_blank" class="mscom-link" href="../../file/云服务的安全运维平台_汤涛.pdf">云服务的安全运维平台</a></label>
                            <p>汤涛  北京世纪互联宽带数据中心有限公司蓝云事业部技术运维总经理</p>
 						   <p>云服务作为一种近年相当热门的 IT 服务，云服务的服务质量往往取决于运维的质量。如何为用户提供可靠的、可信的、安全的云服务，安全的运维平台就尤为重要。针对云运维的要点、难点和重点，介绍了从传统 IT 运维到云运维的变迁及其差异，阐述了安全的运维平台的模型和核心内容，并且对安全运维平台的各个组成部分进行了分析解释，同时还阐述了云安全和云合规。</p>
