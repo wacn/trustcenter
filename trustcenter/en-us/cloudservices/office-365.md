@@ -67,7 +67,7 @@ layout: TrustCenterPage
                         <li>Flexible security settings that enable you to have control over your information.</li>
                         <li>Security processes that monitor, anticipate, and mitigate threats to protect your Customer Data.</li>
                     </ul>
-                    <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />Learn more</a></p>
+                    <p><a target="_self" class="mscom-link withArrow" href="../../en-us/security/office365security.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />Learn more</a></p>
                     <label style="color:rgb(0,115,198)">Privacy</label></br>
                     <label class="subhead">Data ownership and what it means</label>
                     <ul>
