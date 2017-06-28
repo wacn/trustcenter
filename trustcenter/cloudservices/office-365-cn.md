@@ -67,7 +67,7 @@ layout: TrustCenterPageCN
                         <li>我们提供灵活的安全设置，使您有效控制自己的客户数据。</li>
                         <li>我们的安全流程能够监控、预测和减少威胁，从而保护您的客户数据。</li>
                     </ul>
-                    <p><a target="_self" class="mscom-link withArrow" href="#"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />了解更多</a></p>
+                    <p><a target="_self" class="mscom-link withArrow" href="../../security/office365security-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Compliance" title="Learn more" width="21" height="19" />了解更多</a></p>
                     <label style="color:rgb(0,115,198)">隐私保护</label></br>
                     <label class="subhead">数据所有权及其含义</label>
                     <ul>
