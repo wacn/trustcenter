@@ -64,9 +64,31 @@ layout: TrustCenterPageCN
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2017年5月25日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170525-cn.html">云计算安全合规认证哪家强？</a></label>
+                           <p>文博 信息安全研究杂志社</p>
+						   <p>由世纪互联独立运营的 Microsoft Azure 和 Office 365，作为首个落地中国市场的国际公有云服务，在采用业界领先的微软云计算技术为客户提供可信赖云服务的同时，严格遵循国际和国内法律法规和标准规定，获得多项权威认证，同时秉承安全性、隐私保护、合规性及透明度四项原则，为广大用户提供基于本土运营和管理，可信、可靠、灵活、高价值且符合本土化要求的一流云服务！</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+			<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                            <label class="date">2017年5月19日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170519-cn.html">从 “一带一路”战略谈世纪互联、紫光互联与微软的国际合作</a></label>
                            <p>银鹰 上海交通大学信息安全服务技术研究实验室副主任，信息安等级保护高级测评师</p>
 						   <p>当前，我们已经进入信息时代，互联网的发展推动政治经济繁荣的同时，网络空间也日益成为人类重要的活动平台，甚至逐步成为影响国家安全的“第五域”，各国对网络空间建设都极为重视。我国自习近平总书记2013年提出“一带一路”战略以来，一直对网络空间国际合作极为重视，“一带一路”官方文件《愿景与行动》中就明确提出，要建设“信息丝绸之路”。目的是希望各国在共商、共建、共享、共治、共赢的基础上，通过网络和信息的互联互通、利益的互相交融，把全世界融为一个命运共同体，从而有望沿着和平发展的路径，重新构建人类新文明，实现全球再平衡。</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+			<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                           <label class="date">2017年5月17日</label><br /><label><a target="_blank" class="mscom-link" href="../../file/云服务的安全运维平台_汤涛.pdf">云服务的安全运维平台</a></label>
+                           <p>汤涛  北京世纪互联宽带数据中心有限公司蓝云事业部技术运维总经理</p>
+						   <p>云服务作为一种近年相当热门的 IT 服务，云服务的服务质量往往取决于运维的质量。如何为用户提供可靠的、可信的、安全的云服务，安全的运维平台就尤为重要。针对云运维的要点、难点和重点，介绍了从传统 IT 运维到云运维的变迁及其差异，阐述了安全的运维平台的模型和核心内容，并且对安全运维平台的各个组成部分进行了分析解释，同时还阐述了云安全和云合规。</p>
                         </div>
                      </div>
                   </div>
@@ -81,29 +103,7 @@ layout: TrustCenterPageCN
                      </div>
                   </div>
                </div>
-			<div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
-                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
-                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                           <label class="date">2017年5月</label><br /><label><a target="_blank" class="mscom-link" href="../../file/云服务的安全运维平台_汤涛.pdf">云服务的安全运维平台</a></label>
-                           <p>汤涛  北京世纪互联宽带数据中心有限公司蓝云事业部技术运维总经理</p>
-						   <p>云服务作为一种近年相当热门的 IT 服务，云服务的服务质量往往取决于运维的质量。如何为用户提供可靠的、可信的、安全的云服务，安全的运维平台就尤为重要。针对云运维的要点、难点和重点，介绍了从传统 IT 运维到云运维的变迁及其差异，阐述了安全的运维平台的模型和核心内容，并且对安全运维平台的各个组成部分进行了分析解释，同时还阐述了云安全和云合规。</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
             <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
-                  <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                     <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
-                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                           <label class="date">2017年5月25日</label><br /><label><a target="_blank" class="mscom-link" href="../blog/blog170525-cn.html">云计算安全合规认证哪家强？</a></label>
-                           <p>文博 信息安全研究杂志社</p>
-						   <p>由世纪互联独立运营的 Microsoft Azure 和 Office 365，作为首个落地中国市场的国际公有云服务，在采用业界领先的微软云计算技术为客户提供可信赖云服务的同时，严格遵循国际和国内法律法规和标准规定，获得多项权威认证，同时秉承安全性、隐私保护、合规性及透明度四项原则，为广大用户提供基于本土运营和管理，可信、可靠、灵活、高价值且符合本土化要求的一流云服务！</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                   <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                      <div id="" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container">
                         <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
