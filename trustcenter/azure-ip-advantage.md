@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                  <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                     <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                        <li class="box-title">
-                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Azure 知识产权保护计划</h3>
+                                          <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Azure IP Advantage</h3>
                                        </li>
                                        <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                     </ul>
@@ -46,14 +46,14 @@ layout: TrustCenterPageCN
          </div>
          <div id="BreadcrumbWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid grid-container mscom-grid-container breadcrumbs">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1"><a target="_self" class="mscom-link" href="../default-cn.html">信任中心</a> // 
-                Azure 知识产权保护计划
+                Azure IP Advantage
             </div>
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-               <p style="font-size:28px;font-weight:500;">Azure 知识产权保护计划</p>
+               <p style="font-size:28px;font-weight:500;">Azure IP Advantage</p>
                <p style="font-size:24px;font-weight:500;">保护云中的创意</p>
-               <p>同使用全球微软云服务的客户一样，在中国，由世纪互联运营的 Microsoft Azure 的客户现在也可以享受云计算知识产权 (IP) 保护项目 – Azure IP Advantage 计划。这是一个由微软提供的业界首创的全面的知识产权保护计划，旨在帮助 Azure 客户保护基于云计算的创新和投资，抵御知识产权诉讼和风险。通过 Azure IP Advantage 计划，我们努力创造一个生态系统，使开发人员、 初创公司、 企业和客户都可以没有后顾之忧地专注于创新。</p>
+               <p>同使用全球微软云服务的客户一样，在中国，由世纪互联运营的 Microsoft Azure 的客户现在也可以享受云计算知识产权 (IP) 保护项目 – Azure IP Advantage 计划。这是一个由微软提供的业界首创的全方位的知识产权保护计划，旨在帮助 Azure 客户保护基于云计算的创新和投资，抵御知识产权诉讼和风险。通过 Azure IP Advantage 计划，我们努力创造一个生态系统，使开发人员、 初创公司、 企业和客户都可以没有后顾之忧地专注于创新。</p>
                <p>有关 Azure 知识产权保护 (Azure IP Advantage) 计划的详细条款和适用条件<sup> 1</sup>，请参阅 <a href="https://azure.microsoft.com/zh-cn/overview/azure-ip-advantage/">Azure IP Advantage</a> 页面。</p>
                  <p style="font-size:14px;color:#89919c;"><sup>1</sup> 对世纪互联运营的 Microsoft Azure 的客户而言，该计划三项客户权益中针对 Azure 核心服务之专利诉讼的无上限赔偿，是由世纪互联提供的，其他权益由微软直接提供。</p>
             </div>
