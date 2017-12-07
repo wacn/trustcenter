@@ -101,6 +101,9 @@ layout: TrustCenterPage
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Microsoft Azure Operated by 21Vianet Privacy Statement </a>and 
                     <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Office 365 Operated by 21Vianet Privacy Statement, </a> and the underlying technology that is licensed to 21Vianet is developed using the Security Development Lifecycle (which includes addressing privacy requirements in the process of developing software).
                 </p>
+
+                <p>For personal information (name, phone number, email address etc. ) submitted by customers, we provide download and/or delete methods. Please<a href="https://www.azure.cn/gdpr/form" id="privacy_gdpr-form"> click here</a> for personal information of 21Vianet customers; or please <a href="https://www.azure.cn/gdpr/form?gdpr_type=webinar" id="privacy_gdpr-form?gdpr_type=webinar">click here</a> for personal information of Azure.cn users.</p>
+                
                 <p>We then back those protections with strong contractual commitments to safeguard Customer Data in 
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement"> 21Vianet Online Services Standard Agreement for Microsoft Azure </a>and 
                     <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet Online Services Standard Agreement for Office 365.</a>
