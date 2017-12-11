@@ -95,8 +95,11 @@ layout: TrustCenterPageCN
                 <p>Azure 和 Office365 的隐私与管控政策基于
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明。</a>许可给世纪互联的底层技术运用 Microsoft 安全开发生命周期 (其中包括如何在软件开发过程中满足隐私要求)进行开发。
                 </p>
-                <p>对于客户提交的个人信息（姓名，电话，邮箱等），我们提供下载和/或删除的渠道。世纪互联客户个人信息获取请点击<a href="https://www.azure.cn/gdpr/form" id="privacy_gdpr-form">这里</a>， 或其它通过 Azure.cn 提交的个人信息获取请点击<a href="https://www.azure.cn/gdpr/form?gdpr_type=webinar" id="privacy_gdpr-form?gdpr_type=webinar">这里</a>。</p>
-                <p>我们还将这些保护措施与<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联有关 Microsoft Azure 在线服务标准协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a>中完善的客户数据保护合同承诺相结合。</p>
+
+                <p>对于 Azure 客户提交的个人信息（姓名，电话，邮箱等），我们提供下载和/或删除的渠道。世纪互联客户个人信息获取请点击<a href="https://www.azure.cn/gdpr/form" id="privacy_gdpr-form">这里</a>， 或其它通过 Azure.cn 提交的个人信息获取请点击<a href="https://www.azure.cn/gdpr/form?gdpr_type=webinar" id="privacy_gdpr-form?gdpr_type=webinar">这里</a>。</p>
+
+                <p>我们还将这些保护措施与<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联有关 Microsoft Azure 在线服务标准协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a>中完善的客户数据保护合同承诺相结合。
+                </p>
                 <p>
                     <a target="_self" class="mscom-link withArrow" href="../privacy/we-set-and-adhere-to-stringent-standards-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                 </p>
