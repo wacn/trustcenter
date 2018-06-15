@@ -105,6 +105,12 @@ layout: TrustCenterPage
                 <p>
                     <a target="_self" class="mscom-link withArrow" href="../privacy/we-set-and-adhere-to-stringent-standards.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                 </p>
+                <label id="GDPR">Data Subject Requests for the GDPR</label>
+                <p><strong>Azure Customer</strong></p>
+                <p>For personal data submitted by Azure customers (for example, personal data submitted for getting support, and other personal data submitted via azure.cn), we provide approaches to export and/or delete. Please click <a href="https://www.azure.cn/gdpr/form">here</a> to continue. Click <a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">here</a> if you would like to get the documentation for this process.</p>
+                <p>For personal data generated during a customer use of Azure services, tenant administrators can request export by clicking <a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/GDPR%20Web%20Submission.pdf">here</a> to submit a support request. For other Data Subject requests, see <a href="https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-azure">Data Subject Requests for the GDPR</a>.</p>
+                <p><strong>Office 365 Customer</strong></p>
+                <p>For personal data generated during a customer use of Office 365 services, tenant administrators can request export by clicking <a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/GDPR%20Web%20Submission_Guidance_O365.pdf">here</a> to submit a support request. For other Data Subject requests, see <a href="https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365">Office 365 Data Subject Requests for the GDPR</a>. If you are not tenant administrators, please ask support from your tenant administrators.</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
