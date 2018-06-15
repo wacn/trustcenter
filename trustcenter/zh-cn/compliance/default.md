@@ -66,7 +66,10 @@ layout: TrustCenterPageCN
               <p>该证书由<a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">北京赛西认证有限责任公司</a>（CESI）颁发，可公开查询。</p>
 			  
 			  <p><a target="_self" class="mscom-link withArrow" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">&nbsp;了解更多</a></p>
-			  
+			  <label style="color:rgb(0,115,198)" id="ISO/IEC_27018">ISO/IEC 27018 审核和认证</label>
+        <p>ISO/IEC 27018 是首个专注于公有云个人数据保护的国际标准。由世纪互联运营的 Microsoft Azure 和 Office 365 在个人信息处理的准确性、透明化及安全性等方面为用户提供可靠保护，保护个人信息全生命周期的各项阶段。世纪互联每年会基于 ISO/IEC 27018（这是一个主要针对保护云中个人数据安全的国际标准）进行认证。ISO/IEC 27018 证书确认世纪互联已实施此标准中定义的国际上认可的公有云个人可识别信息安全控制措施，让客户对其数据的存储和使用有完整的控制权，保证客户的数据隐私和安全。</p>
+        <p>ISO 范围: 信息安全管理系统（ISMS），包括信息安全管理、隐私和合规，涵盖基础设施、安全服务/系统、运维支持、数据中心基础设施等以及与之相关的个人信息保护管理。</p>
+        <p>该证书由<a href="https://www.bsigroup.com/zh-CN/">英国管理体系认证（北京）有限公司</a>（BSI）颁发，可公开查询。</p>
               <label style="color:rgb(0,115,198)" id="ISO/IEC_27001">ISO/IEC 27001 审核和认证</label>
               <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。世纪互联承诺每年基于 ISO/IEC 27001（这是一种适用范围广泛的国际信息安全标准）进行认证。ISO/IEC 27001 证书确认世纪互联已实施此标准中定义的国际上认可的信息安全控制措施，包括有关启动、实施、维护和改进组织中的信息安全管理的指南和一般原则。</p>
               <p>ISO 范围: 信息安全管理系统（ISMS），其中包含了操作、安全和对商务流程管理。</p>
@@ -220,6 +223,7 @@ layout: TrustCenterPageCN
                      <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure Dynamics Office AR" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="ISO27018" src="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/media/ISO27018.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="ISO27018" title="ISO27018" width="115" height="109"></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="SLA" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image Azure CN" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
