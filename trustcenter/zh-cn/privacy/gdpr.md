@@ -55,11 +55,11 @@ layout: TrustCenterPageCN
                 <h4>什么是 GDPR？ </h4>
                 <p>欧洲隐私法《一般数据保护条例》(GDPR)已于 2018 年 5 月 25 日生效。 根据 GDPR，企业、政府机构、非营利组织以及其他向欧盟 (EU) 居民提供商品和服务或收集和分析与欧盟居民相关的个人数据的组织必须遵守该新规定。 </p>
                 <p>此网站旨在介绍基于微软技术由世纪互联运营的Microsoft Azure、Office 365和其他云服务的一些功能，这些功能可以帮助您符合 GDPR 的特定要求。您可以查看有助于履行 GDPR 责任的文档，并了解世纪互联运营的云服务为支持 GDPR 而提供的技术和组织措施。 我们提供数据保护影响评估 (Data Protection Impact Assessments (DPIAs) )、数据主体请求 (DSR) 和数据泄露通知相关文档，您可将其纳入您自己支持 GDPR 的责任计划中。</p>
-                <h4>GDPR 数据主体请求（DSR）</h4>
+                <h4 id="datasbr">GDPR 数据主体请求（DSR）</h4>
                 <p>GDPR 授予个人（或数据主体）与处理个人数据相关的某些权限，包括有权更正不准确数据、删除数据或限制数据处理、接收数据，以及满足将数据传输给另一个控制者的请求。下面介绍了 GDPR 要求控制者（您）和处理者 (世纪互联) 怎样响应这些请求，以及世纪互联运营的云服务如何助力您响应数据主体请求。</p>
                 <p>租户管理员可以代表整个企业用户提出下列数据请求。</p>
                 <p><strong>删除用户数据</strong></p>
-                <p>使用 Azure Active Directory 管理中心，租户管理员可以从 Azure Active Directory 和相关服务中永久删除数据主体的个人数据。 – <a href="https://portal.azure.con/#blade/Microsoft_AAD_IAM/UserManagementMenuBlade/All users/menuId/">AZURE AD ADMIN CENTER</a>.</p>
+                <p>使用 Azure Active Directory 管理中心，租户管理员可以从 Azure Active Directory 和相关服务中永久删除数据主体的个人数据。 – <a href="https://portal.azure.cn/#blade/Microsoft_AAD_IAM/UserManagementMenuBlade/All users/menuId/">AZURE AD ADMIN CENTER</a>.</p>
                 <p><strong>系统生成日志</strong></p>
                 <p>由世纪互联运营的云服务所产生的系统生成日志，租户管理员可使用数据日志导出。 - <a href="https://aka.ms/MicrosoftGDPRChina">Microsoft Azure Portal operated by 21Vianet.</a></p>
                 <p>请注意：世纪互联运营的 Office 365 云服务租户管理员提交数据主体生成系统日志请求之前，需要事先创建世纪互联运营的 Azure 订阅服务。请参阅详细步骤完成创建世纪互联运营的 Azure 订阅服务。如果您有任何疑问，请联系<a href="https://support.office.com/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?ui=en-US&rs=en-US&ad=US">世纪互联技术客服</a>。</p>
@@ -71,7 +71,7 @@ layout: TrustCenterPageCN
                 </ul>
                 <p>数据主体请求导出数据的进一步的详细步骤请参见 <a href="https://aka.ms/DSRCompliance">Data Subject Request (DSR) How-To FAQ</a>. </p>
 
-                <h4>数据泄露通知</h4>
+                <h4 id="databrno">数据泄露通知</h4>
                 <p>如发生个人数据泄露，GDPR 强制要求数据控制者和处理者需履行通知义务。 下面介绍了这些规定、并世纪互联运营的云服务如何从一开始就防止数据泄露、世纪互联运营的云服务如何检测数据泄露，以及世纪互联运营的云服务如何在发生数据泄露事件时予以响应，并通知数据控制者。</p>
                 <p>以下是关于数据泄露通知的重要问题解答</p>
                 <p><strong>根据 GDPR，哪些构成了数据泄露行为？</strong></p>
@@ -95,7 +95,7 @@ layout: TrustCenterPageCN
                 </ul>
                 <p><strong>如果发生数据泄露，世纪互联运营会如何通知我？</strong></p>
                 <p>世纪互联已制定用于及时通知您的策略和流程。 为了让您能够根据要求通知监管部门，我们会介绍为了确定是否发生个人数据泄露所采用的流程、数据泄露性质，以及为了缓解数据泄露所采取的措施。</p>
-                <h4>数据保护影响评估 (DPIA)</h4>
+                <h4 id="datapria">数据保护影响评估 (DPIA)</h4>
                 <p><strong>您作为控制者的责任</strong></p>
                 <p>根据 GDPR，如果数据处理可能会导致用户个人权利面临高风险（尤其是当使用新技术处理数据时），控制者必须在处理数据前先进行数据保护影响评估。 GDPR 列出了以下必须进行数据保护影响评估的情况（并非详尽）：</p>
                 <ul>
@@ -109,7 +109,7 @@ layout: TrustCenterPageCN
                 <p><strong>世纪互联如何帮助你准备 DPIA</strong></p>
                 <p>作为处理者，世纪互联有责任协助控制者确保符合 GDPR 中规定的数据保护影响评估要求。</p>
                 <p>为了向客户提供支持，我们生成了世纪互联DPIA相关部分的摘要，并将在日后更新中通过信任中心 (trustcenter.cn)。 </p>
-                <h4>GDPR 常见问题 (FAQ)</h4>
+                <h4 id="gdprfaq">GDPR 常见问题 (FAQ)</h4>
                 <p><strong>GDPR 有何要求，我作为数据控制者需要承担什么责任？</strong></p>
                 <p>GDPR 要求控制者能够：</p>
                 <ul>
@@ -137,10 +137,10 @@ layout: TrustCenterPageCN
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>其他资讯</h1>
-                        <p>GDPR 数据请求主体 (DSR)</p><br/>
-                        <p>数据泄露通知</p><br/>
-                        <p>数据保护影响评估 (DPIA)</p><br/>
-                        <p>GDPR 常见问答 (FAQ)</p><br/>
+                        <label><a class="mscom-link" href="#datasbr">GDPR 数据请求主体 (DSR)</a></label><br/> 
+                        <label><a class="mscom-link" href="#databrno">数据泄露通知</a></label><br/>
+                        <label><a class="mscom-link" href="#datapria">数据保护影响评估 (DPIA)</a></label><br/> 
+                        <label><a class="mscom-link" href="#gdprfaq">GDPR 常见问答 (FAQ)</a></label><br/>
 
                         <label><a target="_self" class="mscom-link" href="https://aka.ms/GDPR-arc">GPDR 责任就绪清单</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-azure">Azure 客户技术支持联系</a></label><br/>

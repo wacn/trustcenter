@@ -55,11 +55,11 @@ layout: TrustCenterPage
                 <h4>What is GDPR? </h4>
                 <p>On May 25, 2018, a European privacy law, the General Data Protection Regulation (GDPR), took effect. The GDPR imposes new rules on companies, government agencies, non-profits, and other organizations that offer goods and services to people in the European Union (EU), or that collect and analyze personal data tied to EU residents. </p>
                 <p>This site is designed to provide you information about the capabilities in Microsoft services operated by 21Vianet that you can use to address specific requirements of the GDPR. Access the documentation helpful to your GDPR accountability, and to your understanding of the technical and organizational measures that have been taken to support the GDPR. Documentation for Data Protection Impact Assessments (DPIAs), Data Subject Requests (DSRs), and Data Breach Notification is provided to incorporate into your own accountability program in support of the GDPR.</p>
-                <h4>Data Subject Requests (DSR) for GDPR </h4>
+                <h4 id="datasbr">Data Subject Requests (DSR) for GDPR </h4>
                 <p>GDPR grants individuals (or, data subjects) certain rights in connection with the processing of their personal data, including the right to correct inaccurate data, erase data or restrict its processing, receive their data and fulfill a request to transmit their data to another controller. Below we discuss what the GDPR requires of controllers (you) and processors (21Vianet) to respond to those requests, and how we will enable you to do so.</p>
                 <p>The Tenant Administrator role can request data on behalf of a data subject in several ways:</p>
                 <p><strong>DSR - Forget User Data</strong></p>
-                <p>Using the Azure Active Directory Admin Center, a Tenant Administrator can permanently delete a data subject from Azure Active Directory and related services – <a href="https://portal.azure.con/#blade/Microsoft_AAD_IAM/UserManagementMenuBlade/All users/menuId/">AZURE AD ADMIN CENTER</a>.</p>
+                <p>Using the Azure Active Directory Admin Center, a Tenant Administrator can permanently delete a data subject from Azure Active Directory and related services – <a href="https://portal.azure.cn/#blade/Microsoft_AAD_IAM/UserManagementMenuBlade/All users/menuId/">AZURE AD ADMIN CENTER</a>.</p>
                 <p><strong>DSR - Export System Generated Logs</strong></p>
                 <p>System generated logs for Microsoft services operated by 21Vianet can be exported by Tenant Administrators using the Data Log Export - <a href="https://aka.ms/MicrosoftGDPRChina">Microsoft Azure Portal operated by 21Vianet</a>.</p>
                 <p>NOTE: Office 365 customers must first create an Azure subscription before they can create DSR export for system generated logs. Please follow these step-by-step specific instructions for creating a new Azure subscription. </p>
@@ -71,7 +71,7 @@ layout: TrustCenterPage
                 <li>Mailbox and SharePoint Online Search – a Tenant Administrator can use the eDiscovery center in SharePoint Online to be able to perform content searches – <a href="https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E">Mailbox and SharePoint Search Guide</a></li>
                 </ul>
                 <p>Guidance for in-product/service data export for Data Subject Requests is found in the <a href="https://aka.ms/DSRCompliance">Data Subject Request (DSR) How-To FAQ</a>. </p>
-                <h4>Data Breach Notification under GDPR</h4>
+                <h4 id="databrno">Data Breach Notification under GDPR</h4>
                 <p>The GDPR mandates notification requirements for data controllers and processors in the event of a breach of personal data. The information below discusses those provisions, how we as Microsoft services operated by 21Vianet try to prevent breaches in the first place, how we detect a breach, and how we will respond in the event of breach and notify you as a data controller.</p>
                 <p>Breach Notification FAQ</p>
                 <p><strong>What constitutes a breach of personal data under GDPR?</strong></p>
@@ -95,7 +95,7 @@ layout: TrustCenterPage
                 </ul>
                 <p><strong>How will 21Vianet notify me in the event of a data breach?</strong></p>
                 <p>Individually, Microsoft services operated by 21Vianet each provide specific documentation on their handling of a data breach. </p>
-                <h4>Data Protection Impact Assessments (DPIAs)</h4>
+                <h4 id="datapria">Data Protection Impact Assessments (DPIAs)</h4>
                 <p><strong>Your Responsibilities as a Controller</strong></p>
                 <p>Under the GDPR, as a controller you are required to undertake DPIAs prior to data processing that is likely to result in a high risk to the rights and freedoms of individuals—in particular, processing using new technologies. The GDPR provides the following non-exhaustive list of cases in which DPIAs must be carried out: </p>
                 <ul>
@@ -109,7 +109,7 @@ layout: TrustCenterPage
                 <p><strong>How 21Vianet Can Help You Prepare DPIAs </strong></p>
                 <p>21Vianet, as a data processor, has a duty to assist controllers in ensuring compliance with the DPIA requirements laid out in the GDPR. </p>
                 <p>To support our customers, we publish information on this site (trustcenter.cn). </p>
-                <h4>GDPR Frequently Asked Questions (FAQ)</h4>
+                <h4 id="gdprfaq">GDPR Frequently Asked Questions (FAQ)</h4>
                 <p><strong>What does the GDPR require and what are my responsibilities as the controller?</strong></p>
                 <p>As controller, the GDPR requires you to be able to:</p>
                 <ul>
@@ -137,10 +137,10 @@ layout: TrustCenterPage
                 <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Helpful Information</h1>
-                        <p>Data Subject Requests (DSR) for GDPR</p>
-                        <p>Data Breach Notification</p>
-                        <p>Data Protection Impact Assessments (DPIA)</p>
-                        <p>GDPR Frequently Asked Questions (FAQ)</p>
+                        <label><a class="mscom-link" href="#datasbr">Data Subject Requests (DSR) for GDPR</a></label><br/> 
+                        <label><a class="mscom-link" href="#databrno">Data Breach Notification</a></label><br/>
+                        <label><a class="mscom-link" href="#datapria">Data Protection Impact Assessments (DPIA)</a></label><br/> 
+                        <label><a class="mscom-link" href="#gdprfaq">GDPR Frequently Asked Questions (FAQ)</a></label><br/>
                         <label><a class="mscom-link" href="https://aka.ms/GDPR-arc">Accountability Readiness Checklist</a></label><br/> 
                         <label><a class="mscom-link" href="https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-azure">Azure Customers – Contact Support</a></label><br/> 
                         <label><a class="mscom-link" href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">Office Customers – Contact Support</a></label><br/> 
