@@ -23,7 +23,8 @@ layout: TrustCenterPageCN
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">入门：GDPR 责任及支持</h3>
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">入门：GDPR 责任及支持<p>有关世纪互联运营的云服务为履行责任提供支持的信息</p></h3>
+
                                                 </li>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                             </ul>
