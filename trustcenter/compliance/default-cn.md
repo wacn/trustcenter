@@ -234,6 +234,7 @@ layout: TrustCenterPageCN
                      <div class=" span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <div class="imageWrapper"><img id="ISO20000" src="../Images/ISO20000.png" class="mscom-image Azure Dynamics Office AR" alt="ISO20000" title="ISO20000" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="ISO27001" src="../Images/ISO27001.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="ISO27001" title="ISO27001" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="ISO27018" src="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/media/ISO27018.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="ISO27018" title="ISO27018" width="115" height="109"></div>
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure CN" alt="China TRUCS" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
