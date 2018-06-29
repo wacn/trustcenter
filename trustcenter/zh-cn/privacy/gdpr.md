@@ -13,7 +13,7 @@ layout: TrustCenterPageCN
                                 <div class="media" bi:parenttitle="t1">
                                     <a href="" bi:track="False" bi:titleflag="t1" bi:index="0">
                                         <div data-picture="" data-alt="You are in control of your data" data-disable-swap-below="">
-                                            <div data-src="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/gdpr_banner-cn.jpg"></div>
+                                            <div data-src="../Images/MS-TrustCenter-Privacy-Header.jpg"></div>
                                             <noscript></noscript>
                                         </div>
                                     </a>
