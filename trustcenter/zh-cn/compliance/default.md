@@ -59,24 +59,24 @@ layout: TrustCenterPageCN
                   <li>首先，世纪互联的专家团队与工程和运营团队以及外部的监管机构合作，跟踪现有标准和规章，为产品团队开发出几百个控件，构建到我们的云服务中。</li>
                   <li>其次，由于规章和标准的不断发展变化，我们的合规专家也关注和预期即将到来的变化以确保持续的合规性—研究法规草案，评估潜在的新要求，和开发相应的控件。</li>
                </ul>
-               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 满足国际和行业特定合规性标准 ISO/IEC 20000 和 ISO/IEC 27001，同时也符合公安部制定的信息系统安全等级保护定级标准，GB 18030 信息技术中文编码字符国家标准以及可信云服务认证（TCS）。最终，由您自己来决定我们的服务是否符合您的业务所使用的具体法律法规。为方便您做出评估，世纪互联提供了针对安全和合规项目的详细信息，包括审核报告和合规程序包。作为我们对透明度的承诺，您可以通过向进行认证的第三方索要审核结果，并验证我们多重安全控制的实现情况。</p>
+               <p>由世纪互联运营的 Microsoft Azure 和 Office 365 满足国际和行业特定合规性标准 ISO/IEC 20000, ISO/IEC 27001 和 ISO/IEC 27018，同时也符合公安部制定的信息系统安全等级保护定级标准，GB 18030 信息技术中文编码字符国家标准以及可信云服务认证（TCS）。最终，由您自己来决定我们的服务是否符合您的业务所使用的具体法律法规。为方便您做出评估，世纪互联提供了针对安全和合规项目的详细信息，包括审核报告和合规程序包。作为我们对透明度的承诺，您可以通过向进行认证的第三方索要审核结果，并验证我们多重安全控制的实现情况。</p>
               <label style="color:rgb(0,115,198)" id="ISO/IEC_20000">ISO/IEC 20000 审核和认证</label>
               <p>ISO/IEC 20000 是第一部针对信息技术服务管理（IT Service Management）领域的国际标准。由世纪互联运营的 Microsoft Azure 和 Office 365 着重于通过“IT 服务标准化”来管理 IT 问题，识别问题的内在联系，然后依据服务水平协议进行计划、推行和监控，并强调与客户的沟通。世纪互联承诺每年基于 ISO/IEC 20000（这是一种针对 IT 服务领域的国际 IT 服务标准）进行认证。ISO/IEC 20000 证书确认世纪互联已实施此标准中定义的 IT 服务管理要求，向客户提供有效地服务及一体化的管理过程，从而识别和管理IT服务的关键过程，保证世纪互联提供有效的 IT 服务以满足客户和业务的需求。</p>
               <p>ISO 范围: IT服务管理体系（ITSM），其中包括建立、实施、运作、监控、评审、维护和改进IT服务管理体系。</p>
               <p>该证书由<a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">北京赛西认证有限责任公司</a>（CESI）颁发，可公开查询。</p>
 			  
 			  <p><a target="_self" class="mscom-link withArrow" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">&nbsp;了解更多</a></p>
-			  <label style="color:rgb(0,115,198)" id="ISO/IEC_27018">ISO/IEC 27018 审核和认证</label>
-        <p>ISO/IEC 27018 是首个专注于公有云个人数据保护的国际标准。由世纪互联运营的 Microsoft Azure 和 Office 365 在个人信息处理的准确性、透明化及安全性等方面为用户提供可靠保护，保护个人信息全生命周期的各项阶段。世纪互联每年会基于 ISO/IEC 27018（这是一个主要针对保护云中个人数据安全的国际标准）进行认证。ISO/IEC 27018 证书确认世纪互联已实施此标准中定义的国际上认可的公有云个人可识别信息安全控制措施，让客户对其数据的存储和使用有完整的控制权，保证客户的数据隐私和安全。</p>
-        <p>ISO 范围: 信息安全管理系统（ISMS），包括信息安全管理、隐私和合规，涵盖基础设施、安全服务/系统、运维支持、数据中心基础设施等以及与之相关的个人信息保护管理。</p>
-        <p>该证书由<a href="https://www.bsigroup.com/zh-CN/">英国管理体系认证（北京）有限公司</a>（BSI）颁发，可公开查询。</p>
+			  
               <label style="color:rgb(0,115,198)" id="ISO/IEC_27001">ISO/IEC 27001 审核和认证</label>
               <p>ISO/IEC 27001 是全球领先的安全标准之一。由世纪互联运营的 Microsoft Azure 和 Office 365 已实施 ISO/IEC 27001 定义的严格的物理、逻辑、流程和管理控制。世纪互联承诺每年基于 ISO/IEC 27001（这是一种适用范围广泛的国际信息安全标准）进行认证。ISO/IEC 27001 证书确认世纪互联已实施此标准中定义的国际上认可的信息安全控制措施，包括有关启动、实施、维护和改进组织中的信息安全管理的指南和一般原则。</p>
               <p>ISO 范围: 信息安全管理系统（ISMS），其中包含了操作、安全和对商务流程管理。</p>
               <p>该证书由<a target="_self" class="mscom-link " href="http://www.cc.cesi.cn/">北京赛西认证有限责任公司</a>（CESI）颁发，可公开查询。</p>
 			  
 			  <p><a target="_self" class="mscom-link withArrow" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">&nbsp;了解更多</a></p>
-			  
+			     <label style="color:rgb(0,115,198)" id="ISO/IEC_27018">ISO/IEC 27018 审核和认证</label>
+        <p>ISO/IEC 27018 是首个专注于公有云个人数据保护的国际标准。由世纪互联运营的 Microsoft Azure 和 Office 365 在个人信息处理的准确性、透明化及安全性等方面为用户提供可靠保护，保护个人信息全生命周期的各项阶段。世纪互联每年会基于 ISO/IEC 27018（这是一个主要针对保护云中个人数据安全的国际标准）进行认证。ISO/IEC 27018 证书确认世纪互联已实施此标准中定义的国际上认可的公有云个人可识别信息安全控制措施，让客户对其数据的存储和使用有完整的控制权，保证客户的数据隐私和安全。</p>
+        <p>ISO 范围: 信息安全管理系统（ISMS），包括信息安全管理、隐私和合规，涵盖基础设施、安全服务/系统、运维支持、数据中心基础设施等以及与之相关的个人信息保护管理。</p>
+        <p>该证书由<a href="https://www.bsigroup.com/zh-CN/">英国管理体系认证（北京）有限公司</a>（BSI）颁发，可公开查询。</p>
               <label style="color:rgb(0,115,198)" id="DJCP">信息系统安全等级保护定级 (DJCP)</label>
               <p>根据《GB/T 22240-2008 信息安全技术 信息系统安全等级保护定级指南》，公安部授权的测评机构依据《GB/T 22239-2008 信息安全技术 信息系统安全等级保护基本要求》对由世纪互联运营的 Microsoft Azure 和 Office 365 进行测评，信息安全保护等级均被评定为第三级，并且获得备案证明。</p>
               <label style="color:rgb(0,115,198)" id="TCS">可信云服务认证</label>
