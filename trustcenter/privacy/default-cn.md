@@ -92,21 +92,20 @@ layout: TrustCenterPageCN
                 <label id="how_21vianet_responds">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </label>
                 <p>世纪互联认为客户应控制自己存储在本地或云服务中的信息。相应地，我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。</p>
                 <label id="we_set_and">我们设置并坚持严格的隐私标准</label>
-                <p>Azure 和 Office365 的隐私与管控政策基于<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明</a>。许可给世纪互联的底层技术运用 Microsoft 安全开发生命周期 (其中包括如何在软件开发过程中满足隐私要求)进行开发。</p>
-
-                <p>对于 Azure 客户提交的个人信息（姓名，电话，邮箱等），我们提供下载和/或删除的渠道。世纪互联客户个人信息获取请点击<a href="https://www.azure.cn/gdpr/form" id="privacy_gdpr-form">这里</a>， 或其它通过 Azure.cn 提交的个人信息获取请点击<a href="https://www.azure.cn/gdpr/form?gdpr_type=webinar" id="privacy_gdpr-form?gdpr_type=webinar">这里</a>。</p>
-
+                <p>Azure 和 Office365 的隐私与管控政策基于
+                    <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明。</a>许可给世纪互联的底层技术运用 Microsoft 安全开发生命周期 (其中包括如何在软件开发过程中满足隐私要求)进行开发。
+                </p>
                 <p>我们还将这些保护措施与<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联有关 Microsoft Azure 在线服务标准协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a>中完善的客户数据保护合同承诺相结合。
                 </p>
                 <p>
                     <a target="_self" class="mscom-link withArrow" href="../privacy/we-set-and-adhere-to-stringent-standards-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                 </p>
-		<label id="we_set_and">我们支持响应GDPR数据主体请求</label>
-		<p><strong>Azure 客户</strong></p>
-		<p>对于 Azure客户提交的个人数据（如为获取客户支持提交的个人数据，及其它通过 azure.cn 提交的个人数据），我们提供导出和/或删除的渠道，请点击<a href="https://www.azure.cn/gdpr/form">这里</a>进行相关操作。如需查看该流程的文档，请点击<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">这里</a>。</p>
-		<p>对于客户在使用Azure服务过程中产生的个人数据，关于导出操作租户管理员可通过<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/GDPR%20Web%20Submission.pdf">在线提交工单</a>申请，关于数据主体的其他请求请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-azure">GDPR: 数据主体请求(DSR)</a></p>
-		<p><strong>Office 365 客户</strong></p>
-		<p>对于客户在使用Office 365服务过程中产生的个人数据，关于导出操作，租户管理员可通过<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/GDPR%20Web%20Submission_Guidance_O365.pdf">在线提交工单</a>申请，关于数据主体的其他请求请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-office365">GDPR: Office 365数据主体请求(DSR)</a>。如果您不是管理员，请寻求您的租户管理员的帮助。</p>
+                <label id="data-subject-requests-for-gdpr">我们支持响应GDPR数据主体请求</label>
+                <p><strong>Azure 客户</strong></p>
+                <p>对于 Azure客户提交的个人数据（如为获取客户支持提交的个人数据，及其它通过 azure.cn 提交的个人数据），我们提供导出和/或删除的渠道，请点击<a href="https://www.azure.cn/gdpr/form">这里</a>进行相关操作。如需查看该流程的文档，请点击<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">这里</a>。</p>
+                <p>对于客户在使用Azure服务过程中产生的个人数据，关于导出操作租户管理员可通过<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/GDPR%20Web%20Submission.pdf">在线提交工单</a>申请，关于数据主体的其他请求请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-azure">GDPR: 数据主体请求(DSR)</a>。</p>
+                <p><strong>Office 365 客户</strong></p>
+                <p>对于客户在使用Office 365服务过程中产生的个人数据，关于导出操作，租户管理员可通过<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/GDPR%20Web%20Submission_Guidance_O365.pdf">在线提交工单</a>申请，关于数据主体的其他请求请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-office365">GDPR: Office 365数据主体请求(DSR)</a>。如果您不是管理员，请寻求您的租户管理员的帮助。</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
