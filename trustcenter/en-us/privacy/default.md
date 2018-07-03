@@ -52,11 +52,11 @@ layout: TrustCenterPage
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                <p>21Vianet understands that for you, our customer, to use the cloud services that we operate, you entrust us with your most valuable asset—your Customer Data. You trust that its privacy will be protected and that it will be used only in a way that is consistent with your expectations.</p>
+                <p>21Vianet understands that for you, our customer, to use the cloud services that we operate, you entrust us with your most valuable asset—your Customer Data. You trust that its privacy will be protected and that it will be used only in a way that is consistent with your expectations. </p>
                 <p>Privacy is an integral part of how we operate the services. Our approach to privacy and data protection is grounded in our commitment to give you control of the collection, use, and distribution of your information. We work to be transparent in our privacy practices, offer customers meaningful privacy choices, and manage responsibly the data we store.</p>
-                <p>When you entrust your Customer Data to Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you remain the exclusive owner of your Customer Data: you retain the rights, title, and interest in the Customer Data you store in Azure, Office 365 and Power BI. It’s our policy to not mine your Customer Data for advertising purposes or use your Customer Data except for purposes consistent with providing you cloud productivity services.</p>
+                <p>When you entrust your Customer Data to Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you remain the exclusive owner of your Customer Data: you retain the rights, title, and interest in the Customer Data you store in Azure, Office 365 and Power BI. It’s our policy to not mine your Customer Data for advertising purposes or use your Customer Data except for purposes consistent with providing you cloud productivity services. </p>
                 <p>
-                    The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement-en/">Privacy Statement for Microsoft Azure Operated by 21Vianet </a>and<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> Privacy Statement for Office 365 Operated by 21Vianet</a> describe the specific privacy policy and practices that govern customers' use of Azure, Office 365 and Power BI
+                    The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement-en/">Privacy Statement for Microsoft Azure Operated by 21Vianet </a>and<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> Privacy Statement for Office 365 Operated by 21Vianet</a> describe the specific privacy policy and practices that govern customers' use of Azure, Office 365 and Power BI.
                 </p>
                 <!--<ul>
                     <li><a target="_self" class="mscom-link" href="#data_other">Customer Data and Other Data Types</a></li>
@@ -65,7 +65,7 @@ layout: TrustCenterPage
                     <li><a target="_self" class="mscom-link" href="#how_21vianet_responds">How we respond to law enforcement or third party asks to 21Vianet for Customer Data</a></li>
                     <li><a target="_self" class="mscom-link" href="#we_set_and">We set and adhere to stringent privacy standards</a></li>
                 </ul>-->
-                <label id="data_other">Customer Data and Other Data Types</label>
+                <label id="data_other">Customer Data and Other Data Types </label>
                 <p><strong>Customer Data</strong></p>
                 <p>Customer Data is all the data, including all text, sound, software or image files that you provide, or are provided on your behalf, to us through your use of the Services. For example, Customer Data includes data that you upload for storage or processing in the Services and applications that you or your end users upload for hosting in the Services. It does not include configuration, technical settings, or support ticket information.</p>
                 <p>We only use Customer Data to provide the Services. This may include troubleshooting aimed at preventing, detecting and repairing problems affecting the operation of the Services and the improvement of features that involve the detection of, and protection against, emerging and evolving threats to the user (such as malware or spam).</p>
