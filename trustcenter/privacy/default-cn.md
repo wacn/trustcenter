@@ -23,7 +23,7 @@ layout: TrustCenterPageCN
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">隐私与管控
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">隐私与管控 
                                                     <p>您拥有并掌控自己的客户数据</p>
                                                     </h3>
                                                 </li>
@@ -100,7 +100,7 @@ layout: TrustCenterPageCN
                 <p>
                     <a target="_self" class="mscom-link withArrow" href="../privacy/we-set-and-adhere-to-stringent-standards-cn.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                 </p>
-                <label id="data-subject-requests-for-gdpr">我们支持响应GDPR数据主体请求</label>
+                <label id="data-subject-requests-for-gdpr">我们支持响应 GDPR 数据主体请求</label>
                 <p><strong>Azure 客户</strong></p>
                 <p>对于 Azure客户提交的个人数据（如为获取客户支持提交的个人数据，及其它通过 azure.cn 提交的个人数据），我们提供导出和/或删除的渠道，请点击<a href="https://www.azure.cn/gdpr/form">这里</a>进行相关操作。如需查看该流程的文档，请点击<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">这里</a>。</p>
                 <p>对于客户在使用Azure服务过程中产生的个人数据，关于导出和/或删除操作租户管理员可通过<a href="https://portal.azure.cn/#blade/Microsoft_Azure_Policy/UserPrivacyMenuBlade/Overview">这里</a>进行相关操作，数据主体请求的具体操作请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-azure">GDPR: 数据主体请求(DSR)</a>。</p>
