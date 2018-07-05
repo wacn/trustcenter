@@ -52,11 +52,11 @@ layout: TrustCenterPage
         </div>
         <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                <p>21Vianet understands that for you, our customer, to use the cloud services that we operate, you entrust us with your most valuable asset—your Customer Data. You trust that its privacy will be protected and that it will be used only in a way that is consistent with your expectations.</p>
+                <p>21Vianet understands that for you, our customer, to use the cloud services that we operate, you entrust us with your most valuable asset—your Customer Data. You trust that its privacy will be protected and that it will be used only in a way that is consistent with your expectations. </p>
                 <p>Privacy is an integral part of how we operate the services. Our approach to privacy and data protection is grounded in our commitment to give you control of the collection, use, and distribution of your information. We work to be transparent in our privacy practices, offer customers meaningful privacy choices, and manage responsibly the data we store.</p>
-                <p>When you entrust your Customer Data to Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you remain the exclusive owner of your Customer Data: you retain the rights, title, and interest in the Customer Data you store in Azure, Office 365 and Power BI. It’s our policy to not mine your Customer Data for advertising purposes or use your Customer Data except for purposes consistent with providing you cloud productivity services.</p>
+                <p>When you entrust your Customer Data to Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you remain the exclusive owner of your Customer Data: you retain the rights, title, and interest in the Customer Data you store in Azure, Office 365 and Power BI. It’s our policy to not mine your Customer Data for advertising purposes or use your Customer Data except for purposes consistent with providing you cloud productivity services. </p>
                 <p>
-                    The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement-en/">Privacy Statement for Microsoft Azure Operated by 21Vianet </a>and<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> Privacy Statement for Office 365 Operated by 21Vianet</a> describe the specific privacy policy and practices that govern customers' use of Azure, Office 365 and Power BI
+                    The <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement-en/">Privacy Statement for Microsoft Azure Operated by 21Vianet </a>and<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> Privacy Statement for Office 365 Operated by 21Vianet</a> describe the specific privacy policy and practices that govern customers' use of Azure, Office 365 and Power BI.
                 </p>
                 <!--<ul>
                     <li><a target="_self" class="mscom-link" href="#data_other">Customer Data and Other Data Types</a></li>
@@ -65,7 +65,7 @@ layout: TrustCenterPage
                     <li><a target="_self" class="mscom-link" href="#how_21vianet_responds">How we respond to law enforcement or third party asks to 21Vianet for Customer Data</a></li>
                     <li><a target="_self" class="mscom-link" href="#we_set_and">We set and adhere to stringent privacy standards</a></li>
                 </ul>-->
-                <label id="data_other">Customer Data and Other Data Types</label>
+                <label id="data_other">Customer Data and Other Data Types </label>
                 <p><strong>Customer Data</strong></p>
                 <p>Customer Data is all the data, including all text, sound, software or image files that you provide, or are provided on your behalf, to us through your use of the Services. For example, Customer Data includes data that you upload for storage or processing in the Services and applications that you or your end users upload for hosting in the Services. It does not include configuration, technical settings, or support ticket information.</p>
                 <p>We only use Customer Data to provide the Services. This may include troubleshooting aimed at preventing, detecting and repairing problems affecting the operation of the Services and the improvement of features that involve the detection of, and protection against, emerging and evolving threats to the user (such as malware or spam).</p>
@@ -103,6 +103,12 @@ layout: TrustCenterPage
                 <p>
                     <a target="_self" class="mscom-link withArrow" href="../privacy/we-set-and-adhere-to-stringent-standards.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                 </p>
+                <label id="data-subject-requests-for-gdpr">Data Subject Requests for the GDPR</label>
+                <p><strong>Azure Customer</strong></p>
+                <p>For personal data submitted by Azure customers (for example, personal data submitted for getting support, and other personal data submitted via azure.cn), we provide approaches to export and/or delete. Please click <a href="https://www.azure.cn/gdpr/form">here</a> to continue. Click <a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">here</a> if you would like to get the documentation for this process.</p>
+                <p>For personal data generated during a customer use of Azure services, tenant administrators can export and/or delete by clicking <a href="https://portal.azure.cn/#blade/Microsoft_Azure_Policy/UserPrivacyMenuBlade/Overview">here</a>. For details of Data Subject requests, see <a href="https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-azure">Data Subject Requests for the GDPR</a>.</p>
+                <p><strong>Office 365 Customer</strong></p>
+                <p>For personal data generated during a customer use of Office 365 services, tenant administrators can request export by clicking <a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/GDPR%20Web%20Submission_Guidance_O365.pdf"> here</a> to submit a support request. For other Data Subject requests, see <a href="https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365">Office 365 Data Subject Requests for the GDPR</a>. If you are not tenant administrators, please ask support from your tenant administrators.</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
