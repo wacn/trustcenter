@@ -75,8 +75,6 @@ layout: TrustCenterPage
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 
-                <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
-                
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Office 365 Key GDPR Information</h1>
@@ -88,8 +86,6 @@ layout: TrustCenterPage
                         <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/ContactBlueCloud.html">Office Customers – Contact Support</a></label><br/>
                     </div>
                 </div>
-                
-            </div>
             </div>
         </div>
      </div>

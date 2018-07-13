@@ -105,7 +105,7 @@ layout: TrustCenterPageCN
                 <p>对于 Azure客户提交的个人数据（如为获取客户支持提交的个人数据，及其它通过 azure.cn 提交的个人数据），我们提供导出和/或删除的渠道，请点击<a href="https://www.azure.cn/gdpr/form">这里</a>进行相关操作。如需查看该流程的文档，请点击<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">这里</a>。</p>
                 <p>对于客户在使用Azure服务过程中产生的个人数据，关于导出和/或删除操作租户管理员可通过<a href="https://portal.azure.cn/#blade/Microsoft_Azure_Policy/UserPrivacyMenuBlade/Overview">这里</a>进行相关操作，数据主体请求的具体操作请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-azure">GDPR: 数据主体请求(DSR)</a>。</p>
                 <p><strong>Office 365 客户</strong></p>
-                <p>对于 Office 365 客户，我们提供导出和/或删除的渠道，如需提交<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-office365">数据主体请求(DSR)</a> ，请点击这里<a href="https://trustcenter.cn/zh-cn/privacy/gdpr-office365.html">了解</a>相关操作。</p>
+                <p>对于 Office 365 客户，我们提供导出和/或删除的渠道，如需提交<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-office365">数据主体请求(DSR)</a> ，请点击<a href="https://trustcenter.cn/zh-cn/privacy/gdpr-office365.html">这里</a>了解相关操作。</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
