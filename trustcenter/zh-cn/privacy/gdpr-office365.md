@@ -70,11 +70,8 @@ layout: TrustCenterPageCN
                 <li>邮箱以及 Sharepoint 搜寻：租户管理员可以在 Sharepoint online 建立eDiscovery 中心，在这个中心进行内容资料搜寻 – <a href="https://support.office.com/zh-cn/article/在-sharepoint-online-中设置电子数据展示中心-a18f8975-aa7f-43b4-a7d6-001d14744d8e">Mailbox and SharePoint Search Guide</a>。 </li>
                 </ul>
                 <p>数据主体请求导出数据的进一步的详细步骤请参见 <a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-data-subject-requests">Data Subject Request (DSR) How-To FAQ</a>.</p>
-            
-
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
-                
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Office 365 GDPR 主要资讯</h1>
@@ -86,7 +83,6 @@ layout: TrustCenterPageCN
                         <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/ContactBlueCloud.html">Office 客户技术支持联系</a></label><br/>
                     </div>
                 </div>
-                
             </div>
         </div>
      </div>
