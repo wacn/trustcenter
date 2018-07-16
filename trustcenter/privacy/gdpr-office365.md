@@ -71,6 +71,8 @@ layout: TrustCenterPage
                 <li>Mailbox and SharePoint Online Search – a Tenant Administrator can use the eDiscovery center in SharePoint Online to be able to perform content searches – <a href="https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E">Mailbox and SharePoint Search Guide</a>. </li>
                 </ul>
                 <p>DSR – Export and/or Delete User Support Generated Data <a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-data-subject-requests">Data Subject Request (DSR) How-To FAQ</a>.</p>
+                <p id="export-and-or-delete-user-support-generated-data"><strong>DSR – Export and/or Delete User Support Generated Data</strong></p>
+                <p>Office 365 customers submitted personal data for getting support, we provide approaches to export and/or delete. Please click <a href="https://o365gdpr.21vbluecloud.com/">here </a>to continue.</p>
 
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">

@@ -70,6 +70,8 @@ layout: TrustCenterPageCN
                 <li>邮箱以及 Sharepoint 搜寻：租户管理员可以在 Sharepoint online 建立eDiscovery 中心，在这个中心进行内容资料搜寻 – <a href="https://support.office.com/zh-cn/article/在-sharepoint-online-中设置电子数据展示中心-a18f8975-aa7f-43b4-a7d6-001d14744d8e">Mailbox and SharePoint Search Guide</a>。 </li>
                 </ul>
                 <p>数据主体请求导出数据的进一步的详细步骤请参见 <a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-data-subject-requests">Data Subject Request (DSR) How-To FAQ</a>.</p>
+                <p id="export-and-or-delete-user-support-generated-data"><strong>导出/删除用户支持产生的数据</strong></p>
+                <p>对于 Office 365 客户为获取客户支持提交的个人数据，我们提供导出和/或删除的渠道，请点击<a href="https://o365gdpr.21vbluecloud.com/">这里</a>进行相关操作。</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
