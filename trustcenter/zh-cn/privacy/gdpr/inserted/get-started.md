@@ -15,20 +15,21 @@ layout: TrustCenterPageCN
     <style>.white-bgcol{color:#0067b8 !important;background:#fff !important}.mar-32{margin-right:32px}</style>
     <section class="CPE-hero theme-black hero CplusE_hero text-left ht500">
         <picture>
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2d50o?ver=c548"
-                class="ht600" media="(min-width: 1779px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dNe7?ver=0bc0"
-                class="ht600" media="(min-width: 1400px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dFpP?ver=f813"
-                class="ht472" media="(min-width: 1084px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dCO2?ver=b074"
-                media="(min-width:768px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dCO1?ver=b093"
-                media="(min-width:541px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dCO0?ver=a240"
-                media="(min-width:0)" /><img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dFpP?ver=f813"
-                src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dFpP?ver=f813"
-                class="img-wid ht500" alt="" /></picture>
+            <source srcset="./images-solutions/ver=c548.png"
+            class="ht600" media="(min-width: 1779px)" />
+           <source srcset="./images-solutions/ver=0bc0.png"
+            class="ht600" media="(min-width: 1400px)" />
+           <source srcset="./images-solutions/ver=f813.png"
+            class="ht472" media="(min-width: 1084px)" />
+           <source srcset="./images-solutions/ver=b074.png"
+            media="(min-width:768px)" />
+           <source srcset="./images-solutions/ver=b093.png"
+            media="(min-width:541px)" />
+           <source srcset="./images-solutions/ver=a240.png"
+            media="(min-width:0)" /><img srcset="./images-solutions/ver=f813.png"
+            src="./images-solutions/ver=f813.png" class="img-wid ht500"
+            alt="" />
+        </picture>
         <div data-grid="container" class="pad-12">
             <div class="Hero-content CPE-hero-content"><span>
                     <h1 class="hero-heading-2">Safeguard individual privacy with the Microsoft Cloud</h1>
@@ -97,7 +98,7 @@ layout: TrustCenterPageCN
                             target="_self" aria-label="GDPR resources" title="GDPR resources">GDPR resources</a>.</p>
                 </div>
                 <div data-grid="col-3" class="padd_L_R">
-                    <picture><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1RTck?ver=05d0"
+                    <picture><img src="./images-get-started/ver=05d0.png"
                             alt="Alt text" /></picture>
                     <div class="blade-content">
                         <h3 class="c-heading-3 c-paragraph-3_38">Discover</h3><a href="https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/get-started#Discover"
@@ -107,7 +108,7 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
                 <div data-grid="col-3" class="padd_L_R cont-height">
-                    <picture><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SbmB?ver=e2c9"
+                    <picture><img src="./images-get-started/ver=e2c9.png"
                             alt="Alt text" /></picture>
                     <div class="blade-content">
                         <h3 class="c-heading-3_38 c-heading-3">Manage</h3><a href="https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/get-started#Manage"
@@ -117,7 +118,7 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
                 <div data-grid="col-3" class="padd_L_R mob-mar-top cont-height">
-                    <picture><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SpBV?ver=0bf8"
+                    <picture><img src="./images-get-started/ver=0bf8.png"
                             alt="Alt text" /></picture>
                     <div class="blade-content">
                         <h3 class="c-heading-3_38 c-heading-3">Protect</h3><a href="https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/get-started#Protect"
@@ -127,7 +128,7 @@ layout: TrustCenterPageCN
                     </div>
                 </div>
                 <div data-grid="col-3" class="padd_L_R tab-mar-top">
-                    <picture><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SbmD?ver=4181"
+                    <picture><img src="./images-get-started/ver=4181.png"
                             alt="Alt text" /></picture>
                     <div class="blade-content">
                         <h3 class="c-heading-3_38 c-heading-3">Report</h3><a href="https://www.microsoft.com/en-us/trustcenter/privacy/gdpr/get-started#Report"
@@ -509,9 +510,9 @@ layout: TrustCenterPageCN
                 <div class="m-feature Lp_padd_remo pad-12" data-grid="col-12 stack-2">
                     <div class="c-feature f-align-right" style="height:auto;">
                         <picture class="Lp_img_center">
-                            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YmDF?ver=47fd"
-                                media="(min-width:0)" /><img class="Featur_img-wid" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YhgN?ver=5a0e"
-                                src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YhgN?ver=5a0e"
+                            <source srcset="./images-get-started/ver=5a0e.png"
+                                media="(min-width:0)" /><img class="Featur_img-wid" srcset="./images-get-started/ver=5a0e.png"
+                                src="./images-get-started/ver=5a0e.png"
                                 alt="two males looking at laptop with stacks of servers in the background" /></picture>
                         <div class="Lp_pad_rgt padd-right">
                             <h2 class="c-heading c-heading_34 fnt24">Fulfill GDPR Data Subject Requests (DSRs) on
@@ -598,19 +599,19 @@ layout: TrustCenterPageCN
                 alt="" /></picture>
         <div class="CPE_custom_img_panel">
             <picture>
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Yp2e?ver=d822"
+                <source srcset="./images-get-started/ver=d822.jfif"
                     class="ht600" media="(min-width: 1779px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Yc9g?ver=72b5"
+                <source srcset="./images-get-started/ver=72b5.jfif"
                     class="ht600" media="(min-width: 1400px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YrCp?ver=9ea4"
+                <source srcset="./iamges-get-started/ver=9ea4.jfif"
                     class="ht472" media="(min-width: 1084px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Yp2d?ver=41e8"
+                <source srcset="./iamges-get-started/ver=41e8.jfif"
                     media="(min-width:768px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YwUJ?ver=3654"
+                <source srcset="./iamges-get-started/ver=3654.jfif"
                     media="(min-width:540px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YmEX?ver=2ac0"
-                    media="(min-width:0)" /><img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Yc9g?ver=72b5"
-                    src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Yc9g?ver=72b5"
+                <source srcset="./iamges-get-started/ver=2ac0.jfif"
+                    media="(min-width:0)" /><img srcset="./images-get-started/ver=72b5"
+                    src="./images-get-started/ver=72b5.jfif"
                     alt="" /></picture>
             <div class="text_content">
                 <div class="mid-hero full">
@@ -673,9 +674,9 @@ layout: TrustCenterPageCN
             <div data-grid="container">
                 <div class="m-feature c-feature f-align-left pad-12" data-grid="col-12 stack-2" style="height: auto;">
                     <picture class="Lp_img_center">
-                        <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YwU5?ver=a40b"
-                            media="(min-width:0)" /><img class="Featur_img-wid" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YwU6?ver=f0f8"
-                            src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1YwU6?ver=f0f8"
+                        <source srcset="./images-get-started/ver=a40b.jfif"
+                            media="(min-width:0)" /><img class="Featur_img-wid" srcset="./images-get-started/ver=f0f8.jfif"
+                            src="./images-get-started/ver=f0f8.jfif"
                             alt="" /></picture>
                     <div class="Featur_content padd-left">
                         <h2 class="c-heading c-heading_34 fnt24">Help meet your GDPR privacy obligations</h2>
@@ -722,12 +723,12 @@ layout: TrustCenterPageCN
                         <!--1-->
                         <div class="tab-panel-item active" id="left-item-1" role="tabpanel" aria-labelledby="Pivot_RightNavTab_1">
                             <picture>
-                                <source class="hide-by-default show-element" srcset="//img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1DSwM?ver=73a4"
+                                <source class="hide-by-default show-element" srcset="./images-get-started/ver=73a4.png"
                                     media="(min-width:540px)" />
-                                <source class="hide-by-default show-element" srcset="//img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1DSwM?ver=73a4"
-                                    media="(min-width:0)" /><img srcset="//img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1DSwM?ver=73a4"
+                                <source class="hide-by-default show-element" srcset="./images-get-started/ver=73a4.png"
+                                    media="(min-width:0)" /><img srcset="./images-get-started/ver=73a4.png"
                                     class="defaultimage x-hidden-focus" data-desktop-class="defaultimage" alt="Documents"
-                                    src="//img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1DSwM?ver=73a4" /></picture>
+                                    src="./images-get-started/ver=73a4.png" /></picture>
                             <h3 class="c-heading-3_38 c-heading-3">Documents</h3>
                             <section>
                                 <p><a href="https://aka.ms/gdprwhitepaper" class="c-hyperlink tc-hyper-action f-lightweight c-glyph"
@@ -741,14 +742,14 @@ layout: TrustCenterPageCN
                             <ul data-grid="col-12">
                                 <li data-grid="col-6" class="padd-r"><a target="_blank" class="sliderTag" tabindex="-1"
                                         href="https://www.microsoft.com/showcase/video.aspx?uuid=0767d979-43c1-4543-8452-767575861807"><img
-                                            class="c-image" alt="Video: How Microsoft supports the GDPR" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SsAG?ver=d7df" /></a><br /><br /><a
+                                            class="c-image" alt="Video: How Microsoft supports the GDPR" src="./images-get-started/ver=d7df.jfif" /></a><br /><br /><a
                                         href="https://www.microsoft.com/showcase/video.aspx?uuid=0767d979-43c1-4543-8452-767575861807"
                                         class="c-hyperlink tc-hyper-action f-lightweight c-glyph" target="_blank"
                                         aria-label="Video: How Microsoft supports the GDPR" title="Video: How Microsoft supports the GDPR">Video:
                                         How Microsoft supports the GDPR</a></li>
                                 <li data-grid="col-6" class="padd-l"><a target="_blank" class="sliderTag" tabindex="-1"
                                         href="http://www.microsoftgdprscenarios.com/"><img class="c-image" alt="Watch a data breach investigation scenario"
-                                            src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SpC3?ver=b9b9" /></a><br />
+                                            src="./images-get-started/ver=b9b9.jfif" /></a><br />
                                     Data breach investigation scenario
 
                                     <br /><a href="http://www.microsoftgdprscenarios.com/" class="c-hyperlink tc-hyper-action f-lightweight c-glyph"
@@ -760,12 +761,12 @@ layout: TrustCenterPageCN
                         <!--3-->
                         <div class="tab-panel-item " id="left-item-3" role="tabpanel" aria-labelledby="Pivot_RightNavTab_3">
                             <picture>
-                                <source class="hide-by-default show-element" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SsAJ?ver=fa10"
+                                <source class="hide-by-default show-element" srcset="./images-get-started/ver=fa10.png"
                                     media="(min-width:540px)" />
-                                <source class="hide-by-default show-element" srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SsAJ?ver=fa10"
-                                    media="(min-width:0)" /><img srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SsAJ?ver=fa10"
+                                <source class="hide-by-default show-element" srcset="./images-get-started/ver=fa10.png"
+                                    media="(min-width:0)" /><img srcset="./images-get-started/ver=fa10.png"
                                     class="defaultimage x-hidden-focus" data-desktop-class="defaultimage" alt=""
-                                    src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SsAJ?ver=fa10" /></picture>
+                                    src="./images-get-started/ver=fa10.png" /></picture>
                             <h3 class="c-heading-3_38 c-heading-3">Find a partner</h3>
                             <section>
                                 <p>At Microsoft, we are working with our global partners to address customer needs
