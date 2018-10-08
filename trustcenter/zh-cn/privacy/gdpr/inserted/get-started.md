@@ -369,7 +369,6 @@ layout: TrustCenterPageCN
                         managing applicable policies, data categorizations, and use cases. Microsoft recommends the
                         following products and services to help your organization meet the GDPR requirements in the
                         Manage phase.
-
                     </p>
                     <ul>
                         <p>Microsoft Azure features: <a href="https://azure.microsoft.com/en-us/services/active-directory/"
@@ -404,9 +403,7 @@ layout: TrustCenterPageCN
                     <p class="c-paragraph-3 c-paragraph-3_15 line24">Organizations increasingly understand the
                         importance of information security—but the GDPR raises the bar. It requires that
                         organizations take appropriate technical and organizational measures to protect personal
-                        data from loss or unauthorized access or disclosure.
-
-                    </p>
+                        data from loss or unauthorized access or disclosure.</p>
                     <p class="c-paragraph-3 c-paragraph-3_15 line24">The Microsoft cloud is specifically built to
                         help you understand risks and to defend against them, and is more secure than on-premises
                         computing environments in many ways. For example, our datacenters are certified to
@@ -473,7 +470,6 @@ layout: TrustCenterPageCN
                         requests. Microsoft recommends the following products and services to help your
                         organization meet the GDPR requirements in the Report phase.
                     </p>
-                    <!--<p class="c-paragraph-3 line24"></p>-->
                     <ul>
                         <p>Microsoft Trust Center feature: <a href="https://www.microsoft.com/en-us/trustcenter/stp"
                                 class="c-hyperlink CTA-link tc-hyper-action f-lightweight c-glyph" target="_self"
@@ -536,55 +532,45 @@ layout: TrustCenterPageCN
                 min-height: 0;
                 height: auto
             }
-
             .CPE_custom_img_panel .text_content {
                 display: block
             }
-
             .CPE_custom_img_panel .livearea {
                 padding: 0
             }
         }
-
         .CPE_custom_img_panell {
             max-width: 100%;
             width: 100%;
             display: block
         }
-
         @media screen and (min-width:540px) {
             .CPE_custom_img_panell {
                 display: none
             }
         }
-
         .color-black {
             color: #000 !important
         }
-
         .CPE_custom_img_panel a.white-bg {
             color: #000;
             background-color: #fff
         }
-
         @media screen and (max-width:539px) {
             .CPE_custom_img_panel .heroContent {
                 color: #fff;
                 margin-bottom: 0
             }
         }
-
         @media screen and (min-width:320px) and (max-width:490px) {
             .mob-btn {
                 position: relative;
                 left: -12px
             }
         }
-
         .margin-right {
             margin-right: 32px
         }
-
         @media screen and (min-width:310px) and (max-width:494px) {
             .margin-right {
                 margin-right: 22px
@@ -642,27 +628,21 @@ layout: TrustCenterPageCN
             margin: 0;
             background-color: #036bc1
         }
-
         .Homepage .LP-prod-Background .Featur_content {
             color: #fff
         }
-
         @media only screen and (min-width:768px) and (max-width:900px) {
             .Homepage .Featur_content.padd-left {
                 padding-right: 0 !important
             }
-
             .Homepage .padd-right {
                 padding-left: 0 !important
             }
         }
-
         .Homepage .LP-prod-Background .Featur_content a {
             color: #fff !important
         }
-
         @media only screen and (min-width:320px) and (max-width:767px) {
-
             .Homepage .padd-left,
             .Homepage .padd-right {
                 padding: 0 0 0 0 !important
@@ -751,7 +731,6 @@ layout: TrustCenterPageCN
                                         href="http://www.microsoftgdprscenarios.com/"><img class="c-image" alt="Watch a data breach investigation scenario"
                                             src="./images-get-started/ver=b9b9.jfif" /></a><br />
                                     Data breach investigation scenario
-
                                     <br /><a href="http://www.microsoftgdprscenarios.com/" class="c-hyperlink tc-hyper-action f-lightweight c-glyph"
                                         target="_blank" aria-label="Watch a data breach investigation scenario"
                                         title="Watch a data breach investigation scenario">Watch a data breach
