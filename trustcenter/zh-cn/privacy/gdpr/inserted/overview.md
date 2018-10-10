@@ -14,18 +14,18 @@ layout: TrustCenterPageCN
     <style>.white-bgcol{color:#0067b8 !important;background:#fff !important}.mar-32{margin-right:32px}</style>
     <section class="CPE-hero hero theme-black CplusE_hero text-left ht500 ">
         <picture>
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2d50o?ver=c548"
+            <source srcset="./images-overview/ver=c548.png"
                 class="ht600" media="(min-width: 1779px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dNe7?ver=0bc0"
+            <source srcset="./images-overview/ver=0bc0.png"
                 class="ht600" media="(min-width: 1400px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dFpP?ver=f813"
+            <source srcset="./images-overview/ver=f813.png"
                 class="ht472" media="(min-width: 1084px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dCO2?ver=b074"
+            <source srcset="./images-overview/ver=b074.png"
                 media="(min-width:768px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dCO1?ver=b093"
+            <source srcset="./images-overview/ver=b093.png"
                 media="(min-width:541px)" />
-            <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dCO0?ver=a240"
-                media="(min-width:0)" /><img srcset="picture/5ecc8ae56e924aff8baa4b9cac0e9efd.gif" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2dFpP?ver=f813"
+            <source srcset="./images-overview/ver=a240.png"
+                media="(min-width:0)" /><img src="./images-overview/ver=f813.png"
                 class="img-wid ht500" alt="" /></picture>
         <div data-grid="container" class="pad-12">
             <div class="CPE-hero-content Hero-content"><span>
@@ -108,7 +108,7 @@ layout: TrustCenterPageCN
                 <div>
                     <div data-grid="col-3" class="padd_L_R ">
                         <div class="text_center">
-                            <picture><img src="picture/a8d3b8ad6fdf427392d49a505a08eeb9.gif" alt="Alt text" /></picture>
+                            <picture><img src="./images-overview/one.gif" alt="Alt text" /></picture>
                         </div>
                         <div class="blade-content">
                             <h3 class="c-heading-3 fnt24 text_center">Personal privacy</h3>
@@ -125,7 +125,7 @@ layout: TrustCenterPageCN
                     </div>
                     <div data-grid="col-3" class="padd_L_R">
                         <div class="text_center">
-                            <picture><img src="picture/a6ad5b030e014a80b7e7adc0946bcb5e.gif" alt="Alt text" /></picture>
+                            <picture><img src="./images-overview/two.gif" alt="Alt text" /></picture>
                         </div>
                         <div class="blade-content">
                             <h3 class="c-heading-3 text_center">Controls and notifications</h3>
@@ -141,7 +141,7 @@ layout: TrustCenterPageCN
                     </div>
                     <div data-grid="col-3" class="padd_L_R mob-mar-top">
                         <div class="text_center">
-                            <picture><img src="picture/911a4383c2d84ad68d3e87ec1feb9711.gif" alt="Alt text" /></picture>
+                            <picture><img src="./images-overview/three.gif" alt="Alt text" /></picture>
                         </div>
                         <div class="blade-content">
                             <h3 class="c-heading-3 text_center">Transparent policies</h3>
@@ -156,7 +156,7 @@ layout: TrustCenterPageCN
                     </div>
                     <div data-grid="col-3" class="padd_L_R tab-mar-top">
                         <div class="text_center">
-                            <picture><img src="picture/fd1e415c91f34834a9e04efdba7ab14e.gif" alt="Alt text" /></picture>
+                            <picture><img src="./images-overview/four.gif" alt="Alt text" /></picture>
                         </div>
                         <div class="blade-content">
                             <h3 class="c-heading-3 text_center">IT and training</h3>
@@ -380,18 +380,18 @@ layout: TrustCenterPageCN
                 }) /*]]>*/
             </script>
             <picture>
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SYRC?ver=d244"
+                <source srcset="./images-overview/ver=d244.jfif"
                     class="ht600" media="(min-width: 1779px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SYRA?ver=3310"
+                <source srcset="./images-overview/ver=3310.jfif"
                     class="ht600" media="(min-width: 1400px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1T9gP?ver=6d15"
+                <source srcset="./images-overview/ver=6d15.jfif"
                     class="ht472" media="(min-width: 1084px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SYRy?ver=e3be"
+                <source srcset="./images-overview/ver=e3be.jfif"
                     media="(min-width:768px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1T9gN?ver=82aa"
+                <source srcset="./images-overview/ver=82aa.jfif"
                     media="(min-width:540px)" />
-                <source srcset="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1T9gR?ver=ccda"
-                    media="(min-width:0)" /><img srcset="picture/f075405491d544338054b3b2b8cd365b.gif" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1SYRA?ver=3310"
+                <source srcset="./images-overview/ver=ccda.jfif"
+                    media="(min-width:0)" /><img srcset="picture/f075405491d544338054b3b2b8cd365b.gif" src="./images-overview/ver=3310.jfif"
                     alt="female working on laptop with male colleague looking at her screen" /></picture>
             <div class="text_content">
                 <div class="mid-hero full">
