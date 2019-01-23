@@ -87,7 +87,7 @@ layout: TrustCenterPage
                 <p></p>
                 <p></p>
                 <p></p>
-                <label id="you_own_your"l>You own your Customer Data</label>
+                <label id="you_own_your">You own your Customer Data</label>
                 <p>With Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you are the owner of your Customer Data. You can access your Customer Data at any time and for any reason without assistance from 21Vianet. 21Vianet will use your Customer Data only to provide the services agreed upon, including purposes that are compatible with providing those services. We will not use Customer Data or derive information from it for advertising.</p>
                 <p>We give you authenticated and logged access to your Customer Data, and restrict access to it by 21Vianet personnel and subcontractors. We also take strong steps to protect your Customer Data from inappropriate use or loss, and to segregate your Customer Data on shared hardware from that of other customers.</p>
                 <p><a target="_self" class="mscom-link withArrow" href="../privacy/you-own-your-data.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a></p>
