@@ -61,6 +61,8 @@ layout: TrustCenterPage
                   <li>Second, because regulations and standards are always evolving, our compliance experts also anticipate upcoming changes to help ensure continuous compliance—researching draft regulations, assessing potential new requirements, and developing corresponding contro</li>
                </ul>
                <p>Microsoft Azure and Office 365 operated by 21Vianet comply with the international and industry-specific compliance standard ISO/IEC 20000, ISO/IEC 27001 and ISO/IEC 27018, as well as the Information System Classified Security Protection standard that is managed by Ministry of Public Security of People’s Republic of China, GB 18030 Information Technology — Chinese Coded Character Set and Trusted Cloud Service (TCS) certifications. Ultimately, it is up to you to determine whether our services comply with the specific laws and regulations applicable to your business. To help you make these assessments, 21Vianet supplies the specifics about its security and compliance programs, including audit reports and compliance packages. In view of our promise on transparency, you can ask a third party that performs certification for the audit result and verify the implementation of multiple security control.</p>
+               <label style="color:rgb(0,115,198)" id="SOC-ORG">Get Certification and Reports</label>
+               <p>Request for certifications and reports, contact +86 400-089-0365. Working hours: 09:00-18:00 (UTC+8), （except weekends, public holidays）.</p>
               <label style="color:rgb(0,115,198)" id="ISO/IEC_20000">ISO/IEC 20000 Audit and Certification</label>
               <p> ISO/IEC 20000 is the first international standard for IT Service Management. Microsoft Azure and Office 365 operated by 21Vianet focus on managing IT issues and identifying their internal relations through “IT service standardization”, then perform planning, implementation and supervision based on service level agreements and also emphasize interaction with customers. 21Vianet promises to carry out certification based on ISO/IEC 20000 (an international IT service standard for the IT service arena) every year. The ISO/IEC 20000 certificate confirms that 21Vianet has followed the IT service management requirements defined in this standard, and provided customers with efficient service and integrated management to identify and manage critical processes in IT service , which ensure that efficient IT service provided by 21Vianet meets the demand of customers and their business.</p>
               <p>ISO scope: IT service management system (ITSM), including establishment, implementation, operation, supervision, review, maintenance and improvement of the IT service management system.</p>
@@ -90,6 +92,19 @@ layout: TrustCenterPage
               <p>The test result is published on the website of<a target="_blank" class="mscom-link" href="http://www.kexinyun.org/"> Trusted Cloud Service Certification </a></p>
               <label style="color:rgb(0,115,198)"  id="GB18030">GB 18030 Information Technology — Chinese Coded Character Set</label>
               <p>GB 18030 is the Chinese ideographic character set and encoding standard mandated by the Chinese government. Microsoft Azure and Office 365 operated by 21Vianet are certified as compliant with the mandatory part of this standard by the China Electronics Standardization Institute (CESI).</p>
+              <label style="color:rgb(0,115,198)" id="SOC-ORG">SOC 1 and 2 Reports</label>
+              <p>SOC report is issued based on Service Organization Controls (SOC) framework which is developed by American Institute of Certified Public Accountants (AICPA), a standard for controls that safeguard the confidentiality and privacy of information stored and processed in the cloud. This aligns with the International Standard on Assurance Engagements (ISAE), the reporting standard for international service organizations. Service audits based on the SOC framework fall into two categories—SOC 1 and SOC 2, by independent third-party auditors. </p>
+              <ul>
+                  <li>A SOC 1 audit, intended for CPA firms that audit financial statements, it evaluates the effectiveness of a Cloud Service Provider(CSP)’s internal controls that affect the financial reports of a customer using the provider’s cloud services. The Statement on Standards for Attestation Engagements (SSAE 18) and the International Standards for Assurance Engagements No. 3402 (ISAE 3402) are the standards under which the audit is performed and is the basis of the SOC 1 report. </li>
+                  <li>A SOC 2 audit gauges the effectiveness of a CSP’s system, based on the AICPA Trust Service Principles and Criteria. It provides customers and users with a business need with an independent assessment of CSP’s control environment relevant to security, availability, confidentiality and process integrity. An Attest Engagement under Attestation Standards (AT) Section 101 is the basis of SOC 2 report.  </li>
+              </ul>
+              <p>Benefits to User Entities</p>
+              <ul>
+                  <li>User entities that obtain SOC Reports from their service organization receive valuable information regarding the service organization's controls and the effectiveness of those controls. The user entity receives a detailed description of the service organization's controls and an independent assessment of whether the controls were placed in operation, suitably designed.</li>
+                  <li>User entities could provide SOC Reports to their auditors. This will greatly assist the user auditor in planning the audit of the user entities' controls. Without SOC Reports, the user entity would likely have to incur additional costs in sending their auditors to the service organization to perform their procedures.</li>
+              </ul>
+              <p>Shanghai Blue Cloud Technology Co., Ltd (“21Vianet”) has achieved Microsoft Azure operated by 21Vianet SOC 1 Type 1 and SOC 2 Type 1 reports. The availability of SOC 1 and SOC 2 reports is restricted to customers who have signed nondisclosure agreements with 21Vianet.</p>
+              <p><a target="_self" class="mscom-link withArrow" href="https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/serviceorganization-smanagement.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">&nbsp;Learn more</a></p>
                <div id="019f6674-6634-4c91-8107-45fb2ab4895e" class="CMSvNextComp mscom-accordion" role="tablist" bi:type="accordion" xmlns:bi="urn:schemas-microsoft-com:mscom:bi" style="display: none">
                   <ul bi:type="list" class="nonFAQ" id="019f6674-6634-4c91-8107-45fb2ab4895e">
                      <li class=" mscom-accordion-item" id="1fe026c5-6d22-48ab-a268-e7ee53ae9767">
@@ -229,6 +244,7 @@ layout: TrustCenterPage
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="SLA" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image Azure CN" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="SOC-ORG" src="../Images/SOC-ORG.jpg" class="mscom-image Azure CN" alt="SOC-ORG" title="SOC-ORG" width="115" height="109"></div>
                      </div>
                   </div>
                   <div class="row-fluid certImageGray" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
@@ -239,6 +255,7 @@ layout: TrustCenterPage
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure CN" alt="China TRUCS" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="SOC-ORG" src="../Images/SOC-ORG.jpg" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="SOC-ORG" title="SOC-ORG" width="115" height="109"></div>
                      </div>
                   </div>
                   <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -325,6 +342,18 @@ layout: TrustCenterPage
                               </p>
                            </div>
                         </div>
+                        <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="SOC-ORG">
+                               <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="SOC-ORG" width="24" height="24">
+                               <h1>SOC 1 and 2 Reports</h1>
+                                <p>
+                               <span class="seperate">System and Organization Controls (SOC) reports are issued by independent CPA firms following the American Institute of Certified Public Accountants (AICPA) standards, and are intended to provide information about a service organization’s internal controls to their customers and other stakeholders. </span>
+                               <span class="withTail">
+                               <a target="_blank" class="mscom-link" href="#SOC-ORG" style="display: block;">Learn more</a>
+                               </span>
+                               </p>
+                            </div>
+                         </div>
                      </div>
                   </div>
                </div>

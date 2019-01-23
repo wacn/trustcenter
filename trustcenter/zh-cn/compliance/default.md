@@ -60,6 +60,8 @@ layout: TrustCenterPageCN
                   <li>其次，由于规章和标准的不断发展变化，我们的合规专家也关注和预期即将到来的变化以确保持续的合规性—研究法规草案，评估潜在的新要求，和开发相应的控件。</li>
                </ul>
                <p>由世纪互联运营的 Microsoft Azure 和 Office 365 满足国际和行业特定合规性标准 ISO/IEC 20000, ISO/IEC 27001 和 ISO/IEC 27018，同时也符合公安部制定的信息系统安全等级保护定级标准，GB 18030 信息技术中文编码字符国家标准以及可信云服务认证（TCS）。最终，由您自己来决定我们的服务是否符合您的业务所使用的具体法律法规。为方便您做出评估，世纪互联提供了针对安全和合规项目的详细信息，包括审核报告和合规程序包。作为我们对透明度的承诺，您可以通过向进行认证的第三方索要审核结果，并验证我们多重安全控制的实现情况。</p>
+                <label style="color:rgb(0,115,198)" id="ISO/IEC_27001">获取认证证书和报告</label>
+                <p>获取认证证书和报告，请拨打 400-089-0365。 工作时间: 09:00-18:00（北京时间）, （法定假日、周末除外）。</p>
               <label style="color:rgb(0,115,198)" id="ISO/IEC_20000">ISO/IEC 20000 审核和认证</label>
               <p>ISO/IEC 20000 是第一部针对信息技术服务管理（IT Service Management）领域的国际标准。由世纪互联运营的 Microsoft Azure 和 Office 365 着重于通过“IT 服务标准化”来管理 IT 问题，识别问题的内在联系，然后依据服务水平协议进行计划、推行和监控，并强调与客户的沟通。世纪互联承诺每年基于 ISO/IEC 20000（这是一种针对 IT 服务领域的国际 IT 服务标准）进行认证。ISO/IEC 20000 证书确认世纪互联已实施此标准中定义的 IT 服务管理要求，向客户提供有效地服务及一体化的管理过程，从而识别和管理IT服务的关键过程，保证世纪互联提供有效的 IT 服务以满足客户和业务的需求。</p>
               <p>ISO 范围: IT服务管理体系（ITSM），其中包括建立、实施、运作、监控、评审、维护和改进IT服务管理体系。</p>
@@ -88,6 +90,19 @@ layout: TrustCenterPageCN
               <p>测试结果发布于<a target="_blank" class="mscom-link" href="http://www.kexinyun.org/">可信云服务认证</a>网站。</p>
               <label style="color:rgb(0,115,198)" id="GB18030">国家标准 GB 18030 信息技术中文编码字符集</label>
               <p>GB 18030 是中国的表意字符集和政府授权颁布的编码标准。由世纪互联运营的 Microsoft Azure 和 Office 365 经中国电子技术标准化研究所认证符合该标准的强制性部分。</p>
+              <label style="color:rgb(0,115,198)" id="SOC-ORG">服务性机构控制体系鉴证报告 (SOC 1, 2)</label>
+              <p>服务性机构控制体系鉴证 (SOC – System and Organization Controls) 报告是基于美国注册会计师协会 (AICPA) 制定的服务性组织控制框架 (SOC) 的服务审计报告。此框架是用于保护云中存储和处理的信息的保密性和隐私性的标准，与国际鉴证业务准则 (ISAE) 相一致。基于 SOC 框架的服务审计分为两类：SOC 1 和 SOC 2，由一个独立的第三方审计机构根据适用的标准进行审计评估继而给出意见报告。</p>
+              <ul>
+                  <li>SOC 1 报告，为正在使用云服务的客户及其财务报表审计师提供信息，评估云服务提供商 (CSP) 内部控制的有效性，这些内部控制会影响客户的财务报告。鉴证业务准则第 18 号文 (SSAE 18) 和鉴证业务国际准则第 3402 号文 (ISAE 3402) 是进行审计的标准，也是 SOC 1 报告的基础。</li>
+                  <li>SOC 2 报告，基于美国注册会计师协会 (AICPA) 的信托服务标准，评估云服务提供商 (CSP) 的系统有效性，为有业务需求的客户和用户提供针对安全性、可用性、保密性和进程完整性的独立评估。AT101 是 SOC 2 报告的基础。</li>
+              </ul>
+              <p>对客户的好处 </p>
+              <ul>
+                  <li>从云服务提供商 (CSP) 处获得 SOC 报告的客户，能了解云服务提供商 (CSP) 的内部控制和这些内部控制的有效性等有价值的信息，同时得到第三方评估机构对云服务提供商 (CSP) 内部控制的详细描述，以及这些内部控制是否被适当地设计并投入运行的独立评估。</li>
+                  <li>客户可向其审计师提供 SOC 报告，这将对客户的审计师在审计客户的内部控制时起到极大的帮助。如果没有 SOC 报告，客户可能需要花费额外的成本来使其审计师对云服务提供商 (CSP) 进行审计。</li>
+              </ul>
+              <p>上海蓝云网络科技有限公司 (以下称“世纪互联”)已经获得由世纪互联运营的 Microsoft Azure SOC1 Type1 和 SOC2 Type1 的认证报告。SOC 1 和 SOC 2 报告仅限于提供给与世纪互联签署了保密协议的客户。</p>
+              <p><a target="_self" class="mscom-link withArrow" href="https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/serviceorganization-smanagement.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">&nbsp;了解更多</a></p>
                <div id="019f6674-6634-4c91-8107-45fb2ab4895e" class="CMSvNextComp mscom-accordion" role="tablist" bi:type="accordion" xmlns:bi="urn:schemas-microsoft-com:mscom:bi" style="display: none">
                   <ul bi:type="list" class="nonFAQ" id="019f6674-6634-4c91-8107-45fb2ab4895e">
                      <li class=" mscom-accordion-item" id="1fe026c5-6d22-48ab-a268-e7ee53ae9767">
@@ -227,6 +242,7 @@ layout: TrustCenterPageCN
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure AR AU EU DE IN JP NZ SG ES UK US" alt="SLA" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image Azure CN" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image Azure CN" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="SOC-ORG" src="../Images/SOC-ORG.jpg" class="mscom-image Azure CN" alt="SOC-ORG" title="SOC-ORG" width="115" height="109"></div>
                      </div>
                   </div>
                   <div class="row-fluid certImageGray" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
@@ -237,6 +253,7 @@ layout: TrustCenterPageCN
                         <div class="imageWrapper"><img id="SLA" src="../Images/SLA.png" class="mscom-image Azure CN" alt="China TRUCS" title="SLA" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="TrustCloudAuth" src="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/css/images/trust_center/Trusting_the_Cloud.jpg" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="TrustCloudAuth" title="TrustCloudAuth" width="115" height="109" /></div>
                         <div class="imageWrapper"><img id="GB-18030" src="../Images/GB-18030.png" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="GB-18030" title="GB-18030" width="115" height="109" /></div>
+                        <div class="imageWrapper"><img id="SOC-ORG" src="../Images/SOC-ORG.jpg" class="mscom-image OfficeGov AzureGov DynamicsGov Azure US" alt="SOC-ORG" title="SOC-ORG" width="115" height="109"></div>
                      </div>
                   </div>
                   <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
@@ -323,6 +340,18 @@ layout: TrustCenterPageCN
                               </p>
                            </div>
                         </div>
+                        <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                            <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1" id="SOC-ORG">
+                               <img src="https://c.s-microsoft.com/en-us/CMSImages/Close_Blk.png?version=b7b8b0f2-aeaa-dbc8-6626-f81d4090c95c" class="mscom-image" alt="GB-18030" width="24" height="24">
+                               <h1>服务性机构控制体系鉴证报告 (SOC 1, 2)</h1>
+                                <p>
+                               <span class="seperate">服务性机构控制体系鉴证(SOC – System and Organization Controls)报告是由独立的注册会计师公司依据美国注册会计师协会（AICPA）的标准评估并发布，旨在向客户和其他利益相关者提供有关服务组织内部控制的信息。</span>
+                               <span class="withTail">
+                               <a target="_blank" class="mscom-link" href="#SOC-ORG" style="display: block;">了解更多</a>
+                               </span>
+                               </p>
+                            </div>
+                         </div>
                      </div>
                   </div>
                </div>
