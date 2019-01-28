@@ -85,6 +85,67 @@ layout: TrustCenterPage
                 <p><a target="_self" class="mscom-link withArrow" href="../privacy/you-are-in-control-of-your-data.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a></p>
                 <label id="how_21vianet_responds">How 21Vianet responds to law enforcement or third party asks for Customer Data.</label>
                 <p>21Vianet believes that its customers who should control their own information whether stored on their premises or in a cloud service. Accordingly, we will not disclose Customer Data to a third party (excluding our suppliers and subcontractors) except as you direct or as required by applicable law and regulations. If compelled to disclose Customer Data to a third party, we will use commercially reasonable efforts to promptly notify you and provide a copy of the demand, unless legally prohibited. </p>
+
+
+                <label id="how_limit_access">How we limit access to customer data</label>
+                <p>We take strong measures to help protect customer data from inappropriate access or use by unauthorized persons, either external or internal, and to prevent customers from gaining access to one another’s data.</p>
+                <ul>
+                    <li>The operational processes that govern access to customer data in business cloud services operated by 21Vianet are protected by strong controls and authentication, which fall into two categories: physical and logical.
+                        <ul>
+                            <li>Access to physical datacenter facilities is guarded by outer and inner perimeters with increasing security at each level, including perimeter fencing, security officers, locked server racks, multifactor access control, integrated alarm systems, and around-the-clock video surveillance by the operations center.</li>
+                            <li>Virtual access to customer data is restricted based on business need by role-based access control, multifactor authentication, minimizing standing access to production data, and other controls. Access to customer data is also strictly logged, and both 21Vianet and third parties designated by 21Vianet perform regular audits (as well as sample audits) to attest that any access is appropriate.</li>
+                        </ul>
+                    </li>
+                    <li>In addition, cloud operated by 21Vianet uses encryption to safeguard customer data and help you maintain control over it. When data moves over a network—between user devices and 21Vianet datacenters or within datacenters themselves—products and services operated by 21vianet use industry-standard secure transport protocols. To help protect data at rest, cloud operated by 21Vianet offers a range of built-in encryption capabilities.</li>
+                    <li>Most business cloud services operated by 21Vianet are multitenant services, meaning that your data, deployments, and virtual machines may be stored on the same physical hardware as that of other customers. Cloud operated by 21Vianet uses logical isolation to segregate storage and processing for different customers through specialized technology engineered to help ensure that your customer data is not combined with anyone else’s.</li>
+                    <li>Cloud services operated by 21Vianet with audited certifications such as ISO 27001 are regularly verified by 21Vianet and accredited audit firms, which perform sample audits to attest that access is only for legitimate business purposes.</li>
+                </ul>
+                <p><a href="../security/identity.html">Learn more about how 21Vianet protects user credentials and access</a></p>
+
+                <label id="we_limit_access_to_customer">We limit access to your customer data by 21Vianet personnel</label>
+                <p>21Vianet operations and support services help ensure that appropriate personnel are available 24 hours a day, 365 days a year. We have automated a majority of our service operations so that only a small set requires human interaction.</p>
+                <ul>
+                    <li>21Vianet engineers do not have default access to cloud customer data. Instead, they are granted access, under management oversight, only when necessary.</li>
+                    <li>21Vianet personnel will use customer data only for purposes compatible with providing you the contracted services, such as troubleshooting and improving features, such as protection from malware.</li>
+                </ul>
+
+                <label id="we_limit_access_by_subprocessors">We limit access by subprocessors</label>
+                <p><strong>We limit access by subprocessors</strong></p>
+                <p>Microsoft business cloud services operated by 21Vianet process various categories of data, including <a href="../privacy/default.html#data_other">customer data and personal data</a>. Where 21Vianet hires a subcontractor to perform work that may require access to such data, they are considered a subprocessor. 21Vianet discloses these subprocessors below. </p>
+                <p>Subprocessors may access data only to deliver the services 21Vianet has hired them to provide and are prohibited from using data for any other purpose. They are required to maintain the confidentiality of this data and are contractually obligated to meet strict privacy requirements that are equivalent to or stronger than the contractual commitments 21Vianet makes to its customers. </p>
+                <p>Subprocessors are also required to meet EU General Data Protection Regulation (GDPR) requirements, including those related to employing appropriate technical and organizational measures to protect personal data. </p>
+                <p>21Vianet requires subprocessors to meet the 21Vianet Data Protection Requirement (“21Vianet DPR”). This 21Vianet DPR is designed to standardize and strengthen data handling practices, and to ensure supplier business processes and systems are consistent with those of 21Vianet. </p>
+                <p>Subprocessors who handle customer data (including personal data therein) are subject to same requirements. Subprocessors of customer data must agree to the EU Model Clauses for services operated by 21Vianet for which 21Vianet offers its customers the EU Model Clauses. </p>
+                <p>Subprocessors can perform work in any of the following capacities: </p>
+                <ul>
+                    <li>Subprocessors who provide technologies to power certain Online Services operated by 21Vianet
+                    <p>Subprocessor identified for a specific service may process, store, or otherwise access customer data (including personal data contained therein) in the course of helping to provide that service.</p>
+                    </li>
+                    <li>Subprocessors who provide ancillary services to support Online Services operated by 21Vianet
+                    <p>Subprocessor may process, store, or otherwise access limited customer data (including personal data contained therein) in the course of providing their ancillary services.</p>
+                    </li>
+                </ul>
+                <p><strong>Lists of subprocessors</strong></p>
+                <p>21Vianet’s contractual commitments to customers define customer data as all the data provided to 21Vianet through your use of our business cloud services (see <a href="../privacy/default.html#data_other">how 21Vianet categorizes data</a>). Some customer data is personal data as defined under GDPR. GDPR requires disclosure of subprocessors with access to personal data.</p>
+                <ul>
+                    <li><a href="../../file/21VCoreOnlineServicesSubprocessors-list_20190118.pdf">Core Online Services Subprocessors List</a> identifies the subprocessors authorized to access customer data (including personal data contained therein) in  Core Online Services operated by 21Vianet, as defined in the <a href="https://www.21vbluecloud.com/ostpt/">Online Services Terms  (Appendix A)</a>.   </li>
+                    <li><a href="../../file/21V-personal-data-subprocessors-list_20190118.pdf">Personal Data Subprocessors List</a> identifies the subprocessors authorized to process personal data in any form (including pseudonymous data) across all enterprise online services that are not already listed on the Core Online Services Subprocessors List above. </li>
+
+                </ul>
+                <p>21Vianet publishes the names of any new subprocessors for Core Online Services operated by 21Vianet (as defined in Core Online Services Subprocessors List) at least six months in advance of their authorization to perform services that may involve access to customer data. 21Vianet publishes the names of any other new subprocessors for personal data (as defined in Personal Data Subprocessors List) at least 14 days in advance of their authorization to perform services that may involve access to such data. </p>
+
+
+
+
+                
+
+
+
+
+
+
+
+
                 <label id="we_set_and">We set and adhere to stringent privacy standards</label>
                 <p>Privacy protections in Azure, Office 365 and Power BI are grounded in
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">Privacy Statement for Microsoft Azure Operated by 21Vianet </a>and 
