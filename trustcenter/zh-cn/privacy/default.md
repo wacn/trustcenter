@@ -127,7 +127,7 @@ layout: TrustCenterPageCN
                 <p><strong>子处理方列表</strong></p>
                 <p>世纪互联在合同中将客户数据定义为所有通过使用我们的云服务而提供给世纪互联的数据（请参阅<a href="../privacy/default.html#data_other">世纪互联如何对数据进行分类</a>）。一些客户数据是在 GDPR 下定义的个人数据。GDPR 要求披露可访问个人数据的子处理方。</p>
                 <ul>
-                    <li><a href="../../file/21VCoreOnlineServicesSubprocessors-list_20190118.pdf">核心在线服务子处理方列表</a>定义的子处理方被授权访问由世纪互联运营的核心在线服务中的客户数据（包括其中的个人数据）。核心在线服务定义详见在线服务条款<a href="https://www.21vbluecloud.com/ostpt/">（附录A） </a>。</li>
+                    <li><a href="../../file/21VCoreOnlineServicesSubprocessors-list_20190118.pdf">核心在线服务子处理方列表</a>定义的子处理方被授权访问由世纪互联运营的核心在线服务中的客户数据（包括其中的个人数据）。核心在线服务定义详见在线服务条款<a href="https://www.21vbluecloud.com/ostpt/">（附录 A） </a>。</li>
                     <li><a href="../../file/21V-personal-data-subprocessors-list_20190118.pdf">个人数据子处理方列表</a>定义的子处理方被授权处理所有企业在线服务中的任何形式的个人数据（包括假名数据）。个人数据子处理方系指未在上述核心在线服务子处理方列表中列具的子处理方。</li>
                 </ul>
                 <p>针对被授权访问由世纪互联运营的核心在线服务中的客户数据的新子处理方（如核心在线服务子处理方列表定义），世纪互联将至少提前 6 个月公布名单。针对其他被授权访问个人数据的新子处理方（如个人数据子处理方列表定义），世纪互联将至少提前 14 天公布名单。 </p>
@@ -141,10 +141,10 @@ layout: TrustCenterPageCN
                 <p>
                     <a target="_self" class="mscom-link withArrow" href="../privacy/we-set-and-adhere-to-stringent-standards.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                 </p>
-                <label id="data-subject-requests-for-gdpr">我们支持响应GDPR数据主体请求</label>
+                <label id="data-subject-requests-for-gdpr">我们支持响应 GDPR 数据主体请求</label>
                 <p><strong>Azure 客户</strong></p>
-                <p>对于 Azure客户提交的个人数据（如为获取客户支持提交的个人数据，及其它通过 azure.cn 提交的个人数据），我们提供导出和/或删除的渠道，请点击<a href="https://www.azure.cn/gdpr/form">这里</a>进行相关操作。如需查看该流程的文档，请点击<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">这里</a>。</p>
-                <p>对于客户在使用Azure服务过程中产生的个人数据，关于导出和/或删除操作租户管理员可通过<a href="https://portal.azure.cn/#blade/Microsoft_Azure_Policy/UserPrivacyMenuBlade/Overview">这里</a>进行相关操作，数据主体请求的具体操作请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-azure">GDPR: 数据主体请求(DSR)</a>。</p>
+                <p>对于 Azure 客户提交的个人数据（如为获取客户支持提交的个人数据，及其它通过 azure.cn 提交的个人数据），我们提供导出和/或删除的渠道，请点击<a href="https://www.azure.cn/gdpr/form">这里</a>进行相关操作。如需查看该流程的文档，请点击<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">这里</a>。</p>
+                <p>对于客户在使用 Azure 服务过程中产生的个人数据，关于导出和/或删除操作租户管理员可通过<a href="https://portal.azure.cn/#blade/Microsoft_Azure_Policy/UserPrivacyMenuBlade/Overview">这里</a>进行相关操作，数据主体请求的具体操作请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-azure">GDPR: 数据主体请求(DSR)</a>。</p>
                 <p><strong>Office 365 客户</strong></p>
                 <p>对于 Office 365 客户，我们提供导出和/或删除的渠道，如需提交数据主体请求(DSR) ，请点击<a href="../../zh-cn/privacy/gdpr-office365.html">这里</a>了解相关操作。</p>
             </div>
