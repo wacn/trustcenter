@@ -56,7 +56,7 @@ layout: TrustCenterPageCN
                 <p>隐私与管控是我们运营服务的重要组成部分。我们的隐私和数据保护手段始终致力于实现承诺，使您能够对信息的收集、使用和发布进行控制。世纪互联努力使自己的隐私惯例透明化，为客户提供清晰易懂的隐私选择，并以高度责任心管理客户所存储的数据。</p>
                 <p>在您将客户数据委托给由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 时，您是客户数据的唯一所有者：您存储在 Azure、Office 365 和 Power BI 中的客户数据的权利、所有权和权益均由您保留。 根据世纪互联的政策，除了为您提供云生产力服务之外，我们绝不会出于广告宣传的目的而挖掘或使用您的客户数据。</p>
                 <p>
-                    <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 的隐私声明</a>介绍了对客户使用 Azure 及 Office 365 服务适用的隐私政策和惯例。
+                    <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明 </a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> 由世纪互联运营的 Office 365 的隐私声明 </a>介绍了对客户使用 Azure 及 Office 365 服务适用的隐私政策和惯例。
                 </p>
                 
                 <label id="data_other">客户数据与其他数据类型</label>
@@ -64,7 +64,7 @@ layout: TrustCenterPageCN
                 <p>客户数据是指通过您使用服务由您提供或以您名义提供给我们的所有数据，包括所有文本、音频、软件或图片文件。例如，客户数据包括您在服务中上传的供存储或处理的数据以及您或您的终端用户在服务中上传的供托管的应用程序。这不包括配置、技术设置或服务记录信息。</p>
                 <p>我们仅在提供服务时使用客户信息。这可能包括旨在防止、监测或修复影响服务运作的问题的故障排查以及改进功能，包括监测及保护用户免遭新生及衍生的威胁（例如恶意软件或垃圾邮件）。</p>
                 <p>客户数据将仅存储在位于中国的数据中心。在有限的情形下，当有必要对客户支持事故进行故障排查或解决技术问题时，世纪互联可授权其位于中国境外的某一关联方、供应商或分包商访问客户数据。世纪互联将监督该等访问并在问题解决时终止该等访问。</p>
-                <p><strong>管理员数据</strong></p>
+                <p><strong>管理员数据 </strong></p>
                 <p>管理员数据是指在注册、购买或管理服务时提供的有关管理员（包括账户联系人和订阅管理员）的信息，例如姓名、地址、电话号码和电子邮箱地址。</p>
                 <p>我们使用管理员数据以完成您要求的交易、管理您的账户、改善服务及检测并防止诈骗。</p>
                 <p>我们可能在提供有关新认购、账单及重要服务更新的信息（包括安全或其他技术问题的信息）时联系您。根据您客户协议中的描述，我们也可能在我们收到第三方关于您使用服务的询问时联系您。你将不能退订该等交流信息。根据您的联络方式偏好，我们也可能就关于其他产品及服务的信息或要约通过电话或电子邮件联系您或询问您的反馈。</p>
@@ -97,9 +97,9 @@ layout: TrustCenterPageCN
                     </li>
                     <li>此外，由世纪互联运营的云服务使用加密技术保护客户数据，并帮助您保持对数据的控制。当数据通过网络传输时，包括在用户设备和世纪互联数据中心之间或世纪互联数据中心内部传输时，由世纪互联运营的产品和服务使用行业标准安全传输协议。为了帮助保护静态数据，由世纪互联运营的云服务还提供了一系列内置加密功能。</li>
                     <li>大多数由世纪互联运营的云服务都是多租户服务，这意味着您的数据、部署和虚拟机可能存储在与其他客户相同的物理硬件上。对此，由世纪互联运营的云服务通过专门的技术使用逻辑隔离来分离不同客户的存储和数据处理，以确保您的客户数据不会和其他任何人的数据混淆。</li>
-                    <li>由世纪互联运营的云服务所具有的审计证书如ISO 27001，会由世纪互联和经认证的审计公司定期进行复核验证，采用抽样审计以证实访问仅用于合法的商业目的。</li>
+                    <li>由世纪互联运营的云服务所具有的审计证书如 ISO 27001，会由世纪互联和经认证的审计公司定期进行复核验证，采用抽样审计以证实访问仅用于合法的商业目的。</li>
                 </ul>
-                <p><a href="../security/identity.html">详细了解世纪互联如何保护用户凭证和访问权限</a></p>
+                <p><a href="../security/identity.html">详细了解世纪互联如何保护用户凭证和访问权限 </a></p>
 
                 <label id="we_limit_access_to_customer">我们限制世纪互联人员访问您的客户数据</label>
                 <p>世纪互联的运维服务确保一年 365 天，每天 24 小时都有适当的人员提供技术支持。我们已经自动化了大部分服务运维操作，因此只有一小部分操作需要人工交互。</p>
@@ -109,8 +109,8 @@ layout: TrustCenterPageCN
                 </ul>
 
                 <label id="we_limit_access_by_subprocessors">我们限制子处理方的访问</label>
-                <p><strong>我们限制子处理方的访问</strong></p>
-                <p>由世纪互联运营的云服务处理各种类别的数据，包括<a href="../privacy/default.html#data_other">客户数据和个人数据</a>。如果世纪互联雇用的分包商执行可能需要访问此类数据的工作时，则将其视为一个子处理方。世纪互联公示这些子处理方如下。</p>
+                <p><strong>我们限制子处理方的访问 </strong></p>
+                <p>由世纪互联运营的云服务处理各种类别的数据，包括<a href="../privacy/default.html#data_other"> 客户数据和个人数据 </a>。如果世纪互联雇用的分包商执行可能需要访问此类数据的工作时，则将其视为一个子处理方。世纪互联公示这些子处理方如下。</p>
                 <p>子处理方仅在为交付世纪互联雇用他们提供的服务时有可能访问数据并被禁止将数据用于任何其他目的。子处理方必须保持这些数据的机密性并被合同约定需满足严格的隐私要求，这些要求等同于或强于世纪互联对客户的合同承诺。</p>
                 <p>子处理方还需要满足欧盟一般数据保护条例（GDPR）的要求，包括采用适当的技术和组织措施来保护个人数据。</p>
                 <p>世纪互联要求子处理方符合世纪互联数据保护要求。该要求旨在标准化和强化数据处理实践，并确保供应商的业务流程及系统与世纪互联保持一致。</p>
@@ -125,28 +125,28 @@ layout: TrustCenterPageCN
                 </li>
                 </ul>
                 <p><strong>子处理方列表</strong></p>
-                <p>世纪互联在合同中将客户数据定义为所有通过使用我们的云服务而提供给世纪互联的数据（请参阅<a href="../privacy/default.html#data_other">世纪互联如何对数据进行分类</a>）。一些客户数据是在 GDPR 下定义的个人数据。GDPR 要求披露可访问个人数据的子处理方。</p>
+                <p>世纪互联在合同中将客户数据定义为所有通过使用我们的云服务而提供给世纪互联的数据（请参阅 <a href="../privacy/default.html#data_other">世纪互联如何对数据进行分类 </a>）。一些客户数据是在 GDPR 下定义的个人数据。GDPR 要求披露可访问个人数据的子处理方。</p>
                 <ul>
-                    <li><a href="../../file/21VCoreOnlineServicesSubprocessors-list_20190118.pdf">核心在线服务子处理方列表</a>定义的子处理方被授权访问由世纪互联运营的核心在线服务中的客户数据（包括其中的个人数据）。核心在线服务定义详见在线服务条款<a href="https://www.21vbluecloud.com/ostpt/">（附录 A） </a>。</li>
-                    <li><a href="../../file/21V-personal-data-subprocessors-list_20190118.pdf">个人数据子处理方列表</a>定义的子处理方被授权处理所有企业在线服务中的任何形式的个人数据（包括假名数据）。个人数据子处理方系指未在上述核心在线服务子处理方列表中列具的子处理方。</li>
+                    <li><a href="../../file/21VCoreOnlineServicesSubprocessors-list_20190118.pdf">核心在线服务子处理方列表 </a>定义的子处理方被授权访问由世纪互联运营的核心在线服务中的客户数据（包括其中的个人数据）。核心在线服务定义详见在线服务条款<a href="https://www.21vbluecloud.com/ostpt/">（附录 A） </a>。</li>
+                    <li><a href="../../file/21V-personal-data-subprocessors-list_20190118.pdf">个人数据子处理方列表 </a>定义的子处理方被授权处理所有企业在线服务中的任何形式的个人数据（包括假名数据）。个人数据子处理方系指未在上述核心在线服务子处理方列表中列具的子处理方。</li>
                 </ul>
                 <p>针对被授权访问由世纪互联运营的核心在线服务中的客户数据的新子处理方（如核心在线服务子处理方列表定义），世纪互联将至少提前 6 个月公布名单。针对其他被授权访问个人数据的新子处理方（如个人数据子处理方列表定义），世纪互联将至少提前 14 天公布名单。 </p>
 
                 <label id="we_set_and">我们设置并坚持严格的隐私标准</label>
                 <p>Azure 和 Office365 的隐私保护政策基于
-                    <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明。</a>许可给世纪互联的底层技术运用 Microsoft 安全开发生命周期 (其中包括如何在软件开发过程中满足隐私要求)进行开发。
+                    <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明 </a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明。</a>许可给世纪互联的底层技术运用 Microsoft 安全开发生命周期 (其中包括如何在软件开发过程中满足隐私要求)进行开发。
                 </p>
-                <p>我们还将这些保护措施与<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联有关 Microsoft Azure 在线服务标准协议</a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议</a>中完善的客户数据保护合同承诺相结合。
+                <p>我们还将这些保护措施与<a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement">世纪互联有关 Microsoft Azure 在线服务标准协议 </a> 和 <a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">世纪互联运营的 Office 365 在线服务标准协议 </a>中完善的客户数据保护合同承诺相结合。
                 </p>
                 <p>
                     <a target="_self" class="mscom-link withArrow" href="../privacy/we-set-and-adhere-to-stringent-standards.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a>
                 </p>
                 <label id="data-subject-requests-for-gdpr">我们支持响应 GDPR 数据主体请求</label>
                 <p><strong>Azure 客户</strong></p>
-                <p>对于 Azure 客户提交的个人数据（如为获取客户支持提交的个人数据，及其它通过 azure.cn 提交的个人数据），我们提供导出和/或删除的渠道，请点击<a href="https://www.azure.cn/gdpr/form">这里</a>进行相关操作。如需查看该流程的文档，请点击<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf">这里</a>。</p>
-                <p>对于客户在使用 Azure 服务过程中产生的个人数据，关于导出和/或删除操作租户管理员可通过<a href="https://portal.azure.cn/#blade/Microsoft_Azure_Policy/UserPrivacyMenuBlade/Overview">这里</a>进行相关操作，数据主体请求的具体操作请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-azure">GDPR: 数据主体请求(DSR)</a>。</p>
+                <p>对于 Azure 客户提交的个人数据（如为获取客户支持提交的个人数据，及其它通过 azure.cn 提交的个人数据），我们提供导出和/或删除的渠道，请点击 <a href="https://www.azure.cn/gdpr/form">这里 </a>进行相关操作。如需查看该流程的文档，请点击<a href="http://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/%E5%AF%BC%E5%87%BA%E6%88%96%E5%88%A0%E9%99%A4Azure%E5%AE%A2%E6%88%B7%E6%8F%90%E4%BA%A4%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE.pdf"> 这里 </a>。</p>
+                <p>对于客户在使用 Azure 服务过程中产生的个人数据，关于导出和/或删除操作租户管理员可通过<a href="https://portal.azure.cn/#blade/Microsoft_Azure_Policy/UserPrivacyMenuBlade/Overview"> 这里 </a>进行相关操作，数据主体请求的具体操作请参阅<a href="https://docs.microsoft.com/zh-cn/microsoft-365/compliance/gdpr-dsr-azure"> GDPR: 数据主体请求(DSR) </a>。</p>
                 <p><strong>Office 365 客户</strong></p>
-                <p>对于 Office 365 客户，我们提供导出和/或删除的渠道，如需提交数据主体请求(DSR) ，请点击<a href="../../zh-cn/privacy/gdpr-office365.html">这里</a>了解相关操作。</p>
+                <p>对于 Office 365 客户，我们提供导出和/或删除的渠道，如需提交数据主体请求(DSR) ，请点击<a href="../../zh-cn/privacy/gdpr-office365.html"> 这里 </a>了解相关操作。</p>
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
