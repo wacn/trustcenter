@@ -114,7 +114,7 @@ layout: TrustCenterPage
                 <p>Microsoft business cloud services operated by 21Vianet process various categories of data, including <a href="../privacy/default.html#data_other">customer data and personal data</a>. Where 21Vianet hires a subcontractor to perform work that may require access to such data, they are considered a subprocessor. 21Vianet discloses these subprocessors below. </p>
                 <p>Subprocessors may access data only to deliver the services 21Vianet has hired them to provide and are prohibited from using data for any other purpose. They are required to maintain the confidentiality of this data and are contractually obligated to meet strict privacy requirements that are equivalent to or stronger than the contractual commitments 21Vianet makes to its customers. </p>
                 <p>Subprocessors are also required to meet EU General Data Protection Regulation (GDPR) requirements, including those related to employing appropriate technical and organizational measures to protect personal data. </p>
-                <p>21Vianet requires subprocessors to meet the 21Vianet Data Protection Requirement (“21Vianet DPR”). This 21Vianet DPR is designed to standardize and strengthen data handling practices, and to ensure supplier business processes and systems are consistent with those of 21Vianet. </p>
+                <p>21Vianet requires subprocessors to meet the 21Vianet data protection requirement. This requirement is designed to standardize and strengthen data handling practices, and to ensure supplier business processes and systems are consistent with those of 21Vianet.</p>
                 <p>Subprocessors who handle customer data (including personal data therein) are subject to same requirements. Subprocessors of customer data must agree to the EU Model Clauses for services operated by 21Vianet for which 21Vianet offers its customers the EU Model Clauses. </p>
                 <p>Subprocessors can perform work in any of the following capacities: </p>
                 <ul>
@@ -179,10 +179,10 @@ layout: TrustCenterPage
                     <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Helpful information</h1>
                         <label><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">Cloud services business model of  Microsoft Azure, Office 365 and Power BI operated by 21Vianet </a></label><br/>
-						<label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
-					    <!--
-						<label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></label><br/>-->
-						<label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a></label><br/>
+                        <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">Trusting the Cloud</a></label><br/>
+                        <!--
+                        <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted-Cloud.pdf">Trusted Cloud</a></label><br/>-->
+                        <label><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/> 
                         <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/subscription-agreement/">21Vianet Online Services Standard Agreement for Microsoft Azure</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-AgreeWebDir/">21Vianet Online Services Standard Agreement for Office 365 </a></label><br/>
