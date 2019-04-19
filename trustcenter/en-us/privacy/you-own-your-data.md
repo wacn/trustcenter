@@ -60,7 +60,7 @@ layout: TrustCenterPage
                     <li><a target="_self" class="mscom-link" href="#your_customer_data">You control who has access to your Customer Data</a></li>
                     <li><a target="_self" class="mscom-link" href="#that_of_others">We use logical isolation to segregate each customer’s data from that of others</a></li>
                     <li><a target="_self" class="mscom-link" href="#independent_audits">We provide simple, transparent data-use policies and get independent audits</a></li>
-                    <li><a target="_self" class="mscom-link" href="#shiji_contracts">Our subcontractors are under contract to meet our privacy requiremen</a></li>
+                    <li><a target="_self" class="mscom-link" href="#shiji_contracts">Our subcontractors are under contract to meet our privacy requirement</a></li>
                 </ul>
                 <label id="data_for_advertising">We do not use Customer Data for advertising</label>
                 <p>21Vianet does not share enterprise Customer Data with our advertiser-supported services, nor do we mine it for marketing or advertising. This policy is backed by our enterprise cloud service agreements.</p>
