@@ -78,10 +78,6 @@ layout: TrustCenterPage
                   <li>Stage three: Network escalation. They gain access to high value credentials. Now, they reuse those across the environment to access to what they’re looking for.</li>
                   <li>Stage four: Persistence. They settle in for the long haul, commonly installing a permanent backdoor for long-term, repeat access to your systems.</li>
                </ul>
-               
-
-
-
               </div> 
            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">

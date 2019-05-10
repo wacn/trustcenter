@@ -54,7 +54,7 @@ layout: TrustCenterPage
                <p style="font-size:28px;font-weight:500;">Protect data with network technologies that block intrusions and attacks</p>
                <p>Protecting the security and confidentiality of network traffic, whether in the cloud or on-premises, is a critical part of any data protection strategy. Securing the network infrastructure helps prevent attacks, block malware, and protect your data from unauthorized access, interrupted access, or loss.</p>
                <p>In the public cloud, the isolation of customer infrastructure is fundamental to maintaining security. Azure, on which most cloud services based on Microsoft technology are built, accomplishes this primarily through a distributed virtual firewall, partitioned local area networks (LANs), and physical separation of back-end servers from public-facing interfaces. Customers can deploy multiple logically isolated private networks, and each virtual network is isolated from the other virtual networks. For on-premises customers, Windows Server 2016 includes firewall, threat analytics, and numerous network security features.</p>
-               <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Azure, Office 365 and Power BI services. The Azure, Office 365 and Power BI network infrastructure blocks undesirable traffic to and within datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces. 
+               <p>Microsoft Azure, Office 365, Power BI  and Microsoft Dynamics 365 operated by 21Vianet networking provide the infrastructure necessary to securely connect services and clients to one another and to connect on-site datacenters with Microsoft Azure, Office 365, Power BI and Microsoft Dynamics 365 services. The Microsoft Azure, Office 365, Power BI and Microsoft Dynamics 365  network infrastructure blocks undesirable traffic to and within datacenters, using a variety of technologies such as firewalls, partitioned local area networks (LANs), and the physical separation of back-end servers from public-facing interfaces.  
                </p>
                <p style="font-size:24px;font-weight:500;" id="identity_Secure">Secure identity</p>
                <p>21Vianet‘s cloud services that are built on Azure use Azure Active Directory for identity management, authentication, and access control. For on-premises customers, Windows Server 2016 uses Active Directory Domain Services (AD DS).</p>
@@ -62,7 +62,7 @@ layout: TrustCenterPage
                <Secure infrastructure id="infrastructure_Secure">Secure infrastructure</p>
                <p>21Vianet uses several network security technologies to protect your cloud services and Customer Data, and block attacks.</p>
                <ul style="list-style-type:disc">
-                  <li><strong>Firewalls</strong> help protect network perimeters, subnets, and local machines (including virtual machines). Perimeter firewalls filter packets coming into the network. If malicious traffic has managed to bypass network-level controls, operating system firewalls provide another layer of protection by allowing or denying packets coming into the local system</li>
+                  <li><strong>Firewalls</strong> help protect network perimeters, subnets, and local machines (including virtual machines). Perimeter firewalls filter packets coming into the network. If malicious traffic has managed to bypass network-level controls, operating system firewalls provide another layer of protection by allowing or denying packets coming into the local system.</li>
                   <li><strong>Intrusion detection systems/intrusion prevention systems</strong> detect and identify suspicious or undesirable activities that indicate intrusion, proactively drop packets that are determined to be undesirable, and disconnect unauthorized connections.</li>
                   <li><strong>Partitioned LANs</strong> enable you to separate traffic by segmenting your virtual networks and control how traffic passes between different IP subnets.</li>
                   <li><strong>Multi-tier topology</strong> enables you to allocate subnets and designate separate address spaces for different elements of your workload. These logical groupings and topologies mean you can define different access policies based on workload types.</li>
@@ -72,7 +72,10 @@ layout: TrustCenterPage
                   <li><strong>Azure Security Center</strong> provides a centralized portal from which you can secure resources you place in Azure. When you enable Azure Security Center for your subscription or Resource Group, Azure Security Center provides recommendations and alerts for network security issues, with a centralized portal from which you can help secure your Azure deployments and prevent, detect, and respond to threats. It uses behavioral analytics and machine learning for effective threat detection and helps you build an attack timeline for faster remediation.</li>
                </ul>
                <p style="font-size:24px;font-weight:500;" id="apps_and_data_Secure">Secure apps and data</p>
-
+               <p style="font-size:20px" id="Dynamics365">Microsoft Dynamics 365 Operated by 21Vianet</p>
+               <p>Microsoft Dynamics 365 operated by 21Vianet  protects inbound network traffic via an Azure Application Gateway software load balancer.  This Application Gateway is protected via SSL/TLS and enforces TLS 1.2 to protect customer sessions against man-in-the-middle attacks.  </p>
+               <p>Microsoft Dynamics 365 operated by 21Vianet implements Azure Network Security Groups to protect customer assets from external access. </p>
+               <p>Identity and access control patterns in Microsoft Dynamics 365 operated by 21Vianet are entirely in the your control, with full Azure Active Directory integration.</p>
                <p style="font-size:20px" id="Azure_Secure">Microsoft Azure operated by 21Vianet</p>
                <p><a href="https://www.azure.cn/home/features/networking/">Virtual Network</a> extends your on-premises network to the cloud through site-to-site VPN. You control the network topology and manage it just like your on-site infrastructure. Each virtual network is isolated from other virtual networks. 
                </p>
@@ -89,7 +92,6 @@ layout: TrustCenterPage
                <p>Office 365 services follow industry cryptographic standards such as SSL/TLS and AES to protect the confidentiality and integrity of data. All customer-facing servers negotiate a secure session using SSL/TLS with client machines. The use of TLS/SSL establishes a highly secure client-to-server connection to help provide data confidentiality and integrity between the desktop and the datacenter. 
                 <p>Learn more about <a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 Security and Compliance </a>
                </p>
-               
               </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
