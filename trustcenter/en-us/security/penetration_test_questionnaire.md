@@ -53,7 +53,6 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <p style="font-size:28px;font-weight:500;">Penetration Testing – Microsoft Azure operated by 21Vianet</p>
                <p>Microsoft Azure operated by 21Vianet takes the security of our platform very seriously, and we have implemented a number of <a href="https://www.trustcenter.cn/en-us/">technical and procedural measures</a> to help with platform security.  These include identity and access management, mutual SSL authentication, layered environment, monitoring, logging and reporting. </p>
-
                <p>We understand that security assessment and testing is an important part of our customers’ application development and deployment.  We have established a policy for customers to carry out authorized penetration testing on their applications hosted in Microsoft Azure operated by 21Vianet.  Because such testing can be indistinguishable from a real attack, it is critical that customers conduct penetration testing only after notifying and obtaining approval in advance from the Microsoft Azure team  and only in accordance with our terms and conditions.</p>
                <p style="font-size:28px;font-weight:500;">Penetration Test Approval Process:</p>
                <p>1) Initiate Approval for Penetration Testing</p>
