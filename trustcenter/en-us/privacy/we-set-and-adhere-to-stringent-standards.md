@@ -57,6 +57,25 @@ layout: TrustCenterPage
                     <p><strong><a href="https://www.azure.cn/support/legal/privacy-statement">Privacy Statement</a></strong></p>
                     <p>Foundational protections begin with the use of Microsoft’s Security Development Lifecycle (SDL). The Microsoft SDL introduces security and privacy considerations throughout all phases of the development process, helping developers build highly secure software, address security compliance requirements, and reduce development costs. The guidance, best practices, tools, and processes in the Microsoft SDL are practices we use internally to build Microsoft Azure, Office 365, Power BI  and Microsoft Dynamics 365 operated by 21Vianet.</p>
                 </div>
+                <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
+                    <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
+                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                            <h1>Key privacy information</h1>
+                           <label><a target="_self" class="mscom-link" href="../transparency/you_know_where.html">Customer Data locations</a></label><br/>
+                           <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#you_control_your_data">Customer Data access policies</a></label><br/>
+                           <label><a target="_self" class="mscom-link" href="../privacy/you-are-in-control-of-your-data.html#data_retention">Customer Data retention </a></label><br/>
+                           <label><a target="_self" class="mscom-link" href="../privacy/default.html#data_other">Customer Data and Other Data Types</a></label><br/>
+                        </div>
+                    </div>
+                    <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
+                        <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
+                            <h1>Helpful information</h1>
+                            <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">Protecting Data and Privacy in the Cloud</a></label><br/> 
+                            <label><a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement">Privacy Statement for Microsoft Azure Operated by 21Vianet </a></label><br/> 
+                            <label><a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">Privacy Statement for Office 365 Operated by 21Vianet</a></label><br/> 
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
    </div>
