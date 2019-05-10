@@ -53,12 +53,12 @@ layout: TrustCenterPage
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                <p style="font-size:28px">Protect data from malware and attacks</p>
                <p>Threat management includes protection from both malicious software and attacks against systems and networks. Microsoft cloud technology and services have built-in protection features to help defend your data against malware and other types of threats.</p>
-               <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet help protect against malware threats in multiple ways. Microsoft Antimalware is built for the cloud, and additional antimalware protections are provided for specific services, including Azure, Office 365 and Power BI.Denial-of-service (DoS) attacks can deny access to important resources and result in lost productivity, so Microsoft builds its services to defend against such attacks. Windows server and client operating systems include multiple technologies for protecting against these threats at the local level. 
+               <p><a href="https://www.21vbluecloud.com/Dynamics365/">Microsoft Dynamics 365</a> operated by 21Vianet  help protect against malware threats in multiple ways. Microsoft Antimalware is built for the cloud, and additional antimalware protections are provided for specific services, including Microsoft Dynamics 365. Denial-of-service (DoS) attacks can deny access to important resources and result in lost productivity, so 21Vianet builds its services to defend against such attacks. Windows server and client operating systems include multiple technologies for protecting against these threats at the local level.  
                </p>
                <p style="font-size:26px" id="identity_Secure">Secure identity</p>
                <p>Threat management technologies help protect systems against malware, in both cloud and on-premises environments. Malware is a leading cause of identity compromise. It can run in the background and collect information, such as user names and passwords, and transmit them back to the attacker. With stolen credentials, an attacker can access, modify, or destroy your valuable data. If the compromised account has administrative privileges, the attacker can change system or account settings and do much more damage. Thus, an important element in keeping user identities secure is protecting them from the effects of malicious software.</p>
-               <p style="font-size:26px" id="infrastructure_Secure">Secure infrastructure</p>
-               <label>Security technologies</label>
+               <p style="font-size:26px" id="infrastructure_Secure">Secure infrastructure and technologies</p>
+               
                <p>21Vianet and Microsoft use many security technologies and practices to protect the cloud infrastructure and on-premises networks against modern, sophisticated threats:</p>
                <ul>
                   <li><strong>Antimalware components</strong> and services for cloud services, virtual machines (VMs), and Windows clients and servers help identify and remove viruses, spyware, and other malicious software. Antimalware also provides real-time protection, on-demand scanning, basic configuration management, and monitoring. Microsoft Antimalware for Azure cloud services and virtual machines is built on the same antimalware platform as other Microsoft malware protection products, and provides a single-agent solution for applications and tenant environments.</li>
@@ -67,8 +67,10 @@ layout: TrustCenterPage
                </ul>
                <p>Microsoft threat management technologies were developed based on our experience addressing emerging threats in the public cloud, private cloud, and datacenter environments, and are driven by the “assume breach” approach.</p>
                <p style="font-size:26px" id="apps_and_data_Secure">Secure apps and data</p>
+               <label>Microsoft Dynamics 365 operated by 21Vianet </label>
+               <p>Microsoft Dynamics 365 operated by 21Vianet is implemented on Azure, and leverages Azure security technologies outlined above.  Microsoft Dynamics 365 operated by 21Vianet fully participates in the Azure processes for intrusion detection and detection of antimalware. </p>
                <label>Microsoft Azure operated by 21Vianet </label>
-               <p>To protect against online threats, Azure offers Antimalware for cloud services and virtual machines, and uses detection and mitigation techniques to protect against DDoS attacks.</p>
+               <p>To protect against online threats, Microsoft Azure operated by 21Vianet utilizes and offers Microsoft Antimalware  for cloud services and virtual machines, and uses detection and mitigation techniques to protect against DDoS attacks.</p>
                <p><strong>Microsoft Antimalware for Azure with real-time protection and remediation. </strong>Microsoft Antimalware is a real-time protection capability that helps identity and remove viruses, spyware, and other malicious software. You can configure alerts for when known malicious or unwanted software attempts to install itself or run on your Azure systems. Antimalware automatically takes action, such as deleting or quarantining malicious files and cleaning up malicious registry entries. </p>
                <p><strong>Intrusion detection and DDoS. </strong> Intrusion detection and prevention systems, denial of service attack prevention, regular penetration testing, and forensic tools help identify and mitigate threats from both outside and inside of Azure.</p>
                <ul>
@@ -77,7 +79,7 @@ layout: TrustCenterPage
                <p>
                   Learn more about <a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">Defending Against DDoS Attacks in Cloud Computing</a>
                   </p>
-                  <p><strong>Threat management partners.</strong> In addition to the robust security benefits built into Azure, Microsoft offers a rich array of third party security products for Azure that are built to meet your unique security needs. </p><p><a href="https://market.azure.cn/">Find the right threat management partner in the Azure Marketplace</a></p>
+                  <p><strong>Threat management partners.</strong> In addition to the robust security benefits built into Azure, 21Vianet offers a rich array of third-party security products for Azure that are built to meet your unique security needs.  </p><p><a href="https://market.azure.cn/">Find the right threat management partner in the Azure Marketplace</a></p>
                <label>Office 365 operated by 21Vianet</label>
                <p>Office 365 enables customers to configure options for antimalware/antispam protection. Office 365 uses multi-engine antimalware scanning to protect incoming, outgoing, and internal messages from malicious software transferred through email. Administrators can manage antimalware/antispam controls in the Office 365 admin center as well. Individual users can manage their safe and blocked senders from within their inboxes in Outlook or Outlook on the web. </p>
                <p><strong>Exchange Online Protection</strong> provides protection features for email that are deployed across datacenters, including multilayered, real-time antispam and multi-engine antimalware protection. 
@@ -87,7 +89,6 @@ layout: TrustCenterPage
                <label>Power BI operated by 21Vianet</label>
                <p>Power BI runs on the Azure infrastructure, and uses the threat management protections that are built into Azure. Specifically, Power BI helps protect against threats by separating the front-end web cluster from the back-end cluster, where activity and access to data are handled. It creates a further boundary on the back-end cluster between the Gateway and API Management roles and other roles that are accessible only by the system. Because only the Gateway and API Management roles are accessible over the Internet, this helps protect against DDoS attacks and unauthorized access.</p>
                <p style="font-size:12px; color:#666666;margin-top: 50px;">Notes:  ①The Microsoft Antimalware Client and Service is installed by default in a disabled state in all Cloud Services. The Microsoft Antimalware Client and Service is not installed by default in the Virtual Machines platform; it is available as an optional security extension.</p>
-               
             </div> 
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
