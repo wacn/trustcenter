@@ -56,16 +56,10 @@ layout: TrustCenterPageCN
                 <p><a target="_self" class="mscom-link"    href="../../file/世纪互联蓝云安全运营中心V2.pdf">世纪互联蓝云安全运营中心</a></p>
 				<p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification.pdf">ISO20000 和 ISO27001 认证介绍 </a></p>
 				<p><a target="_self" class="mscom-link" href="//wacndevelop.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusted_Cloud_Service_Certification.pdf">可信云服务认证</a></p>
-				
-				
 				<label id="white_papers">白皮书</label><br>
                 <p>如果您需要更详细的信息，Azure、Office 365 和 Power BI 的安全、隐私与合规专家会定期发布白皮书，借此充分解析由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 在安全和隐私方面对客户的承诺。您可以在下面看到有关由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 云服务的通用白皮书，以及与 Azure、Office 365 和 Power BI 具体产品相关的内容。</p>
                 <p><a target="_self" class="mscom-link" href="https://wacnppe.blob.core.chinacloudapi.cn/marketing-resource/documents/Windows_Azure_and_Office_365_cloud_services_business_model_operated_by_21Vianet12.pdf">由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 云服务运营模式</a></p><p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Trusting_the_Cloud.pdf">可信在云端</a></p>
-				<!--
-				<p><a target="_self" class="mscom-link" 				href="../../file/Trusted-Cloud_May2017.pdf">可信赖的云服务</a></p>-->
 				<p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Defending_Against_DDoS_Attacks_in_Cloud_Computing.pdf">云服务中的 DDoS 防御策略</a></p>
-				<!--
-				<p><a target="_self" class="mscom-link" href="//wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/ISO20000_and_ISO27001_Certification_Introduction.pdf">ISO20000和ISO27001认证介绍</a></p>-->
 				<p><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中的数据和隐私</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/云计算中的共担责任.pdf">云计算中的共担责任</a></p>
                 <p><a target="_self" class="mscom-link" href="../../file/Office-365-Security-and-Compliance-CN.pdf">Office 365 安全与合规白皮书</a></p>
@@ -83,28 +77,6 @@ layout: TrustCenterPageCN
                 <label>常见问题</label><br>
                 <p><a target="_self" class="mscom-link" href="../resources/FAQ.html">由世纪互联运营的 Microsoft Azure、Office 365 和 Power BI 常见问题</a>，能充分解答您关于 Azure、Office 365 和 Power BI 安全性、隐私保护、合规性及透明度方面的疑惑。</p>
             </div>
-  <!--
-                <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
-                    <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <h1>重要隐私信息</h1>
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/transparency/you_know_where.html">数据中心位置</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="../transparency/default.html#Who-can-access-Customer-Data">数据访问策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-are-in-control-of-your-data.html#leave_service">数据保留策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/you-own-your-data.html#shiji_contract">分包商策略</a></label><br/> 
-                       <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/privacy/default.html#data_other">微软如何定义数据</a></label><br/> 
-                    </div>
-                    </div>
-                </div>
-                <div id="SideBarWrapper" data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid">
-                    <div id="HelpfulInformation" class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
-                        <h1>更多信息</h1>
-                        <label><a target="_self" class="mscom-link" href="../transparency/default.html#When-law-enforcement-or-a-third-party-askes-for-Customer-Data">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="http://trustcenterstage.chinacloudsites.cn/security/encryption.html">微软云加密</a></label><br/>								
-                        <label><a target="_self" class="mscom-link" href="https://wacnstorage.blob.core.chinacloudapi.cn/marketing-resource/documents/Protecting_Data_and_Privacy_in_the_Cloud_CN_final20160125.pdf">保护云中数据和隐私(864 KB, PDF)</a></label><br/>
-                        <label><a target="_self" class="mscom-link" href="../compliance/default#ISO/IEC_27001">ISO / IEC 27001简介</a></label><br/>
-                    </div>
-                </div>-->
             </div> 
         </div>        
      </div>

@@ -24,7 +24,6 @@ layout: TrustCenterPage
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
                                                     <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">GDPR – Office 365<p>Information about Office 365 operated by 21Vianet to support your GDPR compliance</p></h3>
-                                                    
                                                 </li>
                                                 <li class="box-actions box-description"><a class="mscom-link" href=""></a></li>
                                             </ul>
@@ -55,15 +54,12 @@ layout: TrustCenterPage
                 <h4 id="Data-Subject-equests-DSR-for-GDPR">Data Subject Requests (DSR) for GDPR </h4>
                 <p>GDPR grants individuals (or, data subjects) certain rights in connection with the processing of their personal data, including the right to correct inaccurate data, erase data or restrict its processing, receive their data and fulfill a request to transmit their data to another controller. Below we discuss what the GDPR requires of controllers (you) and processors (21Vianet) to respond to those requests, and how we will enable you to do so. </p>
                 <p>The Tenant Administrator role can request data on behalf of a data subject in several ways:</p>
-                
                 <p id="forget-user-data"><strong>DSR - Forget User Data</strong></p>
                 <p>Using the Azure Active Directory Admin Center, a Tenant Administrator can permanently delete a data subject from Azure Active Directory and related services – <a href="https://portal.azure.cn/#blade/Microsoft_AAD_IAM/UserManagementMenuBlade/All users/menuId/">– AZURE AD ADMIN CENTER</a>.</p>
-
                 <p id="export-system-generated-logs"><strong>DSR - Export System Generated Logs</strong></p>
                 <p>System generated logs for Microsoft services operated by 21Vianet can be exported by Tenant Administrators using the Data Log Export - <a href="https://aka.ms/MicrosoftGDPRChina">Microsoft Azure Portal operated by 21Vianet</a>.</p>
-                <p>NOTE: Office 365 customers must first create an Azure subscription before they can create DSR export for system generated logs. Please follow these step-by-step specific<a href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/media/documentation/sign-up-the-1RMB-trial-with-a-Gallatin-tenant.pdf">instructions</a>for creating a new Azure subscription. </p>
-                <p>If you have any questions, please contact us through Customer Support Hotline: +86 400 0890 365  or fill DSR support ticket<a href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/media/documentation/GDPR-Web-Submission_Guidance_Office365.pdf">here </a>.</p>
-
+                <p>NOTE: Office 365 customers must first create an Azure subscription before they can create DSR export for system generated logs. Please follow these step-by-step specific<a href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/media/documentation/sign-up-the-1RMB-trial-with-a-Gallatin-tenant.pdf"> instructions </a>for creating a new Azure subscription. </p>
+                <p>If you have any questions, please contact us through Customer Support Hotline: +86 400 0890 365  or fill DSR support ticket <a href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/media/documentation/GDPR-Web-Submission_Guidance_Office365.pdf">here </a>.</p>
                 <p id="export-user-generated-data"><strong>DSR - Export User Generated Data</strong></p>
                 <p>User generated data can be exported using SharePoint Online and Mailbox search as well as via in-application features.</p>
                 <ul>
