@@ -58,7 +58,6 @@ layout: TrustCenterPageCN
                 <p>
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明 </a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/"> 由世纪互联运营的 Office 365 的隐私声明 </a>介绍了对客户使用 Azure 及 Office 365 服务适用的隐私政策和惯例。
                 </p>
-                
                 <label id="data_other">客户数据与其他数据类型</label>
                 <p><strong>客户数据</strong></p>
                 <p>客户数据是指通过您使用服务由您提供或以您名义提供给我们的所有数据，包括所有文本、音频、软件或图片文件。例如，客户数据包括您在服务中上传的供存储或处理的数据以及您或您的终端用户在服务中上传的供托管的应用程序。这不包括配置、技术设置或服务记录信息。</p>
@@ -85,7 +84,6 @@ layout: TrustCenterPageCN
                 <p><a target="_self" class="mscom-link  withArrow" href="../privacy/you-are-in-control-of-your-data.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">了解更多</a></p>
                 <label id="how_21vianet_responds">我们如何响应执法机关或其他第三方向世纪互联索要客户数据的要求 </label>
                 <p>世纪互联认为客户应控制自己存储在本地或云服务中的信息。相应地，我们也不会向第三方（我们的供应商和分包商除外）披露客户数据，除非您指示我们这样做或适用法律和法规要求我们这样做。如果我们必须向某一第三方披露客户数据，我们将采用商业上合理的努力立即通知您并提供相应要求的副本，除非法律禁止我们这样做。</p>
-
                 <label id="how_limit_access">我们如何限制对客户数据的访问</label>
                 <p>我们采取强有力的措施保护客户数据的安全，使其免受内外部未授权人员的不当访问或使用，并防止客户访问彼此的数据。</p>
                 <ul>
@@ -100,14 +98,12 @@ layout: TrustCenterPageCN
                     <li>由世纪互联运营的云服务所具有的审计证书如 ISO 27001，会由世纪互联和经认证的审计公司定期进行复核验证，采用抽样审计以证实访问仅用于合法的商业目的。</li>
                 </ul>
                 <p><a href="../security/identity.html">详细了解世纪互联如何保护用户凭证和访问权限 </a></p>
-
                 <label id="we_limit_access_to_customer">我们限制世纪互联人员访问您的客户数据</label>
                 <p>世纪互联的运维服务确保一年 365 天，每天 24 小时都有适当的人员提供技术支持。我们已经自动化了大部分服务运维操作，因此只有一小部分操作需要人工交互。</p>
                 <ul>
                     <li>默认情况下，世纪互联工程师不具有访问客户数据的权限。只有在必要时，他们才会在管理部门监管下被授予访问权限。</li>
                     <li>世纪互联人员仅在符合向您提供合同约定的相关服务之目的时使用客户数据，例如故障排查和功能改进、防御恶意软件。</li>
                 </ul>
-
                 <label id="we_limit_access_by_subprocessors">我们限制子处理方的访问</label>
                 <p><strong>我们限制子处理方的访问 </strong></p>
                 <p>由世纪互联运营的云服务处理各种类别的数据，包括<a href="../privacy/default.html#data_other"> 客户数据和个人数据 </a>。如果世纪互联雇用的分包商执行可能需要访问此类数据的工作时，则将其视为一个子处理方。世纪互联公示这些子处理方如下。</p>
@@ -131,7 +127,6 @@ layout: TrustCenterPageCN
                     <li><a href="../../file/21V-personal-data-subprocessors-list_20190118.pdf">个人数据子处理方列表 </a>定义的子处理方被授权处理所有企业在线服务中的任何形式的个人数据（包括假名数据）。个人数据子处理方系指未在上述核心在线服务子处理方列表中列具的子处理方。</li>
                 </ul>
                 <p>针对被授权访问由世纪互联运营的核心在线服务中的客户数据的新子处理方（如核心在线服务子处理方列表定义），世纪互联将至少提前 6 个月公布名单。针对其他被授权访问个人数据的新子处理方（如个人数据子处理方列表定义），世纪互联将至少提前 14 天公布名单。 </p>
-
                 <label id="we_set_and">我们设置并坚持严格的隐私标准</label>
                 <p>Azure 和 Office365 的隐私保护政策基于
                     <a target="_self" class="mscom-link" href="https://www.azure.cn/support/legal/privacy-statement/">由世纪互联运营的 Microsoft Azure 隐私声明 </a>和<a target="_self" class="mscom-link" href="http://www.21vbluecloud.com/office365/O365-Privacy/">由世纪互联运营的 Office 365 隐私声明。</a>许可给世纪互联的底层技术运用 Microsoft 安全开发生命周期 (其中包括如何在软件开发过程中满足隐私要求)进行开发。

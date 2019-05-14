@@ -57,8 +57,7 @@ layout: TrustCenterPage
                </p>
                <p style="font-size:26px" id="identity_Secure">Secure identity</p>
                <p>Threat management technologies help protect systems against malware, in both cloud and on-premises environments. Malware is a leading cause of identity compromise. It can run in the background and collect information, such as user names and passwords, and transmit them back to the attacker. With stolen credentials, an attacker can access, modify, or destroy your valuable data. If the compromised account has administrative privileges, the attacker can change system or account settings and do much more damage. Thus, an important element in keeping user identities secure is protecting them from the effects of malicious software.</p>
-               <p style="font-size:26px" id="infrastructure_Secure">Secure infrastructure and technologies</p>
-               
+               <p style="font-size:26px" id="infrastructure_Secure">Secure infrastructure and technologies</p>    
                <p>21Vianet and Microsoft use many security technologies and practices to protect the cloud infrastructure and on-premises networks against modern, sophisticated threats:</p>
                <ul>
                   <li><strong>Antimalware components</strong> and services for cloud services, virtual machines (VMs), and Windows clients and servers help identify and remove viruses, spyware, and other malicious software. Antimalware also provides real-time protection, on-demand scanning, basic configuration management, and monitoring. Microsoft Antimalware for Azure cloud services and virtual machines is built on the same antimalware platform as other Microsoft malware protection products, and provides a single-agent solution for applications and tenant environments.</li>

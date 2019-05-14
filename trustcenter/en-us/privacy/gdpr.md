@@ -23,8 +23,7 @@ layout: TrustCenterPage
                                         <div class="box" style="background: rgba(0,0,0,.85); color: #FFFFFF;">
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
-                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Get Started：Support GDPR Accountability<p>Information about cloud services operated by 21Vianet to support your GDPR accountability</p></h3>
-                                                    
+                                                    <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">Get Started：Support GDPR Accountability<p>Information about cloud services operated by 21Vianet to support your GDPR accountability</p></h3> 
                                                 </li>
                                                 <li class="box-actions box-description"><a class="mscom-link" href=""></a></li>
                                             </ul>
@@ -120,10 +119,8 @@ layout: TrustCenterPage
                 <p>We must implement the appropriate technical and organizational measures to assist you in responding to requests from data subjects exercising their rights as discussed above.</p>
                 <p><strong>How do Microsoft services operated by 21Vianet enable you to respond to data subject requests?</strong></p>
                 <p>Microsoft business cloud services operated by 21Vianet offer a host of capabilities to enable you, as a controller, to respond to a data subject’s request. Microsoft enterprise cloud services and administrative controls operated by 21Vianet help you act on personal data responsive to data subject rights requests, allowing you to discover, access, rectify, restrict, delete, and export personal data that resides in the controller-managed data stored in Microsoft services operated by 21Vianet. </p>
-
             </div>
-            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
-                
+            <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">       
                 <div data-cols="1" data-view1="1" data-view2="1" data-view3="1" data-view4="1" class="row-fluid" id="key_privacy_info">
                     <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                         <h1>Key GDPR Information</h1>

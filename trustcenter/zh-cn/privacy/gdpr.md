@@ -24,7 +24,6 @@ layout: TrustCenterPageCN
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
                                                     <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">入门：GDPR 责任及支持<p>有关世纪互联运营的云服务为履行责任提供支持的信息</p></h3>
-
                                                 </li>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                             </ul>
@@ -55,22 +54,6 @@ layout: TrustCenterPageCN
                 <h4>什么是 GDPR？ </h4>
                 <p>欧洲隐私法《一般数据保护条例》(GDPR)已于 2018 年 5 月 25 日生效。 根据 GDPR，企业、政府机构、非营利组织以及其他向欧盟 (EU) 居民提供商品和服务或收集和分析与欧盟居民相关的个人数据的组织必须遵守该新规定。 </p>
                 <p>此网站旨在介绍基于微软技术由世纪互联运营的Microsoft Azure、Office 365和其他云服务的一些功能，这些功能可以帮助您符合 GDPR 的特定要求。您可以查看有助于履行 GDPR 责任的文档，并了解世纪互联运营的云服务为支持 GDPR 而提供的技术和组织措施。 我们提供数据保护影响评估 (Data Protection Impact Assessments (DPIAs) )、数据主体请求 (DSR) 和数据泄露通知相关文档，您可将其纳入您自己支持 GDPR 的责任计划中。</p>
-                <!-- <h4 id="datasbr">GDPR 数据主体请求（DSR）</h4>
-                <p>GDPR 授予个人（或数据主体）与处理个人数据相关的某些权限，包括有权更正不准确数据、删除数据或限制数据处理、接收数据，以及满足将数据传输给另一个控制者的请求。下面介绍了 GDPR 要求控制者（您）和处理者 (世纪互联) 怎样响应这些请求，以及世纪互联运营的云服务如何助力您响应数据主体请求。</p>
-                <p>租户管理员可以代表整个企业用户提出下列数据请求。</p>
-                <p><strong>删除用户数据</strong></p>
-                <p>使用 Azure Active Directory 管理中心，租户管理员可以从 Azure Active Directory 和相关服务中永久删除数据主体的个人数据。 – <a href="https://portal.azure.cn/#blade/Microsoft_AAD_IAM/UserManagementMenuBlade/All users/menuId/">AZURE AD ADMIN CENTER</a>.</p>
-                <p><strong>系统生成日志</strong></p>
-                <p>由世纪互联运营的云服务所产生的系统生成日志，租户管理员可使用数据日志导出。 - <a href="https://aka.ms/MicrosoftGDPRChina">Microsoft Azure Portal operated by 21Vianet.</a></p>
-                <p>请注意：世纪互联运营的 Office 365 云服务租户管理员提交数据主体生成系统日志请求之前，需要事先创建世纪互联运营的 Azure 订阅服务。请参阅详细步骤完成创建世纪互联运营的 Azure 订阅服务。如果您有任何疑问，请联系<a href="https://support.office.com/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b?ui=en-US&rs=en-US&ad=US">世纪互联技术客服</a>。</p>
-                <p><strong>导出用户产生的数据</strong></p>
-                <p>用户产生的数据可以分别通过 Sharepoint Online、邮箱搜寻或是应用软件内的功能导出</p>
-                <ul>
-                <li>邮箱搜寻：租户管理员可以使用新的邮箱搜寻指令 cmdlet 或者是到 Exchange 管理员中心进行 eDiscovery 及时搜寻 – Mailbox Search Guide。</li>
-                <li>邮箱以及 Sharepoint 搜寻：租户管理员可以在 Sharepoint online 建立eDiscovery 中心，在这个中心进行内容资料搜寻 – Mailbox and SharePoint Search Guide。</li>
-                </ul>
-                <p>数据主体请求导出数据的进一步的详细步骤请参见 <a href="https://aka.ms/DSRCompliance">Data Subject Request (DSR) How-To FAQ</a>. </p> -->
-
                 <h4 id="databrno">数据泄露通知</h4>
                 <p>如发生个人数据泄露，GDPR 强制要求数据控制者和处理者需履行通知义务。 下面介绍了这些规定、并世纪互联运营的云服务如何从一开始就防止数据泄露、世纪互联运营的云服务如何检测数据泄露，以及世纪互联运营的云服务如何在发生数据泄露事件时予以响应，并通知数据控制者。</p>
                 <p>以下是关于数据泄露通知的重要问题解答</p>
@@ -120,7 +103,6 @@ layout: TrustCenterPageCN
                 <p>我们必须采取相应的技术和组织措施，以协助你响应数据主体为了行使上述权利而发出的请求。</p>
                 <p><strong>世纪互联运营的云服务 如何助力你响应数据主体请求?</strong></p>
                 <p>世纪互联运营的云服务提供了许多功能，以助力控制者响应数据主体请求。 世纪互联运营的云服务和管理控件有助于你对个人数据执行操作，以响应数据主体权利请求，同时还便于你发现、访问、纠正、限制、删除和导出世纪互联运营的云服务中存储的控制者托管数据内存在的个人数据。 世纪互联运营的云服务还可以根据需要提供计算机可读形式的数据 。</p>
-
             </div>
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2 bp0-clear bp1-clear">
                 
@@ -145,7 +127,6 @@ layout: TrustCenterPageCN
                         <label><a target="_self" class="mscom-link" href="https://aka.ms/GDPR-arc">GPDR 责任就绪清单</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-azure">Azure 客户技术支持联系</a></label><br/>
                         <label><a target="_self" class="mscom-link" href="https://support.office.com/article/contact-support-for-business-products-admin-help-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b">Office 客户技术支持联系</a></label><br/>
-
                     </div>
                 </div>
             </div>

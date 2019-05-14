@@ -111,16 +111,12 @@ layout: TrustCenterPage
                      <li>Allocates infrastructure resources to tenant workloads and manages unidirectional communications from the host to VMs.</li>
                   Azure storage security and encryption best practices   <li>Uses the Azure hypervisor to enforce memory and process separation between VMs and securely route network traffic to guest OS tenants. Azure also implements isolation for tenants, storage, and virtual networks.</li>
                   </ul>
-
                   <P><b>Network Security Groups (NSG)</b></P>
                   <ul style="list-style-type:disc">
                      <li>Control traffic to VM instances.</li>
                      <li>NSGs, user-defined routing, IP forwarding, forced tunneling, and endpoint ACLs help to secure communications on Azure Virtual Networks</li>
                      <li>Azure implements packet-filtering firewalls on all host and guest VMs by default.</br><a href="https://www.azure.cn/documentation/articles/virtual-networks-nsg">Learn more about Azure storage security and encryption best practices Network Security Groups (NSG)</a></li>
                   </ul>
-
-
-                  
                   <p><span><strong>Compliance</strong> – We comply with both international and industry-specific compliance standards and participate in rigorous third-party audits, which verify our security controls.</span></p>
                   <p><span><strong>Security Incident and Abuse Reporting</strong> – To report suspected security issues or abuse of Azure, please contact Azure Customer Support.</span></p>
                   <p><a href="../security/penetrationtesting.html" style="font-weight:500">Penetration testing</a> – We conduct regular penetration testing to improve Azure security controls and processes.</p>

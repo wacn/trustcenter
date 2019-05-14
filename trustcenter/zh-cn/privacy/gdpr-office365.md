@@ -24,7 +24,6 @@ layout: TrustCenterPageCN
                                             <ul bi:type="list" class="headerCaption subpageHeaderCaption">
                                                 <li class="box-title">
                                                     <h3 class="box-title" bi:type="title" bi:title="t1" style="color: #FFFFFF;">世纪互联运营的 Office 365 为 GDPR 合规提供支持的信息</p></h3>
-
                                                 </li>
                                                 <li class="box-actions box-description"><a target="_self" class="mscom-link" href=""></a></li>
                                             </ul>
@@ -54,15 +53,12 @@ layout: TrustCenterPageCN
             <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
                 <h4 id="Data-Subject-equests-DSR-for-GDPR">GDPR 数据主体请求（DSR） </h4>
                 <p>GDPR 授予个人（或数据主体）与处理个人数据相关的某些权限，包括有权更正不准确数据、删除数据或限制数据处理、接收数据，以及满足将数据传输给另一个控制者的请求。下面介绍了 GDPR 要求控制者（您）和处理者 (世纪互联) 怎样响应这些请求，以及世纪互联运营的云服务如何助力您响应数据主体请求。 </p>
-                <p>租户管理员可以代表整个企业用户提出下列数据请求。</p>
-                
+                <p>租户管理员可以代表整个企业用户提出下列数据请求。</p>               
                 <p id="forget-user-data"><strong>删除用户数据</strong></p>
                 <p>使用 Azure Active Directory 管理中心，租户管理员可以从 Azure Active Directory 和相关服务中永久删除数据主体的个人数据。 <a href="https://portal.azure.cn/#blade/Microsoft_AAD_IAM/UserManagementMenuBlade/All users/menuId/">– AZURE AD ADMIN CENTER</a>.</p>
-
                 <p id="export-system-generated-logs"><strong>系统生成日志</strong></p>
                 <p>由世纪互联运营的 Office 365 服务所产生的系统生成日志，租户管理员可使用 <a href="https://aka.ms/MicrosoftGDPRChina">Microsoft Azure Portal operated by 21Vianet</a> 导出数据日志。</p>
                 <p>请注意：世纪互联运营的 Office 365 云服务租户管理员提交数据主体生成系统日志请求之前，需要事先创建世纪互联运营的 Azure 订阅服务。请参阅<a href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/media/documentation/sign-up-the-1RMB-trial-with-a-Gallatin-tenant.pdf">详细步骤</a>完成创建世纪互联运营的 Azure 订阅服务。如果您有任何疑问，请联系世纪互联技术客服，客服电话：+86 400 0890 365，或点击 <a href="//wacnppe.blob.core.chinacloudapi.cn/marketing-resource/media/documentation/GDPR-Web-Submission_Guidance_Office365.pdf">这里</a> 创建 DSR 支持工单。</p>
-
                 <p id="export-user-generated-data"><strong>导出用户产生的数据</strong></p>
                 <p>用户产生的数据可以分别通过 Sharepoint Online、邮箱搜寻或是应用软件内的功能导出</p>
                 <ul>
