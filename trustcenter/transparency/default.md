@@ -76,7 +76,7 @@ layout: TrustCenterPage
                    <ul>
                       <li>21Vianet personnel adhere to stringent privacy practices to safeguard Customer Data. </li>
                       <li>21Vianet imposes strict requirements around legal demands for Customer Data. </li>
-                      <li>21Vianet does not control or limit the locations in mainland China from which customers or their end users may access Customer Data. </li>
+                      <li>21Vianet does not control or limit the locations in China from which customers or their end users may access Customer Data. </li>
                    </ul>
                    <p>21Vianet offers clear policies and guidelines that cover who can access your Azure, Office 365 and Power BI Customer Data and when. The operational processes and controls that govern access to Customer Data in Azure, Office 365 and Power BI are rigorously maintained and regularly verified by accredited audit firms.</p>
                    <ul>

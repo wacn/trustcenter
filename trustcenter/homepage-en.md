@@ -132,11 +132,11 @@ layout: TrustCenterPage
          <div class="row-fluid grid-container mscom-grid-container" data-view4="1" data-view3="1" data-view2="1" data-view1="1" data-cols="1">
             <div class="span bp0-col-1-1 bp1-col-1-1 bp2-col-1-1 bp3-col-1-1">
                <br />
-               <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet are separate instances of cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure, Office 365 and Power BI technology that powers Microsoft's global cloud service with comparable service levels to customers. 
+               <p>Microsoft Azure, Office 365 and Power BI operated by 21Vianet are separate instances of cloud services located in China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure, Office 365 and Power BI technology that powers Microsoft's global cloud service with comparable service levels to customers. 
                </p>
                <p>As a customer of Microsoft Azure, Office 365 and Power BI operated by 21Vianet, you get:
                </p>
-               <p>•	A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.
+               <p>•	A cloud service hosted in datacenters exclusively in China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.
                </p> 
                </p> 
                <p>• Powered by world-class Azure, Office 365 and Power BI technology built on Microsoft's extensive experience with online services and used by enterprise customers around the world. 

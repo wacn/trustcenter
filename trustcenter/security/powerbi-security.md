@@ -65,7 +65,7 @@ layout: TrustCenterPage
                   <li>To learn more about the Azure Content Delivery Network (CDN), from which necessary files are downloaded,<a href="https://www.azure.cn/documentation/services/cdn/"> watch the Azure documentation CDN videos.</a></li>
                </ul>
                <label id="infrastructure_Secure">Secure infrastructure</label>
-               <p>Because Power BI operated by 21Vianet is built on Azure, it employs Azure infrastructure security, which relies on best security practices and technologies to protect Customer Data as it travels within datacenters located exclusively in mainland China and across the Internet. </p>
+               <p>Because Power BI operated by 21Vianet is built on Azure, it employs Azure infrastructure security, which relies on best security practices and technologies to protect Customer Data as it travels within datacenters located exclusively in China and across the Internet. </p>
                <p style="font-szie:20px">Architecture</p>
                <p>The Power BI architecture is designed to help protect your data. Power BI is deployed in datacenters around the world, and each deployment consists of two clusters:
                <ul style="list-style-type:disc">
@@ -76,7 +76,7 @@ layout: TrustCenterPage
                <p style="font-szie:20px">Threat management</p>
                <p>The <a href="../security/threatmanagement.html">Azure multipronged threat management </a>approach protects Power BI operated by 21Vianet by using intrusion detection, DDoS attack prevention, penetration testing, data analytics, and machine learning to constantly strengthen its defense and reduce risks.</p>
                <p style="font-szie:20px">Physical security</p>
-               <p>Power BI operated by 21Vianet is physically and logically entirely isolated from Microsoft Cloud services in other regions of the world, which datacenter located in mainland China are protected by layers of defense-in-depth security that include perimeter fencing, video cameras, security personnel, secure entrances, and real-time communications networks, continuing from every area of the facility to each physical server unit.</p>
+               <p>Power BI operated by 21Vianet is physically and logically entirely isolated from Microsoft Cloud services in other regions of the world, which datacenter located in China are protected by layers of defense-in-depth security that include perimeter fencing, video cameras, security personnel, secure entrances, and real-time communications networks, continuing from every area of the facility to each physical server unit.</p>
                <label id="apps_and_data_Secure">Secure apps and data</label>
                <p>Customer Data transferred through the Power BI operated by 21Vianet Enterprise Gateway is encrypted. Uploaded Customer Data is typically sent to Azure Blob storage, and all metadata and artifacts for the system itself are stored in an Azure SQL database.</p>
                <p>The Power BI service handles Customer Data at rest (not currently being acted upon) and Customer Data in process (being actively accessed or updated by users or the service). Customer Data is divided into two categories: </p>

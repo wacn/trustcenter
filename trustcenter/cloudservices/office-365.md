@@ -51,11 +51,11 @@ layout: TrustCenterPage
          </div>
          <div id="ContentWrapper" data-cols="2" data-view1="1" data-view2="2" data-view3="2" data-view4="2" class="row-fluid subpageBody">
                 <div class="span bp0-col-1-1 bp2-col-2-1 bp3-col-2-1 bp1-col-2-2">
-                    <p>Office 365 operated by 21Vianet is a separate instance of Microsoft’s Office 365 cloud services located in mainland China and independently operated and sold by <a target="_self" class="mscom-link" href="http://www.ch.21vianet.com/">Shanghai Blue Cloud Technology Co., Ltd. (“21Vianet”)</a>, a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. It is based on the same Office 365 technology that powers Microsoft’s global Office 365 services with comparable service levels to customers.</p>
+                    <p>Office 365 operated by 21Vianet is a separate instance of Microsoft’s Office 365 cloud services located in China and independently operated and sold by <a target="_self" class="mscom-link" href="http://www.ch.21vianet.com/">Shanghai Blue Cloud Technology Co., Ltd. (“21Vianet”)</a>, a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. It is based on the same Office 365 technology that powers Microsoft’s global Office 365 services with comparable service levels to customers.</p>
                     <p>Office 365 operated by 21Vianet provides online productivity and collaboration solutions. 21Vianet offers trusted Office 365 services that helps enterprises expand their businesses and maintain compliance with industry requirements.</p>
                     <p>As a customer of Office 365 operated by 21Vianet, you get </p>
                     <ul>
-                        <li>A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.</li>
+                        <li>A cloud service hosted in datacenters exclusively in China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.</li>
                         <li>Powered by world-class Office 365 technology built on Microsoft’s extensive experience with online services and used by customers around the world. </li>
                     </ul>
                     <p>We recognize that as an Office 365 customer, you have entrusted us to help protect your Customer Data. We value this trust, and the privacy and security of your Customer Data is one of our top concerns. We strive to take a leadership role when it comes to security, privacy, compliance practices and transparent. </p>

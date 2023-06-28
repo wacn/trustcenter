@@ -55,13 +55,13 @@ layout: TrustCenterPage
                 <div class="content-faq">
                     <label>What role does Microsoft play in Microsoft Azure and Office 365 operated by 21Vianet?</label>
                     <div class="content-faq-footer">
-                        <p>Microsoft Azure and Office 365 operated by 21Vianet are separate instances of public cloud services located in mainland China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure and Office 365 technology that powers Microsoft's global cloud service with the same service levels to customers.</p>
+                        <p>Microsoft Azure and Office 365 operated by 21Vianet are separate instances of public cloud services located in China and independently operated and sold by Shanghai Blue Cloud Technology Co., Ltd. ("21Vianet"), a wholly owned subsidiary of Beijing 21Vianet Broadband Data Center Co., Ltd. The services are based on the same Azure and Office 365 technology that powers Microsoft's global cloud service with the same service levels to customers.</p>
                         <p>As a customer of Microsoft Azure and Office 365 operated by 21Vianet, you get:</p>
                         <ul>
-                            <li>A cloud service hosted in datacenters exclusively in mainland China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.</li>
+                            <li>A cloud service hosted in datacenters exclusively in China and operated independently by 21Vianet, a leading Chinese Internet datacenter provider.</li>
                             <li>Powered by world-class technology built on Microsoft's extensive experience with online services and used by enterprise customers around the world.</li>
                         </ul>
-                        <p>Microsoft has licensed Azure and Office 365 technology to 21Vianet but 21Vianet is responsible for operating these services in mainland China.</p>
+                        <p>Microsoft has licensed Azure and Office 365 technology to 21Vianet but 21Vianet is responsible for operating these services in China.</p>
                     </div>
                 </div>
                 <div class="content-faq">
@@ -86,7 +86,7 @@ layout: TrustCenterPage
                 <div class="content-faq">
                     <label>Where is my Customer Data stored? Will 21Vianet share it with other companies?</label>
                     <div class="content-faq-footer">
-                        <p>Customer Data will be stored only in data centers located in mainland China. In limited circumstances, 21Vianet may authorize one of its affiliates, suppliers or subcontractors located outside China to access Customer Data when necessary to troubleshoot a customer support incident or address a technical issue. We carefully monitor such access and terminate the access when the issue is resolved.</p>
+                        <p>Customer Data will be stored only in data centers located in China. In limited circumstances, 21Vianet may authorize one of its affiliates, suppliers or subcontractors located outside China to access Customer Data when necessary to troubleshoot a customer support incident or address a technical issue. We carefully monitor such access and terminate the access when the issue is resolved.</p>
                     </div>
                 </div>
                 <div class="content-faq">
@@ -111,7 +111,7 @@ layout: TrustCenterPage
                 <div class="content-faq">
                     <label>Does 21Vianet have access to the Azure and Office 365 services that Microsoft operates globally outside China?</label>
                     <div class="content-faq-footer">
-                        <p>No. Microsoft Azure and Office 365 operated by 21Vianet in mainland China is physically and logically separate from the services operated by Microsoft in the rest of the world. Just as Microsoft does not have access to Customer Data in 21Vianet's services (except to assist 21Vianet as detailed above), 21Vianet does not have access to Customer Data in Microsoft's services outside mainland China. For clarity, the data center in Hong Kong is part of the global services operated by Microsoft, not the 21Vianet services operated in mainland China.</p>
+                        <p>No. Microsoft Azure and Office 365 operated by 21Vianet in China is physically and logically separate from the services operated by Microsoft in the rest of the world. Just as Microsoft does not have access to Customer Data in 21Vianet's services (except to assist 21Vianet as detailed above), 21Vianet does not have access to Customer Data in Microsoft's services outside China. For clarity, the data center in Hong Kong Special Administrative Region is part of the global services operated by Microsoft, not the 21Vianet services operated in China.</p>
                     </div>
                 </div>
                 <div class="content-faq">
@@ -135,7 +135,7 @@ layout: TrustCenterPage
                 <div class="content-faq">
                     <label>Is 21Vianet transparent with the way it uses and accesses our Customer Data?</label>
                         <div class="content-faq-footer">
-                        <p>We host your Customer Data in datacenter(s) located in the People's Republic of China, excluding Hong Kong, Taiwan, and Macau. The services also share other important aspects of data storage, such as who can access your Customer Data, and what we do with that information internally. 21Vianet’s position on access to your Customer Data is:</p>
+                        <p>We host your Customer Data in datacenter(s) located in the People's Republic of China, excluding Hong Kong SAR, Taiwan, and Macau Special Administrative Region. The services also share other important aspects of data storage, such as who can access your Customer Data, and what we do with that information internally. 21Vianet’s position on access to your Customer Data is:</p>
                         <ul>
                             <li>The services give you access to your Customer Data.</li>
                             <li>Access to Customer Data is strictly controlled and logged, and sample audits are performed by us to attest that access is only for appropriate business purposes.</li>

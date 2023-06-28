@@ -60,7 +60,7 @@ layout: TrustCenterPage
                 </ul>
                 <label id="customer_data_is_located">You know where your Customer Data is located</label>
                 <p>Knowing the location of Customer Data is important for customers operating in regulated industries with data protection regulations. </p>
-                <p>To that end, 21Vianet operates Microsoft Azure, Office 365, Power BI and Microsoft Dynamics 365 in datacenters located exclusively in mainland China. As a customer for Microsoft Azure, Office 365, Power BI and Microsoft Dynamics 365 operated by 21Vianet, you will know the location where your Customer Data is stored. 
+                <p>To that end, 21Vianet operates Microsoft Azure, Office 365, Power BI and Microsoft Dynamics 365 in datacenters located exclusively in China. As a customer for Microsoft Azure, Office 365, Power BI and Microsoft Dynamics 365 operated by 21Vianet, you will know the location where your Customer Data is stored. 
                 <br/><a target="_self" class="mscom-link withArrow" href="../transparency/you_know_where.html"><img src="https://c.s-microsoft.com/en-us/CMSImages/Arrow-nobg.png?version=4af37876-de78-d419-6f89-7890a74d4158" class="mscom-image" alt="Arrow | Navigate To Encryption" width="21" height="19">Learn more</a>
                 </p>
                 <label id="you_control_your_data" name="you_control_your_data">You control access to your Customer Data</label>
